@@ -1,0 +1,74 @@
+@@TITLE@@
+T Wave Inversion (Inverted T Waves) on ECG: Causes & Meaning
+@@DESC@@
+Inverted T waves can be normal in some leads and important in others. Learn where T wave inversion is expected, which patterns matter, and how it is assessed.
+@@H1@@
+T Wave Inversion: What It Means on an ECG
+@@CATEGORY@@
+Intervals & Waves | https://www.ecgmeans.com/ecg-intervals-waves/
+@@QUICK@@
+Depends on context
+@@LEDE@@
+T wave inversion means the T wave points downward instead of upward. In some leads (aVR, V1, and often III) that is completely normal. In others it can be a normal variant, a sign of strain from a thick ventricle, a bundle branch block effect, or evidence of reduced blood supply or a recent heart attack. Which leads are involved, and whether it is new, decide its meaning.
+@@BODY@@
+## What "t wave inversion" means
+
+The T wave represents ventricular recovery. It normally points the same way as the QRS in most leads. When recovery is disturbed — by ischaemia, strain, inflammation or an abnormal activation sequence — the T wave flips. The pattern of leads involved maps onto the region of the heart affected.
+
+Deep, symmetrical, arrowhead-shaped inversions in neighbouring leads are the ones that concern cardiologists, particularly in V2–V4 (Wellens pattern) after chest pain.
+
+## What it looks like on the ECG
+
+A T wave dipping below the baseline. Normal in aVR and V1; commonly normal in III and V2 in young people. Otherwise assess by lead group: anterior (V1–V4), lateral (I, aVL, V5–V6), inferior (II, III, aVF).
+
+## Common causes
+
+- Normal variant (aVR, V1, sometimes III, V2; persistent juvenile pattern)
+- Left or right ventricular hypertrophy with strain
+- Bundle branch block, paced rhythm, WPW
+- Ischaemia or recent non-ST-elevation heart attack
+- Pulmonary embolism (V1–V4 with right heart strain)
+- Myocarditis, pericarditis
+- Hypertrophic cardiomyopathy
+- Brain haemorrhage, digoxin, low potassium
+
+## Should you worry?
+
+Depends on context
+
+Isolated inversion in a single lead, or in leads where it is expected, is usually benign. New inversion in a group of leads, especially with chest pain or breathlessness, needs same-day assessment. Deep inversion in the lateral leads of a young person should prompt an echocardiogram to look for cardiomyopathy.
+
+**Get urgent help** if this finding comes with chest pain or pressure, severe breathlessness, fainting, or a fast heartbeat that will not settle. Those symptoms matter more than any single ECG phrase.
+
+## What usually happens next
+
+1. Comparison with previous ECGs
+2. Troponin blood test if there has been chest pain
+3. Echocardiogram for unexplained or lateral inversion
+4. Stress test or angiography if ischaemia is suspected
+
+### Questions to ask your doctor
+
+- Which leads show the inversion, and is it new?
+- Does the pattern suggest strain, ischaemia or a variant?
+- Do I need an echocardiogram?
+@@FAQ@@
+Q: Is T wave inversion always abnormal?
+A: No. It is normal in aVR and V1 and frequently in lead III and V2.
+Q: Can T wave inversion be caused by anxiety?
+A: Anxiety and hyperventilation can flatten T waves or cause minor inversion, but deep inversion in multiple leads should not be attributed to anxiety without assessment.
+Q: Does inverted T wave mean heart attack?
+A: It can be a sign of ischaemia or a recent heart attack, but it has many other causes; the clinical context and troponin test decide.
+@@RELATED@@
+Nonspecific T Wave Abnormality: What It Means | https://www.ecgmeans.com/nonspecific-t-wave-abnormality/ | Depends on context
+Left Bundle Branch Block: What It Means | https://www.ecgmeans.com/left-bundle-branch-block/ | Needs clinician review
+QT and QTc Interval: Normal Range and Prolonged QT | https://www.ecgmeans.com/qt-interval/ | Needs clinician review
+Abnormal ECG: What It Means on Your Report | https://www.ecgmeans.com/abnormal-ecg/ | Depends on context
+Anterior Infarct, Age Undetermined: ECG Meaning | https://www.ecgmeans.com/anterior-infarct-age-undetermined/ | Needs clinician review
+Peaked T Waves: What They Mean on an ECG | https://www.ecgmeans.com/peaked-t-waves/ | Depends on context
+@@ALSO@@
+inverted t wave, inverted t waves, t wave inversion ecg, t wave inversion causes
+@@SOURCES@@
+ECG T Wave | https://www.ncbi.nlm.nih.gov/books/NBK538264/
+T wave | https://litfl.com/t-wave-ecg-library/
+@@END@@

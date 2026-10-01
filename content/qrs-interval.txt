@@ -1,0 +1,71 @@
+@@TITLE@@
+QRS Interval: Normal Range and What a Wide QRS Means
+@@DESC@@
+The QRS interval shows how long the ventricles take to activate. Normal is under 120 ms. Learn what a wide QRS means and the main reasons it happens.
+@@H1@@
+QRS Interval: Normal Range and What a Wide QRS Means
+@@CATEGORY@@
+Intervals & Waves | https://www.ecgmeans.com/ecg-intervals-waves/
+@@QUICK@@
+Normal is under 120 ms — less than three small squares — and many cardiologists prefer under 100–110 ms. A wide QRS means the impulse took a slow route: usually a bundle branch block, a beat starting in the ventricle, a pacemaker, or a drug or electrolyte effect.
+@@LEDE@@
+The QRS interval (or duration) is how long it takes the electrical impulse to spread through both ventricles. Normal is under 120 ms — less than three small squares — and many cardiologists prefer under 100–110 ms. A wide QRS means the impulse took a slow route: usually a bundle branch block, a beat starting in the ventricle, a pacemaker, or a drug or electrolyte effect.
+@@BODY@@
+## What "qrs interval normal range" means
+
+The ventricles are wired with a fast-conducting network (the His-Purkinje system) so that they contract almost simultaneously. If the impulse uses that network, the QRS is narrow. If part of the network is blocked, or the beat originates in ventricular muscle, the impulse spreads cell-to-cell and the QRS widens.
+
+Values of 100–119 ms are sometimes labelled intraventricular conduction delay (IVCD) or incomplete bundle branch block.
+
+## What it looks like on the ECG
+
+Measured from the start of the Q (or R) wave to the end of the S wave. Narrow: under 3 small squares. Wide: 3 small squares or more, often with a notched or bizarre shape.
+
+## Common causes
+
+- Left or right bundle branch block
+- Ventricular escape or ectopic beats, ventricular tachycardia
+- Paced rhythm
+- High potassium
+- Sodium-channel blocking drugs (flecainide, tricyclic antidepressants, some others)
+- WPW pre-excitation
+- Left ventricular hypertrophy (mild widening)
+
+## Should you worry?
+
+A wide QRS always has a reason and the reason determines the importance. A stable bundle branch block found by chance is often benign; a new wide QRS with a fast rhythm, high potassium or a drug overdose is an emergency.
+
+**Get urgent help** if this finding comes with chest pain or pressure, severe breathlessness, fainting, or a fast heartbeat that will not settle. Those symptoms matter more than any single ECG phrase.
+
+## What usually happens next
+
+1. Identify the pattern — bundle branch block, paced, ventricular
+2. Electrolytes and medication review
+3. Echocardiogram for new bundle branch block
+4. Urgent treatment if the cause is hyperkalaemia or drug toxicity
+
+### Questions to ask your doctor
+
+- What is my QRS duration?
+- Which pattern does it fit?
+- Is this new?
+@@FAQ@@
+Q: What is a normal QRS interval?
+A: Under 120 ms; ideally under 100–110 ms.
+Q: Is a wide QRS dangerous?
+A: It depends on the cause. Long-standing bundle branch block is usually not; a new wide-complex tachycardia is.
+Q: What does narrow QRS mean?
+A: That the ventricles were activated through the normal fast pathway — the impulse came from above the ventricles.
+@@RELATED@@
+Left Bundle Branch Block: What It Means | https://www.ecgmeans.com/left-bundle-branch-block/ | Needs clinician review
+Right Bundle Branch Block: What It Means | https://www.ecgmeans.com/right-bundle-branch-block/ | Usually harmless
+PR Interval: Normal Range and What Short or Long Means | https://www.ecgmeans.com/pr-interval/ | Depends on context
+QT and QTc Interval: Normal Range and Prolonged QT | https://www.ecgmeans.com/qt-interval/ | Needs clinician review
+Idioventricular Rhythm: What It Means | https://www.ecgmeans.com/idioventricular-rhythm/ | Seek prompt care
+Third Degree (Complete) Heart Block: What It Means | https://www.ecgmeans.com/third-degree-av-block/ | Seek prompt care
+@@ALSO@@
+qrs interval, normal qrs interval, wide qrs, qrs duration
+@@SOURCES@@
+QRS Interval | https://litfl.com/qrs-interval-ecg-library/
+Electrocardiogram | https://www.ncbi.nlm.nih.gov/books/NBK549803/
+@@END@@

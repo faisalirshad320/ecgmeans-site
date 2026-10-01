@@ -1,0 +1,104 @@
+@@TITLE@@
+PR Interval Normal Range: Short & Prolonged Explained
+@@DESC@@
+The PR interval measures conduction from atria to ventricles. Normal is 120–200 ms. See what a short or prolonged PR means and the common causes of each.
+@@H1@@
+PR Interval: Normal Range and What Short or Long Means
+@@CATEGORY@@
+Intervals & Waves | https://www.ecgmeans.com/ecg-intervals-waves/
+@@QUICK@@
+A normal PR interval is 120–200 ms (0.12–0.20 seconds), or 3–5 small squares on standard ECG paper.
+@@LEDE@@
+A normal PR interval is **120–200 ms** (0.12–0.20 seconds), or 3–5 small squares on standard ECG paper. It is the time from the start of the P wave to the start of the QRS — how long the impulse takes to travel from the atria, through the AV node, to the ventricles. Longer than 200 ms is first degree AV block; shorter than 120 ms may mean an accessory pathway or a junctional origin.
+@@BODY@@
+## What "pr interval normal range" means
+
+Most of the PR interval is the deliberate pause at the AV node, which gives the atria time to empty into the ventricles. Anything that slows the node lengthens the PR: high vagal tone, age, beta-blockers, calcium-channel blockers and digoxin. Anything that bypasses it shortens the PR — most notably an extra conducting strand (accessory pathway), as in Wolff-Parkinson-White.
+
+Your ECG report prints the PR as a number in ms near the top of the page. The machine measures it automatically and reasonably reliably.
+
+## What it looks like on the ECG
+
+The time from the start of the P wave to the start of the QRS complex: the P wave plus the flat PR segment that follows it. Normal: 3–5 small squares. Prolonged: more than one large square. Short: less than 3 small squares.
+
+## Common causes
+
+- Prolonged: athletic vagal tone, ageing, rate-slowing medicines, inferior infarct, myocarditis
+- Short: WPW or other accessory pathway, junctional rhythm, some normal variants, glycogen storage disease (rare)
+
+## Should you worry?
+
+Depends on context
+
+A mildly prolonged PR with no symptoms is benign. A short PR with a delta wave (WPW) or with episodes of racing heart needs cardiology review. A very long PR (over 300 ms) or one that is progressively lengthening also deserves a closer look.
+
+**Get urgent help** if this finding comes with chest pain or pressure, severe breathlessness, fainting, or a fast heartbeat that will not settle. Those symptoms matter more than any single ECG phrase.
+
+## What usually happens next
+
+1. None for a mildly prolonged PR without symptoms
+2. Medication review if the PR is long
+3. Cardiology referral for WPW pattern, especially with palpitations
+
+### Questions to ask your doctor
+
+- What is my PR interval in ms?
+- Is there a delta wave?
+- Is it stable compared with earlier ECGs?
+
+## How do you measure the PR interval in small boxes?
+
+Count the small boxes from the very start of the P wave to the very start of the QRS complex, then multiply by 40: on standard ECG paper running at 25 mm/s, each small box is 40 ms (0.04 s) and each large box of five small boxes is 200 ms (0.20 s).
+
+- 3 small boxes = 120 ms (0.12 s), the lower limit of normal.
+- 4 small boxes = 160 ms (0.16 s), the middle of the normal range.
+- 5 small boxes, or one large box = 200 ms (0.20 s), the upper limit of normal.
+
+Two common mistakes: the PR interval includes the P wave itself, not only the flat line after it (that flat part is the PR segment), and it should be measured in a lead where the start of the P wave is easy to see. In normal sinus rhythm the PR interval stays the same from beat to beat, so a PR that changes between beats is worth pointing out to a clinician.
+
+## What is a normal PR interval in children?
+
+Children have shorter PR intervals than adults, so a PR under 120 ms can be normal in a child, and the upper limit of normal rises with age from about 110–120 ms in newborns to about 190 ms in teenagers. Approximate upper limits from a children's hospital reference chart:
+
+- Newborns (first month): about 110–120 ms
+- 1 month to 3 years: about 140–150 ms
+- 3 to 12 years: about 160–180 ms
+- 12 to 16 years: about 180–190 ms
+- Adults: 200 ms, occasionally up to about 210 ms at slow heart rates
+
+The PR interval also shortens as the heart rate speeds up, so a child's ECG is read against charts for both age and heart rate, and reference ranges vary slightly between sources. A long PR in a child can be a normal variant, but it is also seen with myocarditis, some medicines, congenital heart disease, high potassium and rheumatic fever. A short PR should prompt a check for the delta wave of Wolff-Parkinson-White (WPW).
+
+## What PR interval is too long or dangerous?
+
+A PR interval over 200 ms is first degree AV block, which is usually harmless on its own; a PR over 300 ms is called marked first degree AV block and is the point at which symptoms become more likely.
+
+- **201–300 ms:** generally well tolerated and common in fit young people, because of high vagal tone. It has been found in more than 1 in 10 young athletes. Usually no treatment is needed.
+- **Over 300 ms:** the upper and lower chambers can fall out of step, which may cause tiredness, breathlessness or light-headedness, similar to "pacemaker syndrome".
+- **A PR that lengthens beat by beat until a beat is dropped:** this is second degree AV block, Mobitz type I (Wenckebach). It is usually benign, but it is a different diagnosis from a simple long PR.
+
+Besides medicines and vagal tone, doctors look for treatable causes of a long PR, including low potassium or magnesium and infections such as Lyme disease, rheumatic fever and endocarditis. The outlook for isolated first degree AV block is generally good, but it is linked to a higher long-term risk of atrial fibrillation and of progressing to more advanced heart block, so it is worth comparing with future ECGs. Seek urgent care if a long PR comes with fainting, chest pain or a very slow pulse.
+@@FAQ@@
+Q: What is a normal PR interval?
+A: 120–200 milliseconds, or 3–5 small squares on standard paper.
+Q: What does a prolonged PR interval mean?
+A: First degree AV block — a slower-than-average passage through the AV node, usually harmless.
+Q: What does a short PR interval mean?
+A: The impulse is reaching the ventricles early, most importantly via an accessory pathway. If there is also a slurred upstroke to the QRS (delta wave), it is Wolff-Parkinson-White pattern.
+@@RELATED@@
+Sinus Rhythm With 1st Degree AV Block: What It Means | https://www.ecgmeans.com/first-degree-av-block/ | Usually harmless
+Short PR Interval: What It Means | https://www.ecgmeans.com/short-pr-interval/ | Depends on context
+QRS Interval: Normal Range and What a Wide QRS Means | https://www.ecgmeans.com/qrs-interval/ | Depends on context
+QT and QTc Interval: Normal Range and Prolonged QT | https://www.ecgmeans.com/qt-interval/ | Needs clinician review
+Sinus Rhythm: What It Means on Your ECG | https://www.ecgmeans.com/sinus-rhythm/ | Usually harmless
+@@ALSO@@
+pr interval, normal pr interval, pr interval ecg, prolonged pr interval
+@@SOURCES@@
+PR Interval | https://litfl.com/pr-interval-ecg-library/
+Electrocardiogram | https://www.ncbi.nlm.nih.gov/books/NBK549803/
+ECG Rate Interpretation | https://litfl.com/ecg-rate-interpretation/
+First-Degree Heart Block | https://www.ncbi.nlm.nih.gov/books/NBK448164/
+AV Block: 2nd degree, Mobitz I (Wenckebach Phenomenon) | https://litfl.com/av-block-2nd-degree-mobitz-i-wenckebach-phenomenon/
+Normal paediatric ECG | https://litfl.com/normal-paediatric-ecg/
+Basic paediatric ECG interpretation (Clinical Practice Guidelines) | https://www.rch.org.au/clinicalguide/guideline_index/Basic_Paediatric_ECG_interpretation/
+Normal Duration Times - Cardiology Teaching Package | https://www.nottingham.ac.uk/nursing/practice/resources/cardiology/function/normal_duration.php
+@@END@@

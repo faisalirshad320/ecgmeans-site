@@ -1,0 +1,73 @@
+@@TITLE@@
+Septal Infarct, Age Undetermined: ECG Meaning Explained
+@@DESC@@
+'Septal infarct, age undetermined' is one of the most common false alarms on ECG reports. Learn what the machine saw, why it is often wrong, and how it is checked.
+@@H1@@
+Septal Infarct on an ECG: What It Means
+@@CATEGORY@@
+ECG Report Phrases | https://www.ecgmeans.com/ecg-report-phrases/
+@@QUICK@@
+Depends on context
+@@LEDE@@
+"Septal infarct" means the ECG software saw a pattern in chest leads V1–V2 that can be left behind by a past heart attack affecting the septum, the wall between the ventricles. It is one of the most frequently over-called findings. Misplaced chest electrodes and normal variation produce the same pattern in people who have never had a heart attack.
+@@BODY@@
+## What "septal infarct" means
+
+When heart muscle dies it stops producing electrical signal. In the leads that look at that region, the normal small upward R wave disappears and a downward Q wave (or a QS complex) is left. The program looks for this in V1 and V2 and, if it finds it, prints septal infarct. "Age undetermined" means it cannot tell whether this happened last week or twenty years ago; "possible" or "cannot rule out" means the pattern is weak.
+
+The problem is that the R wave in V1–V2 is normally tiny. If the V1 and V2 electrodes are placed one rib space too high — which happens very often — the R wave can vanish on an entirely healthy heart. Thickened heart muscle, left bundle branch block, lung disease and chest shape can do the same.
+
+## What it looks like on the ECG
+
+In leads V1 and V2 the QRS is entirely downward (a QS complex) or starts with a Q wave, instead of the usual small upward r followed by a deep S.
+
+## Common causes
+
+- Chest leads V1–V2 placed too high (the most common explanation)
+- Normal variant, particularly in women and slim people
+- Left ventricular hypertrophy or left bundle branch block
+- Chronic lung disease such as emphysema
+- A genuine previous heart attack involving the septum
+
+## Should you worry?
+
+Depends on context
+
+If you have never had chest pain, have no risk factors and feel well, this line is more likely to be a false positive than a silent heart attack. It deserves more attention if you smoke, have diabetes, high blood pressure or high cholesterol, or have had episodes of unexplained chest discomfort or breathlessness.
+
+**Get urgent help** if this finding comes with chest pain or pressure, severe breathlessness, fainting, or a fast heartbeat that will not settle. Those symptoms matter more than any single ECG phrase.
+
+## What usually happens next
+
+1. A clinician reviews the tracing and often simply repeats it with careful electrode placement
+2. Comparison with old ECGs — an unchanged pattern over years is reassuring
+3. If doubt remains, an echocardiogram shows whether the septum moves normally
+4. A scarred septum moves poorly; a normally moving septum effectively rules out a significant old infarct
+
+### Questions to ask your doctor
+
+- Could this be lead placement? Can we repeat it?
+- Do I need an echocardiogram to settle it?
+- Does this change how we manage my risk factors?
+@@FAQ@@
+Q: Does septal infarct mean I had a heart attack?
+A: Not necessarily. It means the ECG pattern is compatible with one. In people without symptoms or risk factors it is frequently a false positive.
+Q: What does "age undetermined" mean?
+A: The software cannot date the finding. It is not saying anything is happening now; an evolving heart attack produces ST-segment changes and is reported very differently.
+Q: How is a septal infarct confirmed or ruled out?
+A: With an echocardiogram, or occasionally cardiac MRI, which show whether the septal wall is thinned or moving abnormally.
+@@RELATED@@
+Anterior Infarct, Age Undetermined: ECG Meaning | https://www.ecgmeans.com/anterior-infarct-age-undetermined/ | Needs clinician review
+Poor R Wave Progression: What It Means | https://www.ecgmeans.com/poor-r-wave-progression/ | Depends on context
+Abnormal ECG: What It Means on Your Report | https://www.ecgmeans.com/abnormal-ecg/ | Depends on context
+Left Bundle Branch Block: What It Means | https://www.ecgmeans.com/left-bundle-branch-block/ | Needs clinician review
+T Wave Inversion: What It Means on an ECG | https://www.ecgmeans.com/t-wave-inversion/ | Depends on context
+Inferior Infarct, Age Undetermined: ECG Meaning | https://www.ecgmeans.com/inferior-infarct-age-undetermined/ | Needs clinician review
+Anteroseptal Infarct, Age Undetermined: ECG Meaning | https://www.ecgmeans.com/anteroseptal-infarct/ | Needs clinician review
+@@ALSO@@
+septal infarct age undetermined, possible septal infarct, cannot rule out septal infarct
+@@SOURCES@@
+Septal Infarct | https://my.clevelandclinic.org/health/diseases/septal-infarct
+I don't think I had a heart attack, but my EKG suggests it. Please explain the result. | https://www.texasheart.org/heart-health/heart-information-center/frequently-asked-patient-questions/i-dont-think-i-had-a-heart-attack-but-my-ekg-suggests-it-please-explain-the-result/
+Q Wave | https://litfl.com/q-wave-ecg-library/
+@@END@@

@@ -1,0 +1,70 @@
+@@TITLE@@
+Right Bundle Branch Block (RBBB & Incomplete RBBB) Explained
+@@DESC@@
+Right bundle branch block (complete or incomplete) is a common ECG finding. What the rSR' pattern means and why incomplete RBBB is usually a normal variant.
+@@H1@@
+Right Bundle Branch Block: What It Means
+@@CATEGORY@@
+Heart Blocks & Conduction | https://www.ecgmeans.com/heart-block-conduction/
+@@QUICK@@
+Usually harmless
+@@LEDE@@
+Right bundle branch block (RBBB) means the impulse is delayed in the right branch of the heart's wiring, so the right ventricle is activated a little late. The QRS widens and takes on an "M-shaped" rSR' pattern in lead V1. Incomplete RBBB (QRS 110–119 ms) is a common normal variant, particularly in young people; complete RBBB is usually harmless too but is worth checking once.
+@@BODY@@
+## What "right bundle branch block" means
+
+The right bundle is a long, thin structure and is easily delayed. When it is, the left ventricle fires normally and the right one follows slightly later, producing a second upstroke in V1 (the R') and a wide S wave in the lateral leads. Because the left ventricle — the main pumping chamber — is activated normally, RBBB rarely affects heart function.
+
+Incomplete RBBB is found in a few percent of healthy young adults and athletes. It reflects slight delay rather than true block.
+
+## What it looks like on the ECG
+
+A QRS of ≥120 ms (complete) or 110–119 ms (incomplete), an rSR' pattern in V1–V2, and broad, slurred S waves in leads I, V5 and V6.
+
+## Common causes
+
+- Normal variant (especially incomplete RBBB)
+- Ageing of the conduction system
+- Right heart strain — pulmonary embolism, lung disease, pulmonary hypertension
+- Atrial septal defect and other congenital conditions
+- Coronary disease or previous heart attack
+- Myocarditis, cardiomyopathy
+
+## Should you worry?
+
+Usually harmless
+
+Incomplete RBBB without symptoms needs nothing. Complete RBBB found by chance in a well person is also usually benign, though a one-off echocardiogram is reasonable. A new RBBB with breathlessness or chest pain, or RBBB combined with a fascicular block or a long PR interval, deserves prompt assessment.
+
+**Get urgent help** if this finding comes with chest pain or pressure, severe breathlessness, fainting, or a fast heartbeat that will not settle. Those symptoms matter more than any single ECG phrase.
+
+## What usually happens next
+
+1. Often nothing for incomplete RBBB
+2. One-off echocardiogram for new complete RBBB
+3. Further tests only if symptoms or other findings
+
+### Questions to ask your doctor
+
+- Is this complete or incomplete?
+- Is it new?
+- Is an echocardiogram needed?
+@@FAQ@@
+Q: Is incomplete right bundle branch block serious?
+A: No. It is a normal variant in the great majority and does not restrict activity.
+Q: Can RBBB cause symptoms?
+A: Not by itself. Symptoms come from an underlying cause, if there is one.
+Q: Does RBBB turn into heart block?
+A: Isolated RBBB rarely progresses. The risk is higher when it is combined with left-sided fascicular block (bifascicular block).
+@@RELATED@@
+Left Bundle Branch Block: What It Means | https://www.ecgmeans.com/left-bundle-branch-block/ | Needs clinician review
+Left Anterior Fascicular Block: What It Means | https://www.ecgmeans.com/left-anterior-fascicular-block/ | Usually harmless
+QRS Interval: Normal Range and What a Wide QRS Means | https://www.ecgmeans.com/qrs-interval/ | Depends on context
+Abnormal ECG: What It Means on Your Report | https://www.ecgmeans.com/abnormal-ecg/ | Depends on context
+Borderline ECG: What It Means | https://www.ecgmeans.com/borderline-ecg/ | Usually harmless
+@@ALSO@@
+rbbb, incomplete right bundle branch block, irbbb, rbbb ecg
+@@SOURCES@@
+Right Bundle Branch Block | https://my.clevelandclinic.org/health/diseases/21692-right-bundle-branch-block
+Right Bundle Branch Block | https://www.ncbi.nlm.nih.gov/books/NBK507872/
+@@END@@

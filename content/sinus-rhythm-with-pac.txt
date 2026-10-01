@@ -1,0 +1,72 @@
+@@TITLE@@
+Sinus Rhythm With PACs (Premature Atrial Complexes) Explained
+@@DESC@@
+'Sinus rhythm with PACs' means a normal rhythm with occasional early beats from the upper chambers. Learn why they happen, what they feel like and when they matter.
+@@H1@@
+Sinus Rhythm With PACs: What It Means
+@@CATEGORY@@
+Heart Rhythms | https://www.ecgmeans.com/heart-rhythms/
+@@QUICK@@
+Usually harmless
+@@LEDE@@
+"Sinus rhythm with PACs" means your underlying rhythm is normal, with occasional early beats arising from the upper chambers (premature atrial complexes, also called contractions). Almost everyone has some. They may be felt as a skipped beat or flutter and are harmless in the great majority of people.
+@@BODY@@
+## What "sinus rhythm with pac" means
+
+A PAC happens when a spot in the atria fires before the sinus node's next scheduled beat. The early impulse travels down the normal wiring, so the QRS looks normal; the sinus node then resets, giving a short pause before the next beat. That pause, and the stronger beat after it, is what people notice.
+
+24-hour monitoring finds PACs in most healthy adults, and they become more frequent with age.
+
+## What it looks like on the ECG
+
+A beat arriving earlier than expected, with a P wave that looks slightly different from the others, a normal narrow QRS, and then a brief pause.
+
+## Common causes
+
+- Normal finding
+- Caffeine, alcohol, nicotine
+- Stress, tiredness, poor sleep
+- Decongestants and asthma medication
+- Low potassium or magnesium
+- Overactive thyroid
+- High blood pressure or an enlarged left atrium
+
+## Should you worry?
+
+Occasional PACs need no treatment. Very frequent PACs — many hundreds or thousands a day — are associated with a higher chance of developing atrial fibrillation later, so they may prompt monitoring and attention to blood pressure, sleep apnoea and alcohol.
+
+**Get urgent help** if this finding comes with chest pain or pressure, severe breathlessness, fainting, or a fast heartbeat that will not settle. Those symptoms matter more than any single ECG phrase.
+
+## What usually happens next
+
+1. Usually reassurance
+2. Cutting back on caffeine and alcohol if they are troublesome
+3. Holter monitor if they are frequent or symptomatic
+4. Beta-blockers occasionally, purely for symptom relief
+
+### Questions to ask your doctor
+
+- How frequent were the PACs on my tracing?
+- Would a 24-hour monitor be useful?
+- Is there any sign of atrial fibrillation?
+@@FAQ@@
+Q: Are PACs dangerous?
+A: No, not in themselves.
+Q: What is the difference between a PAC and a PVC?
+A: A PAC starts in the upper chambers and has a narrow QRS; a PVC starts in the lower chambers and has a wide, odd-looking QRS.
+Q: Can PACs turn into atrial fibrillation?
+A: Very frequent PACs are a risk marker for it, but most people with PACs never develop atrial fibrillation.
+@@RELATED@@
+PVC vs PAC: What's the Difference? | https://www.ecgmeans.com/pvc-vs-pac/ | Usually harmless
+Sinus Rhythm: What It Means on Your ECG | https://www.ecgmeans.com/sinus-rhythm/ | Usually harmless
+Trigeminy: What It Means on an ECG | https://www.ecgmeans.com/trigeminy/ | Depends on context
+Possible Left Atrial Enlargement: ECG Meaning | https://www.ecgmeans.com/left-atrial-enlargement/ | Needs clinician review
+Sinus Rhythm With Sinus Arrhythmia: What It Means | https://www.ecgmeans.com/sinus-arrhythmia/ | Usually harmless
+Atrial Fibrillation: What It Means on an ECG | https://www.ecgmeans.com/atrial-fibrillation/ | Needs clinician review
+@@ALSO@@
+sinus rhythm with pacs, premature atrial complexes, sinus rhythm with premature atrial complexes, pac ecg
+@@SOURCES@@
+Premature Atrial Contractions (PACs) | https://my.clevelandclinic.org/health/diseases/21700-premature-atrial-contractions
+Premature Atrial Contractions | https://www.ncbi.nlm.nih.gov/sites/books/NBK559204/
+Premature Atrial Complex (PAC) | https://litfl.com/premature-atrial-complex-pac/
+@@END@@

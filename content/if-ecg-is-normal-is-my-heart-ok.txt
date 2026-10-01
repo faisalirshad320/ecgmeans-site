@@ -1,0 +1,65 @@
+@@TITLE@@
+If Your ECG Is Normal, Is Your Heart OK? What It Can Miss
+@@DESC@@
+A normal ECG is reassuring for rhythm and acute damage but cannot rule out every heart problem. Learn what a normal ECG does and doesn't tell you.
+@@H1@@
+If My ECG Is Normal, Is My Heart OK?
+@@CATEGORY@@
+ECG Basics | https://www.ecgmeans.com/ecg-basics/
+@@QUICK@@
+Usually harmless
+@@LEDE@@
+A normal ECG is reassuring: it makes an acute heart attack, a serious rhythm disturbance during the recording, and significant conduction disease unlikely. But it is a ten-second electrical snapshot. It cannot see blocked arteries that are not currently causing damage, mild valve disease, or a rhythm problem that comes and goes. Whether your heart is OK depends on what question is being asked.
+@@BODY@@
+## What "if ecg is normal, is my heart ok" means
+
+The ECG is very good at what it does — recording electrical activity at one moment. Most coronary artery disease produces no ECG change at rest; up to half of people with significant narrowings have a normal resting ECG. Palpitations that are not happening during the recording leave no trace.
+
+That is why doctors match the test to the question: a stress test or CT angiogram for blood supply, an echocardiogram for structure and valves, a Holter or event monitor for intermittent rhythm problems.
+
+## What it looks like on the ECG
+
+Sinus rhythm, normal intervals and axis, no ST or T abnormalities, no abnormal Q waves, and a verdict of Normal ECG.
+
+## Common causes
+
+- Things a normal ECG does not exclude: stable coronary artery disease, intermittent arrhythmia, mild to moderate valve disease, early cardiomyopathy, high blood pressure damage, heart failure with preserved ejection fraction
+
+## Should you worry?
+
+If you have no symptoms, a normal ECG plus a normal examination is good news. If you have exertional chest tightness, breathlessness, fainting or palpitations, a normal ECG should not end the assessment; the right further test depends on the symptom.
+
+**Get urgent help** if this finding comes with chest pain or pressure, severe breathlessness, fainting, or a fast heartbeat that will not settle. Those symptoms matter more than any single ECG phrase.
+
+## What usually happens next
+
+1. Symptoms on exertion: stress test or CT coronary angiogram
+2. Palpitations: Holter, patch or event monitor
+3. Murmur or breathlessness: echocardiogram
+4. Risk factors: blood pressure, cholesterol and diabetes management regardless of the ECG
+
+### Questions to ask your doctor
+
+- Does a normal ECG answer the question I came with?
+- Do my symptoms need a different test?
+- What is my overall cardiovascular risk?
+@@FAQ@@
+Q: Can you have a heart attack with a normal ECG?
+A: Yes. A small proportion of heart attacks show a normal initial ECG, which is why blood troponin tests and repeat ECGs are used.
+Q: Can a normal ECG rule out blocked arteries?
+A: No. A resting ECG is often normal in stable coronary disease.
+Q: How often should I have an ECG?
+A: There is no fixed schedule for healthy people. It is done when symptoms, risk factors or a procedure call for it.
+@@RELATED@@
+How to Read Your ECG Report: A Plain-English Guide | https://www.ecgmeans.com/how-to-read-ecg-report/ | Usually harmless
+What Is an EKG (ECG)? A Plain-English Guide | https://www.ecgmeans.com/what-is-an-ekg/ | Usually harmless
+EKG vs Echocardiogram: What's the Difference? | https://www.ecgmeans.com/ekg-vs-echocardiogram/ | Usually harmless
+Sinus Rhythm: What It Means on Your ECG | https://www.ecgmeans.com/sinus-rhythm/ | Usually harmless
+Borderline ECG: What It Means | https://www.ecgmeans.com/borderline-ecg/ | Usually harmless
+@@ALSO@@
+normal ecg but heart problems, can ecg miss heart problems, what can an ecg not detect
+@@SOURCES@@
+Electrocardiogram | https://medlineplus.gov/lab-tests/electrocardiogram/
+Electrocardiogram (ECG or EKG) | https://www.mayoclinic.org/tests-procedures/ekg/about/pac-20384983
+Coronary Heart Disease Diagnosis | https://www.nhlbi.nih.gov/health/coronary-heart-disease/diagnosis
+@@END@@

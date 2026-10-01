@@ -1,0 +1,67 @@
+@@TITLE@@
+Early Repolarization on ECG: Is It Dangerous?
+@@DESC@@
+Early repolarization is a common ECG variant in young, fit people. Learn what it looks like, why it is usually benign, and the rare situations where it matters.
+@@H1@@
+Early Repolarization on an ECG: What It Means
+@@CATEGORY@@
+ECG Report Phrases | https://www.ecgmeans.com/ecg-report-phrases/
+@@QUICK@@
+Usually harmless
+@@LEDE@@
+Early repolarization is a common normal variant in which the point where the QRS ends and the ST segment begins (the J point) sits slightly above the baseline, often with a small notch. It is seen in roughly 1 in 10 to 1 in 20 people, especially young adults, athletes and men, and in the great majority it is harmless.
+@@BODY@@
+## What "early repolarization" means
+
+After each beat the ventricles recharge (repolarize). In some hearts a part of the muscle begins this a fraction early, lifting the start of the ST segment. The result is a concave, "smiley" ST elevation with a tall upright T wave, most obvious in the chest leads and more marked at slow heart rates.
+
+Its importance for clinicians is that it must not be mistaken for a heart attack or pericarditis, which also raise the ST segment. Stability over time and the absence of symptoms separate it.
+
+## What it looks like on the ECG
+
+A notch or slur at the end of the QRS, upward-curving ST elevation of 1–3 mm and prominent T waves, usually in V2–V5. It stays the same on repeat ECGs.
+
+## Common causes
+
+- Normal variant — not caused by disease
+- More frequent in athletes, young adults, men and people of African ancestry
+- More visible when the heart rate is slow
+
+## Should you worry?
+
+Usually harmless
+
+Research has linked a particular form — J-point elevation in the inferior or lateral leads with a flat ST segment — to a very slightly increased risk of dangerous rhythms. The absolute risk is tiny, and guidelines do not recommend any investigation for people who have the pattern with no fainting and no family history of sudden cardiac death.
+
+**Get urgent help** if this finding comes with chest pain or pressure, severe breathlessness, fainting, or a fast heartbeat that will not settle. Those symptoms matter more than any single ECG phrase.
+
+## What usually happens next
+
+1. Usually nothing
+2. Keeping a copy of the ECG so future tracings can be compared
+3. Cardiology opinion only if you have had unexplained blackouts or a close relative died suddenly at a young age
+
+### Questions to ask your doctor
+
+- Is this the benign pattern?
+- Can I have a copy of this ECG for my records?
+- Is any restriction on sport needed? (Almost always, no.)
+@@FAQ@@
+Q: Is early repolarization a heart condition?
+A: No. It is an ECG pattern, regarded as a normal variant in the vast majority.
+Q: Can it be mistaken for a heart attack?
+A: Yes, which is why carrying an old ECG is useful. Unlike a heart attack, it does not change from minute to minute and there are no reciprocal changes.
+Q: Does it go away?
+A: It often becomes less marked with age and at faster heart rates.
+@@RELATED@@
+Nonspecific T Wave Abnormality: What It Means | https://www.ecgmeans.com/nonspecific-t-wave-abnormality/ | Depends on context
+Borderline ECG: What It Means | https://www.ecgmeans.com/borderline-ecg/ | Usually harmless
+Sinus Bradycardia: What It Means | https://www.ecgmeans.com/sinus-bradycardia/ | Usually harmless
+Sinus Rhythm With Sinus Arrhythmia: What It Means | https://www.ecgmeans.com/sinus-arrhythmia/ | Usually harmless
+Abnormal ECG: What It Means on Your Report | https://www.ecgmeans.com/abnormal-ecg/ | Depends on context
+@@ALSO@@
+early repolarization ecg, early repolarisation, benign early repolarization
+@@SOURCES@@
+Benign Early Repolarisation | https://litfl.com/benign-early-repolarisation-ecg-library/
+Early Repolarization Syndrome: Diagnostic and Therapeutic Approach | https://www.frontiersin.org/journals/cardiovascular-medicine/articles/10.3389/fcvm.2018.00169/full
+@@END@@

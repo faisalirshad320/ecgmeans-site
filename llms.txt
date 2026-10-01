@@ -1,0 +1,79 @@
+# ECG Means
+
+> Independent, clinician-reviewed plain-English explanations of the phrases printed on ECG/EKG reports. Every page is written and reviewed by Dr. Faisal Irshad, MBBS (PMDC 54440-S) and states plainly whether a finding is usually harmless, context-dependent, needs clinician review, or warrants prompt care. Educational only; not a substitute for the clinician who ordered the test.
+
+## ECG Report Phrases
+- [ECG Report Phrases Explained](https://www.ecgmeans.com/ecg-report-phrases/): The wording the machine prints — abnormal ECG, borderline ECG, septal infarct, nonspecific T wave abnormality — and what each line really means.
+- [Abnormal ECG: What It Means on Your Report](https://www.ecgmeans.com/abnormal-ecg/): 'Abnormal ECG' printed on your report? Learn what the machine is flagging, the common harmless causes, the serious ones, and what usually happens next.
+- [Anterior Infarct, Age Undetermined: ECG Meaning](https://www.ecgmeans.com/anterior-infarct-age-undetermined/): What 'anterior infarct, age undetermined' or 'possible anterior infarct' means on an ECG printout, why it is often a false alarm, and which test settles it.
+- [Anteroseptal Infarct, Age Undetermined: ECG Meaning](https://www.ecgmeans.com/anteroseptal-infarct/): 'Anteroseptal infarct, age undetermined' means Q waves or lost R waves across V1–V4. Learn why lead placement and body build often mimic it and what confirms it.
+- [Borderline ECG: What It Means](https://www.ecgmeans.com/borderline-ecg/): A 'borderline ECG' sits between normal and abnormal. See which small findings trigger it, why it is usually harmless, and when it deserves follow-up.
+- [Early Repolarization on an ECG: What It Means](https://www.ecgmeans.com/early-repolarization/): Early repolarization is a common ECG variant in young, fit people. Learn what it looks like, why it is usually benign, and the rare situations where it matters.
+- [Inferior Infarct, Age Undetermined: ECG Meaning](https://www.ecgmeans.com/inferior-infarct-age-undetermined/): 'Inferior infarct, age undetermined' means Q waves in leads II, III and aVF that can follow an old heart attack. Learn why it is often a false alarm and what confirms it.
+- [Left Axis Deviation: What It Means on an ECG](https://www.ecgmeans.com/left-axis-deviation/): Left axis deviation means the heart's overall electrical direction points further left than usual. See the numbers, the causes and why it is rarely a problem alone.
+- [Left Ventricular Hypertrophy (LVH): What It Means on an ECG](https://www.ecgmeans.com/left-ventricular-hypertrophy/): 'Possible left ventricular hypertrophy' or 'voltage criteria for LVH' on your ECG means tall QRS complexes. Learn why the ECG over-calls it and what confirms it.
+- [Low Voltage QRS: What It Means](https://www.ecgmeans.com/low-voltage-qrs/): Low voltage QRS means the main spikes on your ECG are smaller than usual. Learn the criteria, the harmless and the important causes, and the usual follow-up.
+- [Nonspecific T Wave Abnormality: What It Means](https://www.ecgmeans.com/nonspecific-t-wave-abnormality/): 'Nonspecific T wave abnormality' is among the commonest ECG printout lines. Find out what T waves are, why they flatten, and when it matters.
+- [Poor R Wave Progression: What It Means](https://www.ecgmeans.com/poor-r-wave-progression/): Poor R wave progression means the R waves don't grow normally across the chest leads. It is usually lead placement or body build — here's how it is sorted out.
+- [Possible Left Atrial Enlargement: ECG Meaning](https://www.ecgmeans.com/left-atrial-enlargement/): 'Possible left atrial enlargement' is based on the shape of your P wave. Learn how reliable it is, what causes a big left atrium, and why an echo is the real test.
+- [Possible Right Atrial Enlargement: ECG Meaning](https://www.ecgmeans.com/right-atrial-enlargement/): 'Possible right atrial enlargement' is read from a tall, peaked P wave (P pulmonale). Learn what enlarges the right atrium and why an echocardiogram is the real test.
+- [Right Axis Deviation: What It Means on an ECG](https://www.ecgmeans.com/right-axis-deviation/): Right axis deviation means the heart's electrical direction points further right than normal. See the causes, when it is a normal variant, and when it matters.
+- [Right Ventricular Hypertrophy (RVH): What It Means](https://www.ecgmeans.com/right-ventricular-hypertrophy/): Right ventricular hypertrophy on an ECG shows as a tall R wave in V1 and right axis deviation. Learn what thickens the right ventricle and why an echo confirms it.
+- [Septal Infarct on an ECG: What It Means](https://www.ecgmeans.com/septal-infarct/): 'Septal infarct, age undetermined' is one of the most common false alarms on ECG reports. Learn what the machine saw, why it is often wrong, and how it is checked.
+
+## Heart Rhythms
+- [Heart Rhythms on the ECG](https://www.ecgmeans.com/heart-rhythms/): Sinus rhythm and its variants, junctional and ventricular rhythms, and the extra-beat patterns bigeminy and trigeminy.
+- [Accelerated Junctional Rhythm: What It Means](https://www.ecgmeans.com/accelerated-junctional-rhythm/): Accelerated junctional rhythm is a junctional rhythm at 60–100 bpm. See how it differs from sinus rhythm, the classic causes, and how it is managed.
+- [Atrial Fibrillation: What It Means on an ECG](https://www.ecgmeans.com/atrial-fibrillation/): Atrial fibrillation is an irregular heart rhythm with no clear P waves on the ECG. Learn how it is recognised, why it raises stroke risk, and how it is treated.
+- [Atrial Flutter: What It Means on an ECG](https://www.ecgmeans.com/atrial-flutter/): Atrial flutter shows a sawtooth pattern on the ECG with a fast, often regular pulse. Learn how it differs from atrial fibrillation and why it also raises stroke risk.
+- [Bigeminy: What It Means on an ECG](https://www.ecgmeans.com/bigeminy/): Bigeminy means every other heartbeat is an extra beat, usually a PVC. Learn what it looks and feels like, the common triggers, and when it needs investigation.
+- [Ectopic Atrial Rhythm: What It Means](https://www.ecgmeans.com/ectopic-atrial-rhythm/): An ectopic atrial rhythm starts outside the sinus node, so the P waves look unusual. Learn why it is often a benign variant and when it needs checking.
+- [Idioventricular Rhythm: What It Means](https://www.ecgmeans.com/idioventricular-rhythm/): Idioventricular rhythm is a slow, wide-complex back-up rhythm from the ventricles. Learn the rates, how AIVR differs, and why context decides how serious it is.
+- [Junctional Rhythm: What It Means](https://www.ecgmeans.com/junctional-rhythm/): In a junctional rhythm the AV junction takes over as pacemaker at 40–60 bpm. Learn how it is recognised, why it happens, and when it needs treatment.
+- [Multifocal Atrial Tachycardia (MAT): What It Means](https://www.ecgmeans.com/multifocal-atrial-tachycardia/): Multifocal atrial tachycardia is a fast, irregular rhythm with at least three P wave shapes, strongly linked to lung disease. Learn how it differs from atrial fibrillation.
+- [Sinus Bradycardia: What It Means](https://www.ecgmeans.com/sinus-bradycardia/): Sinus bradycardia is a normal rhythm running slower than 60 bpm. Learn why it is common in fit people and during sleep, and which symptoms mean it needs attention.
+- [Sinus Pause and Sinus Arrest: What They Mean](https://www.ecgmeans.com/sinus-pause-arrest/): A sinus pause is a gap where the heart's pacemaker briefly stops firing. Learn how long is significant, the common causes, and when a pause needs a pacemaker.
+- [Sinus Rhythm With PACs: What It Means](https://www.ecgmeans.com/sinus-rhythm-with-pac/): 'Sinus rhythm with PACs' means a normal rhythm with occasional early beats from the upper chambers. Learn why they happen, what they feel like and when they matter.
+- [Sinus Rhythm With Sinus Arrhythmia: What It Means](https://www.ecgmeans.com/sinus-arrhythmia/): Despite the alarming name, sinus arrhythmia is a normal variation of heart rate with breathing. Here's why it happens and why it is a sign of a healthy heart.
+- [Sinus Rhythm: What It Means on Your ECG](https://www.ecgmeans.com/sinus-rhythm/): Sinus rhythm is the normal heartbeat. What the term means, the numbers behind it, and what the added words (with PACs, 1st degree AV block) mean.
+- [Sinus Tachycardia: What It Means](https://www.ecgmeans.com/sinus-tachycardia/): Sinus tachycardia is a normal rhythm above 100 bpm — usually the heart responding to something. See the common triggers and when a fast rate needs checking.
+- [Trigeminy: What It Means on an ECG](https://www.ecgmeans.com/trigeminy/): Trigeminy is a repeating pattern in which every third heartbeat is an extra beat. Find out what causes it, whether it is dangerous and how doctors assess it.
+- [Wandering Atrial Pacemaker: What It Means](https://www.ecgmeans.com/wandering-atrial-pacemaker/): Wandering atrial pacemaker is a usually benign rhythm where the pacemaker site shifts, changing the P wave shape. Learn how it differs from multifocal atrial tachycardia.
+
+## Heart Blocks & Conduction
+- [AV Blocks and Bundle Branch Blocks](https://www.ecgmeans.com/heart-block-conduction/): First, second and third degree AV block, left and right bundle branch block, and fascicular block — which are harmless and which are not.
+- [Left Anterior Fascicular Block: What It Means](https://www.ecgmeans.com/left-anterior-fascicular-block/): Left anterior fascicular block, or left anterior hemiblock, is a minor conduction delay that causes left axis deviation. Learn why it is usually harmless.
+- [Left Bundle Branch Block: What It Means](https://www.ecgmeans.com/left-bundle-branch-block/): Left bundle branch block means the left side of the heart's wiring is delayed. Learn what it implies, why a new LBBB is taken seriously, and what tests follow.
+- [Right Bundle Branch Block: What It Means](https://www.ecgmeans.com/right-bundle-branch-block/): Right bundle branch block (complete or incomplete) is a common ECG finding. What the rSR' pattern means and why incomplete RBBB is usually a normal variant.
+- [Second Degree AV Block Type 1 (Wenckebach): What It Means](https://www.ecgmeans.com/second-degree-av-block-type-1/): Mobitz I (Wenckebach) is second degree AV block where the PR interval lengthens until a beat drops. Why it is usually benign and how it differs from Type 2.
+- [Second Degree AV Block Type 2 (Mobitz II): What It Means](https://www.ecgmeans.com/second-degree-av-block-type-2/): Mobitz II is second degree AV block in which beats drop suddenly with a constant PR interval. Learn why it is taken seriously and why a pacemaker is usually advised.
+- [Sinus Rhythm With 1st Degree AV Block: What It Means](https://www.ecgmeans.com/first-degree-av-block/): First degree AV block means the signal from the atria to the ventricles is slightly delayed (PR over 200 ms). Learn why it is usually benign and when it matters.
+- [Third Degree (Complete) Heart Block: What It Means](https://www.ecgmeans.com/third-degree-av-block/): Complete heart block means no signals pass from the atria to the ventricles, which beat on their own escape rhythm. Learn why it usually needs an urgent pacemaker.
+
+## Intervals & Waves
+- [ECG Intervals and Waves: Normal Ranges](https://www.ecgmeans.com/ecg-intervals-waves/): PR, QRS and QT/QTc normal ranges, what short and long values mean, and the T wave changes reports mention.
+- [Peaked T Waves: What They Mean on an ECG](https://www.ecgmeans.com/peaked-t-waves/): Tall, peaked T waves can be a normal variant or an early warning of high potassium. Learn how to tell them apart and why new peaked T waves need prompt testing.
+- [PR Interval: Normal Range and What Short or Long Means](https://www.ecgmeans.com/pr-interval/): The PR interval measures conduction from atria to ventricles. Normal is 120–200 ms. See what a short or prolonged PR means and the common causes of each.
+- [QRS Interval: Normal Range and What a Wide QRS Means](https://www.ecgmeans.com/qrs-interval/): The QRS interval shows how long the ventricles take to activate. Normal is under 120 ms. Learn what a wide QRS means and the main reasons it happens.
+- [QT and QTc Interval: Normal Range and Prolonged QT](https://www.ecgmeans.com/qt-interval/): The QTc is the heart-rate-corrected QT interval. Normal is under 440–460 ms. Learn why a long QTc matters, which medicines lengthen it, and what happens next.
+- [Short PR Interval: What It Means](https://www.ecgmeans.com/short-pr-interval/): A short PR interval (under 120 ms) means the ventricles are being activated early. Learn about accessory pathways, WPW, and when a short PR is a normal variant.
+- [ST Elevation: What It Means on an ECG](https://www.ecgmeans.com/st-elevation/): ST elevation can signal a heart attack (STEMI) but also has harmless causes like early repolarization and pericarditis. Learn what separates them and why context is key.
+- [T Wave Inversion: What It Means on an ECG](https://www.ecgmeans.com/t-wave-inversion/): Inverted T waves can be normal in some leads and important in others. Learn where T wave inversion is expected, which patterns matter, and how it is assessed.
+
+## Comparisons
+- [ECG Comparisons: This vs That](https://www.ecgmeans.com/ecg-comparisons/): Side-by-side answers to the questions patients ask most: PVC vs PAC, SVT vs VT, EKG vs echocardiogram.
+- [EKG vs Echocardiogram: What's the Difference?](https://www.ecgmeans.com/ekg-vs-echocardiogram/): An EKG records the heart's electrical activity; an echocardiogram is an ultrasound of its structure. What each shows, when each is used, and why you may need both.
+- [PVC vs PAC: What's the Difference?](https://www.ecgmeans.com/pvc-vs-pac/): PACs and PVCs are both extra heartbeats. See how they differ in origin, ECG appearance, symptoms and significance, and which one is more likely to need follow-up.
+- [SVT vs VTach: What's the Difference?](https://www.ecgmeans.com/svt-vs-vtach/): SVT and ventricular tachycardia are both fast rhythms but differ in origin, ECG appearance and danger. Learn how doctors tell them apart and how each is treated.
+
+## ECG Basics
+- [ECG Basics for Patients](https://www.ecgmeans.com/ecg-basics/): How to read the report in your hand, what a normal ECG can and cannot tell you, and the questions worth asking.
+- [How to Read Your ECG Report: A Plain-English Guide](https://www.ecgmeans.com/how-to-read-ecg-report/): A step-by-step guide to the numbers and phrases printed on a 12-lead ECG report — rate, PR, QRS, QT/QTc, axis, the machine's findings and its overall verdict.
+- [If My ECG Is Normal, Is My Heart OK?](https://www.ecgmeans.com/if-ecg-is-normal-is-my-heart-ok/): A normal ECG is reassuring for rhythm and acute damage but cannot rule out every heart problem. Learn what a normal ECG does and doesn't tell you.
+- [What Is an EKG (ECG)? A Plain-English Guide](https://www.ecgmeans.com/what-is-an-ekg/): An EKG (ECG) is a quick, painless test of your heart's electrical activity. What it shows, what the letters mean, how long it takes and what it costs.
+
+## About
+- [About ECG Means](https://www.ecgmeans.com/about/): Who writes and reviews ECG Means, how pages are produced, and our editorial standards.
+- [Privacy Policy](https://www.ecgmeans.com/privacy/): How ECG Means handles data, cookies and advertising.
+- [Medical Disclaimer](https://www.ecgmeans.com/disclaimer/): ECG Means provides general educational information only and does not provide medical advice.
+- [Contact](https://www.ecgmeans.com/contact/): Contact ECG Means about corrections, suggestions or new phrases to cover.

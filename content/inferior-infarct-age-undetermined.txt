@@ -1,0 +1,68 @@
+@@TITLE@@
+Inferior Infarct, Age Undetermined: ECG Meaning
+@@DESC@@
+'Inferior infarct, age undetermined' means Q waves in leads II, III and aVF that can follow an old heart attack. Learn why it is often a false alarm and what confirms it.
+@@H1@@
+Inferior Infarct, Age Undetermined: ECG Meaning
+@@CATEGORY@@
+ECG Report Phrases | https://www.ecgmeans.com/ecg-report-phrases/
+@@QUICK@@
+Needs clinician review
+@@LEDE@@
+"Inferior infarct, age undetermined" means the software saw Q waves in the leads that look at the bottom (inferior) wall of the heart — II, III and aVF — a pattern a past heart attack can leave. It cannot say when, or be sure it happened at all. Small inferior Q waves are common in healthy people, so this is one of the more frequently over-called findings.
+@@BODY@@
+## What "inferior infarct age undetermined" means
+
+The inferior wall of the left ventricle is viewed by leads II, III and aVF and is usually supplied by the right coronary artery. When muscle there has been lost to a heart attack, a Q wave (a downward deflection at the start of the QRS) is left behind. The program looks for Q waves in these leads and, if they meet its size rule, prints inferior infarct.
+
+"Age undetermined" tells you it did not see the ST changes of a heart attack in progress — only a fixed pattern that could be old. The catch is that a small Q wave in lead III alone is a very common normal finding, and it often disappears on a deep breath, so the ECG over-calls inferior infarcts.
+
+## What it looks like on the ECG
+
+Q waves in the inferior leads (II, III, aVF). A genuine old infarct usually shows Q waves in at least two of these leads, often with T wave changes; an isolated Q in III is usually innocent.
+
+## Common causes
+
+- A normal small Q wave, especially in lead III (the commonest explanation)
+- A genuine previous inferior heart attack
+- Lead placement and body position
+- Left bundle branch block or pre-excitation mimicking Q waves
+
+## Should you worry?
+
+A genuine inferior infarct is significant, so this line should be reviewed by a clinician rather than ignored. But because the pattern is so often a normal variant, you should not assume you have had a heart attack on the strength of the ECG alone. Risk factors, symptoms, comparison with old tracings and an echocardiogram settle it.
+
+**Get urgent help** if this finding comes with chest pain or pressure, severe breathlessness, fainting, or a fast heartbeat that will not settle. Those symptoms matter more than any single ECG phrase.
+
+## What usually happens next
+
+1. Clinician over-read and comparison with previous ECGs
+2. A repeat ECG, sometimes with a deep breath, to see whether the inferior Q wave persists
+3. An echocardiogram to look for a thinned or poorly moving inferior wall
+4. Risk-factor treatment and cardiology follow-up if scar is confirmed
+
+### Questions to ask your doctor
+
+- Is the Q wave in more than one inferior lead?
+- Is this new compared with my old ECGs?
+- Should I have an echocardiogram?
+@@FAQ@@
+Q: Is an inferior infarct serious?
+A: A real one is, because it reflects previous heart muscle damage. The ECG statement alone, however, is only a suspicion and is often a false positive.
+Q: Can inferior infarct on ECG be wrong?
+A: Yes, very often. A small normal Q wave, particularly in lead III, is the usual reason it is over-called in healthy people.
+Q: How is it confirmed?
+A: With an echocardiogram, which shows whether the inferior wall is thinned or moving poorly, and by comparison with earlier ECGs.
+@@RELATED@@
+Septal Infarct on an ECG: What It Means | https://www.ecgmeans.com/septal-infarct/ | Depends on context
+Anterior Infarct, Age Undetermined: ECG Meaning | https://www.ecgmeans.com/anterior-infarct-age-undetermined/ | Needs clinician review
+Anteroseptal Infarct, Age Undetermined: ECG Meaning | https://www.ecgmeans.com/anteroseptal-infarct/ | Needs clinician review
+Poor R Wave Progression: What It Means | https://www.ecgmeans.com/poor-r-wave-progression/ | Depends on context
+Abnormal ECG: What It Means on Your Report | https://www.ecgmeans.com/abnormal-ecg/ | Depends on context
+@@ALSO@@
+inferior infarct age undetermined, possible inferior infarct, inferior infarct ecg, inferior q waves
+@@SOURCES@@
+Silent Heart Attack | https://my.clevelandclinic.org/health/diseases/21630-silent-heart-attack
+Inferior STEMI | https://litfl.com/inferior-stemi-ecg-library/
+The Q Wave | https://litfl.com/q-wave-ecg-library/
+@@END@@

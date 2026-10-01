@@ -1,0 +1,70 @@
+@@TITLE@@
+2nd Degree AV Block Type 2 (Mobitz II): Why It Matters
+@@DESC@@
+Mobitz II is second degree AV block in which beats drop suddenly with a constant PR interval. Learn why it is taken seriously and why a pacemaker is usually advised.
+@@H1@@
+Second Degree AV Block Type 2 (Mobitz II): What It Means
+@@CATEGORY@@
+Heart Blocks & Conduction | https://www.ecgmeans.com/heart-block-conduction/
+@@QUICK@@
+Seek prompt care
+@@LEDE@@
+Second degree AV block type 2 — Mobitz II — is a pattern in which some impulses from the atria are suddenly not conducted to the ventricles, with no warning lengthening of the PR interval beforehand. The block sits below the AV node in the bundle branches, which makes it unpredictable and liable to progress to complete heart block. It is one of the ECG findings that usually leads to a pacemaker.
+@@BODY@@
+## What "2nd degree av block type 2" means
+
+Unlike Wenckebach, the conduction system here is not tiring gradually; it is intermittently failing outright. The PR interval of the conducted beats is constant, and then a P wave simply has no QRS after it. Because the disease is in the His-Purkinje system, the QRS is often wide and any escape rhythm that takes over is slow and unreliable.
+
+When every second P wave is blocked (2:1 block) it can be hard to tell Type 1 from Type 2 on a single strip; a longer recording or a cardiologist's review settles it.
+
+## What it looks like on the ECG
+
+Regular P waves; most are followed by a QRS with a constant PR, but occasionally a P wave stands alone with no QRS. The QRS is frequently wide.
+
+## Common causes
+
+- Degenerative fibrosis of the conduction system (most common, with age)
+- Anterior heart attack
+- Cardiomyopathy, sarcoidosis, amyloidosis
+- After heart surgery or valve procedures
+- Drug toxicity (less common than in Type 1)
+
+## Should you worry?
+
+Mobitz II is treated as a warning sign. It can progress without notice to complete heart block, which may cause collapse. People with this finding are normally assessed promptly, monitored, and referred for a permanent pacemaker even if they currently have no symptoms.
+
+**Get urgent help** if this finding comes with chest pain or pressure, severe breathlessness, fainting, or a fast heartbeat that will not settle. Those symptoms matter more than any single ECG phrase.
+
+## What usually happens next
+
+1. Same-day medical assessment if this is a new finding
+2. Continuous monitoring in hospital if symptomatic
+3. Echocardiogram and blood tests for reversible causes
+4. Permanent pacemaker in most cases
+
+### Questions to ask your doctor
+
+- Am I being referred for a pacemaker?
+- Is there any reversible cause?
+- What should I do if I feel faint before the procedure?
+@@FAQ@@
+Q: Is Mobitz 2 an emergency?
+A: It is urgent rather than always an emergency. If you have fainted or feel faint, it should be treated as an emergency.
+Q: Can Mobitz 2 be cured?
+A: Not usually, because it reflects scarring of the conduction system. A pacemaker corrects the problem reliably.
+Q: Can I drive with Mobitz 2?
+A: Rules vary by country; many require you to stop driving until a pacemaker is fitted. Ask your clinician.
+@@RELATED@@
+Second Degree AV Block Type 1 (Wenckebach): What It Means | https://www.ecgmeans.com/second-degree-av-block-type-1/ | Depends on context
+Sinus Rhythm With 1st Degree AV Block: What It Means | https://www.ecgmeans.com/first-degree-av-block/ | Usually harmless
+Left Bundle Branch Block: What It Means | https://www.ecgmeans.com/left-bundle-branch-block/ | Needs clinician review
+Idioventricular Rhythm: What It Means | https://www.ecgmeans.com/idioventricular-rhythm/ | Seek prompt care
+QRS Interval: Normal Range and What a Wide QRS Means | https://www.ecgmeans.com/qrs-interval/ | Depends on context
+Third Degree (Complete) Heart Block: What It Means | https://www.ecgmeans.com/third-degree-av-block/ | Seek prompt care
+@@ALSO@@
+second degree av block type 2, mobitz 2, mobitz type 2 heart block, second degree heart block
+@@SOURCES@@
+Heart Block | https://my.clevelandclinic.org/health/diseases/17056-heart-block
+Second-Degree Atrioventricular Block | https://www.ncbi.nlm.nih.gov/books/NBK482359/
+AV Block: 2nd degree, Mobitz II (Hay block) | https://litfl.com/av-block-2nd-degree-mobitz-ii-hay-block/
+@@END@@

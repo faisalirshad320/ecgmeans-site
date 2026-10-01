@@ -1,0 +1,72 @@
+@@TITLE@@
+Bigeminy (Ventricular Bigeminy): ECG Meaning & Causes
+@@DESC@@
+Bigeminy means every other heartbeat is an extra beat, usually a PVC. Learn what it looks and feels like, the common triggers, and when it needs investigation.
+@@H1@@
+Bigeminy: What It Means on an ECG
+@@CATEGORY@@
+Heart Rhythms | https://www.ecgmeans.com/heart-rhythms/
+@@QUICK@@
+Depends on context
+@@LEDE@@
+Bigeminy means every second heartbeat is a premature (extra) beat, so beats arrive in pairs: normal, early, pause; normal, early, pause. Usually the extra beats are PVCs from the lower chambers — ventricular bigeminy. It can feel like a slow or thumping pulse. In a structurally normal heart it is generally benign.
+@@BODY@@
+## What "bigeminy" means
+
+Each premature beat resets the timing in a way that favours another premature beat after the next normal one, so the pattern tends to sustain itself for seconds or minutes. The early beat often pumps little blood, which is why a pulse check or a fitness watch may report half the true heart rate.
+
+Atrial bigeminy is the same pattern with PACs and carries the same benign outlook.
+
+## What it looks like on the ECG
+
+Alternating narrow normal beats and wide, tall, early beats with no P wave, each followed by a pause.
+
+## Common causes
+
+- Caffeine, alcohol, nicotine, stimulants
+- Stress, poor sleep, exercise recovery
+- Low potassium or magnesium
+- Overactive thyroid
+- Digoxin toxicity
+- Coronary disease, cardiomyopathy or a previous heart attack
+
+## Should you worry?
+
+Depends on context
+
+Short runs in a healthy person are common and harmless. It warrants assessment if it is persistent, if you have fainting, chest pain or breathlessness, or if you have known heart disease. A very high PVC burden — typically above 10–15% of all beats over 24 hours — can gradually weaken the heart muscle and is treatable.
+
+**Get urgent help** if this finding comes with chest pain or pressure, severe breathlessness, fainting, or a fast heartbeat that will not settle. Those symptoms matter more than any single ECG phrase.
+
+## What usually happens next
+
+1. Electrolytes and thyroid tests
+2. 24-hour Holter to count the percentage of extra beats
+3. Echocardiogram to confirm normal structure and pumping
+4. Treatment (beta-blocker or ablation) only for symptoms or a high burden
+
+### Questions to ask your doctor
+
+- What percentage of my beats are PVCs?
+- Is my heart structurally normal?
+- Do I need treatment or just reassurance?
+@@FAQ@@
+Q: Is bigeminy dangerous?
+A: With a normal heart on echocardiogram, generally not.
+Q: What is the difference between bigeminy and trigeminy?
+A: In bigeminy every second beat is premature; in trigeminy every third.
+Q: Why does my watch show a heart rate of 35–40?
+A: Wrist sensors often fail to detect the weak premature beat, so they count only the normal ones.
+@@RELATED@@
+Trigeminy: What It Means on an ECG | https://www.ecgmeans.com/trigeminy/ | Depends on context
+PVC vs PAC: What's the Difference? | https://www.ecgmeans.com/pvc-vs-pac/ | Usually harmless
+Sinus Rhythm With PACs: What It Means | https://www.ecgmeans.com/sinus-rhythm-with-pac/ | Usually harmless
+SVT vs VTach: What's the Difference? | https://www.ecgmeans.com/svt-vs-vtach/ | Seek prompt care
+Idioventricular Rhythm: What It Means | https://www.ecgmeans.com/idioventricular-rhythm/ | Seek prompt care
+@@ALSO@@
+ventricular bigeminy, bigeminy pvc, bigeminy ecg, bigeminy vs trigeminy
+@@SOURCES@@
+Bigeminy | https://my.clevelandclinic.org/health/diseases/24576-bigeminy
+Premature Ventricular Complex | https://www.ncbi.nlm.nih.gov/books/NBK547713/
+Premature Ventricular Complex (PVC) | https://litfl.com/premature-ventricular-complex-pvc-ecg-library/
+@@END@@

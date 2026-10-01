@@ -1,0 +1,72 @@
+@@TITLE@@
+Trigeminy (Ventricular Trigeminy): ECG Meaning Explained
+@@DESC@@
+Trigeminy is a repeating pattern in which every third heartbeat is an extra beat. Find out what causes it, whether it is dangerous and how doctors assess it.
+@@H1@@
+Trigeminy: What It Means on an ECG
+@@CATEGORY@@
+Heart Rhythms | https://www.ecgmeans.com/heart-rhythms/
+@@QUICK@@
+Depends on context
+@@LEDE@@
+Trigeminy is a repeating pattern in which every third heartbeat is a premature (extra) beat: normal, normal, early, pause. When the extra beats come from the lower chambers it is ventricular trigeminy, the usual form. It reflects frequent PVCs falling into a regular pattern and, in an otherwise healthy heart, is generally harmless.
+@@BODY@@
+## What "trigeminy" means
+
+PVCs often organise themselves into patterns. Every other beat is bigeminy, every third is trigeminy, every fourth is quadrigeminy. The pattern itself carries no extra risk beyond telling your doctor that PVCs are fairly frequent during that recording.
+
+Some textbooks also use trigeminy for one normal beat followed by two PVCs; your report will normally specify a "couplet" if two PVCs occur together.
+
+## What it looks like on the ECG
+
+Groups of three: two normal narrow beats, then one early, wide, tall beat without a P wave, then a pause before the cycle repeats.
+
+## Common causes
+
+- Caffeine, alcohol, nicotine, stimulants
+- Stress and lack of sleep
+- Low potassium or magnesium
+- Thyroid overactivity
+- Certain medicines
+- Underlying heart disease (less common)
+
+## Should you worry?
+
+Depends on context
+
+If you feel well and your heart is structurally normal, trigeminy is not a threat. It should be looked into if you have fainting, chest pain, breathlessness, a family history of sudden death, or known heart disease.
+
+**Get urgent help** if this finding comes with chest pain or pressure, severe breathlessness, fainting, or a fast heartbeat that will not settle. Those symptoms matter more than any single ECG phrase.
+
+## What usually happens next
+
+1. Blood tests for electrolytes and thyroid
+2. Holter monitor to measure PVC burden
+3. Echocardiogram
+4. Lifestyle changes first; beta-blocker or ablation if symptomatic or burden is high
+
+### Questions to ask your doctor
+
+- How many PVCs am I having over 24 hours?
+- Is my echocardiogram normal?
+- Should I reduce caffeine or alcohol?
+@@FAQ@@
+Q: Is trigeminy worse than bigeminy?
+A: No. It actually means fewer extra beats — one in three rather than one in two.
+Q: Can trigeminy go away?
+A: Yes. PVCs fluctuate widely from day to day and often subside once triggers are addressed.
+Q: Can anxiety cause trigeminy?
+A: Adrenaline makes PVCs more frequent, so stress can bring the pattern on in people prone to them.
+@@RELATED@@
+Bigeminy: What It Means on an ECG | https://www.ecgmeans.com/bigeminy/ | Depends on context
+PVC vs PAC: What's the Difference? | https://www.ecgmeans.com/pvc-vs-pac/ | Usually harmless
+Sinus Rhythm With PACs: What It Means | https://www.ecgmeans.com/sinus-rhythm-with-pac/ | Usually harmless
+SVT vs VTach: What's the Difference? | https://www.ecgmeans.com/svt-vs-vtach/ | Seek prompt care
+Abnormal ECG: What It Means on Your Report | https://www.ecgmeans.com/abnormal-ecg/ | Depends on context
+@@ALSO@@
+ventricular trigeminy, trigeminy rhythm, trigeminy ecg, trigeminy pvc
+@@SOURCES@@
+Premature Ventricular Contractions (PVCs) | https://my.clevelandclinic.org/health/diseases/17381-premature-ventricular-contractions
+Premature Ventricular Complex | https://www.ncbi.nlm.nih.gov/books/NBK547713/
+Premature Ventricular Complex (PVC) | https://litfl.com/premature-ventricular-complex-pvc-ecg-library/
+@@END@@

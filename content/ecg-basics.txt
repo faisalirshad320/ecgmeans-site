@@ -1,0 +1,9 @@
+@@TITLE@@
+ECG Basics Explained | ECG Means
+@@DESC@@
+How to read the report in your hand, what a normal ECG can and cannot tell you, and the questions worth asking.
+@@H1@@
+ECG Basics for Patients
+@@LEDE@@
+How to read the report in your hand, what a normal ECG can and cannot tell you, and the questions worth asking.
+@@END@@

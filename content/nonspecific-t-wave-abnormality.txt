@@ -1,0 +1,73 @@
+@@TITLE@@
+Nonspecific T Wave Abnormality on ECG: Causes & Meaning
+@@DESC@@
+'Nonspecific T wave abnormality' is among the commonest ECG printout lines. Find out what T waves are, why they flatten, and when it matters.
+@@H1@@
+Nonspecific T Wave Abnormality: What It Means
+@@CATEGORY@@
+ECG Report Phrases | https://www.ecgmeans.com/ecg-report-phrases/
+@@QUICK@@
+Depends on context
+@@LEDE@@
+"Nonspecific T wave abnormality" means your T waves are flatter than expected, or very slightly inverted, without forming any pattern that points to a particular disease. The T wave is the most easily influenced part of the ECG — breathing, meals, anxiety, medicines and electrolytes all change it — so this is a common and usually minor finding.
+@@BODY@@
+## What "nonspecific t wave abnormality" means
+
+The T wave represents the heart's ventricles electrically resetting after each beat. It is normally upright in most leads and at least a tenth of the height of the R wave before it. When it is lower than that, or dips a little below the baseline, the software flags it. "Nonspecific" is the key word: the change does not match the recognised patterns of ischaemia, strain, pericarditis or electrolyte disturbance.
+
+When the ST segment before the T wave is also slightly off the baseline the wording becomes nonspecific ST and T wave abnormality. The meaning and the approach are the same.
+
+## What it looks like on the ECG
+
+T waves that are low, flat or shallowly inverted (less than about 1–2 mm), often in several leads, with a normal QRS complex before them.
+
+## Common causes
+
+- Anxiety, fast breathing, a recent meal or a cold drink
+- Low potassium or magnesium
+- Medicines, including digoxin, some antidepressants and antiarrhythmics
+- High blood pressure with thickened heart muscle
+- Thyroid disease, anaemia, fever
+- Reduced blood supply to the heart muscle (less common, and usually with symptoms)
+
+## Should you worry?
+
+Depends on context
+
+Large studies link nonspecific ST–T changes with a modestly higher long-term cardiovascular risk, mainly because they are more frequent in people with high blood pressure or diabetes. For an individual without symptoms it rarely needs urgent action. New T wave changes together with chest pain are different and need same-day assessment.
+
+**Get urgent help** if this finding comes with chest pain or pressure, severe breathlessness, fainting, or a fast heartbeat that will not settle. Those symptoms matter more than any single ECG phrase.
+
+## What usually happens next
+
+1. Review of symptoms, blood pressure and medicines
+2. Blood tests for potassium, magnesium, thyroid and blood count where relevant
+3. Comparison with previous ECGs
+4. Stress testing or an echocardiogram only if the overall picture suggests heart disease
+
+### Questions to ask your doctor
+
+- Are my T waves different from my previous ECG?
+- Could any of my medicines be responsible?
+- Do my risk factors justify further testing?
+@@FAQ@@
+Q: Is nonspecific T wave abnormality dangerous?
+A: By itself, usually not. It is a prompt to look at the whole person, not a diagnosis.
+Q: Can it go away?
+A: Yes. T waves change from hour to hour, and a repeat ECG is often reported as normal.
+Q: Is it the same as T wave inversion?
+A: No. Clear, deep or symmetrical T wave inversion in a group of neighbouring leads is a specific finding and is reported separately.
+@@RELATED@@
+T Wave Inversion: What It Means on an ECG | https://www.ecgmeans.com/t-wave-inversion/ | Depends on context
+Abnormal ECG: What It Means on Your Report | https://www.ecgmeans.com/abnormal-ecg/ | Depends on context
+Borderline ECG: What It Means | https://www.ecgmeans.com/borderline-ecg/ | Usually harmless
+Early Repolarization on an ECG: What It Means | https://www.ecgmeans.com/early-repolarization/ | Usually harmless
+Possible Left Atrial Enlargement: ECG Meaning | https://www.ecgmeans.com/left-atrial-enlargement/ | Needs clinician review
+Peaked T Waves: What They Mean on an ECG | https://www.ecgmeans.com/peaked-t-waves/ | Depends on context
+@@ALSO@@
+non specific t wave abnormality, nonspecific st and t wave abnormality, t wave abnormality, nonspecific st abnormality
+@@SOURCES@@
+ECG T Wave | https://www.ncbi.nlm.nih.gov/books/NBK538264/
+T Wave | https://litfl.com/t-wave-ecg-library/
+The ST Segment | https://litfl.com/st-segment-ecg-library/
+@@END@@

@@ -1,0 +1,9 @@
+@@TITLE@@
+ECG Report Phrases Explained | ECG Means
+@@DESC@@
+The wording the machine prints — abnormal ECG, borderline ECG, septal infarct, nonspecific T wave abnormality — and what each line really means.
+@@H1@@
+ECG Report Phrases Explained
+@@LEDE@@
+The wording the machine prints — abnormal ECG, borderline ECG, septal infarct, nonspecific T wave abnormality — and what each line really means. These are the overall verdicts and summary findings an ECG machine prints at the top of your report.
+@@END@@

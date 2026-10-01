@@ -1,0 +1,68 @@
+@@TITLE@@
+Possible Right Atrial Enlargement on ECG: What It Means
+@@DESC@@
+'Possible right atrial enlargement' is read from a tall, peaked P wave (P pulmonale). Learn what enlarges the right atrium and why an echocardiogram is the real test.
+@@H1@@
+Possible Right Atrial Enlargement: ECG Meaning
+@@CATEGORY@@
+ECG Report Phrases | https://www.ecgmeans.com/ecg-report-phrases/
+@@QUICK@@
+Needs clinician review
+@@LEDE@@
+"Possible right atrial enlargement" means the first part of your P wave — the bit made by the right upper chamber — is taller and more peaked than usual, a pattern called P pulmonale. Like its left-sided counterpart it is only a hint from the P wave shape; the ECG judges chamber size poorly, so an echocardiogram gives the real answer.
+@@BODY@@
+## What "right atrial enlargement" means
+
+The P wave is made by the two atria contracting, the right one first. If the right atrium is enlarged or under pressure, its share of the P wave becomes taller and more pointed. The software flags a P wave taller than about 2.5 mm in the inferior leads (II, III, aVF), or a large initial positive deflection in V1. Many reports now use the broader term right atrial abnormality.
+
+The right atrium enlarges mainly because of conditions downstream of it in the lungs and right ventricle, so right atrial enlargement often appears alongside signs of right ventricular hypertrophy.
+
+## What it looks like on the ECG
+
+A tall, peaked P wave (over about 2.5 mm) in leads II, III and aVF — classic "P pulmonale" — or a tall initial positive component of the P wave in V1.
+
+## Common causes
+
+- Chronic lung disease and pulmonary hypertension
+- Tricuspid or pulmonary valve disease
+- Congenital heart disease
+- Right-sided heart failure
+- A normal variant or a slightly fast heart rate (false positive)
+
+## Should you worry?
+
+On its own it is not an emergency. It is a marker that the right side of the heart may be under strain, usually from a lung condition, and that is what determines its importance. In a well person with no lung disease it is often an over-read of a normal, slightly peaked P wave.
+
+**Get urgent help** if this finding comes with chest pain or pressure, severe breathlessness, fainting, or a fast heartbeat that will not settle. Those symptoms matter more than any single ECG phrase.
+
+## What usually happens next
+
+1. Review of any lung or heart symptoms
+2. An echocardiogram to measure the right atrium and estimate lung pressure, if warranted
+3. Assessment of the lungs where a chronic lung condition is suspected
+
+### Questions to ask your doctor
+
+- How confident is this finding on my tracing?
+- Is there any sign of a lung or right-heart problem?
+- Do I need an echocardiogram?
+@@FAQ@@
+Q: What is P pulmonale?
+A: The name for the tall, peaked P wave in the inferior leads that suggests right atrial enlargement, classically linked to lung disease.
+Q: How accurate is the ECG for right atrial enlargement?
+A: Poor. It misses many enlarged atria and over-calls normal peaked P waves, which is why "possible" is printed and an echocardiogram is used to confirm.
+Q: Does it cause symptoms?
+A: Not directly. Any symptoms come from the underlying lung or heart condition.
+@@RELATED@@
+Possible Left Atrial Enlargement: ECG Meaning | https://www.ecgmeans.com/left-atrial-enlargement/ | Needs clinician review
+Right Ventricular Hypertrophy: What It Means | https://www.ecgmeans.com/right-ventricular-hypertrophy/ | Needs clinician review
+Right Axis Deviation: What It Means on an ECG | https://www.ecgmeans.com/right-axis-deviation/ | Depends on context
+Abnormal ECG: What It Means on Your Report | https://www.ecgmeans.com/abnormal-ecg/ | Depends on context
+Sinus Tachycardia: What It Means | https://www.ecgmeans.com/sinus-tachycardia/ | Depends on context
+@@ALSO@@
+possible right atrial enlargement, right atrial abnormality, p pulmonale, right atrial enlargement ecg
+@@SOURCES@@
+Right Atrial Enlargement (P Pulmonale) | https://litfl.com/right-atrial-enlargement-p-pulmonale/
+Pulmonary Hypertension | https://www.nhlbi.nih.gov/health/pulmonary-hypertension
+Electrocardiogram | https://medlineplus.gov/lab-tests/electrocardiogram/
+@@END@@

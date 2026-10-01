@@ -1,0 +1,15 @@
+@@TITLE@@
+Medical Disclaimer | ECG Means
+@@DESC@@
+ECG Means provides general educational information only and does not provide medical advice.
+@@H1@@
+Medical Disclaimer
+@@LEDE@@
+The information on ECG Means is general educational content about electrocardiogram findings. It is not medical advice, does not create a doctor–patient relationship, and cannot take account of your history, symptoms, medications or the actual appearance of your tracing.
+@@BODY@@
+ECG findings must always be interpreted by a qualified clinician in the context of the whole person. Never disregard professional advice or delay seeking it because of something you have read here.
+
+If you have chest pain or pressure, severe or sudden breathlessness, fainting, or a very fast or very slow heartbeat with dizziness, call your local emergency number immediately.
+
+We make every effort to keep content accurate and current, but medical knowledge changes and errors are possible. Use of this site is at your own risk.
+@@END@@

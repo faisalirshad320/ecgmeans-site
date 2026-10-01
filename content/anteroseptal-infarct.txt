@@ -1,0 +1,69 @@
+@@TITLE@@
+Anteroseptal Infarct, Age Undetermined: ECG Meaning
+@@DESC@@
+'Anteroseptal infarct, age undetermined' means Q waves or lost R waves across V1–V4. Learn why lead placement and body build often mimic it and what confirms it.
+@@H1@@
+Anteroseptal Infarct, Age Undetermined: ECG Meaning
+@@CATEGORY@@
+ECG Report Phrases | https://www.ecgmeans.com/ecg-report-phrases/
+@@QUICK@@
+Needs clinician review
+@@LEDE@@
+"Anteroseptal infarct, age undetermined" means the software saw a pattern across the front and middle of the chest leads (V1–V4) that a past heart attack can leave — combining the septal (V1–V2) and anterior (V3–V4) territories. It cannot date it or be certain it happened. Chest-lead placement, body build and bundle branch block are common innocent mimics.
+@@BODY@@
+## What "anteroseptal infarct age undetermined" means
+
+The septum and front wall of the left ventricle are supplied by the left anterior descending artery and viewed by leads V1 to V4. Healthy muscle there makes an R wave that grows steadily across the chest leads. If that growth fails or Q waves appear, the program suspects old scar and, when both the septal and anterior leads are involved, prints anteroseptal infarct.
+
+"Age undetermined" means there is no sign of a heart attack in progress — only a fixed pattern that could be old. The same appearance is produced very often by electrodes placed too high on the chest, by a thick or rotated heart, and by left bundle branch block, so the finding is frequently a false positive.
+
+## What it looks like on the ECG
+
+Q waves or QS complexes, or small R waves that fail to grow, across leads V1–V4. A genuine old infarct usually shows the change in several neighbouring leads, sometimes with T wave abnormalities.
+
+## Common causes
+
+- Chest electrodes placed too high (a very common explanation)
+- Left ventricular hypertrophy or a rotated heart
+- Left bundle branch block or left anterior fascicular block
+- Poor R wave progression as a normal variant
+- A genuine previous anteroseptal heart attack
+
+## Should you worry?
+
+A real anteroseptal infarct reflects significant previous damage to a large part of the pumping chamber, so the line should be looked at by a clinician. But because lead placement and body build mimic it so readily, you should not assume you have had a heart attack from the ECG alone. An echocardiogram and comparison with old tracings decide it.
+
+**Get urgent help** if this finding comes with chest pain or pressure, severe breathlessness, fainting, or a fast heartbeat that will not settle. Those symptoms matter more than any single ECG phrase.
+
+## What usually happens next
+
+1. Clinician over-read and comparison with earlier ECGs
+2. A repeat ECG with careful, correct chest-lead placement
+3. An echocardiogram to look for a thin or poorly moving front wall
+4. Risk-factor treatment and cardiology follow-up if scar is confirmed
+
+### Questions to ask your doctor
+
+- Could the chest electrodes have been placed too high?
+- Is this new compared with my previous ECG?
+- Should I have an echocardiogram to settle it?
+@@FAQ@@
+Q: What is the difference between anterior, septal and anteroseptal infarct?
+A: Only the leads involved. Septal is V1–V2, anterior is V3–V4, and anteroseptal involves both.
+Q: Can anteroseptal infarct on ECG be a false alarm?
+A: Yes, commonly. Poor R wave progression from lead placement or body build produces the same picture in healthy people.
+Q: How is it confirmed?
+A: With an echocardiogram and by comparing the ECG with earlier tracings.
+@@RELATED@@
+Anterior Infarct, Age Undetermined: ECG Meaning | https://www.ecgmeans.com/anterior-infarct-age-undetermined/ | Needs clinician review
+Septal Infarct on an ECG: What It Means | https://www.ecgmeans.com/septal-infarct/ | Depends on context
+Inferior Infarct, Age Undetermined: ECG Meaning | https://www.ecgmeans.com/inferior-infarct-age-undetermined/ | Needs clinician review
+Poor R Wave Progression: What It Means | https://www.ecgmeans.com/poor-r-wave-progression/ | Depends on context
+Abnormal ECG: What It Means on Your Report | https://www.ecgmeans.com/abnormal-ecg/ | Depends on context
+@@ALSO@@
+anteroseptal infarct age undetermined, possible anteroseptal infarct, anteroseptal infarct ecg
+@@SOURCES@@
+Silent Heart Attack | https://my.clevelandclinic.org/health/diseases/21630-silent-heart-attack
+Anterior Myocardial Infarction | https://litfl.com/anterior-myocardial-infarction-ecg-library/
+The Q Wave | https://litfl.com/q-wave-ecg-library/
+@@END@@

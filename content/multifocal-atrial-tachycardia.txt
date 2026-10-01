@@ -1,0 +1,69 @@
+@@TITLE@@
+Multifocal Atrial Tachycardia (MAT) on ECG: Meaning & Causes
+@@DESC@@
+Multifocal atrial tachycardia is a fast, irregular rhythm with at least three P wave shapes, strongly linked to lung disease. Learn how it differs from atrial fibrillation.
+@@H1@@
+Multifocal Atrial Tachycardia (MAT): What It Means
+@@CATEGORY@@
+Heart Rhythms | https://www.ecgmeans.com/heart-rhythms/
+@@QUICK@@
+Needs clinician review
+@@LEDE@@
+Multifocal atrial tachycardia (MAT) is a fast, irregular rhythm in which several different sites in the atria fire in competition, producing at least three distinct P wave shapes at a rate over 100. It is strongly associated with serious lung disease and other acute illness, so although the rhythm itself is rarely the main danger, it is a marker that the person is unwell.
+@@BODY@@
+## What "multifocal atrial tachycardia" means
+
+In MAT at least three separate atrial pacemaker sites fire independently, each producing its own P wave shape, at a combined rate above 100 beats per minute. The irregular timing can make it look like atrial fibrillation, but unlike AF there are clear (if varying) P waves before the QRS complexes.
+
+MAT most often appears in people with severe chronic lung disease, especially during a flare-up with low oxygen, and in other acute illnesses. Treating the underlying illness is usually what settles the rhythm.
+
+## What it looks like on the ECG
+
+An irregular rhythm over 100 beats per minute with at least three different P wave shapes and varying PR intervals. Each QRS is preceded by a P wave, which distinguishes it from atrial fibrillation.
+
+## Common causes
+
+- Chronic obstructive pulmonary disease (COPD), especially during an exacerbation
+- Low blood oxygen and acute illness
+- Heart failure and coronary disease
+- Low potassium or magnesium
+- Theophylline and some other medicines
+
+## Should you worry?
+
+MAT is usually a sign that someone is significantly unwell, most often from a lung problem, so the focus is on finding and treating that cause. The rhythm itself seldom needs specific anti-arrhythmic treatment and often resolves once the illness improves. It is managed in a medical setting rather than ignored.
+
+**Get urgent help** if this finding comes with chest pain or pressure, severe breathlessness, fainting, or a fast heartbeat that will not settle. Those symptoms matter more than any single ECG phrase.
+
+## What usually happens next
+
+1. Assessment and treatment of the underlying illness, especially the lungs
+2. Checking and correcting oxygen, potassium and magnesium
+3. Review of medicines such as theophylline
+4. Rate-controlling medication (often a calcium-channel blocker) if needed
+
+### Questions to ask your doctor
+
+- What underlying illness is driving this rhythm?
+- Are my oxygen and electrolyte levels normal?
+- Will it settle once the illness is treated?
+@@FAQ@@
+Q: Is multifocal atrial tachycardia serious?
+A: The rhythm is seldom the main danger, but it usually signals serious underlying illness such as a COPD flare, so it is taken seriously.
+Q: How is it different from atrial fibrillation?
+A: Both are irregular, but MAT has clear P waves (at least three shapes) before the QRS complexes, while atrial fibrillation has none.
+Q: How is it treated?
+A: Mainly by treating the underlying illness and correcting oxygen and electrolytes; rate-controlling medication is used if necessary.
+@@RELATED@@
+Wandering Atrial Pacemaker: What It Means | https://www.ecgmeans.com/wandering-atrial-pacemaker/ | Usually harmless
+Atrial Fibrillation: What It Means on an ECG | https://www.ecgmeans.com/atrial-fibrillation/ | Needs clinician review
+Ectopic Atrial Rhythm: What It Means | https://www.ecgmeans.com/ectopic-atrial-rhythm/ | Depends on context
+Sinus Tachycardia: What It Means | https://www.ecgmeans.com/sinus-tachycardia/ | Depends on context
+Atrial Flutter: What It Means on an ECG | https://www.ecgmeans.com/atrial-flutter/ | Needs clinician review
+@@ALSO@@
+multifocal atrial tachycardia ecg, mat ecg, mat rhythm, three p wave morphologies
+@@SOURCES@@
+Multifocal Atrial Tachycardia | https://my.clevelandclinic.org/health/diseases/multifocal-atrial-tachycardia
+Multifocal Atrial Tachycardia | https://www.ncbi.nlm.nih.gov/books/NBK532993/
+Multifocal Atrial Tachycardia (MAT) | https://litfl.com/multifocal-atrial-tachycardia-mat-ecg-library/
+@@END@@

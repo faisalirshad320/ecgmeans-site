@@ -1,0 +1,69 @@
+@@TITLE@@
+Wandering Atrial Pacemaker on ECG: Meaning & Causes
+@@DESC@@
+Wandering atrial pacemaker is a usually benign rhythm where the pacemaker site shifts, changing the P wave shape. Learn how it differs from multifocal atrial tachycardia.
+@@H1@@
+Wandering Atrial Pacemaker: What It Means
+@@CATEGORY@@
+Heart Rhythms | https://www.ecgmeans.com/heart-rhythms/
+@@QUICK@@
+Usually harmless
+@@LEDE@@
+A wandering atrial pacemaker means the spot that starts each heartbeat drifts between the sinus node and other sites in the atria, so the P waves change shape from beat to beat. The heart rate stays normal (under 100). It is usually a benign finding related to normal changes in vagal tone, and is common in the young, the old and athletes.
+@@BODY@@
+## What "wandering atrial pacemaker" means
+
+Normally every beat starts in the sinus node. In a wandering atrial pacemaker the leadership passes back and forth between the sinus node and other atrial pacemaker cells, often as breathing and vagal tone change. Each site produces a slightly different P wave, so the P waves vary in shape and the PR interval changes a little, while the rate remains normal.
+
+It is essentially the slow-rate cousin of multifocal atrial tachycardia: the same shifting-pacemaker picture, but under 100 beats per minute and usually harmless.
+
+## What it looks like on the ECG
+
+At least three differently shaped P waves, varying PR intervals, and a rate below 100. Every QRS is still preceded by a P wave.
+
+## Common causes
+
+- Normal variant, especially in children, young adults and athletes (high vagal tone)
+- The elderly
+- Sometimes lung disease or heart disease, as a forerunner of multifocal atrial tachycardia
+- Digoxin effect
+
+## Should you worry?
+
+Usually harmless
+
+In a healthy person it needs no treatment and causes no symptoms. It occasionally points to underlying lung or heart disease, particularly if it speeds up into multifocal atrial tachycardia, so the context is what matters rather than the rhythm itself.
+
+**Get urgent help** if this finding comes with chest pain or pressure, severe breathlessness, fainting, or a fast heartbeat that will not settle. Those symptoms matter more than any single ECG phrase.
+
+## What usually happens next
+
+1. Usually reassurance, with no treatment needed
+2. Consideration of lung or heart disease if there are symptoms
+3. Monitoring if it alternates with a faster atrial rhythm
+
+### Questions to ask your doctor
+
+- Is this just a normal variant for me?
+- Is there any sign of lung or heart disease?
+- Does it need any monitoring?
+@@FAQ@@
+Q: Is a wandering atrial pacemaker dangerous?
+A: Usually not. In a healthy person it is a benign normal variant that needs no treatment.
+Q: What is the difference from multifocal atrial tachycardia?
+A: They look alike, but a wandering atrial pacemaker runs under 100 beats per minute, while multifocal atrial tachycardia is over 100 and usually signals illness.
+Q: Does it need treatment?
+A: No, not in itself. Any treatment is directed at an underlying lung or heart condition if one is present.
+@@RELATED@@
+Multifocal Atrial Tachycardia: What It Means | https://www.ecgmeans.com/multifocal-atrial-tachycardia/ | Needs clinician review
+Ectopic Atrial Rhythm: What It Means | https://www.ecgmeans.com/ectopic-atrial-rhythm/ | Depends on context
+Sinus Rhythm With Sinus Arrhythmia: What It Means | https://www.ecgmeans.com/sinus-arrhythmia/ | Usually harmless
+Sinus Rhythm With PACs: What It Means | https://www.ecgmeans.com/sinus-rhythm-with-pac/ | Usually harmless
+Sinus Bradycardia: What It Means | https://www.ecgmeans.com/sinus-bradycardia/ | Usually harmless
+@@ALSO@@
+wandering atrial pacemaker ecg, wandering pacemaker, wap ecg, multiple p wave morphologies
+@@SOURCES@@
+Wandering Atrial Pacemaker | https://my.clevelandclinic.org/health/diseases/wandering-atrial-pacemaker
+Wandering Atrial Pacemaker | https://www.ncbi.nlm.nih.gov/books/NBK536985/
+Atrial Ectopics and Wandering Pacemaker | https://litfl.com/wandering-atrial-pacemaker/
+@@END@@

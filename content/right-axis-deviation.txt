@@ -1,0 +1,71 @@
+@@TITLE@@
+Right Axis Deviation on ECG: Meaning & Causes
+@@DESC@@
+Right axis deviation means the heart's electrical direction points further right than normal. See the causes, when it is a normal variant, and when it matters.
+@@H1@@
+Right Axis Deviation: What It Means on an ECG
+@@CATEGORY@@
+ECG Report Phrases | https://www.ecgmeans.com/ecg-report-phrases/
+@@QUICK@@
+Depends on context
+@@LEDE@@
+Right axis deviation means the average direction of electrical flow through your ventricles points further to the right than usual — beyond +90°, where normal is −30° to +90°. It can be a normal variant in tall, slim young people, but it is also a classic sign of strain on the right side of the heart, so it is read together with the rest of the tracing.
+@@BODY@@
+## What "right axis deviation" means
+
+The ECG calculates the QRS axis from the limb leads and prints it in degrees. The axis naturally sits more to the right in children, tall thin adults and people with a vertical heart. A clearly rightward axis in an adult, however, often reflects the right ventricle working harder than usual, which pulls the electrical forces towards it.
+
+Isolated right axis deviation with an otherwise normal ECG, in a slim young person, is usually benign. The same finding with signs of right heart strain, a tall R wave in V1 or breathlessness means something different.
+
+## What it looks like on the ECG
+
+Lead I shows a mainly downward (negative) QRS while lead aVF is upright — the opposite of the normal pattern. The printed axis figure is more positive than +90°.
+
+## Common causes
+
+- Normal variant in tall, slim or young people
+- Right ventricular hypertrophy and pulmonary hypertension
+- Chronic lung disease, pulmonary embolism
+- Left posterior fascicular block
+- Lateral wall heart attack
+- Dextrocardia or lead misplacement (arm leads swapped)
+
+## Should you worry?
+
+Depends on context
+
+As an isolated finding in a well, slim person it rarely matters. It becomes important alongside a dominant R wave in V1, right atrial enlargement, breathlessness or known lung disease, where it supports a diagnosis of right heart strain.
+
+**Get urgent help** if this finding comes with chest pain or pressure, severe breathlessness, fainting, or a fast heartbeat that will not settle. Those symptoms matter more than any single ECG phrase.
+
+## What usually happens next
+
+1. Checking the arm electrodes were not swapped
+2. Looking at the rest of the ECG for signs of right heart strain
+3. An echocardiogram if right ventricular hypertrophy or lung disease is suspected
+
+### Questions to ask your doctor
+
+- Could the limb leads have been placed wrongly?
+- Is there any other sign of right-heart strain on my ECG?
+- Given my build, is this just a normal variant?
+@@FAQ@@
+Q: Is right axis deviation serious?
+A: Not always. It can be normal in slim young people, but it can also signal right heart strain, so it is interpreted alongside the rest of the ECG.
+Q: What is the most common cause in adults?
+A: Right ventricular hypertrophy from lung disease, though a normal vertical heart and lead misplacement are also common explanations.
+Q: Can lead placement cause it?
+A: Yes. Swapped arm electrodes are a classic cause of a sudden apparent axis change.
+@@RELATED@@
+Left Axis Deviation: What It Means on an ECG | https://www.ecgmeans.com/left-axis-deviation/ | Usually harmless
+Right Ventricular Hypertrophy: What It Means | https://www.ecgmeans.com/right-ventricular-hypertrophy/ | Needs clinician review
+Possible Right Atrial Enlargement: ECG Meaning | https://www.ecgmeans.com/right-atrial-enlargement/ | Needs clinician review
+Right Bundle Branch Block: What It Means | https://www.ecgmeans.com/right-bundle-branch-block/ | Usually harmless
+Abnormal ECG: What It Means on Your Report | https://www.ecgmeans.com/abnormal-ecg/ | Depends on context
+@@ALSO@@
+right axis deviation ecg, rad ecg, right axis deviation causes, right axis deviation meaning
+@@SOURCES@@
+Electrical Right and Left Axis Deviation | https://www.ncbi.nlm.nih.gov/books/NBK470532/
+Right Axis Deviation (RAD) | https://litfl.com/right-axis-deviation-rad-ecg-library/
+ECG Axis Interpretation | https://litfl.com/ecg-axis-interpretation/
+@@END@@

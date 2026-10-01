@@ -1,0 +1,70 @@
+@@TITLE@@
+Left Bundle Branch Block (LBBB) on ECG: Meaning & Causes
+@@DESC@@
+Left bundle branch block means the left side of the heart's wiring is delayed. Learn what it implies, why a new LBBB is taken seriously, and what tests follow.
+@@H1@@
+Left Bundle Branch Block: What It Means
+@@CATEGORY@@
+Heart Blocks & Conduction | https://www.ecgmeans.com/heart-block-conduction/
+@@QUICK@@
+NONE
+@@LEDE@@
+Left bundle branch block (LBBB) means the electrical impulse cannot travel down the left branch of the heart's wiring, so the left ventricle is activated late and indirectly. On the ECG the QRS becomes wide (120 ms or more) with a characteristic shape. Unlike its right-sided counterpart, LBBB is usually associated with underlying heart disease and prompts an echocardiogram.
+@@BODY@@
+## What "left bundle branch block" means
+
+Below the AV node the conduction system splits into a right and a left bundle. When the left one is blocked, the right ventricle fires first and the impulse then spreads slowly through muscle to the left. The delay widens the QRS and also changes the ST segments and T waves, which is why many other ECG findings cannot be read reliably in the presence of LBBB.
+
+A QRS of 110–119 ms with the same shape is called incomplete LBBB. New LBBB during chest pain is treated as a possible heart attack until proven otherwise.
+
+## What it looks like on the ECG
+
+A wide QRS (≥120 ms), broad notched R waves in leads I, aVL, V5 and V6, deep S waves in V1–V2, and T waves that point the opposite way to the QRS.
+
+## Common causes
+
+- High blood pressure with left ventricular thickening
+- Coronary artery disease and previous heart attack
+- Dilated cardiomyopathy
+- Aortic valve disease
+- Age-related degeneration of the conduction system
+- Occasionally no cause is found
+
+## Should you worry?
+
+LBBB should always be explained. Some people have it for years with a structurally normal heart and do well, but it is more often a marker of an underlying condition and slightly raises the long-term risk of heart failure and higher-grade block. New LBBB with symptoms is an emergency.
+
+**Get urgent help** if this finding comes with chest pain or pressure, severe breathlessness, fainting, or a fast heartbeat that will not settle. Those symptoms matter more than any single ECG phrase.
+
+## What usually happens next
+
+1. Echocardiogram to assess pumping function and valves
+2. Blood pressure review and cholesterol assessment
+3. Stress imaging or angiography if coronary disease is suspected
+4. In heart failure, LBBB is a reason to consider a special pacemaker (CRT)
+
+### Questions to ask your doctor
+
+- Is this new?
+- What does my echocardiogram show?
+- Do I need investigation for coronary disease?
+@@FAQ@@
+Q: Is left bundle branch block serious?
+A: It is more significant than right bundle branch block and usually leads to an echocardiogram, but many people with LBBB and a normal echo do well.
+Q: Can LBBB be reversed?
+A: Rarely. It can occasionally appear only at fast heart rates (rate-related LBBB) and disappear when the heart slows.
+Q: Does LBBB need a pacemaker?
+A: Not on its own. A pacemaker or CRT device is considered if there is heart failure or higher-grade block.
+@@RELATED@@
+Right Bundle Branch Block: What It Means | https://www.ecgmeans.com/right-bundle-branch-block/ | Usually harmless
+Left Anterior Fascicular Block: What It Means | https://www.ecgmeans.com/left-anterior-fascicular-block/ | Usually harmless
+Left Axis Deviation: What It Means on an ECG | https://www.ecgmeans.com/left-axis-deviation/ | Usually harmless
+QRS Interval: Normal Range and What a Wide QRS Means | https://www.ecgmeans.com/qrs-interval/ | Depends on context
+Septal Infarct on an ECG: What It Means | https://www.ecgmeans.com/septal-infarct/ | Depends on context
+@@ALSO@@
+lbbb, lbbb ecg, left bundle branch block ecg, incomplete left bundle branch block
+@@SOURCES@@
+Left Bundle Branch Block | https://my.clevelandclinic.org/health/diseases/23287-left-bundle-branch-block
+Left Bundle Branch Block | https://www.ncbi.nlm.nih.gov/books/NBK482167/
+Left Bundle Branch Block (LBBB) | https://litfl.com/left-bundle-branch-block-lbbb-ecg-library/
+@@END@@

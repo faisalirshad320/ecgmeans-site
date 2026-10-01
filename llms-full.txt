@@ -1,0 +1,275 @@
+# ECG Means — full content index
+
+> Your ECG report, explained in plain English. Reviewed by Dr. Faisal Irshad, MBBS (PMDC 54440-S).
+
+## ECG Report Phrases
+
+### Abnormal ECG: What It Means on Your Report
+URL: https://www.ecgmeans.com/abnormal-ecg/
+Verdict/quick answer: Depends on context
+"Abnormal ECG" is a summary line printed by the ECG machine's software. It means at least one measurement — rate, rhythm, an interval or a wave shape — fell outside the program's normal limits. It is not a diagnosis. Many abnormal readings turn out to be harmless variants once a clinician looks at the tracing and at you.
+
+### Anterior Infarct, Age Undetermined: ECG Meaning
+URL: https://www.ecgmeans.com/anterior-infarct-age-undetermined/
+Verdict/quick answer: Needs clinician review
+"Anterior infarct, age undetermined" means the software saw Q waves or missing R waves in the chest leads over the front of the heart (V2–V4), a pattern that a past heart attack can leave. It cannot say when, or be certain it happened at all. Lead placement, thick heart muscle and bundle branch block commonly mimic it.
+
+### Anteroseptal Infarct, Age Undetermined: ECG Meaning
+URL: https://www.ecgmeans.com/anteroseptal-infarct/
+Verdict/quick answer: Needs clinician review
+"Anteroseptal infarct, age undetermined" means the software saw a pattern across the front and middle of the chest leads (V1–V4) that a past heart attack can leave — combining the septal (V1–V2) and anterior (V3–V4) territories. It cannot date it or be certain it happened. Chest-lead placement, body build and bundle branch block are common innocent mimics.
+
+### Borderline ECG: What It Means
+URL: https://www.ecgmeans.com/borderline-ecg/
+Verdict/quick answer: Usually harmless
+A "borderline ECG" means the machine found something just outside its normal limits, but not far enough to call the tracing abnormal. It is the software's way of saying "probably fine, worth a human glance". In people without symptoms it is most often a normal variant or a technical artefact.
+
+### Early Repolarization on an ECG: What It Means
+URL: https://www.ecgmeans.com/early-repolarization/
+Verdict/quick answer: Usually harmless
+Early repolarization is a common normal variant in which the point where the QRS ends and the ST segment begins (the J point) sits slightly above the baseline, often with a small notch. It is seen in roughly 1 in 10 to 1 in 20 people, especially young adults, athletes and men, and in the great majority it is harmless.
+
+### Inferior Infarct, Age Undetermined: ECG Meaning
+URL: https://www.ecgmeans.com/inferior-infarct-age-undetermined/
+Verdict/quick answer: Needs clinician review
+"Inferior infarct, age undetermined" means the software saw Q waves in the leads that look at the bottom (inferior) wall of the heart — II, III and aVF — a pattern a past heart attack can leave. It cannot say when, or be sure it happened at all. Small inferior Q waves are common in healthy people, so this is one of the more frequently over-called findings.
+
+### Left Axis Deviation: What It Means on an ECG
+URL: https://www.ecgmeans.com/left-axis-deviation/
+Verdict/quick answer: Usually harmless
+Left axis deviation means the average direction of electrical flow through your ventricles points further up and to the left than usual — between −30° and −90°, where normal is −30° to +90°. It is a measurement rather than a disease, and as an isolated finding it usually needs no action.
+
+### Left Ventricular Hypertrophy (LVH): What It Means on an ECG
+URL: https://www.ecgmeans.com/left-ventricular-hypertrophy/
+Verdict/quick answer: Needs clinician review
+Left ventricular hypertrophy (LVH) means the main pumping chamber's muscle is thicker than normal. The ECG only measures the electricity, so it infers LVH from tall QRS complexes using "voltage criteria". These criteria miss many thick hearts and flag many normal ones — especially slim, young or athletic people — so the ECG statement is a prompt for an echocardiogram, not a diagnosis.
+
+### Low Voltage QRS: What It Means
+URL: https://www.ecgmeans.com/low-voltage-qrs/
+"Low voltage QRS" means the main spikes of your ECG are unusually small: under 5 mm in all six limb leads, or under 10 mm in all six chest leads. Either the heart is generating less signal, or — more commonly — something between the heart and the skin electrodes, such as fat, air or fluid, is dampening it.
+
+### Nonspecific T Wave Abnormality: What It Means
+URL: https://www.ecgmeans.com/nonspecific-t-wave-abnormality/
+Verdict/quick answer: Depends on context
+"Nonspecific T wave abnormality" means your T waves are flatter than expected, or very slightly inverted, without forming any pattern that points to a particular disease. The T wave is the most easily influenced part of the ECG — breathing, meals, anxiety, medicines and electrolytes all change it — so this is a common and usually minor finding.
+
+### Poor R Wave Progression: What It Means
+URL: https://www.ecgmeans.com/poor-r-wave-progression/
+Verdict/quick answer: Depends on context
+"Poor R wave progression" means the upward R wave does not get taller as it should from chest lead V1 to V4 — typically the R wave in V3 is 3 mm or less. It can be a trace left by an old heart attack on the front of the heart, but far more often it reflects electrode position, body build or a normal variant.
+
+### Possible Left Atrial Enlargement: ECG Meaning
+URL: https://www.ecgmeans.com/left-atrial-enlargement/
+Verdict/quick answer: Needs clinician review
+"Possible left atrial enlargement" means the P wave — the small bump before each QRS — is wider or more notched than usual, a shape that can occur when the left upper chamber of the heart is stretched or under pressure. The ECG is a poor judge of chamber size, so this is a hint, not a measurement; an echocardiogram gives the real answer.
+
+### Possible Right Atrial Enlargement: ECG Meaning
+URL: https://www.ecgmeans.com/right-atrial-enlargement/
+Verdict/quick answer: Needs clinician review
+"Possible right atrial enlargement" means the first part of your P wave — the bit made by the right upper chamber — is taller and more peaked than usual, a pattern called P pulmonale. Like its left-sided counterpart it is only a hint from the P wave shape; the ECG judges chamber size poorly, so an echocardiogram gives the real answer.
+
+### Right Axis Deviation: What It Means on an ECG
+URL: https://www.ecgmeans.com/right-axis-deviation/
+Verdict/quick answer: Depends on context
+Right axis deviation means the average direction of electrical flow through your ventricles points further to the right than usual — beyond +90°, where normal is −30° to +90°. It can be a normal variant in tall, slim young people, but it is also a classic sign of strain on the right side of the heart, so it is read together with the rest of the tracing.
+
+### Right Ventricular Hypertrophy (RVH): What It Means
+URL: https://www.ecgmeans.com/right-ventricular-hypertrophy/
+Verdict/quick answer: Needs clinician review
+Right ventricular hypertrophy (RVH) means the smaller, right-sided pumping chamber has thickened, usually because it is working against high pressure in the lungs. On the ECG the normally small right ventricle starts to dominate, giving a tall R wave in lead V1 and a rightward axis. The ECG is insensitive to it, so an echocardiogram is the test that confirms it.
+
+### Septal Infarct on an ECG: What It Means
+URL: https://www.ecgmeans.com/septal-infarct/
+Verdict/quick answer: Depends on context
+"Septal infarct" means the ECG software saw a pattern in chest leads V1–V2 that can be left behind by a past heart attack affecting the septum, the wall between the ventricles. It is one of the most frequently over-called findings. Misplaced chest electrodes and normal variation produce the same pattern in people who have never had a heart attack.
+
+## Heart Rhythms
+
+### Accelerated Junctional Rhythm: What It Means
+URL: https://www.ecgmeans.com/accelerated-junctional-rhythm/
+Verdict/quick answer: Needs clinician review
+Accelerated junctional rhythm is a rhythm arising from the AV junction at 60–100 beats per minute — faster than the junction's natural 40–60, so it outpaces the sinus node. The QRS is narrow and normal-looking but the P waves are missing or upside-down. It usually signals irritation of the junction by a drug, recent surgery or reduced blood supply.
+
+### Atrial Fibrillation: What It Means on an ECG
+URL: https://www.ecgmeans.com/atrial-fibrillation/
+Verdict/quick answer: Needs clinician review
+Atrial fibrillation (AF or AFib) is the most common sustained abnormal heart rhythm. The upper chambers quiver instead of beating in an organised way, so the pulse becomes irregular and often fast. On the ECG there are no normal P waves and the QRS complexes are irregularly spaced. It is rarely immediately life-threatening, but it raises the risk of stroke and needs proper assessment.
+
+### Atrial Flutter: What It Means on an ECG
+URL: https://www.ecgmeans.com/atrial-flutter/
+Verdict/quick answer: Needs clinician review
+Atrial flutter is a fast, usually regular rhythm in which the upper chambers beat in a rapid, organised circle — around 300 times a minute — while the AV node lets only a fraction through to the ventricles. On the ECG it produces a distinctive "sawtooth" baseline. It is a close relative of atrial fibrillation and carries a similar stroke risk.
+
+### Bigeminy: What It Means on an ECG
+URL: https://www.ecgmeans.com/bigeminy/
+Verdict/quick answer: Depends on context
+Bigeminy means every second heartbeat is a premature (extra) beat, so beats arrive in pairs: normal, early, pause; normal, early, pause. Usually the extra beats are PVCs from the lower chambers — ventricular bigeminy. It can feel like a slow or thumping pulse. In a structurally normal heart it is generally benign.
+
+### Ectopic Atrial Rhythm: What It Means
+URL: https://www.ecgmeans.com/ectopic-atrial-rhythm/
+Verdict/quick answer: Depends on context
+An ectopic atrial rhythm means the heartbeat is being started by a site in the atria other than the sinus node. The rhythm is regular and the QRS normal, but the P waves look different from usual — sometimes small, flat or inverted. At a normal rate it is often a harmless variant; it takes on more importance only when it is fast or persistent.
+
+### Idioventricular Rhythm: What It Means
+URL: https://www.ecgmeans.com/idioventricular-rhythm/
+Verdict/quick answer: Seek prompt care
+An idioventricular rhythm is a slow rhythm, usually 20–40 beats per minute, generated by the ventricles themselves when no impulse reaches them from above. The QRS complexes are wide and there are no related P waves. The accelerated form (AIVR), at roughly 50–110 per minute, is commonly seen for a short time after a blocked coronary artery is reopened and is usually harmless.
+
+### Junctional Rhythm: What It Means
+URL: https://www.ecgmeans.com/junctional-rhythm/
+A junctional rhythm means the heartbeat is being started by the AV junction — the relay point between the upper and lower chambers — instead of the usual sinus node. It typically runs at 40–60 beats per minute with a normal narrow QRS but no normal P wave in front. It is a back-up rhythm that appears when the sinus node slows or is blocked.
+
+### Multifocal Atrial Tachycardia (MAT): What It Means
+URL: https://www.ecgmeans.com/multifocal-atrial-tachycardia/
+Verdict/quick answer: Needs clinician review
+Multifocal atrial tachycardia (MAT) is a fast, irregular rhythm in which several different sites in the atria fire in competition, producing at least three distinct P wave shapes at a rate over 100. It is strongly associated with serious lung disease and other acute illness, so although the rhythm itself is rarely the main danger, it is a marker that the person is unwell.
+
+### Sinus Bradycardia: What It Means
+URL: https://www.ecgmeans.com/sinus-bradycardia/
+Verdict/quick answer: Usually harmless
+Sinus bradycardia is a normal heart rhythm at a rate below 60 beats per minute. The beat starts in the right place and travels the normal route; it is simply slow. It is normal during sleep and in physically fit people, and is only a problem if the rate is too slow to meet your body's needs.
+
+### Sinus Pause and Sinus Arrest: What They Mean
+URL: https://www.ecgmeans.com/sinus-pause-arrest/
+Verdict/quick answer: Depends on context
+A sinus pause (or sinus arrest) is a gap in which the heart's natural pacemaker, the sinus node, briefly fails to fire, so no beat is produced for a moment. Short pauses are common and usually harmless, especially during sleep or in athletes. Long pauses, or pauses that cause dizziness or fainting, point to sinus node disease and may need a pacemaker.
+
+### Sinus Rhythm With PACs: What It Means
+URL: https://www.ecgmeans.com/sinus-rhythm-with-pac/
+Verdict/quick answer: Usually harmless
+"Sinus rhythm with PACs" means your underlying rhythm is normal, with occasional early beats arising from the upper chambers (premature atrial complexes, also called contractions). Almost everyone has some. They may be felt as a skipped beat or flutter and are harmless in the great majority of people.
+
+### Sinus Rhythm With Sinus Arrhythmia: What It Means
+URL: https://www.ecgmeans.com/sinus-arrhythmia/
+Verdict/quick answer: Usually harmless
+Sinus arrhythmia is a normal, harmless variation in which the heart speeds up slightly as you breathe in and slows as you breathe out. Despite the word "arrhythmia", it is not a rhythm disorder. It is most obvious in children, young adults and fit people, and indicates a healthy, responsive nervous system.
+
+### Sinus Rhythm: What It Means on Your ECG
+URL: https://www.ecgmeans.com/sinus-rhythm/
+Verdict/quick answer: Usually harmless
+Sinus rhythm is the normal rhythm of the heart. It means each heartbeat is being started by the heart's natural pacemaker, the sinus node, and travelling through the normal pathway. "Normal sinus rhythm" adds that the rate is between 60 and 100 beats per minute. The word "sinus" has nothing to do with your nose.
+
+### Sinus Tachycardia: What It Means
+URL: https://www.ecgmeans.com/sinus-tachycardia/
+Verdict/quick answer: Depends on context
+Sinus tachycardia is a normal heart rhythm at a rate above 100 beats per minute at rest. The heart's own pacemaker is simply firing faster, nearly always as a response to something — exertion, anxiety, pain, fever, dehydration, caffeine or illness. It is a sign to look for the trigger rather than a heart rhythm disease in itself.
+
+### Trigeminy: What It Means on an ECG
+URL: https://www.ecgmeans.com/trigeminy/
+Verdict/quick answer: Depends on context
+Trigeminy is a repeating pattern in which every third heartbeat is a premature (extra) beat: normal, normal, early, pause. When the extra beats come from the lower chambers it is ventricular trigeminy, the usual form. It reflects frequent PVCs falling into a regular pattern and, in an otherwise healthy heart, is generally harmless.
+
+### Wandering Atrial Pacemaker: What It Means
+URL: https://www.ecgmeans.com/wandering-atrial-pacemaker/
+Verdict/quick answer: Usually harmless
+A wandering atrial pacemaker means the spot that starts each heartbeat drifts between the sinus node and other sites in the atria, so the P waves change shape from beat to beat. The heart rate stays normal (under 100). It is usually a benign finding related to normal changes in vagal tone, and is common in the young, the old and athletes.
+
+## Heart Blocks & Conduction
+
+### Left Anterior Fascicular Block: What It Means
+URL: https://www.ecgmeans.com/left-anterior-fascicular-block/
+Verdict/quick answer: Usually harmless
+Left anterior fascicular block (LAFB, or left anterior hemiblock) means one of the two small branches of the left bundle — the anterior fascicle — is delayed. The result is a marked leftward shift of the QRS axis with only slight widening of the QRS. It is a common finding, particularly with age, and on its own is generally harmless.
+
+### Left Bundle Branch Block: What It Means
+URL: https://www.ecgmeans.com/left-bundle-branch-block/
+Left bundle branch block (LBBB) means the electrical impulse cannot travel down the left branch of the heart's wiring, so the left ventricle is activated late and indirectly. On the ECG the QRS becomes wide (120 ms or more) with a characteristic shape. Unlike its right-sided counterpart, LBBB is usually associated with underlying heart disease and prompts an echocardiogram.
+
+### Right Bundle Branch Block: What It Means
+URL: https://www.ecgmeans.com/right-bundle-branch-block/
+Verdict/quick answer: Usually harmless
+Right bundle branch block (RBBB) means the impulse is delayed in the right branch of the heart's wiring, so the right ventricle is activated a little late. The QRS widens and takes on an "M-shaped" rSR' pattern in lead V1. Incomplete RBBB (QRS 110–119 ms) is a common normal variant, particularly in young people; complete RBBB is usually harmless too but is worth checking once.
+
+### Second Degree AV Block Type 1 (Wenckebach): What It Means
+URL: https://www.ecgmeans.com/second-degree-av-block-type-1/
+Verdict/quick answer: Depends on context
+Second degree AV block type 1 — also called Mobitz I or Wenckebach — is a pattern in which the delay through the AV node grows longer with each beat until one impulse fails to get through and a beat is dropped, after which the cycle restarts. The block is in the AV node itself, and in most people it is benign, especially when it appears during sleep or in athletes.
+
+### Second Degree AV Block Type 2 (Mobitz II): What It Means
+URL: https://www.ecgmeans.com/second-degree-av-block-type-2/
+Verdict/quick answer: Seek prompt care
+Second degree AV block type 2 — Mobitz II — is a pattern in which some impulses from the atria are suddenly not conducted to the ventricles, with no warning lengthening of the PR interval beforehand. The block sits below the AV node in the bundle branches, which makes it unpredictable and liable to progress to complete heart block. It is one of the ECG findings that usually leads to a pacemaker.
+
+### Sinus Rhythm With 1st Degree AV Block: What It Means
+URL: https://www.ecgmeans.com/first-degree-av-block/
+Verdict/quick answer: Usually harmless
+First degree AV block means every impulse from the upper chambers still reaches the lower chambers, but it takes slightly longer than normal to get through the AV node — a PR interval longer than 200 ms (one large square). Nothing is actually blocked. In most people it is a benign finding that needs no treatment.
+
+### Third Degree (Complete) Heart Block: What It Means
+URL: https://www.ecgmeans.com/third-degree-av-block/
+Verdict/quick answer: Seek prompt care
+Third degree AV block — complete heart block — means the electrical connection between the upper and lower chambers has failed completely. The atria and ventricles beat independently, and the heart relies on a slow back-up (escape) rhythm to keep going. It is the most serious of the AV blocks and usually needs urgent assessment and a pacemaker.
+
+## Intervals & Waves
+
+### Peaked T Waves: What They Mean on an ECG
+URL: https://www.ecgmeans.com/peaked-t-waves/
+Verdict/quick answer: Depends on context
+Peaked T waves are T waves that are taller and more pointed than usual. They have two very different meanings: in a well person they are often a harmless normal variant (or early repolarization), but when they appear acutely they are the earliest ECG sign of a high blood potassium level (hyperkalaemia), which can be dangerous. The context decides which it is.
+
+### PR Interval: Normal Range and What Short or Long Means
+URL: https://www.ecgmeans.com/pr-interval/
+Verdict/quick answer: A normal PR interval is 120–200 ms (0.12–0.20 seconds), or 3–5 small squares on standard ECG paper.
+A normal PR interval is **120–200 ms** (0.12–0.20 seconds), or 3–5 small squares on standard ECG paper. It is the time from the start of the P wave to the start of the QRS — how long the impulse takes to travel from the atria, through the AV node, to the ventricles. Longer than 200 ms is first degree AV block; shorter than 120 ms may mean an accessory pathway or a junctional origin.
+
+### QRS Interval: Normal Range and What a Wide QRS Means
+URL: https://www.ecgmeans.com/qrs-interval/
+Verdict/quick answer: Normal is under 120 ms — less than three small squares — and many cardiologists prefer under 100–110 ms. A wide QRS means the impulse took a slow route: usually a bundle branch block, a beat starting in the ventricle, a pacemaker, or a drug or electrolyte effect.
+The QRS interval (or duration) is how long it takes the electrical impulse to spread through both ventricles. Normal is under 120 ms — less than three small squares — and many cardiologists prefer under 100–110 ms. A wide QRS means the impulse took a slow route: usually a bundle branch block, a beat starting in the ventricle, a pacemaker, or a drug or electrolyte effect.
+
+### QT and QTc Interval: Normal Range and Prolonged QT
+URL: https://www.ecgmeans.com/qt-interval/
+Verdict/quick answer: Normal QTc is under about 440 ms in men and 460 ms in women; over 500 ms is clearly prolonged and raises the risk of torsades de pointes.
+The QT interval is the time the ventricles take to activate and then recover. Because it naturally shortens at faster heart rates, the machine corrects it for rate and prints the QTc. Normal QTc is under about 440 ms in men and 460 ms in women; over 500 ms is clearly prolonged and raises the risk of a dangerous rhythm called torsades de pointes.
+
+### Short PR Interval: What It Means
+URL: https://www.ecgmeans.com/short-pr-interval/
+Verdict/quick answer: Depends on context
+A short PR interval — under 120 ms — means the impulse is reaching the ventricles faster than it normally would through the AV node. The important cause is an extra electrical connection (accessory pathway) that bypasses the node, as in Wolff-Parkinson-White. Without a delta wave and without palpitations, a short PR is often simply a normal variant.
+
+### ST Elevation: What It Means on an ECG
+URL: https://www.ecgmeans.com/st-elevation/
+Verdict/quick answer: Seek prompt care
+ST elevation means the ST segment — the flat part just after the QRS — sits above the baseline. In the setting of chest pain it is the hallmark of a major heart attack (a STEMI) and is a time-critical emergency. But ST elevation also has several harmless causes, such as early repolarization and the normal pattern in some leads, so it is always read together with your symptoms.
+
+### T Wave Inversion: What It Means on an ECG
+URL: https://www.ecgmeans.com/t-wave-inversion/
+Verdict/quick answer: Depends on context
+T wave inversion means the T wave points downward instead of upward. In some leads (aVR, V1, and often III) that is completely normal. In others it can be a normal variant, a sign of strain from a thick ventricle, a bundle branch block effect, or evidence of reduced blood supply or a recent heart attack. Which leads are involved, and whether it is new, decide its meaning.
+
+## Comparisons
+
+### EKG vs Echocardiogram: What's the Difference?
+URL: https://www.ecgmeans.com/ekg-vs-echocardiogram/
+Verdict/quick answer: An EKG records the heart's electrical activity over about ten seconds using stickers on the skin; an echocardiogram is an ultrasound scan that shows the heart's structure and pumping.
+An EKG (ECG) records the heart's electrical activity over about ten seconds using stickers on the skin; it shows rhythm, conduction and electrical signs of strain or damage. An echocardiogram is an ultrasound scan that shows the heart's structure and pumping — chamber sizes, wall thickness, valves and ejection fraction. They answer different questions, which is why an abnormal EKG is often followed by an echo.
+
+The EKG is the electrical tracing; the echocardiogram is an ultrasound picture of the heart itself.
+
+### PVC vs PAC: What's the Difference?
+URL: https://www.ecgmeans.com/pvc-vs-pac/
+Verdict/quick answer: Usually harmless
+A PAC (premature atrial contraction) is an early beat that starts in the upper chambers and travels the normal route, so its QRS looks normal. A PVC (premature ventricular contraction) starts in the lower chambers and spreads abnormally, giving a wide, odd-shaped QRS. Both are common and usually harmless; PVCs are the ones more often counted and followed up.
+
+### SVT vs VTach: What's the Difference?
+URL: https://www.ecgmeans.com/svt-vs-vtach/
+Verdict/quick answer: SVT (supraventricular tachycardia) is a fast rhythm that starts above the ventricles and produces narrow QRS complexes; it is uncomfortable but rarely dangerous in a healthy heart. VTach (ventricular tachycardia) starts in the ventricles, produces wide QRS complexes, and is potentially life-threatening. Any wide-complex tachycardia is treated as VT until proven otherwise.
+SVT (supraventricular tachycardia) is a fast rhythm that starts above the ventricles and produces narrow QRS complexes; it is uncomfortable but rarely dangerous in a healthy heart. VTach (ventricular tachycardia) starts in the ventricles, produces wide QRS complexes, and is potentially life-threatening. Any wide-complex tachycardia is treated as VT until proven otherwise.
+
+## ECG Basics
+
+### How to Read Your ECG Report: A Plain-English Guide
+URL: https://www.ecgmeans.com/how-to-read-ecg-report/
+Verdict/quick answer: Usually harmless
+An ECG report has three parts: a block of measurements (rate, PR, QRS, QT/QTc, axis), a list of automated findings, and an overall verdict such as Normal, Borderline or Abnormal ECG. The measurements are reliable; the findings are over-sensitive suggestions; the verdict is only as good as the most significant finding. This guide walks through each part.
+
+### If My ECG Is Normal, Is My Heart OK?
+URL: https://www.ecgmeans.com/if-ecg-is-normal-is-my-heart-ok/
+Verdict/quick answer: Usually harmless
+A normal ECG is reassuring: it makes an acute heart attack, a serious rhythm disturbance during the recording, and significant conduction disease unlikely. But it is a ten-second electrical snapshot. It cannot see blocked arteries that are not currently causing damage, mild valve disease, or a rhythm problem that comes and goes. Whether your heart is OK depends on what question is being asked.
+
+### What Is an EKG (ECG)? A Plain-English Guide
+URL: https://www.ecgmeans.com/what-is-an-ekg/
+Verdict/quick answer: Usually harmless
+An EKG — also written ECG — is a quick, painless test that records the electrical signals your heart makes with each beat. Small sticky pads on your chest, arms and legs pick up the signals, and the machine prints them as a set of waves. It takes only a few minutes, uses no needles and no radiation, and shows your heart's rhythm, rate and electrical health at that moment.
+

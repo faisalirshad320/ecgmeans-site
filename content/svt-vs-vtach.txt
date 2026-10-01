@@ -1,0 +1,67 @@
+@@TITLE@@
+SVT vs VTach (Ventricular Tachycardia): Key Differences
+@@DESC@@
+SVT and ventricular tachycardia are both fast rhythms but differ in origin, ECG appearance and danger. Learn how doctors tell them apart and how each is treated.
+@@H1@@
+SVT vs VTach: What's the Difference?
+@@CATEGORY@@
+Comparisons | https://www.ecgmeans.com/ecg-comparisons/
+@@QUICK@@
+SVT (supraventricular tachycardia) is a fast rhythm that starts above the ventricles and produces narrow QRS complexes; it is uncomfortable but rarely dangerous in a healthy heart. VTach (ventricular tachycardia) starts in the ventricles, produces wide QRS complexes, and is potentially life-threatening. Any wide-complex tachycardia is treated as VT until proven otherwise.
+@@LEDE@@
+SVT (supraventricular tachycardia) is a fast rhythm that starts above the ventricles and produces narrow QRS complexes; it is uncomfortable but rarely dangerous in a healthy heart. VTach (ventricular tachycardia) starts in the ventricles, produces wide QRS complexes, and is potentially life-threatening. Any wide-complex tachycardia is treated as VT until proven otherwise.
+@@BODY@@
+## What "svt vs vtach" means
+
+SVT is an umbrella term for re-entry or automatic rhythms in the atria or AV node — AVNRT, AVRT (via an accessory pathway), atrial tachycardia and, loosely, atrial flutter. Rates are typically 150–250, onset and offset are abrupt, and the QRS is narrow because the ventricles are activated normally.
+
+VT arises from ventricular muscle, usually around scar from a previous heart attack or in cardiomyopathy. The QRS is wide (over 120 ms) and bizarre, the rate is 120–250, and because the ventricles contract inefficiently it can cause collapse. SVT with a pre-existing bundle branch block can also look wide, which is why the distinction sometimes needs an expert.
+
+## What it looks like on the ECG
+
+SVT: regular narrow QRS at 150–250, P waves hidden or inverted. VT: regular wide QRS at 120–250, often with independent P waves, fusion beats and a very broad, uniform shape. Sinus tachycardia, by contrast, has normal P waves and speeds up and slows down gradually.
+
+## Common causes
+
+- SVT: congenital extra pathways or AV-node re-entry circuits, triggered by stress, caffeine, alcohol or illness
+- VT: previous heart attack, cardiomyopathy, myocarditis, inherited channel disorders, severe electrolyte disturbance, drug toxicity
+
+## Should you worry?
+
+SVT in a person with a normal heart is not usually dangerous and can often be stopped with vagal manoeuvres or medication; it is managed as an urgent but not life-threatening problem. VT is an emergency. Anyone with a fast heart rate plus chest pain, breathlessness, fainting or confusion should call emergency services.
+
+**Get urgent help** if this finding comes with chest pain or pressure, severe breathlessness, fainting, or a fast heartbeat that will not settle. Those symptoms matter more than any single ECG phrase.
+
+## What usually happens next
+
+1. SVT: vagal manoeuvres, adenosine in hospital, then beta-blockers or ablation to prevent recurrence
+2. VT: cardioversion if unstable, antiarrhythmic drugs, treatment of the cause, and often an implantable defibrillator (ICD)
+3. Both: echocardiogram and cardiology follow-up
+
+### Questions to ask your doctor
+
+- Was my fast rhythm narrow or wide complex?
+- Is my heart structurally normal?
+- What should I do if it happens again?
+@@FAQ@@
+Q: Is SVT dangerous?
+A: Rarely, in a structurally normal heart. It can be very unpleasant and occasionally causes fainting.
+Q: Is ventricular tachycardia always an emergency?
+A: Sustained VT is. Short runs (non-sustained VT) picked up on a monitor need assessment but are not always an emergency.
+Q: How do doctors tell SVT from VT?
+A: QRS width is the main clue. Wide-complex tachycardias are assumed to be VT unless there is clear evidence otherwise, because treating VT as SVT can be dangerous.
+@@RELATED@@
+Sinus Tachycardia: What It Means | https://www.ecgmeans.com/sinus-tachycardia/ | Depends on context
+Idioventricular Rhythm: What It Means | https://www.ecgmeans.com/idioventricular-rhythm/ | Seek prompt care
+QRS Interval: Normal Range and What a Wide QRS Means | https://www.ecgmeans.com/qrs-interval/ | Depends on context
+PVC vs PAC: What's the Difference? | https://www.ecgmeans.com/pvc-vs-pac/ | Usually harmless
+Bigeminy: What It Means on an ECG | https://www.ecgmeans.com/bigeminy/ | Depends on context
+Atrial Fibrillation: What It Means on an ECG | https://www.ecgmeans.com/atrial-fibrillation/ | Needs clinician review
+Atrial Flutter: What It Means on an ECG | https://www.ecgmeans.com/atrial-flutter/ | Needs clinician review
+@@ALSO@@
+svt vs vt, svt vs ventricular tachycardia, svt vs sinus tach, supraventricular tachycardia vs ventricular tachycardia
+@@SOURCES@@
+Supraventricular Tachycardia (SVT) | https://my.clevelandclinic.org/health/diseases/22152-svt-supraventricular-tachycardia
+Ventricular Tachycardia | https://www.ncbi.nlm.nih.gov/books/NBK532954/
+VT versus SVT | https://litfl.com/vt-versus-svt-ecg-library/
+@@END@@

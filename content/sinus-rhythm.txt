@@ -1,0 +1,61 @@
+@@TITLE@@
+Sinus Rhythm Meaning: Is It Normal on an ECG?
+@@DESC@@
+Sinus rhythm is the normal heartbeat. What the term means, the numbers behind it, and what the added words (with PACs, 1st degree AV block) mean.
+@@H1@@
+Sinus Rhythm: What It Means on Your ECG
+@@CATEGORY@@
+Heart Rhythms | https://www.ecgmeans.com/heart-rhythms/
+@@QUICK@@
+Usually harmless
+@@LEDE@@
+Sinus rhythm is the normal rhythm of the heart. It means each heartbeat is being started by the heart's natural pacemaker, the sinus node, and travelling through the normal pathway. "Normal sinus rhythm" adds that the rate is between 60 and 100 beats per minute. The word "sinus" has nothing to do with your nose.
+@@BODY@@
+## What "sinus rhythm" means
+
+The sinus (sinoatrial) node is a cluster of cells in the right upper chamber. It fires, the atria contract — producing the P wave — the impulse pauses at the AV node, then spreads through the ventricles to produce the QRS. If every QRS is preceded by a normal-looking P wave at a regular pace, the rhythm is sinus.
+
+Reports often print "sinus rhythm with …". The part after "with" is the actual finding: sinus rhythm with PACs (occasional early beats), with sinus arrhythmia (normal breathing-related variation), with first degree AV block (a long PR interval), and so on.
+
+## What it looks like on the ECG
+
+An upright P wave before every QRS in lead II, a constant PR interval of 120–200 ms, and evenly spaced beats at 60–100 per minute.
+
+## Common causes
+
+- This is the normal state — no cause is needed
+
+## Should you worry?
+
+Usually harmless
+
+None. It is the result you want. Note that sinus rhythm describes only the rhythm; other lines on the report describe wave shapes and intervals.
+
+**Get urgent help** if this finding comes with chest pain or pressure, severe breathlessness, fainting, or a fast heartbeat that will not settle. Those symptoms matter more than any single ECG phrase.
+
+## What usually happens next
+
+1. Nothing is required for sinus rhythm itself
+
+### Questions to ask your doctor
+
+- Is there any other finding on my ECG besides sinus rhythm?
+@@FAQ@@
+Q: Is sinus rhythm good or bad?
+A: Good. It is the normal, healthy rhythm.
+Q: What is the difference between sinus rhythm and normal sinus rhythm?
+A: Sinus rhythm describes where the beat starts. Normal sinus rhythm also specifies a rate of 60–100; below that it is sinus bradycardia, above it sinus tachycardia.
+Q: Can I have sinus rhythm and still have a heart problem?
+A: Yes. The rhythm can be normal while other parts of the ECG, or the heart's structure, are not.
+@@RELATED@@
+Sinus Bradycardia: What It Means | https://www.ecgmeans.com/sinus-bradycardia/ | Usually harmless
+Sinus Tachycardia: What It Means | https://www.ecgmeans.com/sinus-tachycardia/ | Depends on context
+Sinus Rhythm With Sinus Arrhythmia: What It Means | https://www.ecgmeans.com/sinus-arrhythmia/ | Usually harmless
+Sinus Rhythm With PACs: What It Means | https://www.ecgmeans.com/sinus-rhythm-with-pac/ | Usually harmless
+Sinus Rhythm With 1st Degree AV Block: What It Means | https://www.ecgmeans.com/first-degree-av-block/ | Usually harmless
+@@ALSO@@
+normal sinus rhythm, what does sinus rhythm mean, sinus rhythm meaning
+@@SOURCES@@
+Normal Sinus Rhythm | https://litfl.com/normal-sinus-rhythm-ecg-library/
+EKG Rhythm | https://www.ncbi.nlm.nih.gov/books/NBK555952/
+@@END@@

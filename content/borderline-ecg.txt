@@ -1,0 +1,72 @@
+@@TITLE@@
+Borderline ECG Meaning: Should You Worry?
+@@DESC@@
+A 'borderline ECG' sits between normal and abnormal. See which small findings trigger it, why it is usually harmless, and when it deserves follow-up.
+@@H1@@
+Borderline ECG: What It Means
+@@CATEGORY@@
+ECG Report Phrases | https://www.ecgmeans.com/ecg-report-phrases/
+@@QUICK@@
+Usually harmless
+@@LEDE@@
+A "borderline ECG" means the machine found something just outside its normal limits, but not far enough to call the tracing abnormal. It is the software's way of saying "probably fine, worth a human glance". In people without symptoms it is most often a normal variant or a technical artefact.
+@@BODY@@
+## What "borderline ecg" means
+
+ECG software grades its overall verdict. Normal means every measurement is inside the limits. Borderline means one or two measurements are marginally outside. Abnormal means a finding that the program considers clinically significant. Borderline is therefore the mildest of the non-normal verdicts.
+
+The verdict is always driven by a named finding printed above it. Typical triggers are a heart rate a few beats under 60 or over 100, an axis that leans slightly left, a PR interval of just over 200 ms, minor T wave flattening, or voltage that just meets the criteria for a thickened ventricle in a slim young person.
+
+## What it looks like on the ECG
+
+To the eye a borderline ECG usually looks normal. The difference is in the numbers at the top of the page — rate, PR, QRS, QT/QTc and axis — one of which will be close to a cut-off.
+
+## Common causes
+
+- Heart rate slightly below 60 or above 100 at the time of recording
+- Borderline left axis deviation (a common age-related shift)
+- PR interval at the upper limit of normal
+- Minor, nonspecific T wave or ST changes
+- High QRS voltage in thin or athletic people
+- Chest electrodes placed slightly too high or too low
+
+## Should you worry?
+
+On its own, in someone who feels well, a borderline ECG rarely leads to any treatment. It becomes more relevant if you have symptoms, a strong family history of heart disease or sudden death, or if the tracing has changed since your last one.
+
+**Get urgent help** if this finding comes with chest pain or pressure, severe breathlessness, fainting, or a fast heartbeat that will not settle. Those symptoms matter more than any single ECG phrase.
+
+## What usually happens next
+
+1. Your clinician checks which measurement was borderline
+2. Often nothing further is needed
+3. Sometimes the ECG is simply repeated on another day with careful lead placement
+4. Further tests are reserved for people with symptoms or risk factors
+
+### Questions to ask your doctor
+
+- Which measurement was borderline?
+- Is this a normal variant for someone of my age and build?
+- Should I have it repeated?
+@@FAQ@@
+Q: Is a borderline ECG bad?
+A: Usually not. It is closer to normal than to abnormal and most people with this verdict have a healthy heart.
+
+Q: Can a borderline ECG become normal?
+A: Yes. Heart rate, breathing, body position and electrode placement all vary between recordings, so a repeat tracing is frequently reported as normal.
+
+Q: Will a borderline ECG affect a medical or insurance exam?
+A: It may prompt a request for a doctor's over-read or a repeat ECG. A clinician's confirmation that it is a normal variant generally settles the matter.
+@@RELATED@@
+Abnormal ECG: What It Means on Your Report | https://www.ecgmeans.com/abnormal-ecg/ | Depends on context
+Left Axis Deviation: What It Means on an ECG | https://www.ecgmeans.com/left-axis-deviation/ | Usually harmless
+Nonspecific T Wave Abnormality: What It Means | https://www.ecgmeans.com/nonspecific-t-wave-abnormality/ | Depends on context
+Sinus Bradycardia: What It Means | https://www.ecgmeans.com/sinus-bradycardia/ | Usually harmless
+Sinus Rhythm With 1st Degree AV Block: What It Means | https://www.ecgmeans.com/first-degree-av-block/ | Usually harmless
+@@ALSO@@
+borderline ecg meaning, what does borderline ecg mean, borderline ekg
+@@SOURCES@@
+Electrocardiogram (EKG or ECG Test) | https://my.clevelandclinic.org/health/diagnostics/16953-electrocardiogram-ekg
+Electrocardiogram (ECG) | https://www.bhf.org.uk/informationsupport/tests/ecg
+Computer-Interpreted Electrocardiograms: Benefits and Limitations | https://www.sciencedirect.com/science/article/pii/S0735109717387946
+@@END@@

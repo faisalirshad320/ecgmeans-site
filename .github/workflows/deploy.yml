@@ -1,0 +1,46 @@
+name: Deploy to Cloudways
+
+# Auto-deploys ecgmeans.com to Cloudways on every push to main.
+# Requires two GitHub repo secrets (Settings -> Secrets and variables -> Actions):
+#   CLOUDWAYS_EMAIL    - your Cloudways account email
+#   CLOUDWAYS_API_KEY  - the Access Token from Cloudways -> Account -> API
+# Server/app IDs are not secret and are set below.
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    env:
+      CW_EMAIL: ${{ secrets.CLOUDWAYS_EMAIL }}
+      CW_API_KEY: ${{ secrets.CLOUDWAYS_API_KEY }}
+      CW_SERVER_ID: "1638726"
+      CW_APP_ID: "6684252"
+      CW_BRANCH: "main"
+    steps:
+      - name: Resolve Cloudways bearer token
+        id: token
+        run: |
+          set -e
+          if [ -z "$CW_EMAIL" ] || [ -z "$CW_API_KEY" ]; then
+            echo "::error::CLOUDWAYS_EMAIL and CLOUDWAYS_API_KEY secrets are not set."
+            exit 1
+          fi
+          RESP=$(curl -s -X POST https://api.cloudways.com/api/v1/oauth/access_token -d "email=$CW_EMAIL" -d "api_key=$CW_API_KEY" || true)
+          BEARER=$(printf '%s' "$RESP" | grep -o '"access_token"[^,}]*' | head -1 | sed 's/.*"access_token"[^"]*"//; s/"$//')
+          if [ -z "$BEARER" ]; then BEARER="$CW_API_KEY"; fi
+          echo "::add-mask::$BEARER"
+          echo "token=$BEARER" >> "$GITHUB_OUTPUT"
+      - name: Trigger Git pull (deploy) on Cloudways
+        run: |
+          set -e
+          RESP=$(curl -s -X POST https://api.cloudways.com/api/v1/git/pull -H "Authorization: Bearer ${{ steps.token.outputs.token }}" -d "server_id=$CW_SERVER_ID" -d "app_id=$CW_APP_ID" -d "branch_name=$CW_BRANCH")
+          echo "Git pull response: $RESP"
+          echo "$RESP" | grep -qi 'error\|invalid\|unauth' && { echo "::error::Cloudways git pull failed"; exit 1; } || true
+      - name: Purge application cache (Varnish)
+        continue-on-error: true
+        run: |
+          curl -s -X POST https://api.cloudways.com/api/v1/app/manage/varnish -H "Authorization: Bearer ${{ steps.token.outputs.token }}" -d "server_id=$CW_SERVER_ID" -d "app_id=$CW_APP_ID" -d "action=purge"

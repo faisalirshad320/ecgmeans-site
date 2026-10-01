@@ -1,0 +1,70 @@
+@@TITLE@@
+Possible Left Atrial Enlargement on ECG: What It Means
+@@DESC@@
+'Possible left atrial enlargement' is based on the shape of your P wave. Learn how reliable it is, what causes a big left atrium, and why an echo is the real test.
+@@H1@@
+Possible Left Atrial Enlargement: ECG Meaning
+@@CATEGORY@@
+ECG Report Phrases | https://www.ecgmeans.com/ecg-report-phrases/
+@@QUICK@@
+Needs clinician review
+@@LEDE@@
+"Possible left atrial enlargement" means the P wave — the small bump before each QRS — is wider or more notched than usual, a shape that can occur when the left upper chamber of the heart is stretched or under pressure. The ECG is a poor judge of chamber size, so this is a hint, not a measurement; an echocardiogram gives the real answer.
+@@BODY@@
+## What "left atrial enlargement" means
+
+The P wave is the electrical signature of the two atria contracting, right first and then left. If the left atrium is larger or conducts slowly, its part of the P wave is delayed and prolonged. The software flags a P wave longer than 120 ms, a double-humped P wave in lead II, or a deep, wide negative tail in lead V1. Many reports now use the more accurate term left atrial abnormality.
+
+The left atrium enlarges when it has to push against resistance or handle extra volume over years — most commonly from high blood pressure, and also from mitral valve disease or a stiff left ventricle.
+
+## What it looks like on the ECG
+
+A broad, notched "M-shaped" P wave in lead II, or a P wave in V1 whose second half dips down for more than one small square.
+
+## Common causes
+
+- Long-standing high blood pressure
+- Mitral valve narrowing or leakage
+- Stiff or weakened left ventricle (heart failure)
+- Obesity and sleep apnoea
+- Slow conduction within a normal-sized atrium (a false positive)
+
+## Should you worry?
+
+It is not an emergency. Its importance is as a marker: a genuinely enlarged left atrium raises the long-term chance of atrial fibrillation and tells your doctor that blood pressure or a valve may need attention.
+
+**Get urgent help** if this finding comes with chest pain or pressure, severe breathlessness, fainting, or a fast heartbeat that will not settle. Those symptoms matter more than any single ECG phrase.
+
+## What usually happens next
+
+1. Blood pressure measurement and review of any treatment
+2. Listening for a heart murmur
+3. Echocardiogram to measure the atrium directly, if clinically warranted
+
+### Questions to ask your doctor
+
+- How confident is this finding on my tracing?
+- Should I have an echocardiogram?
+- Is my blood pressure where it should be?
+@@FAQ@@
+Q: How accurate is the ECG for left atrial enlargement?
+A: Not very. It misses many enlarged atria and flags many normal ones, which is why the word "possible" is printed.
+Q: Can left atrial enlargement be reversed?
+A: Treating the cause — especially lowering blood pressure, treating sleep apnoea and losing weight — can reduce atrial size in some people.
+Q: Does it cause symptoms?
+A: Not directly. Symptoms come from the underlying cause or from atrial fibrillation if that develops.
+@@RELATED@@
+Left Axis Deviation: What It Means on an ECG | https://www.ecgmeans.com/left-axis-deviation/ | Usually harmless
+Sinus Rhythm With 1st Degree AV Block: What It Means | https://www.ecgmeans.com/first-degree-av-block/ | Usually harmless
+Sinus Rhythm With PACs: What It Means | https://www.ecgmeans.com/sinus-rhythm-with-pac/ | Usually harmless
+Abnormal ECG: What It Means on Your Report | https://www.ecgmeans.com/abnormal-ecg/ | Depends on context
+Nonspecific T Wave Abnormality: What It Means | https://www.ecgmeans.com/nonspecific-t-wave-abnormality/ | Depends on context
+Possible Right Atrial Enlargement: ECG Meaning | https://www.ecgmeans.com/right-atrial-enlargement/ | Needs clinician review
+Left Ventricular Hypertrophy (LVH): What It Means on an ECG | https://www.ecgmeans.com/left-ventricular-hypertrophy/ | Needs clinician review
+@@ALSO@@
+possible left atrial enlargement, left atrial abnormality, left atrial enlargement ecg
+@@SOURCES@@
+Left Atrial Enlargement | https://my.clevelandclinic.org/health/diseases/23967-left-atrial-enlargement
+Left Atrial Enlargement | https://www.ncbi.nlm.nih.gov/books/NBK553096/
+Left Atrial Enlargement | https://litfl.com/left-atrial-enlargement-ecg-library/
+@@END@@

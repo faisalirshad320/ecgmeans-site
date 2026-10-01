@@ -1,0 +1,71 @@
+@@TITLE@@
+QTc Normal Range & Prolonged QT Interval Explained
+@@DESC@@
+The QTc is the heart-rate-corrected QT interval. Normal is under 440–460 ms. Learn why a long QTc matters, which medicines lengthen it, and what happens next.
+@@H1@@
+QT and QTc Interval: Normal Range and Prolonged QT
+@@CATEGORY@@
+Intervals & Waves | https://www.ecgmeans.com/ecg-intervals-waves/
+@@QUICK@@
+Normal QTc is under about 440 ms in men and 460 ms in women; over 500 ms is clearly prolonged and raises the risk of torsades de pointes.
+@@LEDE@@
+The QT interval is the time the ventricles take to activate and then recover. Because it naturally shortens at faster heart rates, the machine corrects it for rate and prints the QTc. Normal QTc is under about 440 ms in men and 460 ms in women; over 500 ms is clearly prolonged and raises the risk of a dangerous rhythm called torsades de pointes.
+@@BODY@@
+## What "qtc normal range" means
+
+Recovery (repolarization) is controlled by potassium and sodium channels in the heart cells. Genetic variants (long QT syndrome), many medicines and low potassium, magnesium or calcium all slow recovery and stretch the QT. A long QT makes the ventricles vulnerable to a chaotic rhythm, which is why it is watched closely.
+
+Automatic QTc measurement is imperfect — it is unreliable at very fast or slow rates and in wide-QRS rhythms — so a borderline machine value is usually re-measured by hand.
+
+## What it looks like on the ECG
+
+Measured from the start of the QRS to the end of the T wave. As a rule of thumb, at normal heart rates the QT should be less than half the distance between two R waves.
+
+## Common causes
+
+- Medicines: some antibiotics (macrolides, fluoroquinolones), antipsychotics, antidepressants, antiemetics, antiarrhythmics, methadone
+- Low potassium, magnesium or calcium
+- Congenital long QT syndrome
+- Underactive thyroid, hypothermia
+- Heart attack, myocarditis, stroke or bleeding in the brain
+- Sinus bradycardia (lengthens uncorrected QT)
+
+## Should you worry?
+
+A QTc of 440–480 ms is usually just a reason to review medicines and electrolytes. A QTc over 500 ms, or a family history of sudden death, fainting or seizures, needs prompt assessment. Many QT-prolonging medicines are safe individually but risky in combination.
+
+**Get urgent help** if this finding comes with chest pain or pressure, severe breathlessness, fainting, or a fast heartbeat that will not settle. Those symptoms matter more than any single ECG phrase.
+
+## What usually happens next
+
+1. Manual re-measurement of the QTc
+2. Review of all medicines against a QT-drug list (crediblemeds.org)
+3. Potassium, magnesium and calcium blood tests
+4. Cardiology and genetic assessment if congenital long QT is suspected
+
+### Questions to ask your doctor
+
+- What is my QTc, and was it measured by hand?
+- Are any of my medicines lengthening it?
+- Should my family be checked?
+@@FAQ@@
+Q: What is a normal QTc?
+A: Roughly under 440 ms for men and 460 ms for women; the exact cut-offs vary a little between guidelines.
+Q: What QTc is dangerous?
+A: Over 500 ms is associated with a clearly increased risk of torsades de pointes.
+Q: Can a long QT be reversed?
+A: Often, if it is caused by a medicine or a low electrolyte. Congenital long QT is managed long-term with beta-blockers and lifestyle measures.
+@@RELATED@@
+PR Interval: Normal Range and What Short or Long Means | https://www.ecgmeans.com/pr-interval/ | Depends on context
+QRS Interval: Normal Range and What a Wide QRS Means | https://www.ecgmeans.com/qrs-interval/ | Depends on context
+T Wave Inversion: What It Means on an ECG | https://www.ecgmeans.com/t-wave-inversion/ | Depends on context
+Sinus Bradycardia: What It Means | https://www.ecgmeans.com/sinus-bradycardia/ | Usually harmless
+Abnormal ECG: What It Means on Your Report | https://www.ecgmeans.com/abnormal-ecg/ | Depends on context
+Peaked T Waves: What They Mean on an ECG | https://www.ecgmeans.com/peaked-t-waves/ | Depends on context
+@@ALSO@@
+qt interval, long qt interval, qtc interval, prolonged qt
+@@SOURCES@@
+Long QT Syndrome | https://www.nhlbi.nih.gov/health/long-qt-syndrome
+Long QT Syndrome | https://www.ncbi.nlm.nih.gov/books/NBK441860/
+QT Interval | https://litfl.com/qt-interval-ecg-library/
+@@END@@

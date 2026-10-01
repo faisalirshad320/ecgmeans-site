@@ -1,0 +1,72 @@
+@@TITLE@@
+Junctional Rhythm on ECG: Meaning, Rates & Causes
+@@DESC@@
+In a junctional rhythm the AV junction takes over as pacemaker at 40–60 bpm. Learn how it is recognised, why it happens, and when it needs treatment.
+@@H1@@
+Junctional Rhythm: What It Means
+@@CATEGORY@@
+Heart Rhythms | https://www.ecgmeans.com/heart-rhythms/
+@@QUICK@@
+NONE
+@@LEDE@@
+A junctional rhythm means the heartbeat is being started by the AV junction — the relay point between the upper and lower chambers — instead of the usual sinus node. It typically runs at 40–60 beats per minute with a normal narrow QRS but no normal P wave in front. It is a back-up rhythm that appears when the sinus node slows or is blocked.
+@@BODY@@
+## What "junctional rhythm" means
+
+The heart has a hierarchy of pacemakers. The sinus node leads at 60–100; if it fails or slows enough, the AV junction takes over at its own built-in rate of 40–60. This is called a junctional escape rhythm and is protective. The names change with the rate: below 40 is junctional bradycardia, 60–100 is accelerated junctional rhythm, above 100 is junctional tachycardia.
+
+Because the impulse starts in the middle of the heart, it reaches the atria backwards. The P wave is therefore hidden in the QRS, or appears upside-down just before or after it.
+
+## What it looks like on the ECG
+
+Regular narrow QRS complexes at 40–60 per minute with absent P waves, or inverted P waves in lead II immediately before or after the QRS.
+
+## Common causes
+
+- High vagal tone in athletes, especially during sleep
+- Beta-blockers, calcium-channel blockers, digoxin
+- Sick sinus syndrome
+- Inferior heart attack
+- After heart surgery
+- Myocarditis, Lyme disease
+- High potassium
+
+## Should you worry?
+
+Brief junctional rhythm in a fit young person asleep is normal. A sustained junctional rhythm in someone who is awake deserves an explanation, especially with dizziness, fatigue or fainting, because it implies the sinus node is not doing its job.
+
+**Get urgent help** if this finding comes with chest pain or pressure, severe breathlessness, fainting, or a fast heartbeat that will not settle. Those symptoms matter more than any single ECG phrase.
+
+## What usually happens next
+
+1. Medication review
+2. Electrolytes and thyroid tests
+3. Holter monitoring to see how often it occurs
+4. Treating the cause; a pacemaker only for persistent, symptomatic cases
+
+### Questions to ask your doctor
+
+- Why has my sinus node been overtaken?
+- Could my medicines be responsible?
+- Do I need a heart monitor?
+@@FAQ@@
+Q: Is junctional rhythm life-threatening?
+A: Usually not. It is a safety mechanism, though the reason it appeared may need attention.
+Q: Can junctional rhythm be normal?
+A: Yes, in athletes and during sleep.
+Q: How is it treated?
+A: By dealing with the cause. The rhythm itself is rarely the target of treatment.
+@@RELATED@@
+Accelerated Junctional Rhythm: What It Means | https://www.ecgmeans.com/accelerated-junctional-rhythm/ | Needs clinician review
+Idioventricular Rhythm: What It Means | https://www.ecgmeans.com/idioventricular-rhythm/ | Seek prompt care
+Sinus Bradycardia: What It Means | https://www.ecgmeans.com/sinus-bradycardia/ | Usually harmless
+Short PR Interval: What It Means | https://www.ecgmeans.com/short-pr-interval/ | Depends on context
+Sinus Rhythm With 1st Degree AV Block: What It Means | https://www.ecgmeans.com/first-degree-av-block/ | Usually harmless
+Sinus Pause and Sinus Arrest: What They Mean | https://www.ecgmeans.com/sinus-pause-arrest/ | Depends on context
+@@ALSO@@
+junctional rhythm ecg, junctional escape rhythm, junctional bradycardia
+@@SOURCES@@
+Junctional Rhythm | https://my.clevelandclinic.org/health/diseases/23206-junctional-rhythm
+Junctional Rhythm | https://www.ncbi.nlm.nih.gov/books/NBK507715/
+Junctional Escape Rhythm | https://litfl.com/junctional-escape-rhythm-ecg-library/
+@@END@@

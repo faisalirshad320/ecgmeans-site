@@ -1,0 +1,71 @@
+@@TITLE@@
+How to Read Your ECG Report: A Plain-English Guide
+@@DESC@@
+A step-by-step guide to the numbers and phrases printed on a 12-lead ECG report — rate, PR, QRS, QT/QTc, axis, the machine's findings and its overall verdict.
+@@H1@@
+How to Read Your ECG Report: A Plain-English Guide
+@@CATEGORY@@
+ECG Basics | https://www.ecgmeans.com/ecg-basics/
+@@QUICK@@
+Usually harmless
+@@LEDE@@
+An ECG report has three parts: a block of measurements (rate, PR, QRS, QT/QTc, axis), a list of automated findings, and an overall verdict such as Normal, Borderline or Abnormal ECG. The measurements are reliable; the findings are over-sensitive suggestions; the verdict is only as good as the most significant finding. This guide walks through each part.
+@@BODY@@
+## What "how to read ecg" means
+
+Measurements: heart rate 60–100; PR 120–200 ms; QRS under 120 ms; QTc under about 440–460 ms; P axis, QRS axis (−30° to +90°) and T axis. Anything outside these limits generates a finding line.
+
+Findings: each line names a rhythm, a conduction feature or a wave abnormality. Common ones are covered on this site. The words "possible", "consider", "cannot rule out" and "age undetermined" all signal low confidence.
+
+Verdict: driven by the findings. "Unconfirmed report" or "physician over-read required" means a clinician has not yet reviewed it. The clinician's own interpretation, usually written or signed on the tracing, overrides the computer.
+
+## What it looks like on the ECG
+
+A standard 12-lead printout shows twelve short strips arranged in four columns of three (I, II, III / aVR, aVL, aVF / V1–V3 / V4–V6) and one long rhythm strip along the bottom, usually lead II. One small square is 0.04 s across and 0.1 mV tall.
+
+## Common causes
+
+- Rate: count large squares between R waves and divide 300 by that number
+- Rhythm: is there a P before every QRS, and a QRS after every P?
+- Axis: are I and aVF both upright? If so the axis is normal
+- Intervals: PR, QRS, QTc against the limits above
+- Waves: any Q waves, tall or small R waves, ST shifts, T inversions?
+
+## Should you worry?
+
+Reading the report yourself is a good way to prepare questions, not a substitute for the clinician's read. If a line worries you, look it up here, note whether it is a low-confidence phrase, and ask specifically about it.
+
+**Get urgent help** if this finding comes with chest pain or pressure, severe breathlessness, fainting, or a fast heartbeat that will not settle. Those symptoms matter more than any single ECG phrase.
+
+## What usually happens next
+
+1. Find each phrase on this site to see what it typically means
+2. Check whether the finding appears on an earlier ECG
+3. Ask your clinician the three questions listed on each page
+
+### Questions to ask your doctor
+
+- Has a clinician over-read this ECG?
+- Which of these lines matters, if any?
+- Can I have a copy for my records?
+@@FAQ@@
+Q: What does "unconfirmed" mean on an ECG?
+A: That the automated interpretation has not yet been checked by a clinician.
+Q: Are ECG machine readings accurate?
+A: The measurements are. The interpretation lines are deliberately sensitive and over-call abnormalities, so they need human confirmation.
+Q: What is a normal ECG reading?
+A: Sinus rhythm at 60–100 with a PR of 120–200 ms, QRS under 120 ms, QTc under 440–460 ms and an axis between −30° and +90°, with no significant wave abnormalities.
+@@RELATED@@
+Abnormal ECG: What It Means on Your Report | https://www.ecgmeans.com/abnormal-ecg/ | Depends on context
+Borderline ECG: What It Means | https://www.ecgmeans.com/borderline-ecg/ | Usually harmless
+What Is an EKG (ECG)? A Plain-English Guide | https://www.ecgmeans.com/what-is-an-ekg/ | Usually harmless
+PR Interval: Normal Range and What Short or Long Means | https://www.ecgmeans.com/pr-interval/ | Depends on context
+QRS Interval: Normal Range and What a Wide QRS Means | https://www.ecgmeans.com/qrs-interval/ | Depends on context
+QT and QTc Interval: Normal Range and Prolonged QT | https://www.ecgmeans.com/qt-interval/ | Needs clinician review
+@@ALSO@@
+how to read ecg report, ecg interpretation, ekg interpretation cheat sheet, normal ecg values
+@@SOURCES@@
+Electrocardiogram (EKG or ECG Test) | https://my.clevelandclinic.org/health/diagnostics/16953-electrocardiogram-ekg
+EKG Rhythm | https://www.ncbi.nlm.nih.gov/books/NBK555952/
+ECG Rhythm Evaluation | https://litfl.com/ecg-rhythm-evaluation/
+@@END@@

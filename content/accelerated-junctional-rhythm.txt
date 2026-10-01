@@ -1,0 +1,72 @@
+@@TITLE@@
+Accelerated Junctional Rhythm: ECG Meaning & Causes
+@@DESC@@
+Accelerated junctional rhythm is a junctional rhythm at 60–100 bpm. See how it differs from sinus rhythm, the classic causes, and how it is managed.
+@@H1@@
+Accelerated Junctional Rhythm: What It Means
+@@CATEGORY@@
+Heart Rhythms | https://www.ecgmeans.com/heart-rhythms/
+@@QUICK@@
+Needs clinician review
+@@LEDE@@
+Accelerated junctional rhythm is a rhythm arising from the AV junction at 60–100 beats per minute — faster than the junction's natural 40–60, so it outpaces the sinus node. The QRS is narrow and normal-looking but the P waves are missing or upside-down. It usually signals irritation of the junction by a drug, recent surgery or reduced blood supply.
+@@BODY@@
+## What "accelerated junctional rhythm" means
+
+In an ordinary junctional rhythm the junction takes over because the sinus node is too slow. In the accelerated form the junction itself is firing faster than it should (enhanced automaticity) and captures the heart even though the sinus node is working. Above 100 per minute the same process is called junctional tachycardia.
+
+Because the rate is in the normal range, most people feel nothing. It is usually discovered on a monitor or routine ECG.
+
+## What it looks like on the ECG
+
+A regular rhythm at 60–100 with narrow QRS complexes and no upright P wave before them in lead II. Sometimes unrelated P waves can be seen marching through at a different rate.
+
+## Common causes
+
+- Digoxin toxicity (the classic cause)
+- After heart valve or congenital heart surgery
+- Inferior heart attack
+- Myocarditis or rheumatic fever
+- Beta-agonist or theophylline excess
+- Low potassium
+
+## Should you worry?
+
+Needs clinician review
+
+The rhythm is generally well tolerated and often temporary. Its significance lies in the cause, so it should prompt a check of medicines, blood tests and, where relevant, assessment for heart inflammation or ischaemia.
+
+**Get urgent help** if this finding comes with chest pain or pressure, severe breathlessness, fainting, or a fast heartbeat that will not settle. Those symptoms matter more than any single ECG phrase.
+
+## What usually happens next
+
+1. Digoxin level and electrolytes
+2. Review of recent surgery or illness
+3. Treating the cause usually restores sinus rhythm
+4. Specific rhythm treatment is seldom needed
+
+### Questions to ask your doctor
+
+- Is a medicine causing this?
+- Is my potassium normal?
+- Will it settle by itself?
+@@FAQ@@
+Q: How is it different from a junctional escape rhythm?
+A: Only by rate and mechanism: escape is 40–60 and protective; accelerated is 60–100 and due to an irritable junction.
+Q: Is accelerated junctional rhythm serious?
+A: It is rarely dangerous in itself, but causes such as digoxin toxicity need prompt treatment.
+Q: Does it cause symptoms?
+A: Often none. Some people notice pounding in the neck or mild tiredness because the atria and ventricles are not contracting in sequence.
+@@RELATED@@
+Junctional Rhythm: What It Means | https://www.ecgmeans.com/junctional-rhythm/ | Needs clinician review
+Idioventricular Rhythm: What It Means | https://www.ecgmeans.com/idioventricular-rhythm/ | Seek prompt care
+Sinus Rhythm: What It Means on Your ECG | https://www.ecgmeans.com/sinus-rhythm/ | Usually harmless
+Short PR Interval: What It Means | https://www.ecgmeans.com/short-pr-interval/ | Depends on context
+SVT vs VTach: What's the Difference? | https://www.ecgmeans.com/svt-vs-vtach/ | Seek prompt care
+@@ALSO@@
+accelerated junctional rhythm ecg, junctional tachycardia
+@@SOURCES@@
+Junctional Rhythm | https://my.clevelandclinic.org/health/diseases/23206-junctional-rhythm
+Junctional Rhythm | https://www.ncbi.nlm.nih.gov/books/NBK507715/
+Accelerated Junctional Rhythm (AJR) | https://litfl.com/accelerated-junctional-rhythm-ajr/
+@@END@@

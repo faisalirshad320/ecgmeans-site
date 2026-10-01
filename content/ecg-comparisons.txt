@@ -1,0 +1,9 @@
+@@TITLE@@
+Comparisons Explained | ECG Means
+@@DESC@@
+Side-by-side answers to the questions patients ask most: PVC vs PAC, SVT vs VT, EKG vs echocardiogram.
+@@H1@@
+ECG Comparisons: This vs That
+@@LEDE@@
+Side-by-side answers to the questions patients ask most: PVC vs PAC, SVT vs VT, EKG vs echocardiogram.
+@@END@@

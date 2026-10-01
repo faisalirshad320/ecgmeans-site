@@ -1,0 +1,106 @@
+@@TITLE@@
+PVC vs PAC: Differences on ECG and Which Matters More
+@@DESC@@
+PACs and PVCs are both extra heartbeats. See how they differ in origin, ECG appearance, symptoms and significance, and which one is more likely to need follow-up.
+@@H1@@
+PVC vs PAC: What's the Difference?
+@@CATEGORY@@
+Comparisons | https://www.ecgmeans.com/ecg-comparisons/
+@@QUICK@@
+Usually harmless
+@@LEDE@@
+A PAC (premature atrial contraction) is an early beat that starts in the upper chambers and travels the normal route, so its QRS looks normal. A PVC (premature ventricular contraction) starts in the lower chambers and spreads abnormally, giving a wide, odd-shaped QRS. Both are common and usually harmless; PVCs are the ones more often counted and followed up.
+@@BODY@@
+## What "pvc vs pac" means
+
+Both are ectopic beats — impulses from a spot other than the sinus node. The difference is location. PACs come from atrial tissue, use the AV node and bundle branches, and produce a narrow QRS preceded by an abnormal P wave. PVCs bypass the wiring, produce a wide QRS with no preceding P wave, and are usually followed by a longer (compensatory) pause.
+
+Both can feel identical: a flutter, a thump or a skipped beat. The symptom cannot tell them apart; only the ECG can.
+
+## What it looks like on the ECG
+
+PAC: early beat, narrow QRS, odd-looking P wave, short pause. PVC: early beat, wide and tall or deep QRS, no P wave, T wave pointing the opposite way, longer pause.
+
+## Common causes
+
+- Shared triggers: caffeine, alcohol, nicotine, stress, poor sleep, low potassium or magnesium, thyroid overactivity
+- PACs are linked to atrial stretch (high blood pressure, sleep apnoea, enlarged left atrium)
+- PVCs are linked to scar, cardiomyopathy and coronary disease when frequent
+
+## Should you worry?
+
+Usually harmless
+
+Occasional PACs or PVCs need no treatment. Very frequent PACs raise the long-term risk of atrial fibrillation; a high PVC burden (over roughly 10–15% of beats) can weaken the heart and is treatable. Symptoms such as fainting or chest pain with either should be assessed.
+
+**Get urgent help** if this finding comes with chest pain or pressure, severe breathlessness, fainting, or a fast heartbeat that will not settle. Those symptoms matter more than any single ECG phrase.
+
+## What usually happens next
+
+1. Holter monitor to count them if they are frequent or troublesome
+2. Echocardiogram for frequent PVCs
+3. Lifestyle triggers addressed first
+4. Beta-blockers or ablation only for symptoms or a high burden
+
+### Questions to ask your doctor
+
+- Are my extra beats atrial or ventricular?
+- What percentage of my beats are they?
+- Do I need an echocardiogram?
+
+## What PVC burden percentage is too high?
+
+A PVC burden above about 10% of all heartbeats is considered high, and once PVCs make up more than a quarter of beats the risk of them weakening the heart muscle rises clearly. Burden is simply the share of your heartbeats that are PVCs, worked out from a Holter monitor worn for 24 to 48 hours. For example, 8,000 PVCs out of roughly 100,000 beats in a day is a burden of 8%.
+
+- **Over 10% (or more than 10,000 PVCs in 24 hours):** a high burden. An echocardiogram is usually considered to check how well the heart is pumping.
+- **Over 15%:** the level at which the 2019 AHA/ACC/HRS guideline says catheter ablation may help if the heart's pumping is reduced and medicines have not worked or were not tolerated.
+- **Over 25%:** PVC-induced cardiomyopathy (heart muscle weakening caused by the extra beats) becomes more likely.
+
+PVC-induced cardiomyopathy is generally reversible once the PVCs are brought under control, most often by ablation. PACs are not usually graded by percentage in the same way: with very frequent PACs, the main long-term concern is a higher chance of atrial fibrillation or atrial flutter rather than a weak heart muscle.
+
+## When should you see a cardiologist for PVCs or PACs?
+
+Ask for a cardiology review if your extra beats are frequent, come in runs, are brought on by exercise, or happen alongside heart disease or fainting; occasional PACs or PVCs in an otherwise healthy heart usually need no specialist care. Reasons for referral include:
+
+- A Holter result showing a PVC burden over 10%, or runs of three or more PVCs in a row (nonsustained ventricular tachycardia).
+- Extra beats that appear or become more frequent during exercise.
+- Known heart disease, such as a previous heart attack, heart failure, cardiomyopathy or valve disease.
+- Dizziness, near-fainting or fainting with the palpitations.
+- Frequent PACs together with bouts of a fast, irregular heartbeat, which can be a sign of atrial fibrillation.
+
+A typical work-up includes a 12-lead ECG, a 24–48-hour Holter monitor, an echocardiogram, and blood tests for potassium, magnesium and thyroid function. Call emergency services if extra beats come with chest pain, severe shortness of breath, fainting or sudden confusion.
+
+## Can anxiety cause PVCs and PACs, and do they go away?
+
+Yes. Stress and anxiety raise adrenaline, which can set off both PVCs and PACs, and the extra beats often settle when triggers such as stress, caffeine, alcohol, nicotine and poor sleep are reduced. Noticing the beats can itself be unsettling, and that worry adds more adrenaline, so a cycle can build. The number of extra beats also tends to vary with the time of day.
+
+For occasional beats in a healthy heart, reassurance and trigger control are usually enough. If symptoms persist:
+
+- **Beta-blockers** are the usual first medicine for both PACs and PVCs. Calcium-channel blockers are sometimes used instead, mainly for PVCs.
+- **Catheter ablation** is used more often for PVCs, mainly for a high burden, a weakened heart or symptoms that medicines do not control. For PACs it is kept for stubborn symptoms or PACs that trigger atrial fibrillation.
+
+Even when stress seems the obvious trigger, it is worth having an ECG or Holter recording to confirm which type of extra beat you have.
+@@FAQ@@
+Q: Which is worse, PAC or PVC?
+A: Neither is dangerous in isolation. Frequent PVCs are more likely to lead to further tests because of their link with heart muscle disease.
+Q: Can PACs and PVCs occur together?
+A: Yes, commonly.
+Q: Can a smartwatch tell PACs from PVCs?
+A: A single-lead watch ECG can often show the early beat and whether the QRS is wide, but a 12-lead ECG or Holter is more reliable.
+@@RELATED@@
+Sinus Rhythm With PACs: What It Means | https://www.ecgmeans.com/sinus-rhythm-with-pac/ | Usually harmless
+Bigeminy: What It Means on an ECG | https://www.ecgmeans.com/bigeminy/ | Depends on context
+Trigeminy: What It Means on an ECG | https://www.ecgmeans.com/trigeminy/ | Depends on context
+SVT vs VTach: What's the Difference? | https://www.ecgmeans.com/svt-vs-vtach/ | Seek prompt care
+Abnormal ECG: What It Means on Your Report | https://www.ecgmeans.com/abnormal-ecg/ | Depends on context
+@@ALSO@@
+pac vs pvc, pac vs pvc ecg, difference between pac and pvc, premature beats
+@@SOURCES@@
+Premature Ventricular Contractions (PVCs) | https://my.clevelandclinic.org/health/diseases/17381-premature-ventricular-contractions
+Premature Atrial Contractions (PACs) | https://my.clevelandclinic.org/health/diseases/21700-premature-atrial-contractions
+Premature Ventricular Complex | https://www.ncbi.nlm.nih.gov/books/NBK547713/
+Premature Atrial Contractions | https://www.ncbi.nlm.nih.gov/books/NBK559204/
+Premature Contractions ‒ PACs and PVCs | https://www.heart.org/en/health-topics/arrhythmia/about-arrhythmia/premature-contractions-pacs-and-pvcs
+Premature Ventricular Complex (PVC) | https://litfl.com/premature-ventricular-complex-pvc-ecg-library/
+Holter monitor (24h) | https://medlineplus.gov/ency/article/003877.htm
+@@END@@

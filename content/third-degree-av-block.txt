@@ -1,0 +1,70 @@
+@@TITLE@@
+Third Degree (Complete) Heart Block on ECG: What It Means
+@@DESC@@
+Complete heart block means no signals pass from the atria to the ventricles, which beat on their own escape rhythm. Learn why it usually needs an urgent pacemaker.
+@@H1@@
+Third Degree (Complete) Heart Block: What It Means
+@@CATEGORY@@
+Heart Blocks & Conduction | https://www.ecgmeans.com/heart-block-conduction/
+@@QUICK@@
+Seek prompt care
+@@LEDE@@
+Third degree AV block — complete heart block — means the electrical connection between the upper and lower chambers has failed completely. The atria and ventricles beat independently, and the heart relies on a slow back-up (escape) rhythm to keep going. It is the most serious of the AV blocks and usually needs urgent assessment and a pacemaker.
+@@BODY@@
+## What "third degree av block" means
+
+In a normal heart every impulse from the sinus node passes through the AV node to the ventricles. In complete heart block none of them get through. The atria carry on at their own rate while a back-up pacemaker lower down — in the AV junction or the ventricles — takes over at a much slower rate to keep the heart beating. The two are no longer coordinated, which is described as "AV dissociation".
+
+How dangerous it is depends on where the escape rhythm comes from. A junctional escape (narrow QRS, 40–60 beats/min) is relatively stable; a ventricular escape (wide QRS, 20–40 beats/min) is slow and unreliable and can fail, causing collapse.
+
+## What it looks like on the ECG
+
+Regular P waves and regular QRS complexes that bear no relationship to each other — the PR interval varies randomly because the two are independent. The QRS rate is slow, and the QRS may be narrow (junctional escape) or wide (ventricular escape).
+
+## Common causes
+
+- Age-related degeneration and scarring of the conduction system (most common)
+- Heart attack, especially an inferior one
+- Heart-slowing medicines (beta-blockers, calcium-channel blockers, digoxin) in excess
+- After heart valve surgery or a TAVI procedure
+- Infections such as Lyme disease, and inflammatory conditions
+- Congenital complete heart block
+
+## Should you worry?
+
+Complete heart block is treated as a medical emergency. It commonly causes severe tiredness, breathlessness, dizziness, fainting (Stokes-Adams attacks) or collapse, and the slow escape rhythm can stop. Most people with it are admitted to hospital, monitored, and fitted with a permanent pacemaker unless a clearly reversible cause (such as a medicine) is found.
+
+**Get urgent help** if this finding comes with chest pain or pressure, severe breathlessness, fainting, or a very slow pulse with dizziness. Call your local emergency number — do not wait.
+
+## What usually happens next
+
+1. Urgent hospital assessment and continuous heart monitoring
+2. Stopping any heart-slowing medicines and correcting reversible causes
+3. A temporary pacing wire if the heart rate is dangerously slow
+4. A permanent pacemaker in most cases
+
+### Questions to ask your doctor
+
+- Is a medicine or a reversible cause responsible?
+- Am I being referred for a pacemaker?
+- What should I do if I feel faint before it is fitted?
+@@FAQ@@
+Q: Is third degree heart block an emergency?
+A: Yes. The escape rhythm that keeps the heart going is slow and unreliable, so complete heart block usually needs urgent care and a pacemaker.
+Q: What is the difference between second and third degree heart block?
+A: In second degree block some beats still get through; in third degree none do, and the atria and ventricles beat completely independently.
+Q: Can complete heart block be reversed?
+A: Sometimes, if it is caused by a medicine, an electrolyte problem or an infection such as Lyme disease. Most other cases need a permanent pacemaker.
+@@RELATED@@
+Second Degree AV Block Type 2 (Mobitz II): What It Means | https://www.ecgmeans.com/second-degree-av-block-type-2/ | Seek prompt care
+Second Degree AV Block Type 1 (Wenckebach): What It Means | https://www.ecgmeans.com/second-degree-av-block-type-1/ | Depends on context
+Sinus Rhythm With 1st Degree AV Block: What It Means | https://www.ecgmeans.com/first-degree-av-block/ | Usually harmless
+Idioventricular Rhythm: What It Means | https://www.ecgmeans.com/idioventricular-rhythm/ | Seek prompt care
+Junctional Rhythm: What It Means | https://www.ecgmeans.com/junctional-rhythm/ | Needs clinician review
+@@ALSO@@
+third degree heart block, complete heart block, 3rd degree av block, complete av block ecg
+@@SOURCES@@
+Heart Block | https://my.clevelandclinic.org/health/diseases/17056-heart-block
+AV Block: 3rd Degree (Complete Heart Block) | https://litfl.com/av-block-3rd-degree-complete-heart-block/
+Third-Degree Atrioventricular Block | https://www.ncbi.nlm.nih.gov/books/NBK545199/
+@@END@@

@@ -1,0 +1,70 @@
+@@TITLE@@
+Left Anterior Fascicular Block (LAFB) on ECG Explained
+@@DESC@@
+Left anterior fascicular block, or left anterior hemiblock, is a minor conduction delay that causes left axis deviation. Learn why it is usually harmless.
+@@H1@@
+Left Anterior Fascicular Block: What It Means
+@@CATEGORY@@
+Heart Blocks & Conduction | https://www.ecgmeans.com/heart-block-conduction/
+@@QUICK@@
+Usually harmless
+@@LEDE@@
+Left anterior fascicular block (LAFB, or left anterior hemiblock) means one of the two small branches of the left bundle — the anterior fascicle — is delayed. The result is a marked leftward shift of the QRS axis with only slight widening of the QRS. It is a common finding, particularly with age, and on its own is generally harmless.
+@@BODY@@
+## What "left anterior fascicular block" means
+
+The left bundle divides into an anterior and a posterior fascicle. If the anterior one is blocked, the impulse enters the left ventricle via the posterior fascicle and spreads upward and leftward, pulling the axis to between −45° and −90°. The QRS stays under 120 ms because the rest of the wiring is intact.
+
+When LAFB coexists with right bundle branch block the combination is called bifascicular block. That is more significant, because only one of the three fascicles is left conducting.
+
+## What it looks like on the ECG
+
+Left axis deviation beyond −45°, a small q in lead I and a small r in lead III (qR in I, rS in III), a normal or slightly widened QRS.
+
+## Common causes
+
+- Age-related fibrosis of the conduction system
+- High blood pressure and left ventricular hypertrophy
+- Coronary artery disease
+- Cardiomyopathy
+- Aortic valve disease
+- Sometimes no cause is found
+
+## Should you worry?
+
+Usually harmless
+
+Isolated LAFB carries a very low risk and needs no treatment. It becomes more important when it is combined with right bundle branch block, a long PR interval, or symptoms such as fainting, since these suggest wider conduction disease.
+
+**Get urgent help** if this finding comes with chest pain or pressure, severe breathlessness, fainting, or a fast heartbeat that will not settle. Those symptoms matter more than any single ECG phrase.
+
+## What usually happens next
+
+1. Usually nothing beyond blood pressure control
+2. Echocardiogram if other findings suggest structural disease
+3. Monitoring if bifascicular block is present with symptoms
+
+### Questions to ask your doctor
+
+- Is this isolated, or combined with another block?
+- Is my blood pressure well controlled?
+- Do I need any follow-up?
+@@FAQ@@
+Q: Is LAFB dangerous?
+A: Not on its own. It is one of the most common and least concerning conduction findings.
+Q: What causes left anterior fascicular block?
+A: Most often age-related change in the conduction tissue, or the effects of long-standing high blood pressure.
+Q: Does LAFB need a pacemaker?
+A: No. A pacemaker is considered only for bifascicular block with symptoms or documented higher-grade block.
+@@RELATED@@
+Left Axis Deviation: What It Means on an ECG | https://www.ecgmeans.com/left-axis-deviation/ | Usually harmless
+Right Bundle Branch Block: What It Means | https://www.ecgmeans.com/right-bundle-branch-block/ | Usually harmless
+Left Bundle Branch Block: What It Means | https://www.ecgmeans.com/left-bundle-branch-block/ | Needs clinician review
+Poor R Wave Progression: What It Means | https://www.ecgmeans.com/poor-r-wave-progression/ | Depends on context
+Sinus Rhythm With 1st Degree AV Block: What It Means | https://www.ecgmeans.com/first-degree-av-block/ | Usually harmless
+@@ALSO@@
+lafb, left anterior fascicular block ecg, left anterior hemiblock, bifascicular block
+@@SOURCES@@
+Left Anterior Fascicular Block | https://my.clevelandclinic.org/health/diseases/23212-left-anterior-fascicular-block
+Left Anterior Fascicular Block (LAFB) | https://litfl.com/left-anterior-fascicular-block-lafb-ecg-library/
+@@END@@

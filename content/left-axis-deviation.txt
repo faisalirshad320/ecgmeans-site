@@ -1,0 +1,72 @@
+@@TITLE@@
+Left Axis Deviation on ECG: Meaning & Causes
+@@DESC@@
+Left axis deviation means the heart's overall electrical direction points further left than usual. See the numbers, the causes and why it is rarely a problem alone.
+@@H1@@
+Left Axis Deviation: What It Means on an ECG
+@@CATEGORY@@
+ECG Report Phrases | https://www.ecgmeans.com/ecg-report-phrases/
+@@QUICK@@
+Usually harmless
+@@LEDE@@
+Left axis deviation means the average direction of electrical flow through your ventricles points further up and to the left than usual — between −30° and −90°, where normal is −30° to +90°. It is a measurement rather than a disease, and as an isolated finding it usually needs no action.
+@@BODY@@
+## What "left axis deviation" means
+
+The ECG machine calculates the "QRS axis" from how tall the QRS is in the different limb leads, and prints it as a number in degrees. The axis drifts leftward naturally with age and with a horizontal heart position (for example in shorter, heavier people or late pregnancy). A value between 0° and −30° may be labelled borderline left axis deviation.
+
+A clearly leftward axis has a short list of electrical and structural explanations, the commonest being left anterior fascicular block — a minor delay in one branch of the heart's wiring.
+
+## What it looks like on the ECG
+
+The QRS is upright in lead I and mainly downward in leads II and aVF. The printed axis figure is more negative than −30°.
+
+## Common causes
+
+- Left anterior fascicular block
+- Left ventricular hypertrophy from high blood pressure
+- Old inferior heart attack
+- Left bundle branch block
+- Normal age-related shift or horizontal heart position
+- Paced rhythm or certain congenital conditions
+
+## Should you worry?
+
+Usually harmless
+
+Alone, left axis deviation has little significance. It is interpreted together with everything else on the tracing: with a wide QRS it suggests bundle branch block; with tall voltages, hypertension-related thickening; with inferior Q waves, a previous heart attack.
+
+**Get urgent help** if this finding comes with chest pain or pressure, severe breathlessness, fainting, or a fast heartbeat that will not settle. Those symptoms matter more than any single ECG phrase.
+
+## What usually happens next
+
+1. Usually nothing beyond blood-pressure checks
+2. Echocardiogram only if other findings or symptoms point to structural disease
+
+### Questions to ask your doctor
+
+- What is my axis in degrees?
+- Is there anything else on the ECG alongside it?
+- Is my blood pressure well enough controlled?
+@@FAQ@@
+Q: Is left axis deviation serious?
+A: Not by itself. It is one of the most common minor findings on adult ECGs.
+Q: Can left axis deviation be normal?
+A: Yes, particularly a borderline value in older adults or people with a high diaphragm.
+Q: What is the most common cause?
+A: Left anterior fascicular block, followed by changes related to long-standing high blood pressure.
+@@RELATED@@
+Left Anterior Fascicular Block: What It Means | https://www.ecgmeans.com/left-anterior-fascicular-block/ | Usually harmless
+Borderline ECG: What It Means | https://www.ecgmeans.com/borderline-ecg/ | Usually harmless
+Left Bundle Branch Block: What It Means | https://www.ecgmeans.com/left-bundle-branch-block/ | Needs clinician review
+Abnormal ECG: What It Means on Your Report | https://www.ecgmeans.com/abnormal-ecg/ | Depends on context
+Possible Left Atrial Enlargement: ECG Meaning | https://www.ecgmeans.com/left-atrial-enlargement/ | Needs clinician review
+Right Axis Deviation: What It Means on an ECG | https://www.ecgmeans.com/right-axis-deviation/ | Depends on context
+Left Ventricular Hypertrophy (LVH): What It Means on an ECG | https://www.ecgmeans.com/left-ventricular-hypertrophy/ | Needs clinician review
+@@ALSO@@
+left axis deviation ecg, borderline left axis deviation, lad ecg
+@@SOURCES@@
+Electrical Right and Left Axis Deviation | https://www.ncbi.nlm.nih.gov/books/NBK470532/
+Left Axis Deviation (LAD) | https://litfl.com/left-axis-deviation-lad-ecg-library/
+ECG Axis Interpretation | https://litfl.com/ecg-axis-interpretation/
+@@END@@

@@ -1,0 +1,71 @@
+@@TITLE@@
+2nd Degree AV Block Type 1 (Mobitz I / Wenckebach) Explained
+@@DESC@@
+Mobitz I (Wenckebach) is second degree AV block where the PR interval lengthens until a beat drops. Why it is usually benign and how it differs from Type 2.
+@@H1@@
+Second Degree AV Block Type 1 (Wenckebach): What It Means
+@@CATEGORY@@
+Heart Blocks & Conduction | https://www.ecgmeans.com/heart-block-conduction/
+@@QUICK@@
+Depends on context
+@@LEDE@@
+Second degree AV block type 1 — also called Mobitz I or Wenckebach — is a pattern in which the delay through the AV node grows longer with each beat until one impulse fails to get through and a beat is dropped, after which the cycle restarts. The block is in the AV node itself, and in most people it is benign, especially when it appears during sleep or in athletes.
+@@BODY@@
+## What "second degree av block type 1" means
+
+The AV node becomes progressively more tired with each impulse: the PR interval stretches beat by beat until a P wave arrives that it cannot pass on. The pause lets it recover and the next PR is short again. The grouped beating this creates is the hallmark.
+
+Because the AV node is the site, the QRS is usually narrow and the escape rhythm, if ever needed, is reliable. That is why it behaves very differently from Type 2, where the block is lower down.
+
+## What it looks like on the ECG
+
+Groups of beats in which the PR gap gets longer and longer, then a P wave with no QRS after it, then the pattern repeats. The gaps between R waves shorten just before the dropped beat.
+
+## Common causes
+
+- High vagal tone — athletes, sleep
+- Beta-blockers, calcium-channel blockers, digoxin
+- Inferior heart attack
+- Myocarditis, Lyme disease
+- After cardiac surgery
+- Age-related conduction disease
+
+## Should you worry?
+
+Seen on a night-time monitor in a fit person, it needs no treatment. It deserves attention if it occurs while awake and active, if it causes dizziness or fainting, or if it appears with a wide QRS or during a heart attack. Progression to complete heart block is uncommon.
+
+**Get urgent help** if this finding comes with chest pain or pressure, severe breathlessness, fainting, or a fast heartbeat that will not settle. Those symptoms matter more than any single ECG phrase.
+
+## What usually happens next
+
+1. Review of rate-slowing medicines
+2. Holter monitor to see when it happens and how often
+3. Exercise test — Wenckebach that disappears with exertion is reassuring
+4. Pacemaker only if it causes symptoms with no reversible cause
+
+### Questions to ask your doctor
+
+- Did this occur during sleep or while awake?
+- Is my QRS narrow?
+- Should I stop any medicine?
+@@FAQ@@
+Q: Is Mobitz 1 dangerous?
+A: Usually not. It is often a normal finding in athletes and during sleep.
+Q: What is the difference between Mobitz 1 and Mobitz 2?
+A: In Mobitz 1 the PR lengthens before a beat drops; in Mobitz 2 the PR is constant and beats drop without warning. Mobitz 2 is more serious.
+Q: Does Wenckebach need a pacemaker?
+A: Rarely — only when it causes symptoms and cannot be reversed.
+@@RELATED@@
+Second Degree AV Block Type 2 (Mobitz II): What It Means | https://www.ecgmeans.com/second-degree-av-block-type-2/ | Seek prompt care
+Sinus Rhythm With 1st Degree AV Block: What It Means | https://www.ecgmeans.com/first-degree-av-block/ | Usually harmless
+PR Interval: Normal Range and What Short or Long Means | https://www.ecgmeans.com/pr-interval/ | Depends on context
+Sinus Bradycardia: What It Means | https://www.ecgmeans.com/sinus-bradycardia/ | Usually harmless
+Junctional Rhythm: What It Means | https://www.ecgmeans.com/junctional-rhythm/ | Needs clinician review
+Third Degree (Complete) Heart Block: What It Means | https://www.ecgmeans.com/third-degree-av-block/ | Seek prompt care
+@@ALSO@@
+2nd degree av block type 1, mobitz 1, wenckebach ecg, mobitz type 1
+@@SOURCES@@
+Heart Block | https://my.clevelandclinic.org/health/diseases/17056-heart-block
+Second-Degree Atrioventricular Block | https://www.ncbi.nlm.nih.gov/books/NBK482359/
+AV Block: 2nd degree, Mobitz I (Wenckebach Phenomenon) | https://litfl.com/av-block-2nd-degree-mobitz-i-wenckebach-phenomenon/
+@@END@@

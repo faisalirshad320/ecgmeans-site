@@ -1,0 +1,11 @@
+@@TITLE@@
+Contact | ECG Means
+@@DESC@@
+Contact ECG Means about corrections, suggestions or new phrases to cover.
+@@H1@@
+Contact
+@@LEDE@@
+Found a phrase on your report that is not covered, or spotted something that needs correcting? Email hello@ecgmeans.com.
+@@BODY@@
+Please do not send your ECG for interpretation. We are unable to give individual medical advice; your clinician is the right person to ask.
+@@END@@

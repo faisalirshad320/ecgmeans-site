@@ -1,0 +1,74 @@
+@@TITLE@@
+What Is an EKG (ECG)? What It Shows, Cost & How Long It Takes
+@@DESC@@
+An EKG (ECG) is a quick, painless test of your heart's electrical activity. What it shows, what the letters mean, how long it takes and what it costs.
+@@H1@@
+What Is an EKG (ECG)? A Plain-English Guide
+@@CATEGORY@@
+ECG Basics | https://www.ecgmeans.com/ecg-basics/
+@@QUICK@@
+Usually harmless
+@@LEDE@@
+An EKG — also written ECG — is a quick, painless test that records the electrical signals your heart makes with each beat. Small sticky pads on your chest, arms and legs pick up the signals, and the machine prints them as a set of waves. It takes only a few minutes, uses no needles and no radiation, and shows your heart's rhythm, rate and electrical health at that moment.
+@@BODY@@
+## What "what is an ekg" means
+
+EKG and ECG are the same test. "ECG" comes from the English electrocardiogram; "EKG" from the German elektrokardiogramm. American clinics tend to say EKG, while the UK, Canada, Australia and most of the world say ECG. There is no difference in the test itself.
+
+During the test, ten electrodes are placed on the skin — six across the chest and one on each arm and leg. They do not send anything into you; they only listen. The machine combines their signals into twelve "leads", each a different electrical view of the heart, and prints a short strip for each. The whole recording lasts about ten seconds.
+
+## What it looks like on the ECG
+
+The printout shows a repeating pattern of waves — a small P wave, a tall QRS spike and a rounded T wave — for each heartbeat, plus a block of measurements (heart rate, PR, QRS, QT intervals and the electrical axis) and the machine's automated interpretation.
+
+## Common causes
+
+- Reasons an EKG is done: a routine or pre-operation check
+- Chest pain, pressure or tightness
+- Palpitations or a feeling of skipped or racing beats
+- Breathlessness, dizziness or fainting
+- Monitoring a known heart condition or the effect of a medicine
+- Screening before some sports or jobs
+
+## Should you worry?
+
+The test itself is completely safe — there is nothing to worry about in having one. What matters is the result, and even there the automated interpretation is only a first pass that a clinician confirms. If your report carries a phrase you do not understand, look it up on this site and ask the clinician who ordered the test.
+
+**Get urgent help** if this finding comes with chest pain or pressure, severe breathlessness, fainting, or a fast heartbeat that will not settle. Those symptoms matter more than any single ECG phrase.
+
+## What usually happens next
+
+1. The clinician reads the tracing and compares it with any earlier EKG
+2. A normal result is reassuring for rhythm and acute damage at that moment
+3. If a finding needs following up you may be offered a repeat EKG, blood tests, an echocardiogram, a Holter monitor or a stress test
+4. Keeping a copy of your EKG is useful — future tracings are easier to judge against it
+
+### Questions to ask your doctor
+
+- What did my EKG show?
+- Is there anything on it that needs following up?
+- Can I have a copy for my records?
+@@FAQ@@
+Q: What does EKG stand for?
+A: Electrocardiogram — "electro" for electrical, "cardio" for heart, "gram" for a recording. EKG uses the German spelling; ECG the English one. They mean the same test.
+Q: How long does an EKG take?
+A: The recording takes about ten seconds. With attaching and removing the electrodes, the whole visit is usually five to ten minutes.
+Q: Does an EKG hurt?
+A: No. The electrodes only stick to the skin and listen; there are no needles and no electric shock. Removing the sticky pads may tug at hair slightly.
+Q: How much does an EKG cost?
+A: It varies widely by country and setting, from little or nothing where care is publicly funded to roughly US$50–150 for a standard resting EKG in the United States without insurance. A cardiologist's interpretation may be billed separately.
+Q: Is an EKG the same as an ECG?
+A: Yes — identical test, two spellings.
+@@RELATED@@
+How to Read Your ECG Report: A Plain-English Guide | https://www.ecgmeans.com/how-to-read-ecg-report/ | Usually harmless
+If My ECG Is Normal, Is My Heart OK? | https://www.ecgmeans.com/if-ecg-is-normal-is-my-heart-ok/ | Usually harmless
+Abnormal ECG: What It Means on Your Report | https://www.ecgmeans.com/abnormal-ecg/ | Depends on context
+EKG vs Echocardiogram: What's the Difference? | https://www.ecgmeans.com/ekg-vs-echocardiogram/ | Usually harmless
+Sinus Rhythm: What It Means on Your ECG | https://www.ecgmeans.com/sinus-rhythm/ | Usually harmless
+@@ALSO@@
+what is an ecg, what does ekg stand for, what is an ekg test, how long does an ekg take
+@@SOURCES@@
+Electrocardiogram | https://medlineplus.gov/lab-tests/electrocardiogram/
+Electrocardiogram (ECG) | https://www.nhs.uk/tests-and-treatments/electrocardiogram/
+Electrocardiogram | https://www.ncbi.nlm.nih.gov/books/NBK549803/
+@@END@@

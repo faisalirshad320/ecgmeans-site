@@ -1,0 +1,69 @@
+@@TITLE@@
+Atrial Flutter on ECG: Sawtooth Pattern Explained
+@@DESC@@
+Atrial flutter shows a sawtooth pattern on the ECG with a fast, often regular pulse. Learn how it differs from atrial fibrillation and why it also raises stroke risk.
+@@H1@@
+Atrial Flutter: What It Means on an ECG
+@@CATEGORY@@
+Heart Rhythms | https://www.ecgmeans.com/heart-rhythms/
+@@QUICK@@
+Needs clinician review
+@@LEDE@@
+Atrial flutter is a fast, usually regular rhythm in which the upper chambers beat in a rapid, organised circle — around 300 times a minute — while the AV node lets only a fraction through to the ventricles. On the ECG it produces a distinctive "sawtooth" baseline. It is a close relative of atrial fibrillation and carries a similar stroke risk.
+@@BODY@@
+## What "atrial flutter" means
+
+In typical atrial flutter a single electrical wave circles a loop in the right atrium at about 300 beats per minute. The AV node blocks most of these, commonly letting through one in two (2:1), giving a ventricular rate of about 150, or one in three or four. Because the conduction ratio is often fixed, the pulse is usually regular — unlike atrial fibrillation, which is irregular.
+
+Flutter and fibrillation often occur in the same person and share the same risk factors and the same danger of clot formation in the atria, so both are assessed for stroke prevention.
+
+## What it looks like on the ECG
+
+A "sawtooth" or picket-fence baseline (flutter waves) seen best in the inferior leads (II, III, aVF), with regular QRS complexes at a rate that is a simple fraction of 300 — often 150 (2:1), 100 (3:1) or 75 (4:1).
+
+## Common causes
+
+- High blood pressure and age
+- Heart valve disease, heart failure, previous heart surgery
+- Chronic lung disease
+- Overactive thyroid
+- Alcohol and excess caffeine
+
+## Should you worry?
+
+Atrial flutter is rarely an immediate emergency, but a sustained rate of 150 can cause palpitations, breathlessness and tiredness, and over time can weaken the heart. Like atrial fibrillation it raises stroke risk, so anticoagulation is usually considered. A very fast rate with chest pain, severe breathlessness or fainting needs emergency care.
+
+**Get urgent help** if this finding comes with chest pain or pressure, severe breathlessness, fainting, or a fast heartbeat that will not settle. Those symptoms matter more than any single ECG phrase.
+
+## What usually happens next
+
+1. Confirmation on a 12-lead ECG
+2. Blood tests (including thyroid) and an echocardiogram
+3. A stroke-risk assessment and discussion about anticoagulation
+4. Rate control, and often catheter ablation, which is very effective for typical flutter
+
+### Questions to ask your doctor
+
+- Do I need a blood thinner to reduce stroke risk?
+- Is my rate controlled, and would ablation help?
+- Is there an underlying cause to treat?
+@@FAQ@@
+Q: What is the difference between atrial flutter and atrial fibrillation?
+A: Flutter is organised and usually regular with a sawtooth pattern; fibrillation is chaotic and irregular with no P waves. Both raise stroke risk.
+Q: Is atrial flutter dangerous?
+A: It is seldom immediately life-threatening, but it can cause symptoms, weaken the heart over time and raise stroke risk, so it needs treatment.
+Q: Can atrial flutter be cured?
+A: Catheter ablation cures typical atrial flutter in most people, which is why it is often recommended early.
+@@RELATED@@
+Atrial Fibrillation: What It Means on an ECG | https://www.ecgmeans.com/atrial-fibrillation/ | Needs clinician review
+SVT vs VTach: What's the Difference? | https://www.ecgmeans.com/svt-vs-vtach/ | Seek prompt care
+Sinus Tachycardia: What It Means | https://www.ecgmeans.com/sinus-tachycardia/ | Depends on context
+Multifocal Atrial Tachycardia: What It Means | https://www.ecgmeans.com/multifocal-atrial-tachycardia/ | Needs clinician review
+2:1 AV Conduction: What It Means | https://www.ecgmeans.com/second-degree-av-block-type-2/ | Seek prompt care
+@@ALSO@@
+atrial flutter ecg, atrial flutter sawtooth, aflutter ecg, atrial flutter vs afib
+@@SOURCES@@
+Atrial Flutter | https://my.clevelandclinic.org/health/diseases/17388-atrial-flutter
+Atrial Flutter | https://litfl.com/atrial-flutter-ecg-library/
+What are the Symptoms of Atrial Fibrillation (AFib or AF)? | https://www.heart.org/en/health-topics/atrial-fibrillation
+@@END@@

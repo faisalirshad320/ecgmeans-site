@@ -1,0 +1,72 @@
+@@TITLE@@
+ST Elevation on ECG: What It Means and When It's an Emergency
+@@DESC@@
+ST elevation can signal a heart attack (STEMI) but also has harmless causes like early repolarization and pericarditis. Learn what separates them and why context is key.
+@@H1@@
+ST Elevation: What It Means on an ECG
+@@CATEGORY@@
+Intervals & Waves | https://www.ecgmeans.com/ecg-intervals-waves/
+@@QUICK@@
+Seek prompt care
+@@LEDE@@
+ST elevation means the ST segment — the flat part just after the QRS — sits above the baseline. In the setting of chest pain it is the hallmark of a major heart attack (a STEMI) and is a time-critical emergency. But ST elevation also has several harmless causes, such as early repolarization and the normal pattern in some leads, so it is always read together with your symptoms.
+@@BODY@@
+## What "st elevation" means
+
+The ST segment represents the brief pause when the whole ventricle is depolarised, and it normally sits level with the baseline. When a coronary artery is suddenly blocked, the injured muscle shifts the ST segment upward in the leads facing it — an ST-elevation myocardial infarction, or STEMI. Because muscle dies minute by minute, a STEMI is treated as an emergency to reopen the artery as fast as possible.
+
+Not all ST elevation is a heart attack. Early repolarization, pericarditis (inflammation of the heart's lining), left bundle branch block, left ventricular hypertrophy and a normal variant in leads V1–V2 all raise the ST segment. The shape of the elevation, the leads involved, whether it is new, and above all the person's symptoms separate dangerous from benign.
+
+## What it looks like on the ECG
+
+The ST segment lifted above the baseline. A STEMI typically shows ST elevation in a group of leads matching one artery's territory, often with reciprocal ST depression elsewhere. Benign early repolarization shows gentle, concave, stable elevation without reciprocal change.
+
+## Common causes
+
+- Acute heart attack (STEMI) — the critical cause
+- Early repolarization (a common normal variant)
+- Pericarditis or myocarditis
+- Left bundle branch block or a paced rhythm
+- Left ventricular hypertrophy
+- Normal variant in V1–V2
+
+## Should you worry?
+
+Seek prompt care
+
+ST elevation on an ECG taken because of chest pain, pressure, sweating or breathlessness is a medical emergency until proven otherwise. ST elevation reported on a routine ECG in a well person is much more often a benign pattern such as early repolarization — but because the stakes are so high, new or unexplained ST elevation should always be assessed quickly by a clinician.
+
+**Get urgent help** if this finding comes with chest pain or pressure, severe breathlessness, fainting, or a fast heartbeat that will not settle. Call your local emergency number — do not wait.
+
+## What usually happens next
+
+1. Immediate clinician assessment if there is any chest pain or the ECG suggests a STEMI
+2. A troponin blood test and a repeat ECG
+3. Emergency treatment to reopen the artery if a STEMI is confirmed
+4. Comparison with old ECGs and an echocardiogram when the cause is uncertain
+
+### Questions to ask your doctor
+
+- Is this ST elevation a heart attack pattern or a benign variant?
+- Is it new compared with my previous ECG?
+- Do I need a troponin test?
+@@FAQ@@
+Q: Does ST elevation always mean a heart attack?
+A: No. It is the key sign of a STEMI when there are symptoms, but early repolarization, pericarditis and normal variants also raise the ST segment.
+Q: How do doctors tell a STEMI from early repolarization?
+A: By the symptoms, the shape of the elevation, the leads involved, reciprocal changes, comparison with old ECGs and a troponin test.
+Q: Is ST elevation found on a routine ECG an emergency?
+A: In a well person with no symptoms it is usually a benign pattern, but new or unexplained ST elevation should be checked promptly because of what it can mean.
+@@RELATED@@
+Early Repolarization on an ECG: What It Means | https://www.ecgmeans.com/early-repolarization/ | Usually harmless
+T Wave Inversion: What It Means on an ECG | https://www.ecgmeans.com/t-wave-inversion/ | Depends on context
+Peaked T Waves: What They Mean on an ECG | https://www.ecgmeans.com/peaked-t-waves/ | Depends on context
+Anterior Infarct, Age Undetermined: ECG Meaning | https://www.ecgmeans.com/anterior-infarct-age-undetermined/ | Needs clinician review
+Abnormal ECG: What It Means on Your Report | https://www.ecgmeans.com/abnormal-ecg/ | Depends on context
+@@ALSO@@
+st elevation ecg, st segment elevation, stemi ecg, st elevation causes
+@@SOURCES@@
+Heart Attack (Myocardial Infarction) | https://my.clevelandclinic.org/health/diseases/16818-heart-attack-myocardial-infarction
+ST Segment | https://litfl.com/st-segment-ecg-library/
+Myocardial Infarction | https://www.ncbi.nlm.nih.gov/books/NBK537076/
+@@END@@

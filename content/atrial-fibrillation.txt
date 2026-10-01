@@ -1,0 +1,70 @@
+@@TITLE@@
+Atrial Fibrillation on ECG: What It Means & When to Worry
+@@DESC@@
+Atrial fibrillation is an irregular heart rhythm with no clear P waves on the ECG. Learn how it is recognised, why it raises stroke risk, and how it is treated.
+@@H1@@
+Atrial Fibrillation: What It Means on an ECG
+@@CATEGORY@@
+Heart Rhythms | https://www.ecgmeans.com/heart-rhythms/
+@@QUICK@@
+Needs clinician review
+@@LEDE@@
+Atrial fibrillation (AF or AFib) is the most common sustained abnormal heart rhythm. The upper chambers quiver instead of beating in an organised way, so the pulse becomes irregular and often fast. On the ECG there are no normal P waves and the QRS complexes are irregularly spaced. It is rarely immediately life-threatening, but it raises the risk of stroke and needs proper assessment.
+@@BODY@@
+## What "atrial fibrillation" means
+
+Normally each beat starts in the sinus node and the atria contract together. In atrial fibrillation many disorganised electrical wavelets fire in the atria at once, so they quiver rather than contract. The AV node lets through only some of these impulses, at random, which is why the ventricles — and the pulse — are irregular.
+
+Because the atria are not emptying properly, blood can pool and form clots, which is the reason AF increases the risk of stroke. AF may be paroxysmal (coming and going), persistent, or permanent.
+
+## What it looks like on the ECG
+
+An irregularly irregular rhythm with no visible P waves; instead the baseline shows fine or coarse fibrillatory waves. The QRS complexes are normal in shape but unevenly spaced. The rate is often fast ("AF with rapid ventricular response").
+
+## Common causes
+
+- High blood pressure
+- Age (it becomes much more common after 65)
+- Heart valve disease, heart failure and previous heart attack
+- Overactive thyroid
+- Alcohol, caffeine and poor sleep (including sleep apnoea)
+- Chest infections, pulmonary embolism and after surgery
+
+## Should you worry?
+
+AF itself is seldom an emergency, but it should always be assessed because of the stroke risk and because a persistently fast rate can weaken the heart. Your doctor will estimate your stroke risk and usually discuss a blood thinner. Seek emergency care if AF comes with chest pain, severe breathlessness, fainting or signs of a stroke (face drooping, arm weakness, speech difficulty).
+
+**Get urgent help** if this finding comes with chest pain or pressure, severe breathlessness, fainting, or a fast heartbeat that will not settle. Those symptoms matter more than any single ECG phrase.
+
+## What usually happens next
+
+1. Confirmation on a 12-lead ECG and often a Holter monitor
+2. Blood tests, including thyroid function, and an echocardiogram
+3. A stroke-risk assessment (CHA2DS2-VASc) and a discussion about anticoagulation
+4. Rate control, rhythm control (medication or ablation) and treating the underlying cause
+
+### Questions to ask your doctor
+
+- What is my stroke risk, and do I need a blood thinner?
+- Should we control the rate, the rhythm, or both?
+- Is there an underlying cause such as thyroid disease or sleep apnoea?
+@@FAQ@@
+Q: Is atrial fibrillation dangerous?
+A: It is rarely immediately life-threatening, but untreated it raises the risk of stroke and can weaken the heart, so it needs proper assessment and treatment.
+Q: How is atrial fibrillation recognised on an ECG?
+A: By an irregularly irregular rhythm with no normal P waves and unevenly spaced, normal-shaped QRS complexes.
+Q: Can atrial fibrillation be cured?
+A: It can often be controlled well, and in selected people catheter ablation can restore and maintain normal rhythm, but it tends to recur, so follow-up matters.
+@@RELATED@@
+Sinus Rhythm With PACs: What It Means | https://www.ecgmeans.com/sinus-rhythm-with-pac/ | Usually harmless
+Atrial Flutter: What It Means on an ECG | https://www.ecgmeans.com/atrial-flutter/ | Needs clinician review
+Sinus Tachycardia: What It Means | https://www.ecgmeans.com/sinus-tachycardia/ | Depends on context
+Possible Left Atrial Enlargement: ECG Meaning | https://www.ecgmeans.com/left-atrial-enlargement/ | Needs clinician review
+SVT vs VTach: What's the Difference? | https://www.ecgmeans.com/svt-vs-vtach/ | Seek prompt care
+@@ALSO@@
+atrial fibrillation ecg, afib ecg, af ecg, irregularly irregular rhythm
+@@SOURCES@@
+Atrial Fibrillation (AFib) | https://my.clevelandclinic.org/health/diseases/16765-atrial-fibrillation-afib
+Atrial Fibrillation | https://litfl.com/atrial-fibrillation-ecg-library/
+What is Atrial Fibrillation (AFib or AF)? | https://www.heart.org/en/health-topics/atrial-fibrillation/what-is-atrial-fibrillation-afib-or-af
+@@END@@

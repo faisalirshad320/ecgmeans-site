@@ -1,0 +1,85 @@
+@@TITLE@@
+Abnormal ECG (EKG): What It Means & When to Worry
+
+@@DESC@@
+'Abnormal ECG' printed on your report? Learn what the machine is flagging, the common harmless causes, the serious ones, and what usually happens next.
+
+@@H1@@
+Abnormal ECG: What It Means on Your Report
+
+@@CATEGORY@@
+ECG Report Phrases | https://www.ecgmeans.com/ecg-report-phrases/
+
+@@QUICK@@
+Depends on context
+
+@@LEDE@@
+"Abnormal ECG" is a summary line printed by the ECG machine's software. It means at least one measurement — rate, rhythm, an interval or a wave shape — fell outside the program's normal limits. It is not a diagnosis. Many abnormal readings turn out to be harmless variants once a clinician looks at the tracing and at you.
+
+@@BODY@@
+## What "abnormal ecg" means
+
+Every modern ECG machine runs an interpretation program. It measures the tracing, compares the numbers with built-in thresholds, prints the individual findings, and then adds an overall verdict: Normal ECG, Otherwise normal ECG, Borderline ECG or Abnormal ECG. The verdict is driven by the most significant finding on the list above it, so the useful information is in those individual lines, not in the word "abnormal".
+
+Computer reads are deliberately over-sensitive. They are designed not to miss anything, so they flag a lot of things that a doctor then dismisses — a heart rate of 58, a slightly leftward axis, a T wave that is a little flat, or electrodes that were placed a centimetre too high. That is why reports carry the words "unconfirmed" or "physician review required".
+
+## What it looks like on the ECG
+
+There is no single appearance. Look at the lines printed above the verdict: each one names a specific finding, such as sinus bradycardia, left axis deviation, nonspecific T wave abnormality or possible septal infarct. Search each phrase separately — that is what the verdict is based on.
+
+## Common causes
+
+- Normal variants: athletic slow heart rate, early repolarization, sinus arrhythmia in young people
+- Technical problems: misplaced chest leads, swapped arm leads, movement or muscle tremor
+- Body build, pregnancy, chest-wall shape or lung disease changing the electrical picture
+- High blood pressure causing thickening of the heart muscle
+- Electrolyte changes (potassium, calcium, magnesium) and some medicines
+- Rhythm problems such as atrial fibrillation or frequent extra beats
+- Reduced blood supply to the heart, or an old or current heart attack
+
+## Should you worry?
+
+The word itself should not frighten you; the context should guide you. An abnormal ECG in a person with no symptoms, found at a routine check, is very often a variant or a minor finding. The same word matters much more if the ECG was taken because of chest pain, breathlessness, fainting or palpitations, or if it has changed compared with your previous tracing.
+
+**Get urgent help** if this finding comes with chest pain or pressure, severe breathlessness, fainting, or a fast heartbeat that will not settle. Those symptoms matter more than any single ECG phrase.
+
+## What usually happens next
+
+1. A clinician reads the actual tracing and either confirms or overrules the computer
+2. It is compared with any earlier ECG you have — a change is more meaningful than a long-standing pattern
+3. If it fits with symptoms or risk factors you may be offered blood tests, a repeat ECG, an echocardiogram, a Holter monitor or a stress test
+4. If nothing fits, the usual outcome is reassurance and no further testing
+
+### Questions to ask your doctor
+
+- Which specific finding made the machine call this abnormal?
+- Has it changed from my last ECG?
+- Does it need any follow-up test, or can it be left alone?
+
+@@FAQ@@
+Q: Can an abnormal ECG be nothing?
+A: Yes. Computer interpretations over-call abnormalities, and lead placement, body shape and normal variants account for a large share of them. A clinician's review of the tracing is what counts.
+
+Q: Can anxiety cause an abnormal ECG?
+A: Anxiety can raise the heart rate into the sinus tachycardia range and, with fast breathing, can cause minor T wave changes. These are real findings but not signs of heart disease.
+
+Q: Can I have an abnormal ECG and a healthy heart?
+A: Yes. An ECG records electrical activity, not structure or pumping strength. If there is doubt, an echocardiogram is the usual test to show that the heart itself is normal.
+
+@@RELATED@@
+Borderline ECG: What It Means | https://www.ecgmeans.com/borderline-ecg/ | Usually harmless
+Nonspecific T Wave Abnormality: What It Means | https://www.ecgmeans.com/nonspecific-t-wave-abnormality/ | Depends on context
+Septal Infarct on an ECG: What It Means | https://www.ecgmeans.com/septal-infarct/ | Depends on context
+Sinus Bradycardia: What It Means | https://www.ecgmeans.com/sinus-bradycardia/ | Usually harmless
+Left Axis Deviation: What It Means on an ECG | https://www.ecgmeans.com/left-axis-deviation/ | Usually harmless
+What Is an EKG (ECG)? A Plain-English Guide | https://www.ecgmeans.com/what-is-an-ekg/ | Usually harmless
+
+@@ALSO@@
+Also searched as: abnormal ekg, abnormal ecg means, what does abnormal ecg mean, should i worry about abnormal ekg.
+
+@@SOURCES@@
+Electrocardiogram | https://medlineplus.gov/lab-tests/electrocardiogram/
+Electrocardiogram (ECG) | https://www.bhf.org.uk/informationsupport/tests/ecg
+Electrocardiogram | https://www.ncbi.nlm.nih.gov/books/NBK549803/
+
+@@END@@

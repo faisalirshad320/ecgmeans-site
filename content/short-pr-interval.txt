@@ -1,0 +1,71 @@
+@@TITLE@@
+Short PR Interval on ECG: Causes & When It Matters
+@@DESC@@
+A short PR interval (under 120 ms) means the ventricles are being activated early. Learn about accessory pathways, WPW, and when a short PR is a normal variant.
+@@H1@@
+Short PR Interval: What It Means
+@@CATEGORY@@
+Intervals & Waves | https://www.ecgmeans.com/ecg-intervals-waves/
+@@QUICK@@
+Depends on context
+@@LEDE@@
+A short PR interval — under 120 ms — means the impulse is reaching the ventricles faster than it normally would through the AV node. The important cause is an extra electrical connection (accessory pathway) that bypasses the node, as in Wolff-Parkinson-White. Without a delta wave and without palpitations, a short PR is often simply a normal variant.
+@@BODY@@
+## What "short pr interval" means
+
+The AV node normally holds the impulse for about 100 ms. A congenital strand of muscle bridging the atria and ventricles can short-circuit that delay. If it also pre-excites part of the ventricle the QRS starts with a slurred upstroke (a delta wave): this is WPW pattern. If the PR is short with a normal QRS and episodes of fast heart rate, older texts call it Lown-Ganong-Levine syndrome, though most cardiologists now regard that as a description rather than a distinct condition.
+
+A short PR also occurs when the beat originates in the AV junction rather than the sinus node, and in some healthy people simply because their node conducts quickly.
+
+## What it looks like on the ECG
+
+Less than three small squares between the start of the P wave and the start of the QRS. Look for a slurred initial upstroke (delta wave) and a slightly wide QRS, which point to WPW.
+
+## Common causes
+
+- Normal fast AV conduction
+- Wolff-Parkinson-White pattern (accessory pathway)
+- Junctional or low atrial rhythm
+- Faster conduction at higher heart rates
+- Rare: glycogen storage disease, some congenital syndromes
+
+## Should you worry?
+
+Depends on context
+
+A short PR with a normal QRS and no symptoms is unlikely to matter. A delta wave or a history of sudden-onset racing heart, fainting or a family history of sudden death needs cardiology assessment, because an accessory pathway can conduct dangerously fast in atrial fibrillation.
+
+**Get urgent help** if this finding comes with chest pain or pressure, severe breathlessness, fainting, or a fast heartbeat that will not settle. Those symptoms matter more than any single ECG phrase.
+
+## What usually happens next
+
+1. Careful review of the QRS for a delta wave
+2. Cardiology referral and possibly an electrophysiology study if WPW pattern
+3. Holter monitor if there are palpitations
+4. Nothing if isolated and asymptomatic
+
+### Questions to ask your doctor
+
+- Is there a delta wave on my ECG?
+- Have I ever had episodes of a racing heart?
+- Do I need an electrophysiology assessment?
+@@FAQ@@
+Q: Is a short PR interval dangerous?
+A: On its own, usually not. Combined with a delta wave or palpitations it should be investigated.
+Q: What is a normal PR interval?
+A: 120–200 ms. Below 120 ms is considered short.
+Q: Can a short PR interval be normal?
+A: Yes, in a proportion of healthy people, especially at faster heart rates.
+@@RELATED@@
+PR Interval: Normal Range and What Short or Long Means | https://www.ecgmeans.com/pr-interval/ | Depends on context
+Sinus Rhythm With 1st Degree AV Block: What It Means | https://www.ecgmeans.com/first-degree-av-block/ | Usually harmless
+Junctional Rhythm: What It Means | https://www.ecgmeans.com/junctional-rhythm/ | Needs clinician review
+SVT vs VTach: What's the Difference? | https://www.ecgmeans.com/svt-vs-vtach/ | Seek prompt care
+Sinus Rhythm: What It Means on Your ECG | https://www.ecgmeans.com/sinus-rhythm/ | Usually harmless
+@@ALSO@@
+short pr syndrome, short pr interval ecg, short pr interval meaning, lown ganong levine
+@@SOURCES@@
+Wolff-Parkinson-White syndrome (WPW) | https://medlineplus.gov/ency/article/000151.htm
+Wolff-Parkinson-White Syndrome | https://www.ncbi.nlm.nih.gov/books/NBK554437/
+Pre-excitation syndromes | https://litfl.com/pre-excitation-syndromes-ecg-library/
+@@END@@

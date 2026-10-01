@@ -1,0 +1,9 @@
+@@TITLE@@
+Intervals & Waves Explained | ECG Means
+@@DESC@@
+PR, QRS and QT/QTc normal ranges, what short and long values mean, and the T wave changes reports mention.
+@@H1@@
+ECG Intervals and Waves: Normal Ranges
+@@LEDE@@
+PR, QRS and QT/QTc normal ranges, what short and long values mean, and the T wave changes reports mention.
+@@END@@

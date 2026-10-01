@@ -1,0 +1,9 @@
+@@TITLE@@
+Heart Rhythms Explained | ECG Means
+@@DESC@@
+Sinus rhythm and its variants, junctional and ventricular rhythms, and the extra-beat patterns bigeminy and trigeminy.
+@@H1@@
+Heart Rhythms on the ECG
+@@LEDE@@
+Sinus rhythm and its variants, junctional and ventricular rhythms, and the extra-beat patterns bigeminy and trigeminy — what each rhythm label on your report means and when it matters.
+@@END@@

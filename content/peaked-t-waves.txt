@@ -1,0 +1,71 @@
+@@TITLE@@
+Peaked T Waves on ECG: Hyperkalemia and Other Causes
+@@DESC@@
+Tall, peaked T waves can be a normal variant or an early warning of high potassium. Learn how to tell them apart and why new peaked T waves need prompt testing.
+@@H1@@
+Peaked T Waves: What They Mean on an ECG
+@@CATEGORY@@
+Intervals & Waves | https://www.ecgmeans.com/ecg-intervals-waves/
+@@QUICK@@
+Depends on context
+@@LEDE@@
+Peaked T waves are T waves that are taller and more pointed than usual. They have two very different meanings: in a well person they are often a harmless normal variant (or early repolarization), but when they appear acutely they are the earliest ECG sign of a high blood potassium level (hyperkalaemia), which can be dangerous. The context decides which it is.
+@@BODY@@
+## What "peaked t waves" means
+
+The T wave reflects the ventricles recharging after each beat, a process driven largely by potassium moving across the heart cells. When blood potassium rises, that recovery speeds up and sharpens, making the T wave tall, narrow and tented — classically "you could prick your finger on it". The same tall T wave can also appear in healthy young people as a normal variant, and in the first minutes of a heart attack (hyperacute T waves).
+
+The clue is how the T wave looks and the company it keeps. Hyperkalaemia T waves are narrow-based and symmetrical and get worse as potassium climbs, eventually widening the QRS; benign tall T waves are broad-based and stable.
+
+## What it looks like on the ECG
+
+Tall, narrow, symmetrical, tented T waves, most often in the chest leads V2–V4. In hyperkalaemia the P waves may flatten and the QRS widen as the level rises.
+
+## Common causes
+
+- High blood potassium (hyperkalaemia) — the important cause
+- Normal variant, especially in young men
+- Early repolarization
+- The first minutes of a heart attack (hyperacute T waves)
+- Left ventricular hypertrophy, bundle branch block
+
+## Should you worry?
+
+Depends on context
+
+Stable tall T waves on a routine ECG in a well person are usually benign. New peaked T waves — especially in someone with kidney disease, on potassium-raising medicines, or feeling unwell — can be the first sign of dangerous hyperkalaemia and need a blood test the same day. Hyperacute T waves with chest pain are a medical emergency.
+
+**Get urgent help** if this finding comes with chest pain or pressure, severe breathlessness, fainting, or a fast heartbeat that will not settle. Those symptoms matter more than any single ECG phrase.
+
+## What usually happens next
+
+1. An urgent blood test for potassium and kidney function if hyperkalaemia is possible
+2. Review of medicines that raise potassium (some blood-pressure drugs, potassium supplements)
+3. Comparison with old ECGs to see whether the T waves are new
+4. Emergency treatment if potassium is dangerously high
+
+### Questions to ask your doctor
+
+- Could my potassium be high?
+- Are any of my medicines raising it?
+- Are these T waves new compared with before?
+@@FAQ@@
+Q: Are peaked T waves always serious?
+A: No. They are often a normal variant. The concern is when they are new or appear in someone at risk of high potassium.
+Q: What potassium level causes peaked T waves?
+A: They often begin to appear once potassium rises above about 5.5 mmol/L, but the relationship is not exact and the ECG can be normal despite a high level.
+Q: Can a heart attack cause tall T waves?
+A: Yes. "Hyperacute" tall T waves can be the very first change in a heart attack, before ST elevation, which is why chest pain with tall T waves is taken seriously.
+@@RELATED@@
+T Wave Inversion: What It Means on an ECG | https://www.ecgmeans.com/t-wave-inversion/ | Depends on context
+Nonspecific T Wave Abnormality: What It Means | https://www.ecgmeans.com/nonspecific-t-wave-abnormality/ | Depends on context
+Early Repolarization on an ECG: What It Means | https://www.ecgmeans.com/early-repolarization/ | Usually harmless
+ST Elevation: What It Means on an ECG | https://www.ecgmeans.com/st-elevation/ | Seek prompt care
+QT and QTc Interval: Normal Range and Prolonged QT | https://www.ecgmeans.com/qt-interval/ | Needs clinician review
+@@ALSO@@
+peaked t waves, tall t waves, tented t waves, hyperkalemia ecg
+@@SOURCES@@
+Hyperkalemia | https://my.clevelandclinic.org/health/diseases/15184-hyperkalemia-high-blood-potassium
+Hyperkalaemia | https://litfl.com/hyperkalaemia-ecg-library/
+T Wave | https://litfl.com/t-wave-ecg-library/
+@@END@@

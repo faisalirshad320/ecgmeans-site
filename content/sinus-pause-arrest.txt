@@ -1,0 +1,71 @@
+@@TITLE@@
+Sinus Pause / Sinus Arrest on ECG: Meaning & Causes
+@@DESC@@
+A sinus pause is a gap where the heart's pacemaker briefly stops firing. Learn how long is significant, the common causes, and when a pause needs a pacemaker.
+@@H1@@
+Sinus Pause and Sinus Arrest: What They Mean
+@@CATEGORY@@
+Heart Rhythms | https://www.ecgmeans.com/heart-rhythms/
+@@QUICK@@
+Depends on context
+@@LEDE@@
+A sinus pause (or sinus arrest) is a gap in which the heart's natural pacemaker, the sinus node, briefly fails to fire, so no beat is produced for a moment. Short pauses are common and usually harmless, especially during sleep or in athletes. Long pauses, or pauses that cause dizziness or fainting, point to sinus node disease and may need a pacemaker.
+@@BODY@@
+## What "sinus pause" means
+
+The sinus node normally fires steadily. If it pauses, there is a flat gap on the ECG with no P wave and no QRS until it restarts or a lower back-up (escape) pacemaker steps in. Brief pauses, especially at night, reflect normal high vagal tone. Longer or frequent pauses suggest the sinus node is diseased — part of what is called sick sinus syndrome.
+
+There is no single cut-off, but pauses under about 2 seconds are usually normal, 2–3 seconds are a grey zone, and pauses over 3 seconds (particularly when awake, or with symptoms) are considered significant.
+
+## What it looks like on the ECG
+
+A sudden flat gap with no P wave or QRS, longer than the normal beat-to-beat interval, followed either by a normal sinus beat or by an escape beat from the junction or ventricle.
+
+## Common causes
+
+- High vagal tone — sleep, athletes, coughing, swallowing, straining
+- Age-related degeneration of the sinus node (sick sinus syndrome)
+- Beta-blockers, calcium-channel blockers, digoxin
+- Inferior heart attack
+- Sleep apnoea, underactive thyroid, high potassium
+
+## Should you worry?
+
+Depends on context
+
+Short pauses in a well person, especially during sleep, are usually harmless. Pauses that cause light-headedness, fainting or a feeling of the heart stopping, or long pauses while awake, need assessment, because they can reflect sinus node disease and sometimes require a pacemaker.
+
+**Get urgent help** if this finding comes with chest pain or pressure, severe breathlessness, fainting, or a very slow pulse with dizziness. Those symptoms matter more than any single ECG phrase.
+
+## What usually happens next
+
+1. Review of heart-slowing medicines
+2. A Holter or longer-term monitor to capture the pauses and link them to symptoms
+3. Blood tests (thyroid, electrolytes) and treatment of sleep apnoea
+4. A pacemaker for symptomatic pauses with no reversible cause
+
+### Questions to ask your doctor
+
+- How long were my pauses, and did they occur awake or asleep?
+- Could a medicine be responsible?
+- Do my symptoms match the pauses on a monitor?
+@@FAQ@@
+Q: How long a pause is dangerous?
+A: There is no exact figure, but pauses over about 3 seconds, especially while awake or with symptoms, are generally considered significant.
+Q: Are sinus pauses normal?
+A: Short pauses are common and normal, particularly during sleep and in athletes with high vagal tone.
+Q: Does a sinus pause need a pacemaker?
+A: Only when pauses cause symptoms such as fainting and no reversible cause (like a medicine) can be found.
+@@RELATED@@
+Sinus Bradycardia: What It Means | https://www.ecgmeans.com/sinus-bradycardia/ | Usually harmless
+Junctional Rhythm: What It Means | https://www.ecgmeans.com/junctional-rhythm/ | Needs clinician review
+Idioventricular Rhythm: What It Means | https://www.ecgmeans.com/idioventricular-rhythm/ | Seek prompt care
+Third Degree (Complete) Heart Block: What It Means | https://www.ecgmeans.com/third-degree-av-block/ | Seek prompt care
+Sinus Rhythm With Sinus Arrhythmia: What It Means | https://www.ecgmeans.com/sinus-arrhythmia/ | Usually harmless
+@@ALSO@@
+sinus pause, sinus arrest, sinus pause ecg, sick sinus syndrome
+@@SOURCES@@
+Sick Sinus Syndrome | https://my.clevelandclinic.org/health/diseases/17057-sick-sinus-syndrome
+Sinoatrial Arrest | https://litfl.com/sinoatrial-arrest-sa-node/
+Sinus Node Dysfunction (Sick Sinus Syndrome) | https://www.ncbi.nlm.nih.gov/books/NBK544387/
+@@END@@

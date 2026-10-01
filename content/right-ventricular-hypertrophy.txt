@@ -1,0 +1,69 @@
+@@TITLE@@
+Right Ventricular Hypertrophy (RVH) on ECG: Meaning & Causes
+@@DESC@@
+Right ventricular hypertrophy on an ECG shows as a tall R wave in V1 and right axis deviation. Learn what thickens the right ventricle and why an echo confirms it.
+@@H1@@
+Right Ventricular Hypertrophy (RVH): What It Means
+@@CATEGORY@@
+ECG Report Phrases | https://www.ecgmeans.com/ecg-report-phrases/
+@@QUICK@@
+Needs clinician review
+@@LEDE@@
+Right ventricular hypertrophy (RVH) means the smaller, right-sided pumping chamber has thickened, usually because it is working against high pressure in the lungs. On the ECG the normally small right ventricle starts to dominate, giving a tall R wave in lead V1 and a rightward axis. The ECG is insensitive to it, so an echocardiogram is the test that confirms it.
+@@BODY@@
+## What "right ventricular hypertrophy" means
+
+The right ventricle is normally thin and its signal is drowned out by the much larger left ventricle. When lung pressure is chronically high the right ventricle thickens, and its electrical signal grows enough to swing the QRS to the right and produce a tall R wave in V1 — the reverse of the usual pattern there.
+
+Because the right ventricle has to become quite thick before the ECG changes, a normal ECG does not rule RVH out, and the finding usually appears in people already known to have lung or congenital heart disease.
+
+## What it looks like on the ECG
+
+A dominant R wave in V1 (R larger than S), right axis deviation, deep S waves in V5–V6, and sometimes right atrial enlargement and a strain pattern (T wave inversion in V1–V3).
+
+## Common causes
+
+- Chronic lung disease (COPD) and pulmonary hypertension
+- Pulmonary embolism (acute right heart strain)
+- Mitral or pulmonary valve disease
+- Congenital heart conditions, such as an atrial septal defect or tetralogy of Fallot
+- Obstructive sleep apnoea
+
+## Should you worry?
+
+RVH is not an emergency in itself, but it points to a condition in the lungs or heart that is making the right ventricle work too hard, and that condition is what matters. New right-heart strain with sudden breathlessness can signal a pulmonary embolism and needs urgent assessment.
+
+**Get urgent help** if this finding comes with chest pain or pressure, severe breathlessness, fainting, or a fast heartbeat that will not settle. Those symptoms matter more than any single ECG phrase.
+
+## What usually happens next
+
+1. An echocardiogram to measure the right ventricle and estimate lung pressure
+2. Assessment of the lungs, including breathing tests, where relevant
+3. Investigation for the underlying cause — lung disease, valve disease or a congenital defect
+4. Treatment aimed at the cause
+
+### Questions to ask your doctor
+
+- Is there a lung or valve problem driving this?
+- Should I have an echocardiogram?
+- Do I need breathing tests?
+@@FAQ@@
+Q: Is right ventricular hypertrophy serious?
+A: It reflects a heart or lung condition making the right side work hard, so its importance depends on that cause. It should always be explained.
+Q: What is the most common cause of RVH?
+A: Chronic lung disease and the raised lung pressure (pulmonary hypertension) that goes with it.
+Q: Can the ECG miss RVH?
+A: Yes, frequently. The right ventricle must thicken substantially before the ECG changes, so an echocardiogram is more reliable.
+@@RELATED@@
+Left Ventricular Hypertrophy (LVH): What It Means on an ECG | https://www.ecgmeans.com/left-ventricular-hypertrophy/ | Needs clinician review
+Right Axis Deviation: What It Means on an ECG | https://www.ecgmeans.com/right-axis-deviation/ | Depends on context
+Possible Right Atrial Enlargement: ECG Meaning | https://www.ecgmeans.com/right-atrial-enlargement/ | Needs clinician review
+Right Bundle Branch Block: What It Means | https://www.ecgmeans.com/right-bundle-branch-block/ | Usually harmless
+Abnormal ECG: What It Means on Your Report | https://www.ecgmeans.com/abnormal-ecg/ | Depends on context
+@@ALSO@@
+rvh ecg, right ventricular hypertrophy ekg, rvh criteria, tall r wave in v1
+@@SOURCES@@
+Right Ventricular Hypertrophy | https://my.clevelandclinic.org/health/diseases/right-ventricular-hypertrophy
+Right Ventricular Hypertrophy (RVH) | https://litfl.com/right-ventricular-hypertrophy-rvh-ecg-library/
+Pulmonary Hypertension | https://www.nhlbi.nih.gov/health/pulmonary-hypertension
+@@END@@

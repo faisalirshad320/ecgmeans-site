@@ -1,0 +1,23 @@
+@@TITLE@@
+Privacy Policy | ECG Means
+@@DESC@@
+How ECG Means handles data, cookies and advertising.
+@@H1@@
+Privacy Policy
+@@LEDE@@
+ECG Means does not require an account and does not ask for personal or health information. The search box on the home page runs entirely in your browser; your queries are not sent to us.
+@@BODY@@
+## Cookies and advertising
+
+We use Google AdSense to display advertising. Google and its partners may use cookies to serve ads based on your prior visits to this or other websites. You can opt out of personalised advertising at [Google Ads Settings](https://www.google.com/settings/ads) or [aboutads.info](https://www.aboutads.info/choices/). Third-party vendors' use of advertising cookies enables them and their partners to serve ads based on your visits to this site and others on the Internet.
+
+## Analytics
+
+We may use privacy-respecting, aggregated analytics to understand which pages are read. No attempt is made to identify individual visitors.
+
+## Contact
+
+Questions about privacy: hello@ecgmeans.com
+
+Last updated 2026-09-21.
+@@END@@

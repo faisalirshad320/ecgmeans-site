@@ -1,0 +1,72 @@
+@@TITLE@@
+Low Voltage QRS on ECG: Meaning, Causes & Next Steps
+@@DESC@@
+Low voltage QRS means the main spikes on your ECG are smaller than usual. Learn the criteria, the harmless and the important causes, and the usual follow-up.
+@@H1@@
+Low Voltage QRS: What It Means
+@@CATEGORY@@
+ECG Report Phrases | https://www.ecgmeans.com/ecg-report-phrases/
+@@QUICK@@
+NONE
+@@LEDE@@
+"Low voltage QRS" means the main spikes of your ECG are unusually small: under 5 mm in all six limb leads, or under 10 mm in all six chest leads. Either the heart is generating less signal, or — more commonly — something between the heart and the skin electrodes, such as fat, air or fluid, is dampening it.
+@@BODY@@
+## What "low voltage qrs" means
+
+QRS height depends on how much working heart muscle there is and how well its signal conducts to the skin. Anything that adds insulation reduces the height: a large body, over-inflated lungs, or fluid around the heart or lungs. Less often the muscle itself is the issue — replaced by scar after several heart attacks, or infiltrated by abnormal protein in amyloidosis.
+
+Doctors pay attention to the mismatch: low voltage on the ECG together with thick heart walls on an echocardiogram is a recognised clue to cardiac amyloidosis.
+
+## What it looks like on the ECG
+
+All complexes look short. The rhythm, intervals and wave shapes may otherwise be completely normal.
+
+## Common causes
+
+- Obesity or a large chest
+- Emphysema / COPD
+- Fluid around the heart (pericardial effusion) or lungs (pleural effusion)
+- Underactive thyroid
+- Generalised swelling (severe oedema)
+- Extensive previous heart attacks or cardiomyopathy
+- Infiltrative disease such as amyloidosis
+- Machine gain set to half-standard (5 mm/mV) — check the calibration mark
+
+## Should you worry?
+
+Often it simply reflects body build or lung disease already known about. It needs a clearer explanation when it is new, when it comes with breathlessness, ankle swelling, light-headedness or a fast heart rate, or when no obvious reason exists.
+
+**Get urgent help** if this finding comes with chest pain or pressure, severe breathlessness, fainting, or a fast heartbeat that will not settle. Those symptoms matter more than any single ECG phrase.
+
+## What usually happens next
+
+1. Check the calibration box on the printout is 10 mm tall
+2. Comparison with old ECGs to see whether voltage has fallen
+3. Echocardiogram to look for fluid around the heart and at wall thickness
+4. Thyroid blood tests where appropriate
+
+### Questions to ask your doctor
+
+- Was the ECG recorded at standard calibration?
+- Is this new compared with before?
+- Do I need an echocardiogram?
+@@FAQ@@
+Q: Is low voltage QRS serious?
+A: It depends entirely on the cause. Body build is harmless; a large pericardial effusion is not. New low voltage with symptoms should be assessed promptly.
+Q: Can low voltage QRS be normal?
+A: Yes. A small percentage of healthy people meet the criteria with no underlying condition.
+Q: Does being overweight cause low voltage?
+A: Yes. Extra tissue between the heart and the electrodes weakens the recorded signal.
+@@RELATED@@
+Poor R Wave Progression: What It Means | https://www.ecgmeans.com/poor-r-wave-progression/ | Depends on context
+Abnormal ECG: What It Means on Your Report | https://www.ecgmeans.com/abnormal-ecg/ | Depends on context
+Sinus Tachycardia: What It Means | https://www.ecgmeans.com/sinus-tachycardia/ | Depends on context
+QRS Interval: Normal Range and What a Wide QRS Means | https://www.ecgmeans.com/qrs-interval/ | Depends on context
+Possible Left Atrial Enlargement: ECG Meaning | https://www.ecgmeans.com/left-atrial-enlargement/ | Needs clinician review
+@@ALSO@@
+low voltage ecg, low qrs voltage, low voltage qrs meaning
+@@SOURCES@@
+Low QRS Voltage | https://litfl.com/low-qrs-voltage-ecg-library/
+Low Voltage | https://emcrit.org/ibcc/voltage/
+Raise the Flag: Is Low QRS Voltage Ready to Advance to a Prognostic Factor? | https://pmc.ncbi.nlm.nih.gov/articles/PMC9700247/
+@@END@@
