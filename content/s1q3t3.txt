@@ -1,0 +1,70 @@
+@@TITLE@@
+S1Q3T3 on ECG: What the Pattern Means (and Pulmonary Embolism)
+@@DESC@@
+S1Q3T3 is an ECG pattern linked with pulmonary embolism, but it is neither sensitive nor specific. Learn what it is, why it happens, and how PE is really diagnosed.
+@@H1@@
+S1Q3T3: What the Pattern Means on an ECG
+@@CATEGORY@@
+Intervals & Waves | https://www.ecgmeans.com/ecg-intervals-waves/
+@@QUICK@@
+Needs clinician review
+@@LEDE@@
+S1Q3T3 describes a combination of three findings — an S wave in lead I, a Q wave in lead III, and an inverted T wave in lead III. It is best known as a textbook sign of a pulmonary embolism (a clot in the lungs), but it is neither sensitive nor specific: most people with a PE do not have it, and it can appear in healthy people. It is a prompt to think about PE in the right setting, not a diagnosis.
+@@BODY@@
+## What "s1q3t3" means
+
+A large or sudden clot in the lung arteries strains the right side of the heart. That acute right-heart strain can shift the electrical forces, producing an S wave in lead I and a new Q wave with T wave inversion in lead III. Put together, that is the S1Q3T3 pattern.
+
+The problem is reliability. Only a minority of people with a proven PE show S1Q3T3, and the same pattern turns up in healthy people, in lung disease and with body position. The commonest ECG finding in PE is actually just a fast heart rate (sinus tachycardia).
+
+## What it looks like on the ECG
+
+A prominent S wave in lead I, a Q wave in lead III, and an inverted T wave in lead III. Other signs of right-heart strain — a new right bundle branch block, T wave inversion in V1–V3, or right axis deviation — may accompany it.
+
+## Common causes
+
+- Acute pulmonary embolism (the association it is known for)
+- Other causes of sudden right-heart strain
+- A normal variant or body position (it can be present with no disease)
+- Chronic lung disease
+
+## Should you worry?
+
+Needs clinician review
+
+On its own, in a well person with no symptoms, S1Q3T3 is often meaningless. But if it is new and you have sudden breathlessness, chest pain (especially sharp pain worse on breathing in), a fast heart rate or a swollen leg, it must be taken seriously as a possible pulmonary embolism, which is a medical emergency.
+
+**Get urgent help** if this finding comes with chest pain or pressure, severe breathlessness, fainting, or a one-sided swollen, painful leg. Call your local emergency number — a pulmonary embolism is time-critical.
+
+## What usually happens next
+
+1. Assessment of PE risk and symptoms
+2. A D-dimer blood test and, if needed, a CT pulmonary angiogram
+3. Oxygen levels, and an echocardiogram to look at the right heart
+4. Treatment with blood thinners if a PE is confirmed
+
+### Questions to ask your doctor
+
+- Is this pattern new, and could it mean a clot in my lungs?
+- Do I need a D-dimer or a CT scan?
+- Are there other signs of right-heart strain on my ECG?
+@@FAQ@@
+Q: Does S1Q3T3 always mean pulmonary embolism?
+A: No. Most people with it do not have a PE, and most people with a PE do not show it. It is only a clue in the right clinical setting.
+Q: What is the most common ECG finding in a pulmonary embolism?
+A: A fast heart rate (sinus tachycardia), not S1Q3T3.
+Q: Can S1Q3T3 be normal?
+A: Yes, it can appear in healthy people and with body position, which is why it is interpreted alongside symptoms.
+@@RELATED@@
+T Wave Inversion: What It Means on an ECG | https://www.ecgmeans.com/t-wave-inversion/ | Depends on context
+Right Axis Deviation: What It Means on an ECG | https://www.ecgmeans.com/right-axis-deviation/ | Depends on context
+Right Bundle Branch Block: What It Means | https://www.ecgmeans.com/right-bundle-branch-block/ | Usually harmless
+Sinus Tachycardia: What It Means | https://www.ecgmeans.com/sinus-tachycardia/ | Depends on context
+Right Ventricular Hypertrophy: What It Means | https://www.ecgmeans.com/right-ventricular-hypertrophy/ | Needs clinician review
+@@ALSO@@
+s1q3t3, s1 q3 t3, s1q3t3 pulmonary embolism, s1q3t3 ecg meaning
+@@SOURCES@@
+Pulmonary Embolism | https://my.clevelandclinic.org/health/diseases/17400-pulmonary-embolism
+Right Ventricular Strain Patterns | https://litfl.com/right-ventricular-strain-ecg-library/
+Pulmonary Embolism | https://www.ncbi.nlm.nih.gov/books/NBK560551/
+@@END@@

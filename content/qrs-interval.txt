@@ -63,6 +63,7 @@ PR Interval: Normal Range and What Short or Long Means | https://www.ecgmeans.co
 QT and QTc Interval: Normal Range and Prolonged QT | https://www.ecgmeans.com/qt-interval/ | Needs clinician review
 Idioventricular Rhythm: What It Means | https://www.ecgmeans.com/idioventricular-rhythm/ | Seek prompt care
 Third Degree (Complete) Heart Block: What It Means | https://www.ecgmeans.com/third-degree-av-block/ | Seek prompt care
+Intraventricular Conduction Delay (IVCD): What It Means | https://www.ecgmeans.com/intraventricular-conduction-delay/ | Depends on context
 @@ALSO@@
 qrs interval, normal qrs interval, wide qrs, qrs duration
 @@SOURCES@@

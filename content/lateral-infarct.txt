@@ -1,0 +1,71 @@
+@@TITLE@@
+Lateral Infarct on ECG: Meaning of Changes in I, aVL, V5–V6
+@@DESC@@
+A lateral infarct means Q waves or changes in the lateral leads (I, aVL, V5–V6). Learn what it suggests about the side wall of the heart and how it is confirmed.
+@@H1@@
+Lateral Infarct: What It Means on an ECG
+@@CATEGORY@@
+ECG Report Phrases | https://www.ecgmeans.com/ecg-report-phrases/
+@@QUICK@@
+Needs clinician review
+@@LEDE@@
+A "lateral infarct" on an ECG report means the software saw a pattern — usually Q waves — in the leads that look at the side wall of the heart (I, aVL, V5 and V6), which a past heart attack can leave. As with the other "age undetermined" infarct labels, it is a suggestion that needs a clinician's review and often an echocardiogram, because lead factors and normal variants can mimic it.
+@@BODY@@
+## What "lateral infarct" means
+
+The side (lateral) wall of the left ventricle is viewed by leads I and aVL (high lateral) and V5–V6 (low lateral), and is supplied by branches of the left-sided coronary arteries. When muscle there has been damaged by a heart attack, Q waves or lost R waves appear in these leads. The report may say lateral infarct, high lateral infarct, or combine territories (for example anterolateral).
+
+"Age undetermined" means the machine saw a fixed pattern that could be old, not the ST changes of an attack in progress. Small lateral Q waves can also be a normal septal variant, so the finding is confirmed rather than assumed.
+
+## What it looks like on the ECG
+
+Q waves, or small/absent R waves, in leads I, aVL, V5 and V6, sometimes with T wave changes in the same leads. A genuine old infarct usually involves more than one of these neighbouring leads.
+
+## Common causes
+
+- A genuine previous lateral heart attack
+- Normal septal Q waves (a common mimic)
+- Left ventricular hypertrophy
+- Left bundle branch block
+- Lead placement and body build
+
+## Should you worry?
+
+Needs clinician review
+
+A real lateral infarct reflects previous heart muscle damage, so the line should be reviewed by a clinician rather than ignored. But because normal variants and lead factors can produce the same picture, you should not assume you have had a heart attack from the ECG alone. Comparison with old ECGs, your risk factors and an echocardiogram decide it.
+
+**Get urgent help** if this finding comes with chest pain or pressure, severe breathlessness, fainting, or a fast heartbeat that will not settle. Those symptoms matter more than any single ECG phrase.
+
+## What usually happens next
+
+1. Clinician over-read and comparison with previous ECGs
+2. An echocardiogram to look at the side wall's movement
+3. Risk-factor assessment and treatment
+4. Further cardiac testing if a genuine infarct is likely
+
+### Questions to ask your doctor
+
+- Is the change in more than one lateral lead?
+- Is this new compared with my old ECGs?
+- Should I have an echocardiogram?
+@@FAQ@@
+Q: Is a lateral infarct serious?
+A: A real one reflects previous heart damage and matters, but the ECG label alone is only a suspicion that needs confirming.
+Q: Can a lateral infarct on ECG be a false alarm?
+A: Yes. Normal septal Q waves, a thick ventricle and lead placement can all mimic it.
+Q: How is it confirmed?
+A: With an echocardiogram and by comparing the ECG with earlier tracings.
+@@RELATED@@
+Anterior Infarct, Age Undetermined: ECG Meaning | https://www.ecgmeans.com/anterior-infarct-age-undetermined/ | Needs clinician review
+Inferior Infarct, Age Undetermined: ECG Meaning | https://www.ecgmeans.com/inferior-infarct-age-undetermined/ | Needs clinician review
+Septal Infarct on an ECG: What It Means | https://www.ecgmeans.com/septal-infarct/ | Depends on context
+Anteroseptal Infarct, Age Undetermined: ECG Meaning | https://www.ecgmeans.com/anteroseptal-infarct/ | Needs clinician review
+Abnormal ECG: What It Means on Your Report | https://www.ecgmeans.com/abnormal-ecg/ | Depends on context
+@@ALSO@@
+lateral infarct, possible lateral infarct, high lateral infarct, lateral infarct age undetermined
+@@SOURCES@@
+Silent Heart Attack | https://my.clevelandclinic.org/health/diseases/21630-silent-heart-attack
+Lateral STEMI | https://litfl.com/lateral-stemi-ecg-library/
+The Q Wave | https://litfl.com/q-wave-ecg-library/
+@@END@@

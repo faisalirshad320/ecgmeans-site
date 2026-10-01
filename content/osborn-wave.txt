@@ -1,0 +1,71 @@
+@@TITLE@@
+Osborn Wave (J Wave) on ECG: Hypothermia and Other Causes
+@@DESC@@
+An Osborn wave (J wave) is a notch at the end of the QRS, classically caused by hypothermia. Learn what it looks like, its causes, and why it resolves on warming.
+@@H1@@
+Osborn Wave (J Wave): What It Means on an ECG
+@@CATEGORY@@
+Intervals & Waves | https://www.ecgmeans.com/ecg-intervals-waves/
+@@QUICK@@
+Needs clinician review
+@@LEDE@@
+An Osborn wave — also called a J wave — is an extra positive deflection or notch at the junction where the QRS ends and the ST segment begins (the J point). Its classic cause is hypothermia (a dangerously low body temperature), and the colder the person, the larger the wave. It also appears with high blood calcium and some other conditions, and it typically disappears as the cause is corrected.
+@@BODY@@
+## What "osborn wave" means
+
+The J point is the hinge between the QRS and the ST segment. When the body cools, the heart's electrical recovery is altered in a way that lifts this point into a distinct hump — the Osborn wave. The size of the wave tends to track the degree of hypothermia, and it is most visible in the inferior and lateral leads. It fades as the person is rewarmed.
+
+Although hypothermia is the textbook cause, J waves are also seen with high blood calcium, some brain injuries, certain inherited conditions, and occasionally as a benign early-repolarization variant.
+
+## What it looks like on the ECG
+
+A positive notch or hump at the end of the QRS (the J point), most obvious in leads II, III, aVF and V3–V6. In hypothermia it is often accompanied by a slow heart rate, a long QT interval and shivering artefact on the tracing.
+
+## Common causes
+
+- Hypothermia (the classic cause)
+- High blood calcium (hypercalcaemia)
+- Severe brain injury or bleeding
+- Early repolarization (a benign variant form of J wave)
+- Certain inherited arrhythmia syndromes
+
+## Should you worry?
+
+Needs clinician review
+
+An Osborn wave itself is a sign, not a disease. In the setting of hypothermia it reflects a potentially life-threatening drop in body temperature that needs careful rewarming and monitoring. Outside that setting it prompts a check of calcium and a look for other causes. A benign early-repolarization J wave needs no action.
+
+**Get urgent help** if this finding comes with a very low body temperature, confusion, severe shivering or drowsiness, chest pain, or fainting. Hypothermia is a medical emergency.
+
+## What usually happens next
+
+1. Measurement of core body temperature
+2. Careful, monitored rewarming if hypothermic
+3. A blood calcium test
+4. Looking for other causes if the person is not cold
+
+### Questions to ask your doctor
+
+- Is this due to a low body temperature?
+- Should my calcium level be checked?
+- Will it resolve once the cause is treated?
+@@FAQ@@
+Q: What is an Osborn wave a sign of?
+A: Most classically hypothermia; also high blood calcium, some brain injuries and, in a benign form, early repolarization.
+Q: Is an Osborn wave dangerous?
+A: The wave itself is harmless, but its commonest cause — hypothermia — can be life-threatening and needs urgent treatment.
+Q: Does the Osborn wave go away?
+A: Yes, it typically resolves once the cause, such as a low body temperature, is corrected.
+@@RELATED@@
+Early Repolarization on an ECG: What It Means | https://www.ecgmeans.com/early-repolarization/ | Usually harmless
+QT and QTc Interval: Normal Range and Prolonged QT | https://www.ecgmeans.com/qt-interval/ | Needs clinician review
+Sinus Bradycardia: What It Means | https://www.ecgmeans.com/sinus-bradycardia/ | Usually harmless
+ST Elevation: What It Means on an ECG | https://www.ecgmeans.com/st-elevation/ | Seek prompt care
+Abnormal ECG: What It Means on Your Report | https://www.ecgmeans.com/abnormal-ecg/ | Depends on context
+@@ALSO@@
+osborn wave, j wave ecg, osborn wave hypothermia, j point notch
+@@SOURCES@@
+Hypothermia | https://my.clevelandclinic.org/health/diseases/21164-hypothermia
+Osborn Wave (J Wave) | https://litfl.com/osborn-wave-j-wave-ecg-library/
+Hypothermia | https://www.ncbi.nlm.nih.gov/books/NBK545239/
+@@END@@

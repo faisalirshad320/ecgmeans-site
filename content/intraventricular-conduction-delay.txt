@@ -1,0 +1,72 @@
+@@TITLE@@
+Intraventricular Conduction Delay (IVCD) on ECG: Meaning
+@@DESC@@
+A nonspecific intraventricular conduction delay is a wide QRS that is not a typical bundle branch block. Learn the common causes and when it needs assessment.
+@@H1@@
+Intraventricular Conduction Delay (IVCD): What It Means
+@@CATEGORY@@
+Heart Blocks & Conduction | https://www.ecgmeans.com/heart-block-conduction/
+@@QUICK@@
+Depends on context
+@@LEDE@@
+An intraventricular conduction delay (IVCD) means the impulse takes longer than normal to spread through the ventricles, widening the QRS, but the pattern does not fit a typical left or right bundle branch block. When reports add the word "nonspecific," it simply means the delay has no classic shape. It is common, often mild, and its importance depends on the cause.
+@@BODY@@
+## What "intraventricular conduction delay" means
+
+The ventricles are normally activated through a fast wiring network, keeping the QRS narrow. If conduction through that network is slowed in a way that does not match the specific pattern of a right or left bundle branch block, the software calls it a nonspecific intraventricular conduction delay. The QRS is widened (usually 110 ms or more) but lacks the characteristic rSR' of RBBB or the broad notched shape of LBBB.
+
+It is a description rather than a single diagnosis. A mild IVCD is common and often of little consequence; a markedly wide QRS, or one that is new, carries more weight.
+
+## What it looks like on the ECG
+
+A QRS wider than normal (often 110–120 ms or more) that does not meet the criteria for right or left bundle branch block — an atypical, slurred or notched shape.
+
+## Common causes
+
+- Age-related change in the conduction system
+- Left ventricular hypertrophy and heart muscle disease
+- Previous heart attack or scar
+- High potassium
+- Sodium-channel-blocking drugs (some antidepressants, antiarrhythmics)
+- A normal variant when mild
+
+## Should you worry?
+
+Depends on context
+
+A mild, stable IVCD in a well person usually needs no action. A markedly widened QRS, a new delay, or one found with symptoms or heart disease deserves assessment, because it can reflect underlying heart muscle or electrical disease. A very wide QRS from high potassium or a drug effect is treated urgently.
+
+**Get urgent help** if this finding comes with chest pain or pressure, severe breathlessness, fainting, or a fast heartbeat that will not settle. Those symptoms matter more than any single ECG phrase.
+
+## What usually happens next
+
+1. Comparison with previous ECGs
+2. A check of potassium and a review of medicines
+3. An echocardiogram if it is new, wide, or with symptoms
+4. Treatment of any underlying cause
+
+### Questions to ask your doctor
+
+- How wide is my QRS, and is this new?
+- Could a medicine or my potassium be responsible?
+- Do I need an echocardiogram?
+@@FAQ@@
+Q: Is an intraventricular conduction delay serious?
+A: Often not, when mild and stable. A markedly wide or new delay, or one with symptoms, needs assessment.
+Q: What does "nonspecific" intraventricular conduction delay mean?
+A: That the QRS is wide but the shape does not fit a typical left or right bundle branch block.
+Q: Can it be caused by medicines?
+A: Yes. Some antidepressants and antiarrhythmic drugs, and a high potassium level, can widen the QRS.
+@@RELATED@@
+QRS Interval: Normal Range and What a Wide QRS Means | https://www.ecgmeans.com/qrs-interval/ | Depends on context
+Left Bundle Branch Block: What It Means | https://www.ecgmeans.com/left-bundle-branch-block/ | Needs clinician review
+Right Bundle Branch Block: What It Means | https://www.ecgmeans.com/right-bundle-branch-block/ | Usually harmless
+Left Anterior Fascicular Block: What It Means | https://www.ecgmeans.com/left-anterior-fascicular-block/ | Usually harmless
+Abnormal ECG: What It Means on Your Report | https://www.ecgmeans.com/abnormal-ecg/ | Depends on context
+@@ALSO@@
+intraventricular conduction delay, nonspecific intraventricular conduction delay, ivcd ecg, nonspecific ivcd
+@@SOURCES@@
+Bundle Branch Block | https://my.clevelandclinic.org/health/diseases/22734-bundle-branch-block
+Intraventricular Conduction Delay | https://litfl.com/ivcd-nonspecific-intraventricular-conduction-delay/
+Electrocardiogram | https://www.ncbi.nlm.nih.gov/books/NBK549803/
+@@END@@

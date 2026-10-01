@@ -1,0 +1,70 @@
+@@TITLE@@
+Electrical Alternans on ECG: Causes and Meaning
+@@DESC@@
+Electrical alternans is a beat-to-beat change in the height of the QRS. Its classic cause is a large fluid collection around the heart. Learn when it is urgent.
+@@H1@@
+Electrical Alternans: What It Means on an ECG
+@@CATEGORY@@
+Intervals & Waves | https://www.ecgmeans.com/ecg-intervals-waves/
+@@QUICK@@
+Needs clinician review
+@@LEDE@@
+Electrical alternans means the height of the QRS complexes changes from one beat to the next in a regular alternating pattern. Its best-known cause is a large collection of fluid around the heart (a pericardial effusion), in which the heart swings within the fluid so that each beat is recorded from a slightly different position. It can also occur with very fast rhythms. New electrical alternans deserves prompt assessment.
+@@BODY@@
+## What "electrical alternans" means
+
+When a lot of fluid builds up in the sac around the heart, the heart can literally swing back and forth within it with each beat. Because the heart's position relative to the electrodes changes beat to beat, the recorded QRS alternates in height. Combined with low voltage and a fast heart rate, this is a classic clue to a large effusion and to cardiac tamponade, a dangerous build-up that stops the heart filling properly.
+
+Electrical alternans is also seen in some very fast rhythms (such as certain SVTs), where it reflects the electrical behaviour rather than fluid.
+
+## What it looks like on the ECG
+
+QRS complexes that alternate in height from beat to beat in a regular pattern. In a large pericardial effusion this is often combined with overall low voltage and a fast heart rate.
+
+## Common causes
+
+- Large pericardial effusion and cardiac tamponade (the classic cause)
+- Very fast supraventricular tachycardias
+- Severe heart muscle disease
+- Occasionally with severe ischaemia
+
+## Should you worry?
+
+Needs clinician review
+
+New electrical alternans, especially with breathlessness, a fast heart rate, low blood pressure or light-headedness, can indicate a large pericardial effusion or tamponade and needs urgent assessment with an echocardiogram. In the setting of a fast rhythm it is assessed as part of that rhythm.
+
+**Get urgent help** if this finding comes with chest pain or pressure, severe breathlessness, fainting, or a fast heartbeat that will not settle. Call your local emergency number if you feel faint or severely breathless.
+
+## What usually happens next
+
+1. An urgent echocardiogram to look for fluid around the heart
+2. Assessment of blood pressure and the rhythm
+3. Drainage of the fluid if tamponade is present
+4. Treatment of the underlying cause
+
+### Questions to ask your doctor
+
+- Is there fluid around my heart?
+- Do I need an urgent echocardiogram?
+- Is my blood pressure affected?
+@@FAQ@@
+Q: Is electrical alternans dangerous?
+A: It can be, because its classic cause is a large pericardial effusion that may progress to tamponade. New electrical alternans needs prompt assessment.
+Q: What causes electrical alternans?
+A: Most classically a large collection of fluid around the heart; also some very fast rhythms and severe heart muscle disease.
+Q: How is it confirmed?
+A: With an echocardiogram, which shows the fluid and how it is affecting the heart.
+@@RELATED@@
+Low Voltage QRS: What It Means | https://www.ecgmeans.com/low-voltage-qrs/ | Needs clinician review
+Pericarditis on an ECG: What It Shows | https://www.ecgmeans.com/pericarditis-ecg/ | Needs clinician review
+Sinus Tachycardia: What It Means | https://www.ecgmeans.com/sinus-tachycardia/ | Depends on context
+SVT vs VTach: What's the Difference? | https://www.ecgmeans.com/svt-vs-vtach/ | Seek prompt care
+Abnormal ECG: What It Means on Your Report | https://www.ecgmeans.com/abnormal-ecg/ | Depends on context
+@@ALSO@@
+electrical alternans, electrical alternans ecg, electrical alternans tamponade, qrs alternans
+@@SOURCES@@
+Cardiac Tamponade | https://my.clevelandclinic.org/health/diseases/17357-cardiac-tamponade
+Electrical Alternans | https://litfl.com/electrical-alternans-ecg-library/
+Cardiac Tamponade | https://www.ncbi.nlm.nih.gov/books/NBK431090/
+@@END@@

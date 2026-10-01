@@ -60,6 +60,7 @@ Atrial Fibrillation: What It Means on an ECG | https://www.ecgmeans.com/atrial-f
 Ectopic Atrial Rhythm: What It Means | https://www.ecgmeans.com/ectopic-atrial-rhythm/ | Depends on context
 Sinus Tachycardia: What It Means | https://www.ecgmeans.com/sinus-tachycardia/ | Depends on context
 Atrial Flutter: What It Means on an ECG | https://www.ecgmeans.com/atrial-flutter/ | Needs clinician review
+Atrial Tachycardia: What It Means on an ECG | https://www.ecgmeans.com/atrial-tachycardia/ | Needs clinician review
 @@ALSO@@
 multifocal atrial tachycardia ecg, mat ecg, mat rhythm, three p wave morphologies
 @@SOURCES@@

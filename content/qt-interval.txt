@@ -62,6 +62,7 @@ T Wave Inversion: What It Means on an ECG | https://www.ecgmeans.com/t-wave-inve
 Sinus Bradycardia: What It Means | https://www.ecgmeans.com/sinus-bradycardia/ | Usually harmless
 Abnormal ECG: What It Means on Your Report | https://www.ecgmeans.com/abnormal-ecg/ | Depends on context
 Peaked T Waves: What They Mean on an ECG | https://www.ecgmeans.com/peaked-t-waves/ | Depends on context
+U Wave: What It Means on an ECG | https://www.ecgmeans.com/u-wave/ | Depends on context
 @@ALSO@@
 qt interval, long qt interval, qtc interval, prolonged qt
 @@SOURCES@@

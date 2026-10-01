@@ -1,0 +1,72 @@
+@@TITLE@@
+U Wave on ECG: What Prominent U Waves Mean
+@@DESC@@
+A U wave is a small bump after the T wave. Small U waves are normal; prominent U waves can signal low potassium or certain medicines. Learn when it matters.
+@@H1@@
+U Wave: What It Means on an ECG
+@@CATEGORY@@
+Intervals & Waves | https://www.ecgmeans.com/ecg-intervals-waves/
+@@QUICK@@
+Depends on context
+@@LEDE@@
+A U wave is a small, rounded bump that sometimes follows the T wave on an ECG. Small U waves are a normal finding, most visible at slow heart rates and in the chest leads. Prominent U waves are the ones that matter — they are a classic sign of a low blood potassium level and of certain medicines.
+@@BODY@@
+## What "u wave" means
+
+The U wave represents the final part of the heart's electrical recovery. In most people it is tiny or not seen at all. It becomes taller when recovery is prolonged — most importantly when blood potassium is low, but also with low magnesium or calcium, a slow heart rate, and drugs that lengthen repolarization.
+
+Very large U waves can merge with the T wave and lengthen the apparent QT interval, which is why low potassium also raises the risk of a dangerous rhythm. Inverted U waves are less common and can be a sign of heart disease.
+
+## What it looks like on the ECG
+
+A small, rounded deflection after the T wave, in the same direction, best seen in leads V2–V3 and at slow heart rates. "Prominent" U waves are taller than about 1–2 mm or taller than the T wave before them.
+
+## Common causes
+
+- Low potassium (hypokalaemia) — the classic cause of prominent U waves
+- Low magnesium or calcium
+- Slow heart rate (bradycardia)
+- Medicines, including some antiarrhythmics and digoxin
+- A normal variant (small U waves)
+- Inverted U waves: ischaemia, high blood pressure
+
+## Should you worry?
+
+Depends on context
+
+A small U wave is normal and needs nothing. Prominent U waves prompt a check of potassium and magnesium, because correcting a low level removes the risk. New inverted U waves deserve review, as they can accompany heart disease.
+
+**Get urgent help** if this finding comes with chest pain or pressure, severe breathlessness, fainting, or a fast heartbeat that will not settle. Those symptoms matter more than any single ECG phrase.
+
+## What usually happens next
+
+1. A blood test for potassium, magnesium and calcium
+2. Review of medicines
+3. Correcting a low electrolyte, which resolves the U waves
+4. Further assessment if U waves are inverted or there are other changes
+
+### Questions to ask your doctor
+
+- Could my potassium or magnesium be low?
+- Are any of my medicines responsible?
+- Are these prominent or inverted U waves?
+@@FAQ@@
+Q: Are U waves normal?
+A: Small U waves are a normal finding. Prominent or inverted U waves are the ones that may need attention.
+Q: What causes prominent U waves?
+A: Most often a low blood potassium level; also low magnesium, a slow heart rate and certain medicines.
+Q: Are U waves dangerous?
+A: Not in themselves, but prominent U waves can point to low potassium, which raises the risk of a dangerous rhythm and is worth correcting.
+@@RELATED@@
+QT and QTc Interval: Normal Range and Prolonged QT | https://www.ecgmeans.com/qt-interval/ | Needs clinician review
+Peaked T Waves: What They Mean on an ECG | https://www.ecgmeans.com/peaked-t-waves/ | Depends on context
+T Wave Inversion: What It Means on an ECG | https://www.ecgmeans.com/t-wave-inversion/ | Depends on context
+Sinus Bradycardia: What It Means | https://www.ecgmeans.com/sinus-bradycardia/ | Usually harmless
+Nonspecific T Wave Abnormality: What It Means | https://www.ecgmeans.com/nonspecific-t-wave-abnormality/ | Depends on context
+@@ALSO@@
+u wave ecg, prominent u waves, u wave hypokalemia, inverted u wave
+@@SOURCES@@
+Hypokalemia | https://my.clevelandclinic.org/health/diseases/17740-low-potassium-levels-hypokalemia
+U Wave | https://litfl.com/u-wave-ecg-library/
+ECG U Wave | https://www.ncbi.nlm.nih.gov/books/NBK557490/
+@@END@@

@@ -1,0 +1,68 @@
+@@TITLE@@
+Delta Wave on ECG: Wolff-Parkinson-White (WPW) Explained
+@@DESC@@
+A delta wave is a slurred upstroke at the start of the QRS, the signature of Wolff-Parkinson-White. Learn what it means, the risks, and when it needs treatment.
+@@H1@@
+Delta Wave: What It Means on an ECG
+@@CATEGORY@@
+Intervals & Waves | https://www.ecgmeans.com/ecg-intervals-waves/
+@@QUICK@@
+Needs clinician review
+@@LEDE@@
+A delta wave is a slurred, gradual upstroke at the very start of the QRS complex. It is the signature of an extra electrical connection between the upper and lower chambers (an accessory pathway) that lets the impulse bypass the normal AV node delay. Combined with a short PR interval, a delta wave is the Wolff-Parkinson-White (WPW) pattern, which should be assessed by a cardiologist.
+@@BODY@@
+## What "delta wave" means
+
+Normally the only route from the atria to the ventricles is through the AV node, which deliberately slows the impulse. In some people an extra muscle strand (an accessory pathway) provides a short-cut. Part of the ventricle is then activated early, producing a short PR interval and a slurred start to the QRS — the delta wave. This is called pre-excitation.
+
+The pattern matters because the accessory pathway can set up a fast re-entry rhythm (SVT), and, less commonly, it can conduct dangerously fast if atrial fibrillation develops. When the WPW pattern is present and the person has had palpitations, it is called WPW syndrome.
+
+## What it looks like on the ECG
+
+A short PR interval (under 120 ms) and a slurred, slow upstroke at the beginning of a slightly widened QRS, the delta wave. The ST segment and T wave may also be altered.
+
+## Common causes
+
+- A congenital accessory pathway (Wolff-Parkinson-White)
+- It is present from birth, though it may be found at any age
+
+## Should you worry?
+
+Needs clinician review
+
+A delta wave found by chance, with no symptoms, often carries a low risk, but it should still be assessed because of the small chance of a dangerous fast rhythm. Anyone with a delta wave plus episodes of a racing heart, fainting, or a family history of sudden death needs cardiology review and often an electrophysiology study, which can locate and cure the pathway with ablation.
+
+**Get urgent help** if this finding comes with chest pain or pressure, severe breathlessness, fainting, or a fast heartbeat that will not settle. Those symptoms matter more than any single ECG phrase.
+
+## What usually happens next
+
+1. Cardiology referral to assess the risk
+2. A Holter monitor if there are palpitations
+3. An electrophysiology study to locate the pathway
+4. Catheter ablation, which cures most accessory pathways
+
+### Questions to ask your doctor
+
+- Is this Wolff-Parkinson-White, and what is my risk?
+- Have I had episodes of a racing heart?
+- Would an electrophysiology study and ablation be advised?
+@@FAQ@@
+Q: Is a delta wave dangerous?
+A: Often the risk is low, but because an accessory pathway can rarely cause a dangerous fast rhythm, a delta wave should be assessed by a cardiologist.
+Q: What is the difference between WPW pattern and WPW syndrome?
+A: WPW pattern is the ECG finding with no symptoms; WPW syndrome is the pattern plus episodes of a fast heart rhythm.
+Q: Can WPW be cured?
+A: Yes. Catheter ablation of the accessory pathway cures most cases.
+@@RELATED@@
+Short PR Interval: What It Means | https://www.ecgmeans.com/short-pr-interval/ | Depends on context
+PR Interval: Normal Range and What Short or Long Means | https://www.ecgmeans.com/pr-interval/ | Depends on context
+SVT vs VTach: What's the Difference? | https://www.ecgmeans.com/svt-vs-vtach/ | Seek prompt care
+QRS Interval: Normal Range and What a Wide QRS Means | https://www.ecgmeans.com/qrs-interval/ | Depends on context
+Atrial Fibrillation: What It Means on an ECG | https://www.ecgmeans.com/atrial-fibrillation/ | Needs clinician review
+@@ALSO@@
+delta wave ecg, wpw delta wave, pre-excitation, wolff parkinson white ecg
+@@SOURCES@@
+Wolff-Parkinson-White Syndrome | https://my.clevelandclinic.org/health/diseases/22064-wolff-parkinson-white-syndrome-wpw
+Pre-excitation Syndromes | https://litfl.com/pre-excitation-syndromes-ecg-library/
+Wolff-Parkinson-White Syndrome | https://www.ncbi.nlm.nih.gov/books/NBK554437/
+@@END@@

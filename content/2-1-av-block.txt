@@ -1,0 +1,71 @@
+@@TITLE@@
+2:1 AV Block on ECG: What It Means and Why It Matters
+@@DESC@@
+In 2:1 AV block every other P wave is blocked. It can be the benign Mobitz I type or the more serious Mobitz II type. Learn how doctors tell them apart.
+@@H1@@
+2:1 AV Block: What It Means on an ECG
+@@CATEGORY@@
+Heart Blocks & Conduction | https://www.ecgmeans.com/heart-block-conduction/
+@@QUICK@@
+Seek prompt care
+@@LEDE@@
+In 2:1 AV block, exactly every other impulse from the upper chambers is blocked, so only one in two P waves is followed by a heartbeat — producing a pulse that is half the atrial rate. The catch is that a single strip cannot tell whether it is the benign (Mobitz I) or the more serious (Mobitz II) type, so 2:1 block is always assessed carefully.
+@@BODY@@
+## What "2:1 av block" means
+
+In second degree AV block some atrial impulses reach the ventricles and some are blocked. When the pattern is exactly two-to-one, every second P wave has no QRS after it. Because you cannot see the tell-tale gradual PR lengthening of Mobitz I (there is never a second conducted beat in a row to compare), a 2:1 strip is ambiguous.
+
+Clues help: a narrow QRS and a long PR on the conducted beats suggest the AV-node-level, more benign Mobitz I; a wide QRS and a normal PR suggest the His-Purkinje-level Mobitz II, which is more likely to progress to complete heart block. A longer recording, or watching the response to exercise, usually settles it.
+
+## What it looks like on the ECG
+
+Regular P waves at a steady rate, but only every second P wave is followed by a QRS, so the ventricular rate is exactly half the atrial rate. The conducted beats have a constant PR interval.
+
+## Common causes
+
+- Age-related degeneration of the conduction system
+- Heart attack
+- Heart-slowing medicines (beta-blockers, calcium-channel blockers, digoxin)
+- After cardiac surgery
+- High vagal tone (more likely the benign type)
+
+## Should you worry?
+
+Seek prompt care
+
+2:1 AV block is taken seriously because it may be the Mobitz II type, which can progress without warning to complete heart block. It is usually assessed promptly, especially if there is a wide QRS, fainting, dizziness or a very slow pulse, and it may lead to a pacemaker.
+
+**Get urgent help** if this finding comes with fainting, severe dizziness, chest pain, breathlessness, or a very slow pulse. Those symptoms matter more than any single ECG phrase.
+
+## What usually happens next
+
+1. A longer ECG recording to classify the block
+2. Review of heart-slowing medicines
+3. An exercise test — Mobitz I often improves with exertion, Mobitz II worsens
+4. A pacemaker if it is the Mobitz II type or causes symptoms
+
+### Questions to ask your doctor
+
+- Is this the Mobitz I or Mobitz II type?
+- Is my QRS narrow or wide?
+- Could a medicine be responsible, and do I need a pacemaker?
+@@FAQ@@
+Q: Is 2:1 AV block dangerous?
+A: It can be, because it may be the Mobitz II type that can progress to complete heart block. It is always assessed carefully.
+Q: Why can't a single ECG tell Mobitz I from Mobitz II in 2:1 block?
+A: Because the distinguishing feature — gradual PR lengthening before a dropped beat — needs two conducted beats in a row, which 2:1 conduction never provides.
+Q: Does 2:1 AV block need a pacemaker?
+A: Often, if it is the Mobitz II type or causes symptoms. A reversible cause such as a medicine is looked for first.
+@@RELATED@@
+Second Degree AV Block Type 2 (Mobitz II): What It Means | https://www.ecgmeans.com/second-degree-av-block-type-2/ | Seek prompt care
+Second Degree AV Block Type 1 (Wenckebach): What It Means | https://www.ecgmeans.com/second-degree-av-block-type-1/ | Depends on context
+Third Degree (Complete) Heart Block: What It Means | https://www.ecgmeans.com/third-degree-av-block/ | Seek prompt care
+Sinus Rhythm With 1st Degree AV Block: What It Means | https://www.ecgmeans.com/first-degree-av-block/ | Usually harmless
+Sinus Bradycardia: What It Means | https://www.ecgmeans.com/sinus-bradycardia/ | Usually harmless
+@@ALSO@@
+2:1 av block, 2 to 1 av block, 2:1 heart block, fixed ratio av block
+@@SOURCES@@
+Heart Block | https://my.clevelandclinic.org/health/diseases/17056-heart-block
+AV Block: 2nd Degree, 2:1 | https://litfl.com/av-block-2nd-degree-fixed-ratio-blocks/
+Second-Degree Atrioventricular Block | https://www.ncbi.nlm.nih.gov/books/NBK482359/
+@@END@@

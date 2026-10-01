@@ -65,6 +65,7 @@ PR Interval: Normal Range and What Short or Long Means | https://www.ecgmeans.co
 Sinus Bradycardia: What It Means | https://www.ecgmeans.com/sinus-bradycardia/ | Usually harmless
 Sinus Rhythm: What It Means on Your ECG | https://www.ecgmeans.com/sinus-rhythm/ | Usually harmless
 Third Degree (Complete) Heart Block: What It Means | https://www.ecgmeans.com/third-degree-av-block/ | Seek prompt care
+2:1 AV Block: What It Means on an ECG | https://www.ecgmeans.com/2-1-av-block/ | Seek prompt care
 @@ALSO@@
 sinus rhythm with 1st degree av block, sinus rhythm with first degree av block, prolonged pr interval, 1st degree heart block
 @@SOURCES@@

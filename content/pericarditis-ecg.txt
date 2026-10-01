@@ -1,0 +1,69 @@
+@@TITLE@@
+Pericarditis on ECG: Widespread ST Elevation Explained
+@@DESC@@
+Pericarditis causes widespread, concave ST elevation and PR depression on the ECG. Learn how doctors tell it apart from a heart attack and what the stages look like.
+@@H1@@
+Pericarditis on an ECG: What It Shows
+@@CATEGORY@@
+ECG Report Phrases | https://www.ecgmeans.com/ecg-report-phrases/
+@@QUICK@@
+Needs clinician review
+@@LEDE@@
+Pericarditis is inflammation of the sac around the heart. On the ECG it classically produces widespread, saucer-shaped (concave) ST elevation across many leads, together with PR-segment depression. The key task for a clinician is to separate it from a heart attack, which also raises the ST segment but in a different pattern. The ECG is only part of the picture, alongside symptoms and blood tests.
+@@BODY@@
+## What "pericarditis" means on the ECG
+
+When the lining around the heart is inflamed, the irritation affects the electrical recording from a wide area rather than from one artery's territory. That is why pericarditis causes ST elevation in most leads at once, instead of the grouped, one-territory pattern of a heart attack. PR-segment depression — the short segment just before the QRS dipping down — is a helpful additional sign.
+
+Classic pericarditis evolves through stages over days to weeks: widespread ST elevation and PR depression first, then the ST segments return to normal, then the T waves flatten and invert, then the ECG recovers.
+
+## What it looks like on the ECG
+
+Widespread concave ("smiley") ST elevation in most leads, PR-segment depression (and PR elevation in lead aVR), and no reciprocal ST depression of the kind seen in a heart attack. The changes are diffuse rather than confined to one region.
+
+## Common causes
+
+- Viral infection (the commonest cause)
+- After a heart attack or heart surgery
+- Autoimmune conditions such as lupus and rheumatoid arthritis
+- Kidney failure (uraemia)
+- Some medicines, and occasionally cancer or tuberculosis
+
+## Should you worry?
+
+Pericarditis is usually treatable and often settles with anti-inflammatory medicines, but chest pain always needs assessment, because the ECG changes can resemble a heart attack and because a large build-up of fluid around the heart (pericardial effusion or tamponade) can be dangerous. Pericarditis pain is classically sharp, worse lying flat and better sitting forward.
+
+**Get urgent help** if this finding comes with chest pain or pressure, severe breathlessness, fainting, or a fast heartbeat that will not settle. Those symptoms matter more than any single ECG phrase.
+
+## What usually happens next
+
+1. Clinical assessment and comparison with the heart-attack pattern
+2. Blood tests (inflammatory markers, troponin) and an echocardiogram to look for fluid
+3. Treatment of the cause, usually with anti-inflammatory medicines and colchicine
+4. Monitoring for a pericardial effusion
+
+### Questions to ask your doctor
+
+- Are you sure this is pericarditis and not a heart attack?
+- Is there any fluid around my heart on the echo?
+- What is causing the inflammation, and how is it treated?
+@@FAQ@@
+Q: How do doctors tell pericarditis from a heart attack on an ECG?
+A: Pericarditis causes widespread concave ST elevation with PR depression and no reciprocal changes; a heart attack causes ST elevation in one artery's leads, often with reciprocal depression elsewhere. Symptoms and troponin help confirm.
+Q: Is pericarditis serious?
+A: It is usually treatable, but it needs assessment because it mimics a heart attack and can be complicated by fluid around the heart.
+Q: What does PR depression mean?
+A: A downward shift of the short segment before the QRS; it is a supportive sign of pericarditis.
+@@RELATED@@
+ST Elevation: What It Means on an ECG | https://www.ecgmeans.com/st-elevation/ | Seek prompt care
+Early Repolarization on an ECG: What It Means | https://www.ecgmeans.com/early-repolarization/ | Usually harmless
+T Wave Inversion: What It Means on an ECG | https://www.ecgmeans.com/t-wave-inversion/ | Depends on context
+Abnormal ECG: What It Means on Your Report | https://www.ecgmeans.com/abnormal-ecg/ | Depends on context
+Low Voltage QRS: What It Means | https://www.ecgmeans.com/low-voltage-qrs/ | Needs clinician review
+@@ALSO@@
+pericarditis ecg, pericarditis ekg, pericarditis st elevation, pr depression pericarditis
+@@SOURCES@@
+Pericarditis | https://my.clevelandclinic.org/health/diseases/17353-pericarditis
+Pericarditis | https://litfl.com/pericarditis-ecg-library/
+Acute Pericarditis | https://www.ncbi.nlm.nih.gov/books/NBK431080/
+@@END@@

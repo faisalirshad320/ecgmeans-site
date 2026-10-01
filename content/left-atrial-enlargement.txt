@@ -62,7 +62,7 @@ Nonspecific T Wave Abnormality: What It Means | https://www.ecgmeans.com/nonspec
 Possible Right Atrial Enlargement: ECG Meaning | https://www.ecgmeans.com/right-atrial-enlargement/ | Needs clinician review
 Left Ventricular Hypertrophy (LVH): What It Means on an ECG | https://www.ecgmeans.com/left-ventricular-hypertrophy/ | Needs clinician review
 @@ALSO@@
-possible left atrial enlargement, left atrial abnormality, left atrial enlargement ecg
+possible left atrial enlargement, left atrial abnormality, left atrial enlargement ecg, p mitrale
 @@SOURCES@@
 Left Atrial Enlargement | https://my.clevelandclinic.org/health/diseases/23967-left-atrial-enlargement
 Left Atrial Enlargement | https://www.ncbi.nlm.nih.gov/books/NBK553096/

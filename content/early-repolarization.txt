@@ -59,6 +59,7 @@ Borderline ECG: What It Means | https://www.ecgmeans.com/borderline-ecg/ | Usual
 Sinus Bradycardia: What It Means | https://www.ecgmeans.com/sinus-bradycardia/ | Usually harmless
 Sinus Rhythm With Sinus Arrhythmia: What It Means | https://www.ecgmeans.com/sinus-arrhythmia/ | Usually harmless
 Abnormal ECG: What It Means on Your Report | https://www.ecgmeans.com/abnormal-ecg/ | Depends on context
+Osborn Wave (J Wave): What It Means on an ECG | https://www.ecgmeans.com/osborn-wave/ | Needs clinician review
 @@ALSO@@
 early repolarization ecg, early repolarisation, benign early repolarization
 @@SOURCES@@

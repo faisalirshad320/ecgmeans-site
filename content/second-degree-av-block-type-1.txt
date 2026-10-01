@@ -62,6 +62,7 @@ PR Interval: Normal Range and What Short or Long Means | https://www.ecgmeans.co
 Sinus Bradycardia: What It Means | https://www.ecgmeans.com/sinus-bradycardia/ | Usually harmless
 Junctional Rhythm: What It Means | https://www.ecgmeans.com/junctional-rhythm/ | Needs clinician review
 Third Degree (Complete) Heart Block: What It Means | https://www.ecgmeans.com/third-degree-av-block/ | Seek prompt care
+2:1 AV Block: What It Means on an ECG | https://www.ecgmeans.com/2-1-av-block/ | Seek prompt care
 @@ALSO@@
 2nd degree av block type 1, mobitz 1, wenckebach ecg, mobitz type 1
 @@SOURCES@@

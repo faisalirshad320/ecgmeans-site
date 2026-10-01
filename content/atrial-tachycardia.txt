@@ -1,0 +1,69 @@
+@@TITLE@@
+Atrial Tachycardia on ECG: Meaning, Causes & Treatment
+@@DESC@@
+Atrial tachycardia is a fast rhythm from a focus in the atria, with abnormal P waves before each beat. Learn how it differs from sinus tachycardia and SVT.
+@@H1@@
+Atrial Tachycardia: What It Means on an ECG
+@@CATEGORY@@
+Heart Rhythms | https://www.ecgmeans.com/heart-rhythms/
+@@QUICK@@
+Needs clinician review
+@@LEDE@@
+Atrial tachycardia is a fast heart rhythm — usually 150–250 beats per minute — driven by a single focus in the atria rather than the normal sinus node. On the ECG each QRS is preceded by an abnormally shaped P wave. It is a form of supraventricular tachycardia (SVT) and, while rarely immediately dangerous, it should be assessed because a persistently fast rate can tire the heart.
+@@BODY@@
+## What "atrial tachycardia" means
+
+In atrial tachycardia an irritable cluster of atrial cells fires faster than the sinus node and takes over the rhythm. Because the impulse starts away from the sinus node, the P wave looks different from a normal sinus P wave — it may be a different shape or point the wrong way. The ventricles follow normally, so the QRS stays narrow.
+
+It can come in short bursts or run continuously (sometimes "incessant" atrial tachycardia). When several atrial foci fire at once the rhythm becomes multifocal atrial tachycardia instead, which has several P wave shapes.
+
+## What it looks like on the ECG
+
+A regular narrow-complex tachycardia at 150–250 per minute with an abnormal P wave before each QRS. At very fast rates the P wave may hide in the previous T wave. Sometimes not every P wave conducts (atrial tachycardia with block), classically from digoxin toxicity.
+
+## Common causes
+
+- A normal variant, or triggered by caffeine, alcohol or stress
+- Underlying heart disease, previous heart surgery (especially in children)
+- Digoxin toxicity (atrial tachycardia with block)
+- Lung disease and low oxygen
+- Overactive thyroid
+
+## Should you worry?
+
+Short runs are often harmless, but a sustained fast rate can cause palpitations, breathlessness, chest discomfort or dizziness, and over months can weaken the heart muscle (a tachycardia-induced cardiomyopathy). It should be assessed, and a very fast rate with chest pain, severe breathlessness or fainting needs emergency care.
+
+**Get urgent help** if this finding comes with chest pain or pressure, severe breathlessness, fainting, or a fast heartbeat that will not settle. Those symptoms matter more than any single ECG phrase.
+
+## What usually happens next
+
+1. A 12-lead ECG and often a Holter monitor to capture it
+2. Blood tests (including thyroid) and an echocardiogram
+3. Rate or rhythm control with medication
+4. Catheter ablation, which can cure a single-focus atrial tachycardia
+
+### Questions to ask your doctor
+
+- Is this atrial tachycardia, SVT or sinus tachycardia?
+- Could a medicine such as digoxin be responsible?
+- Would ablation be an option for me?
+@@FAQ@@
+Q: Is atrial tachycardia dangerous?
+A: It is rarely immediately life-threatening, but a sustained fast rate can cause symptoms and, over time, weaken the heart, so it needs assessment.
+Q: How is it different from sinus tachycardia?
+A: Sinus tachycardia has normal P waves and speeds up and slows down gradually; atrial tachycardia has abnormal P waves and tends to start and stop more abruptly.
+Q: Can atrial tachycardia be cured?
+A: Often. Catheter ablation of a single atrial focus has a high success rate.
+@@RELATED@@
+Sinus Tachycardia: What It Means | https://www.ecgmeans.com/sinus-tachycardia/ | Depends on context
+SVT vs VTach: What's the Difference? | https://www.ecgmeans.com/svt-vs-vtach/ | Seek prompt care
+Multifocal Atrial Tachycardia: What It Means | https://www.ecgmeans.com/multifocal-atrial-tachycardia/ | Needs clinician review
+Junctional Tachycardia: What It Means | https://www.ecgmeans.com/junctional-tachycardia/ | Needs clinician review
+Ectopic Atrial Rhythm: What It Means | https://www.ecgmeans.com/ectopic-atrial-rhythm/ | Depends on context
+@@ALSO@@
+atrial tachycardia ecg, focal atrial tachycardia, atrial tachycardia with block, SVT
+@@SOURCES@@
+Atrial Tachycardia | https://my.clevelandclinic.org/health/diseases/22642-atrial-tachycardia
+Atrial Tachycardia | https://litfl.com/atrial-tachycardia-ecg-library/
+Supraventricular Tachycardia | https://www.ncbi.nlm.nih.gov/books/NBK441972/
+@@END@@

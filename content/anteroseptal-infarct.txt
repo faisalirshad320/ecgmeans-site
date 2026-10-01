@@ -60,6 +60,7 @@ Septal Infarct on an ECG: What It Means | https://www.ecgmeans.com/septal-infarc
 Inferior Infarct, Age Undetermined: ECG Meaning | https://www.ecgmeans.com/inferior-infarct-age-undetermined/ | Needs clinician review
 Poor R Wave Progression: What It Means | https://www.ecgmeans.com/poor-r-wave-progression/ | Depends on context
 Abnormal ECG: What It Means on Your Report | https://www.ecgmeans.com/abnormal-ecg/ | Depends on context
+Lateral Infarct: What It Means on an ECG | https://www.ecgmeans.com/lateral-infarct/ | Needs clinician review
 @@ALSO@@
 anteroseptal infarct age undetermined, possible anteroseptal infarct, anteroseptal infarct ecg
 @@SOURCES@@

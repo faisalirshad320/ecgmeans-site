@@ -62,6 +62,7 @@ Abnormal ECG: What It Means on Your Report | https://www.ecgmeans.com/abnormal-e
 T Wave Inversion: What It Means on an ECG | https://www.ecgmeans.com/t-wave-inversion/ | Depends on context
 Inferior Infarct, Age Undetermined: ECG Meaning | https://www.ecgmeans.com/inferior-infarct-age-undetermined/ | Needs clinician review
 Anteroseptal Infarct, Age Undetermined: ECG Meaning | https://www.ecgmeans.com/anteroseptal-infarct/ | Needs clinician review
+Lateral Infarct: What It Means on an ECG | https://www.ecgmeans.com/lateral-infarct/ | Needs clinician review
 @@ALSO@@
 possible anterior infarct, anteroseptal infarct age undetermined, cannot rule out anterior infarct
 @@SOURCES@@

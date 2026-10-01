@@ -1,6 +1,6 @@
 {
   "name": "ecgmeans-site",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "private": true,
   "description": "ECG Means — static ECG report-phrase explainer site generator",
   "scripts": { "build": "python3 build.py && python3 make_assets.py" },

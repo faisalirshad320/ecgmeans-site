@@ -59,6 +59,7 @@ Anterior Infarct, Age Undetermined: ECG Meaning | https://www.ecgmeans.com/anter
 Anteroseptal Infarct, Age Undetermined: ECG Meaning | https://www.ecgmeans.com/anteroseptal-infarct/ | Needs clinician review
 Poor R Wave Progression: What It Means | https://www.ecgmeans.com/poor-r-wave-progression/ | Depends on context
 Abnormal ECG: What It Means on Your Report | https://www.ecgmeans.com/abnormal-ecg/ | Depends on context
+Lateral Infarct: What It Means on an ECG | https://www.ecgmeans.com/lateral-infarct/ | Needs clinician review
 @@ALSO@@
 inferior infarct age undetermined, possible inferior infarct, inferior infarct ecg, inferior q waves
 @@SOURCES@@

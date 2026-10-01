@@ -90,6 +90,7 @@ Short PR Interval: What It Means | https://www.ecgmeans.com/short-pr-interval/ |
 QRS Interval: Normal Range and What a Wide QRS Means | https://www.ecgmeans.com/qrs-interval/ | Depends on context
 QT and QTc Interval: Normal Range and Prolonged QT | https://www.ecgmeans.com/qt-interval/ | Needs clinician review
 Sinus Rhythm: What It Means on Your ECG | https://www.ecgmeans.com/sinus-rhythm/ | Usually harmless
+Delta Wave: What It Means on an ECG | https://www.ecgmeans.com/delta-wave/ | Needs clinician review
 @@ALSO@@
 pr interval, normal pr interval, pr interval ecg, prolonged pr interval
 @@SOURCES@@

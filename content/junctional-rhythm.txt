@@ -63,6 +63,7 @@ Sinus Bradycardia: What It Means | https://www.ecgmeans.com/sinus-bradycardia/ |
 Short PR Interval: What It Means | https://www.ecgmeans.com/short-pr-interval/ | Depends on context
 Sinus Rhythm With 1st Degree AV Block: What It Means | https://www.ecgmeans.com/first-degree-av-block/ | Usually harmless
 Sinus Pause and Sinus Arrest: What They Mean | https://www.ecgmeans.com/sinus-pause-arrest/ | Depends on context
+Junctional Tachycardia: What It Means | https://www.ecgmeans.com/junctional-tachycardia/ | Needs clinician review
 @@ALSO@@
 junctional rhythm ecg, junctional escape rhythm, junctional bradycardia
 @@SOURCES@@

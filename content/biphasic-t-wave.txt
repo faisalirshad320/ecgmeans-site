@@ -1,0 +1,71 @@
+@@TITLE@@
+Biphasic T Wave on ECG: Causes and What It Means
+@@DESC@@
+A biphasic T wave goes both up and down. Depending on the pattern it can mean low potassium, ischaemia (Wellens), or be a minor finding. Learn how it is read.
+@@H1@@
+Biphasic T Wave: What It Means on an ECG
+@@CATEGORY@@
+Intervals & Waves | https://www.ecgmeans.com/ecg-intervals-waves/
+@@QUICK@@
+Depends on context
+@@LEDE@@
+A biphasic T wave is one that goes in two directions — partly up and partly down — instead of being a simple single hump. What it means depends on the order and the leads: an up-then-down T wave in the chest leads after chest pain can be an important warning sign (Wellens pattern), while a down-then-up T wave is more often linked with low potassium or a minor change.
+@@BODY@@
+## What "biphasic t wave" means
+
+The T wave reflects the ventricles recovering after each beat. When that recovery is disturbed unevenly, the T wave can take on two phases. The direction matters. An initial upward deflection followed by a terminal downward dip in leads V2–V3, in someone who has had chest pain, is the Wellens pattern and points to a critical narrowing of the main front artery. A downward-then-upward T wave is more typical of low potassium or digoxin.
+
+Because one pattern can be a red flag and another is minor, biphasic T waves are always read in the context of symptoms and the leads involved.
+
+## What it looks like on the ECG
+
+A T wave with two components. Up-then-down in V2–V3 (type A Wellens) is the concerning pattern; down-then-up is more often benign or electrolyte-related.
+
+## Common causes
+
+- Ischaemia, including the Wellens pattern after chest pain (up-then-down in V2–V3)
+- Low potassium or magnesium
+- Digoxin effect
+- Left ventricular hypertrophy with strain
+- A normal variant in some leads
+
+## Should you worry?
+
+Depends on context
+
+A biphasic T wave in the front chest leads after an episode of chest pain should be treated as a possible warning of serious coronary disease and assessed promptly, even if you now feel well. A biphasic T wave with low potassium is corrected by treating the potassium. Context decides.
+
+**Get urgent help** if this finding comes with chest pain or pressure, severe breathlessness, fainting, or a fast heartbeat that will not settle. Those symptoms matter more than any single ECG phrase.
+
+## What usually happens next
+
+1. Review of symptoms and comparison with old ECGs
+2. A troponin test if there has been chest pain
+3. Potassium and magnesium blood tests
+4. Cardiology assessment and possibly angiography if a Wellens pattern is suspected
+
+### Questions to ask your doctor
+
+- Which leads show the biphasic T wave, and after what symptoms?
+- Could this be the Wellens pattern?
+- Should my potassium be checked?
+@@FAQ@@
+Q: Is a biphasic T wave serious?
+A: It can be. An up-then-down T wave in the front chest leads after chest pain (Wellens) is a warning sign; other patterns are more often minor or electrolyte-related.
+Q: What is Wellens syndrome?
+A: An ECG pattern of biphasic or deeply inverted T waves in V2–V3 after chest pain, signalling a critical narrowing of the left anterior descending artery.
+Q: Can low potassium cause biphasic T waves?
+A: Yes, along with prominent U waves and ST changes.
+@@RELATED@@
+T Wave Inversion: What It Means on an ECG | https://www.ecgmeans.com/t-wave-inversion/ | Depends on context
+Peaked T Waves: What They Mean on an ECG | https://www.ecgmeans.com/peaked-t-waves/ | Depends on context
+ST Depression: What It Means on an ECG | https://www.ecgmeans.com/st-depression/ | Depends on context
+U Wave: What It Means on an ECG | https://www.ecgmeans.com/u-wave/ | Depends on context
+Nonspecific T Wave Abnormality: What It Means | https://www.ecgmeans.com/nonspecific-t-wave-abnormality/ | Depends on context
+@@ALSO@@
+biphasic t wave, biphasic t wave meaning, wellens t wave, diphasic t wave
+@@SOURCES@@
+T Wave | https://litfl.com/t-wave-ecg-library/
+Wellens Syndrome | https://litfl.com/wellens-syndrome-ecg-library/
+ECG T Wave | https://www.ncbi.nlm.nih.gov/books/NBK538264/
+@@END@@

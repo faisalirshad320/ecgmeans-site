@@ -62,6 +62,7 @@ Nonspecific T Wave Abnormality: What It Means | https://www.ecgmeans.com/nonspec
 Early Repolarization on an ECG: What It Means | https://www.ecgmeans.com/early-repolarization/ | Usually harmless
 ST Elevation: What It Means on an ECG | https://www.ecgmeans.com/st-elevation/ | Seek prompt care
 QT and QTc Interval: Normal Range and Prolonged QT | https://www.ecgmeans.com/qt-interval/ | Needs clinician review
+Biphasic T Wave: What It Means on an ECG | https://www.ecgmeans.com/biphasic-t-wave/ | Depends on context
 @@ALSO@@
 peaked t waves, tall t waves, tented t waves, hyperkalemia ecg
 @@SOURCES@@

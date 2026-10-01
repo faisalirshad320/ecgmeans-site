@@ -66,6 +66,8 @@ QT and QTc Interval: Normal Range and Prolonged QT | https://www.ecgmeans.com/qt
 Abnormal ECG: What It Means on Your Report | https://www.ecgmeans.com/abnormal-ecg/ | Depends on context
 Anterior Infarct, Age Undetermined: ECG Meaning | https://www.ecgmeans.com/anterior-infarct-age-undetermined/ | Needs clinician review
 Peaked T Waves: What They Mean on an ECG | https://www.ecgmeans.com/peaked-t-waves/ | Depends on context
+Biphasic T Wave: What It Means on an ECG | https://www.ecgmeans.com/biphasic-t-wave/ | Depends on context
+U Wave: What It Means on an ECG | https://www.ecgmeans.com/u-wave/ | Depends on context
 @@ALSO@@
 inverted t wave, inverted t waves, t wave inversion ecg, t wave inversion causes
 @@SOURCES@@

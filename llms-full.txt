@@ -34,6 +34,11 @@ URL: https://www.ecgmeans.com/inferior-infarct-age-undetermined/
 Verdict/quick answer: Needs clinician review
 "Inferior infarct, age undetermined" means the software saw Q waves in the leads that look at the bottom (inferior) wall of the heart — II, III and aVF — a pattern a past heart attack can leave. It cannot say when, or be sure it happened at all. Small inferior Q waves are common in healthy people, so this is one of the more frequently over-called findings.
 
+### Lateral Infarct: What It Means on an ECG
+URL: https://www.ecgmeans.com/lateral-infarct/
+Verdict/quick answer: Needs clinician review
+A "lateral infarct" on an ECG report means the software saw a pattern — usually Q waves — in the leads that look at the side wall of the heart (I, aVL, V5 and V6), which a past heart attack can leave. As with the other "age undetermined" infarct labels, it is a suggestion that needs a clinician's review and often an echocardiogram, because lead factors and normal variants can mimic it.
+
 ### Left Axis Deviation: What It Means on an ECG
 URL: https://www.ecgmeans.com/left-axis-deviation/
 Verdict/quick answer: Usually harmless
@@ -52,6 +57,11 @@ URL: https://www.ecgmeans.com/low-voltage-qrs/
 URL: https://www.ecgmeans.com/nonspecific-t-wave-abnormality/
 Verdict/quick answer: Depends on context
 "Nonspecific T wave abnormality" means your T waves are flatter than expected, or very slightly inverted, without forming any pattern that points to a particular disease. The T wave is the most easily influenced part of the ECG — breathing, meals, anxiety, medicines and electrolytes all change it — so this is a common and usually minor finding.
+
+### Pericarditis on an ECG: What It Shows
+URL: https://www.ecgmeans.com/pericarditis-ecg/
+Verdict/quick answer: Needs clinician review
+Pericarditis is inflammation of the sac around the heart. On the ECG it classically produces widespread, saucer-shaped (concave) ST elevation across many leads, together with PR-segment depression. The key task for a clinician is to separate it from a heart attack, which also raises the ST segment but in a different pattern. The ECG is only part of the picture, alongside symptoms and blood tests.
 
 ### Poor R Wave Progression: What It Means
 URL: https://www.ecgmeans.com/poor-r-wave-progression/
@@ -100,6 +110,11 @@ URL: https://www.ecgmeans.com/atrial-flutter/
 Verdict/quick answer: Needs clinician review
 Atrial flutter is a fast, usually regular rhythm in which the upper chambers beat in a rapid, organised circle — around 300 times a minute — while the AV node lets only a fraction through to the ventricles. On the ECG it produces a distinctive "sawtooth" baseline. It is a close relative of atrial fibrillation and carries a similar stroke risk.
 
+### Atrial Tachycardia: What It Means on an ECG
+URL: https://www.ecgmeans.com/atrial-tachycardia/
+Verdict/quick answer: Needs clinician review
+Atrial tachycardia is a fast heart rhythm — usually 150–250 beats per minute — driven by a single focus in the atria rather than the normal sinus node. On the ECG each QRS is preceded by an abnormally shaped P wave. It is a form of supraventricular tachycardia (SVT) and, while rarely immediately dangerous, it should be assessed because a persistently fast rate can tire the heart.
+
 ### Bigeminy: What It Means on an ECG
 URL: https://www.ecgmeans.com/bigeminy/
 Verdict/quick answer: Depends on context
@@ -118,6 +133,11 @@ An idioventricular rhythm is a slow rhythm, usually 20–40 beats per minute, ge
 ### Junctional Rhythm: What It Means
 URL: https://www.ecgmeans.com/junctional-rhythm/
 A junctional rhythm means the heartbeat is being started by the AV junction — the relay point between the upper and lower chambers — instead of the usual sinus node. It typically runs at 40–60 beats per minute with a normal narrow QRS but no normal P wave in front. It is a back-up rhythm that appears when the sinus node slows or is blocked.
+
+### Junctional Tachycardia: What It Means
+URL: https://www.ecgmeans.com/junctional-tachycardia/
+Verdict/quick answer: Needs clinician review
+Junctional tachycardia is a fast rhythm — over 100 beats per minute — that arises from the AV junction, the relay point between the upper and lower chambers, instead of the sinus node. The QRS is narrow but the P waves are missing or inverted. It is the fast end of the junctional-rhythm family and usually signals an irritated junction from a drug, surgery or illness.
 
 ### Multifocal Atrial Tachycardia (MAT): What It Means
 URL: https://www.ecgmeans.com/multifocal-atrial-tachycardia/
@@ -166,6 +186,16 @@ A wandering atrial pacemaker means the spot that starts each heartbeat drifts be
 
 ## Heart Blocks & Conduction
 
+### 2:1 AV Block: What It Means on an ECG
+URL: https://www.ecgmeans.com/2-1-av-block/
+Verdict/quick answer: Seek prompt care
+In 2:1 AV block, exactly every other impulse from the upper chambers is blocked, so only one in two P waves is followed by a heartbeat — producing a pulse that is half the atrial rate. The catch is that a single strip cannot tell whether it is the benign (Mobitz I) or the more serious (Mobitz II) type, so 2:1 block is always assessed carefully.
+
+### Intraventricular Conduction Delay (IVCD): What It Means
+URL: https://www.ecgmeans.com/intraventricular-conduction-delay/
+Verdict/quick answer: Depends on context
+An intraventricular conduction delay (IVCD) means the impulse takes longer than normal to spread through the ventricles, widening the QRS, but the pattern does not fit a typical left or right bundle branch block. When reports add the word "nonspecific," it simply means the delay has no classic shape. It is common, often mild, and its importance depends on the cause.
+
 ### Left Anterior Fascicular Block: What It Means
 URL: https://www.ecgmeans.com/left-anterior-fascicular-block/
 Verdict/quick answer: Usually harmless
@@ -174,6 +204,11 @@ Left anterior fascicular block (LAFB, or left anterior hemiblock) means one of t
 ### Left Bundle Branch Block: What It Means
 URL: https://www.ecgmeans.com/left-bundle-branch-block/
 Left bundle branch block (LBBB) means the electrical impulse cannot travel down the left branch of the heart's wiring, so the left ventricle is activated late and indirectly. On the ECG the QRS becomes wide (120 ms or more) with a characteristic shape. Unlike its right-sided counterpart, LBBB is usually associated with underlying heart disease and prompts an echocardiogram.
+
+### Left Posterior Fascicular Block: What It Means
+URL: https://www.ecgmeans.com/left-posterior-fascicular-block/
+Verdict/quick answer: Needs clinician review
+Left posterior fascicular block (LPFB, or left posterior hemiblock) means the posterior branch of the left bundle is delayed. It is much less common than its anterior counterpart, and because the posterior fascicle is short, thick and well-supplied with blood, a block there usually means there is genuine underlying heart disease. It shifts the QRS axis to the right and is a diagnosis of exclusion.
 
 ### Right Bundle Branch Block: What It Means
 URL: https://www.ecgmeans.com/right-bundle-branch-block/
@@ -202,6 +237,26 @@ Third degree AV block — complete heart block — means the electrical connecti
 
 ## Intervals & Waves
 
+### Biphasic T Wave: What It Means on an ECG
+URL: https://www.ecgmeans.com/biphasic-t-wave/
+Verdict/quick answer: Depends on context
+A biphasic T wave is one that goes in two directions — partly up and partly down — instead of being a simple single hump. What it means depends on the order and the leads: an up-then-down T wave in the chest leads after chest pain can be an important warning sign (Wellens pattern), while a down-then-up T wave is more often linked with low potassium or a minor change.
+
+### Delta Wave: What It Means on an ECG
+URL: https://www.ecgmeans.com/delta-wave/
+Verdict/quick answer: Needs clinician review
+A delta wave is a slurred, gradual upstroke at the very start of the QRS complex. It is the signature of an extra electrical connection between the upper and lower chambers (an accessory pathway) that lets the impulse bypass the normal AV node delay. Combined with a short PR interval, a delta wave is the Wolff-Parkinson-White (WPW) pattern, which should be assessed by a cardiologist.
+
+### Electrical Alternans: What It Means on an ECG
+URL: https://www.ecgmeans.com/electrical-alternans/
+Verdict/quick answer: Needs clinician review
+Electrical alternans means the height of the QRS complexes changes from one beat to the next in a regular alternating pattern. Its best-known cause is a large collection of fluid around the heart (a pericardial effusion), in which the heart swings within the fluid so that each beat is recorded from a slightly different position. It can also occur with very fast rhythms. New electrical alternans deserves prompt assessment.
+
+### Osborn Wave (J Wave): What It Means on an ECG
+URL: https://www.ecgmeans.com/osborn-wave/
+Verdict/quick answer: Needs clinician review
+An Osborn wave — also called a J wave — is an extra positive deflection or notch at the junction where the QRS ends and the ST segment begins (the J point). Its classic cause is hypothermia (a dangerously low body temperature), and the colder the person, the larger the wave. It also appears with high blood calcium and some other conditions, and it typically disappears as the cause is corrected.
+
 ### Peaked T Waves: What They Mean on an ECG
 URL: https://www.ecgmeans.com/peaked-t-waves/
 Verdict/quick answer: Depends on context
@@ -222,10 +277,20 @@ URL: https://www.ecgmeans.com/qt-interval/
 Verdict/quick answer: Normal QTc is under about 440 ms in men and 460 ms in women; over 500 ms is clearly prolonged and raises the risk of torsades de pointes.
 The QT interval is the time the ventricles take to activate and then recover. Because it naturally shortens at faster heart rates, the machine corrects it for rate and prints the QTc. Normal QTc is under about 440 ms in men and 460 ms in women; over 500 ms is clearly prolonged and raises the risk of a dangerous rhythm called torsades de pointes.
 
+### S1Q3T3: What the Pattern Means on an ECG
+URL: https://www.ecgmeans.com/s1q3t3/
+Verdict/quick answer: Needs clinician review
+S1Q3T3 describes a combination of three findings — an S wave in lead I, a Q wave in lead III, and an inverted T wave in lead III. It is best known as a textbook sign of a pulmonary embolism (a clot in the lungs), but it is neither sensitive nor specific: most people with a PE do not have it, and it can appear in healthy people. It is a prompt to think about PE in the right setting, not a diagnosis.
+
 ### Short PR Interval: What It Means
 URL: https://www.ecgmeans.com/short-pr-interval/
 Verdict/quick answer: Depends on context
 A short PR interval — under 120 ms — means the impulse is reaching the ventricles faster than it normally would through the AV node. The important cause is an extra electrical connection (accessory pathway) that bypasses the node, as in Wolff-Parkinson-White. Without a delta wave and without palpitations, a short PR is often simply a normal variant.
+
+### ST Depression: What It Means on an ECG
+URL: https://www.ecgmeans.com/st-depression/
+Verdict/quick answer: Depends on context
+ST depression means the ST segment — the flat part just after the QRS — sits below the baseline. Its most important cause is reduced blood flow to the heart muscle (ischaemia), but it also appears with a thick ventricle, digoxin, a fast heart rate and low potassium. The pattern of leads, whether it is new, and your symptoms decide how much it matters.
 
 ### ST Elevation: What It Means on an ECG
 URL: https://www.ecgmeans.com/st-elevation/
@@ -236,6 +301,11 @@ ST elevation means the ST segment — the flat part just after the QRS — sits 
 URL: https://www.ecgmeans.com/t-wave-inversion/
 Verdict/quick answer: Depends on context
 T wave inversion means the T wave points downward instead of upward. In some leads (aVR, V1, and often III) that is completely normal. In others it can be a normal variant, a sign of strain from a thick ventricle, a bundle branch block effect, or evidence of reduced blood supply or a recent heart attack. Which leads are involved, and whether it is new, decide its meaning.
+
+### U Wave: What It Means on an ECG
+URL: https://www.ecgmeans.com/u-wave/
+Verdict/quick answer: Depends on context
+A U wave is a small, rounded bump that sometimes follows the T wave on an ECG. Small U waves are a normal finding, most visible at slow heart rates and in the chest leads. Prominent U waves are the ones that matter — they are a classic sign of a low blood potassium level and of certain medicines.
 
 ## Comparisons
 

@@ -63,6 +63,7 @@ Idioventricular Rhythm: What It Means | https://www.ecgmeans.com/idioventricular
 Sinus Rhythm: What It Means on Your ECG | https://www.ecgmeans.com/sinus-rhythm/ | Usually harmless
 Short PR Interval: What It Means | https://www.ecgmeans.com/short-pr-interval/ | Depends on context
 SVT vs VTach: What's the Difference? | https://www.ecgmeans.com/svt-vs-vtach/ | Seek prompt care
+Junctional Tachycardia: What It Means | https://www.ecgmeans.com/junctional-tachycardia/ | Needs clinician review
 @@ALSO@@
 accelerated junctional rhythm ecg, junctional tachycardia
 @@SOURCES@@

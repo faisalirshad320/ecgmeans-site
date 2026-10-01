@@ -58,6 +58,7 @@ PVC vs PAC: What's the Difference? | https://www.ecgmeans.com/pvc-vs-pac/ | Usua
 Bigeminy: What It Means on an ECG | https://www.ecgmeans.com/bigeminy/ | Depends on context
 Atrial Fibrillation: What It Means on an ECG | https://www.ecgmeans.com/atrial-fibrillation/ | Needs clinician review
 Atrial Flutter: What It Means on an ECG | https://www.ecgmeans.com/atrial-flutter/ | Needs clinician review
+Atrial Tachycardia: What It Means on an ECG | https://www.ecgmeans.com/atrial-tachycardia/ | Needs clinician review
 @@ALSO@@
 svt vs vt, svt vs ventricular tachycardia, svt vs sinus tach, supraventricular tachycardia vs ventricular tachycardia
 @@SOURCES@@

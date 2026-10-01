@@ -1,0 +1,70 @@
+@@TITLE@@
+Left Posterior Fascicular Block (LPFB) on ECG: Meaning
+@@DESC@@
+Left posterior fascicular block is an uncommon conduction delay causing right axis deviation. Because the posterior fascicle is sturdy, it often signals real disease.
+@@H1@@
+Left Posterior Fascicular Block: What It Means
+@@CATEGORY@@
+Heart Blocks & Conduction | https://www.ecgmeans.com/heart-block-conduction/
+@@QUICK@@
+Needs clinician review
+@@LEDE@@
+Left posterior fascicular block (LPFB, or left posterior hemiblock) means the posterior branch of the left bundle is delayed. It is much less common than its anterior counterpart, and because the posterior fascicle is short, thick and well-supplied with blood, a block there usually means there is genuine underlying heart disease. It shifts the QRS axis to the right and is a diagnosis of exclusion.
+@@BODY@@
+## What "left posterior fascicular block" means
+
+The left bundle divides into an anterior and a posterior fascicle. The posterior one is sturdier and harder to damage, so a block there is uncommon and tends to reflect real disease rather than a benign variant. When it is blocked, the impulse enters the left ventricle through the anterior fascicle and spreads downward and to the right, pulling the axis rightward.
+
+Because right axis deviation has several commoner explanations (a tall slim build, lung disease, right ventricular strain), LPFB is only diagnosed once those are excluded. When it occurs with right bundle branch block, the combination is a bifascicular block.
+
+## What it looks like on the ECG
+
+Right axis deviation (around +90° to +180°), a small r wave in lead I with a small q in lead III (rS in I, qR in III), and a normal or only slightly widened QRS — after other causes of right axis deviation have been excluded.
+
+## Common causes
+
+- Coronary artery disease and previous heart attack
+- High blood pressure and left ventricular hypertrophy
+- Cardiomyopathy
+- Degeneration of the conduction system with age
+- Rarely a normal variant
+
+## Should you worry?
+
+Needs clinician review
+
+Isolated LPFB is uncommon and, because it tends to indicate underlying heart disease, it is usually investigated. It is more concerning when combined with right bundle branch block (bifascicular block) or symptoms such as fainting, which raise the possibility of progression to complete heart block.
+
+**Get urgent help** if this finding comes with chest pain or pressure, severe breathlessness, fainting, or a fast heartbeat that will not settle. Those symptoms matter more than any single ECG phrase.
+
+## What usually happens next
+
+1. Exclusion of other causes of right axis deviation
+2. An echocardiogram and assessment for coronary disease
+3. Monitoring if a bifascicular block is present with symptoms
+
+### Questions to ask your doctor
+
+- Have other causes of right axis deviation been ruled out?
+- Is there underlying heart disease on my echocardiogram?
+- Is this combined with another block?
+@@FAQ@@
+Q: Is left posterior fascicular block serious?
+A: It is uncommon and usually reflects underlying heart disease, so it is investigated — more so when combined with right bundle branch block or symptoms.
+Q: How is it different from left anterior fascicular block?
+A: LAFB is common and benign and causes left axis deviation; LPFB is rare, causes right axis deviation, and more often signals real disease.
+Q: Does it need a pacemaker?
+A: Not on its own. A pacemaker is considered for bifascicular block with symptoms or documented higher-grade block.
+@@RELATED@@
+Left Anterior Fascicular Block: What It Means | https://www.ecgmeans.com/left-anterior-fascicular-block/ | Usually harmless
+Right Axis Deviation: What It Means on an ECG | https://www.ecgmeans.com/right-axis-deviation/ | Depends on context
+Right Bundle Branch Block: What It Means | https://www.ecgmeans.com/right-bundle-branch-block/ | Usually harmless
+Left Bundle Branch Block: What It Means | https://www.ecgmeans.com/left-bundle-branch-block/ | Needs clinician review
+Third Degree (Complete) Heart Block: What It Means | https://www.ecgmeans.com/third-degree-av-block/ | Seek prompt care
+@@ALSO@@
+left posterior fascicular block, lpfb ecg, left posterior hemiblock, bifascicular block
+@@SOURCES@@
+Bundle Branch Block | https://my.clevelandclinic.org/health/diseases/22734-bundle-branch-block
+Left Posterior Fascicular Block (LPFB) | https://litfl.com/left-posterior-fascicular-block-lpfb-ecg-library/
+Fascicular Block | https://www.ncbi.nlm.nih.gov/books/NBK553135/
+@@END@@

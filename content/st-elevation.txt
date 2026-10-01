@@ -63,6 +63,8 @@ T Wave Inversion: What It Means on an ECG | https://www.ecgmeans.com/t-wave-inve
 Peaked T Waves: What They Mean on an ECG | https://www.ecgmeans.com/peaked-t-waves/ | Depends on context
 Anterior Infarct, Age Undetermined: ECG Meaning | https://www.ecgmeans.com/anterior-infarct-age-undetermined/ | Needs clinician review
 Abnormal ECG: What It Means on Your Report | https://www.ecgmeans.com/abnormal-ecg/ | Depends on context
+ST Depression: What It Means on an ECG | https://www.ecgmeans.com/st-depression/ | Depends on context
+Pericarditis on an ECG: What It Shows | https://www.ecgmeans.com/pericarditis-ecg/ | Needs clinician review
 @@ALSO@@
 st elevation ecg, st segment elevation, stemi ecg, st elevation causes
 @@SOURCES@@

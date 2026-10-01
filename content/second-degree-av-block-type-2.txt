@@ -61,6 +61,7 @@ Left Bundle Branch Block: What It Means | https://www.ecgmeans.com/left-bundle-b
 Idioventricular Rhythm: What It Means | https://www.ecgmeans.com/idioventricular-rhythm/ | Seek prompt care
 QRS Interval: Normal Range and What a Wide QRS Means | https://www.ecgmeans.com/qrs-interval/ | Depends on context
 Third Degree (Complete) Heart Block: What It Means | https://www.ecgmeans.com/third-degree-av-block/ | Seek prompt care
+2:1 AV Block: What It Means on an ECG | https://www.ecgmeans.com/2-1-av-block/ | Seek prompt care
 @@ALSO@@
 second degree av block type 2, mobitz 2, mobitz type 2 heart block, second degree heart block
 @@SOURCES@@
