@@ -22,7 +22,9 @@ PMDC = "PMDC 54440-S"
 CONTACT_EMAIL = "hello@ecgmeans.com"
 OG_IMG = HOST + "/assets/img/og-default.png"
 # Set to your AdSense publisher id (e.g. "ca-pub-1234567890123456") to enable Auto Ads.
-AD_CLIENT = ""
+AD_CLIENT = "ca-pub-8301212931863478"
+# Optional in-article ad unit slot id (from AdSense > Ads > By ad unit). Leave "" to rely on Auto ads only.
+AD_SLOT_INARTICLE = ""
 # Optional: Google Search Console verification token (meta-tag method). Leave "" to omit.
 GSC_VERIFY = ""
 
@@ -183,10 +185,12 @@ def footer_html():
 </html>'''
 
 def ad_unit():
-    if not AD_CLIENT:
+    # Placement is handled by AdSense Auto ads (head script). Manual in-article units need a
+    # data-ad-slot id from the AdSense dashboard; until one exists, emit nothing.
+    if not AD_CLIENT or not AD_SLOT_INARTICLE:
         return ""
     return (f'<div class="ad"><ins class="adsbygoogle" style="display:block" '
-            f'data-ad-client="{AD_CLIENT}" data-ad-format="fluid" data-ad-layout="in-article"></ins>'
+            f'data-ad-client="{AD_CLIENT}" data-ad-slot="{AD_SLOT_INARTICLE}" data-ad-format="fluid" data-ad-layout="in-article"></ins>'
             f'<script>(adsbygoogle=window.adsbygoogle||[]).push({{}});</script></div>')
 
 def byline(updated=MODIFIED):
@@ -544,6 +548,11 @@ def write_support_files():
               f"# AI / answer-engine crawlers — explicitly welcome\n{bot_block}\n"
               f"Sitemap: {HOST}/sitemap.xml\n")
     open(os.path.join(OUT, "robots.txt"), "w").write(robots)
+
+    # ads.txt — authorised digital sellers (Google AdSense)
+    if AD_CLIENT:
+        pub = AD_CLIENT.replace("ca-", "", 1)
+        open(os.path.join(OUT, "ads.txt"), "w").write(f"google.com, {pub}, DIRECT, f08c47fec0942fa0\n")
 
     # .htaccess
     htaccess = f'''# {SITE} — Apache config for Cloudways
