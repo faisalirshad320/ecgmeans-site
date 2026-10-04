@@ -154,7 +154,7 @@ def head(title, desc, canonical, og_type, extra_nodes, robots="index,follow,max-
 <meta name="twitter:image" content="{OG_IMG}">
 <link rel="icon" href="/favicon.svg" type="image/svg+xml">
 <link rel="apple-touch-icon" href="/assets/img/icon-180.png">
-<link rel="manifest" href="/site.webmanifest">
+<link rel="manifest" href="/manifest.json">
 <link rel="stylesheet" href="/assets/css/style.css">
 <link rel="sitemap" type="application/xml" href="/sitemap.xml">
 {ads}{jsonld_graph(nodes)}
@@ -598,8 +598,10 @@ def write_support_files():
     ai_bots = ["GPTBot", "OAI-SearchBot", "ChatGPT-User", "ClaudeBot", "Claude-Web", "anthropic-ai",
                "PerplexityBot", "Perplexity-User", "Google-Extended", "Applebot-Extended",
                "Bingbot", "CCBot", "Amazonbot", "Bytespider", "Meta-ExternalAgent", "cohere-ai"]
-    bot_block = "\n".join(f"User-agent: {b}\nAllow: /\n" for b in ai_bots)
-    robots = (f"# {SITE}\nUser-agent: *\nAllow: /\n\n"
+    block = ("Disallow: /content/\nDisallow: /*.py$\nDisallow: /README.md\nDisallow: /package.json\n"
+             "Disallow: /.github/\n")
+    bot_block = "\n".join(f"User-agent: {b}\nAllow: /\n{block}" for b in ai_bots)
+    robots = (f"# {SITE}\nUser-agent: *\nAllow: /\n{block}\n"
               f"# AI / answer-engine crawlers — explicitly welcome\n{bot_block}\n"
               f"Sitemap: {HOST}/sitemap.xml\n")
     open(os.path.join(OUT, "robots.txt"), "w").write(robots)
@@ -696,7 +698,7 @@ readfile(__DIR__ . '/404.html');
                 "background_color": "#ffffff", "theme_color": BRAND,
                 "icons": [{"src": "/assets/img/icon-180.png", "sizes": "180x180", "type": "image/png"},
                           {"src": "/assets/img/logo.png", "sizes": "512x512", "type": "image/png"}]}
-    open(os.path.join(OUT, "site.webmanifest"), "w").write(json.dumps(manifest, indent=1))
+    open(os.path.join(OUT, "manifest.json"), "w").write(json.dumps(manifest, indent=1))
     # IndexNow key (Bing, Yandex, Seznam, Naver)
     open(os.path.join(OUT, f"{INDEXNOW_KEY}.txt"), "w").write(INDEXNOW_KEY)
 

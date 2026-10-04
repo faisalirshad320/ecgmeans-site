@@ -1,54 +1,139 @@
 # ECG Means
 User-agent: *
 Allow: /
+Disallow: /content/
+Disallow: /*.py$
+Disallow: /README.md
+Disallow: /package.json
+Disallow: /.github/
 
 # AI / answer-engine crawlers — explicitly welcome
 User-agent: GPTBot
 Allow: /
+Disallow: /content/
+Disallow: /*.py$
+Disallow: /README.md
+Disallow: /package.json
+Disallow: /.github/
 
 User-agent: OAI-SearchBot
 Allow: /
+Disallow: /content/
+Disallow: /*.py$
+Disallow: /README.md
+Disallow: /package.json
+Disallow: /.github/
 
 User-agent: ChatGPT-User
 Allow: /
+Disallow: /content/
+Disallow: /*.py$
+Disallow: /README.md
+Disallow: /package.json
+Disallow: /.github/
 
 User-agent: ClaudeBot
 Allow: /
+Disallow: /content/
+Disallow: /*.py$
+Disallow: /README.md
+Disallow: /package.json
+Disallow: /.github/
 
 User-agent: Claude-Web
 Allow: /
+Disallow: /content/
+Disallow: /*.py$
+Disallow: /README.md
+Disallow: /package.json
+Disallow: /.github/
 
 User-agent: anthropic-ai
 Allow: /
+Disallow: /content/
+Disallow: /*.py$
+Disallow: /README.md
+Disallow: /package.json
+Disallow: /.github/
 
 User-agent: PerplexityBot
 Allow: /
+Disallow: /content/
+Disallow: /*.py$
+Disallow: /README.md
+Disallow: /package.json
+Disallow: /.github/
 
 User-agent: Perplexity-User
 Allow: /
+Disallow: /content/
+Disallow: /*.py$
+Disallow: /README.md
+Disallow: /package.json
+Disallow: /.github/
 
 User-agent: Google-Extended
 Allow: /
+Disallow: /content/
+Disallow: /*.py$
+Disallow: /README.md
+Disallow: /package.json
+Disallow: /.github/
 
 User-agent: Applebot-Extended
 Allow: /
+Disallow: /content/
+Disallow: /*.py$
+Disallow: /README.md
+Disallow: /package.json
+Disallow: /.github/
 
 User-agent: Bingbot
 Allow: /
+Disallow: /content/
+Disallow: /*.py$
+Disallow: /README.md
+Disallow: /package.json
+Disallow: /.github/
 
 User-agent: CCBot
 Allow: /
+Disallow: /content/
+Disallow: /*.py$
+Disallow: /README.md
+Disallow: /package.json
+Disallow: /.github/
 
 User-agent: Amazonbot
 Allow: /
+Disallow: /content/
+Disallow: /*.py$
+Disallow: /README.md
+Disallow: /package.json
+Disallow: /.github/
 
 User-agent: Bytespider
 Allow: /
+Disallow: /content/
+Disallow: /*.py$
+Disallow: /README.md
+Disallow: /package.json
+Disallow: /.github/
 
 User-agent: Meta-ExternalAgent
 Allow: /
+Disallow: /content/
+Disallow: /*.py$
+Disallow: /README.md
+Disallow: /package.json
+Disallow: /.github/
 
 User-agent: cohere-ai
 Allow: /
+Disallow: /content/
+Disallow: /*.py$
+Disallow: /README.md
+Disallow: /package.json
+Disallow: /.github/
 
 Sitemap: https://www.ecgmeans.com/sitemap.xml
