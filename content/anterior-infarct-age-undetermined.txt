@@ -11,7 +11,7 @@ Needs clinician review
 @@LEDE@@
 "Anterior infarct, age undetermined" means the software saw Q waves or missing R waves in the chest leads over the front of the heart (V2–V4), a pattern that a past heart attack can leave. It cannot say when, or be certain it happened at all. Lead placement, thick heart muscle and bundle branch block commonly mimic it.
 @@BODY@@
-## What "anterior infarct age undetermined" means
+## What "Anterior infarct age undetermined" means
 
 The front wall of the left ventricle is supplied by the left anterior descending artery and is viewed by leads V2 to V4. Healthy muscle there produces an R wave that gets steadily taller from V1 to V5. If that growth fails, or a Q wave appears instead, the program suspects scar. When V1–V2 are also involved it prints anteroseptal infarct.
 

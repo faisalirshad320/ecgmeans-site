@@ -51,23 +51,23 @@
 <div class="byline"><span class="rev">Medically reviewed by <strong>Dr. Faisal Irshad, MBBS</strong> · Medical Doctor</span><span class="meta">PMDC 54440-S</span><span class="meta">Updated 2026-10-05</span></div>
 <div class="tool" id="axis-tool">
 <div class="tool-grid">
-<label>Lead I net QRS (mm)<input type="number" id="l1" inputmode="decimal" step="0.5" placeholder="e.g. 8 or −3"></label>
-<label>Lead aVF net QRS (mm)<input type="number" id="avf" inputmode="decimal" step="0.5" placeholder="e.g. 6 or −5"></label>
+<label>Lead I net QRS (mm)<input type="number" id="l1" inputmode="decimal" step="0.5" placeholder="e.g. 8 or -3"></label>
+<label>Lead aVF net QRS (mm)<input type="number" id="avf" inputmode="decimal" step="0.5" placeholder="e.g. 6 or -5"></label>
 </div>
 <div class="tool-out" id="axis-out" aria-live="polite"><p class="tool-hint">Net QRS = height of the upward deflection minus depth of the downward deflection. Use a minus sign if the QRS is mainly negative.</p></div>
 </div>
 <script>
 (function(){
 var a=document.getElementById('l1'),b=document.getElementById('avf'),out=document.getElementById('axis-out');
-function cls(d){if(d>=-30&&d<=90)return['Normal axis (−30° to +90°)','ok','/how-to-read-ecg-report/'];if(d<-30&&d>=-90)return['Left axis deviation (−30° to −90°)','warn','/left-axis-deviation/'];if(d>90&&d<=180)return['Right axis deviation (+90° to +180°)','warn','/right-axis-deviation/'];return['Extreme axis (−90° to ±180°)','review','/right-axis-deviation/'];}
+function cls(d){if(d>=-30&&d<=90)return['Normal axis (−30° to +90°)','ok','/how-to-read-ecg-report/'];if(d<-30&&d>=-90)return['Left axis deviation (−30° to −90°)','warn','/left-axis-deviation/'];if(d>90&&d<=180)return['Right axis deviation (+90° to +180°)','warn','/right-axis-deviation/'];return['Extreme axis (−90° to ±180°)','review','/how-to-read-ecg-report/'];}
 function calc(){var x=parseFloat(a.value),y=parseFloat(b.value);
  if(isNaN(x)||isNaN(y)||(x===0&&y===0)){out.innerHTML='<p class="tool-hint">Net QRS = height of the upward deflection minus depth of the downward deflection. Use a minus sign if the QRS is mainly negative.</p>';return;}
- var d=Math.atan2(y,x)*180/Math.PI;var c=cls(d);
+ var d=Math.atan2(y*2/Math.sqrt(3),x)*180/Math.PI;var c=cls(d);
  out.innerHTML='<p class="tool-res"><span class="tool-big">'+(Math.round(d)>0?'+':Math.round(d)<0?'−':'')+Math.abs(Math.round(d))+'°</span></p><p><span class="verdict verdict-'+c[1]+'">'+c[0]+'</span> <a href="'+c[2]+'">What this means</a></p><p class="tool-note">An estimate from two leads. Your ECG report prints the measured axis next to "QRS axis" or "Axis".</p>';}
 a.addEventListener('input',calc);b.addEventListener('input',calc);
 })();
 </script>
-<div class="answer"><div class="answer-k">Quick answer</div><p>The normal QRS axis is −30° to +90°. If the QRS is mainly upright in both lead I and aVF, the axis is normal. Upright in I but negative in aVF suggests left axis deviation; negative in I but upright in aVF suggests right axis deviation.</p></div>
+<div class="answer"><div class="answer-k">Quick answer</div><p>The normal QRS axis is −30° to +90°. If the QRS is mainly upright in both lead I and aVF, the axis is normal. Upright in I but negative in aVF suggests left axis deviation unless lead II is also upright (0° to −30°, still normal); negative in I but upright in aVF suggests right axis deviation.</p></div>
 
 
 <nav class="toc" aria-label="On this page"><div class="toc-k">On this page</div><ol><li><a href="#the-quadrant-method">The quadrant method</a></li>
@@ -109,7 +109,7 @@ a.addEventListener('input',calc);b.addEventListener('input',calc);
 </table>
 <p>When lead I is positive and aVF is negative, check lead II. If lead II is mainly positive, the axis is between 0° and −30° and still normal. If lead II is mainly negative, it is left axis deviation.</p>
 <h2 id="how-the-calculator-works">How the calculator works</h2>
-<p>Because leads I and aVF sit at right angles, the net QRS in each acts like x and y coordinates. The axis is the angle of that point: axis = arctan(aVF ÷ lead I), adjusted for the quarter it falls in. This is the same estimate clinicians make by eye, and it is accurate to within roughly 10–15°.</p>
+<p>Because leads I and aVF sit at right angles, the net QRS in each acts like x and y coordinates. Augmented leads such as aVF record about √3/2 of the signal a limb lead would, so aVF is scaled up by 2/√3 first. The axis is then the angle of that point: axis = arctan((2/√3 × aVF) ÷ lead I), adjusted for the quarter it falls in. This is the same estimate clinicians make by eye, and it is accurate to within roughly 10–15°.</p>
 <h2 id="what-the-result-means">What the result means</h2>
 <ul>
 <li><strong>Normal (−30° to +90°):</strong> the expected direction in most adults.</li>

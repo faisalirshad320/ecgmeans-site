@@ -11,7 +11,7 @@ Usually harmless
 @@LEDE@@
 A wandering atrial pacemaker means the spot that starts each heartbeat drifts between the sinus node and other sites in the atria, so the P waves change shape from beat to beat. The heart rate stays normal (under 100). It is usually a benign finding related to normal changes in vagal tone, and is common in the young, the old and athletes.
 @@BODY@@
-## What "wandering atrial pacemaker" means
+## What "Wandering atrial pacemaker" means
 
 Normally every beat starts in the sinus node. In a wandering atrial pacemaker the leadership passes back and forth between the sinus node and other atrial pacemaker cells, often as breathing and vagal tone change. Each site produces a slightly different P wave, so the P waves vary in shape and the PR interval changes a little, while the rate remains normal.
 

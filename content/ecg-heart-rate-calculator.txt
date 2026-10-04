@@ -27,7 +27,7 @@ Every ECG report prints a heart rate, but you can also work it out from the trac
 (function(){
 var m=document.getElementById('m'),v=document.getElementById('v'),out=document.getElementById('hr-out'),lab=document.getElementById('vlabel');
 var L={small:['Number of small boxes','e.g. 20'],large:['Number of large boxes','e.g. 4'],six:['R waves counted in 6 seconds','e.g. 7'],rr:['RR interval (ms)','e.g. 800']};
-function band(h){if(h<60)return['Below 60 bpm: slow (bradycardia)','warn','/sinus-bradycardia/'];if(h>100)return['Above 100 bpm: fast (tachycardia)','warn','/sinus-tachycardia/'];return['60–100 bpm: normal resting range','ok','/sinus-rhythm/'];}
+function band(h){if(h<60)return['Below 60 bpm: slow (bradycardia)','warn','/sinus-bradycardia/'];if(h>100)return['Above 100 bpm: fast (tachycardia)','warn','/sinus-tachycardia/'];return['60–100 bpm: normal resting range','ok','/normal-ecg-values/'];}
 function calc(){var x=parseFloat(v.value),k=m.value,h=NaN,how='';
  if(x>0){if(k==='small'){h=1500/x;how='1500 ÷ '+x;}else if(k==='large'){h=300/x;how='300 ÷ '+x;}else if(k==='six'){h=x*10;how=x+' × 10';}else{h=60000/x;how='60,000 ÷ '+x;}}
  if(!(h>0)||!isFinite(h)){out.innerHTML='<p class="tool-hint">Pick a method and enter your count.</p>';return;}
@@ -38,7 +38,7 @@ v.addEventListener('input',calc);
 })();
 </script>
 @@BODY@@
-## The three ways to calculate heart rate
+## Ways to calculate heart rate on ECG paper
 
 Standard ECG paper runs at 25 mm per second. Each small box is 1 mm wide and lasts 0.04 seconds (40 ms). Each large box holds five small boxes and lasts 0.2 seconds (200 ms), so 300 large boxes or 1500 small boxes pass in one minute.
 

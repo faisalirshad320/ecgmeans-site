@@ -11,7 +11,7 @@ Needs clinician review
 @@LEDE@@
 Left posterior fascicular block (LPFB, or left posterior hemiblock) means the posterior branch of the left bundle is delayed. It is much less common than its anterior counterpart, and because the posterior fascicle is short, thick and well-supplied with blood, a block there usually means there is genuine underlying heart disease. It shifts the QRS axis to the right and is a diagnosis of exclusion.
 @@BODY@@
-## What "left posterior fascicular block" means
+## What "Left posterior fascicular block" means
 
 The left bundle divides into an anterior and a posterior fascicle. The posterior one is sturdier and harder to damage, so a block there is uncommon and tends to reflect real disease rather than a benign variant. When it is blocked, the impulse enters the left ventricle through the anterior fascicle and spreads downward and to the right, pulling the axis rightward.
 

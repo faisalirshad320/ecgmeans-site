@@ -11,7 +11,7 @@ Needs clinician review
 @@LEDE@@
 Accelerated junctional rhythm is a rhythm arising from the AV junction at 60–100 beats per minute — faster than the junction's natural 40–60, so it outpaces the sinus node. The QRS is narrow and normal-looking but the P waves are missing or upside-down. It usually signals irritation of the junction by a drug, recent surgery or reduced blood supply.
 @@BODY@@
-## What "accelerated junctional rhythm" means
+## What "Accelerated junctional rhythm" means
 
 In an ordinary junctional rhythm the junction takes over because the sinus node is too slow. In the accelerated form the junction itself is firing faster than it should (enhanced automaticity) and captures the heart even though the sinus node is working. Above 100 per minute the same process is called junctional tachycardia.
 

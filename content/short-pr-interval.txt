@@ -11,7 +11,7 @@ Depends on context
 @@LEDE@@
 A short PR interval — under 120 ms — means the impulse is reaching the ventricles faster than it normally would through the AV node. The important cause is an extra electrical connection (accessory pathway) that bypasses the node, as in Wolff-Parkinson-White. Without a delta wave and without palpitations, a short PR is often simply a normal variant.
 @@BODY@@
-## What "short pr interval" means
+## What "Short PR interval" means
 
 The AV node normally holds the impulse for about 100 ms. A congenital strand of muscle bridging the atria and ventricles can short-circuit that delay. If it also pre-excites part of the ventricle the QRS starts with a slurred upstroke (a delta wave): this is WPW pattern. If the PR is short with a normal QRS and episodes of fast heart rate, older texts call it Lown-Ganong-Levine syndrome, though most cardiologists now regard that as a description rather than a distinct condition.
 

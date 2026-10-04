@@ -11,7 +11,7 @@ Normal QTc is under about 440 ms in men and 460 ms in women; over 500 ms is clea
 @@LEDE@@
 The QT interval is the time the ventricles take to activate and then recover. Because it naturally shortens at faster heart rates, the machine corrects it for rate and prints the QTc. Normal QTc is under about 440 ms in men and 460 ms in women; over 500 ms is clearly prolonged and raises the risk of a dangerous rhythm called torsades de pointes.
 @@BODY@@
-## What "qtc normal range" means
+## What "QTc normal range" means
 
 Recovery (repolarization) is controlled by potassium and sodium channels in the heart cells. Genetic variants (long QT syndrome), many medicines and low potassium, magnesium or calcium all slow recovery and stretch the QT. A long QT makes the ventricles vulnerable to a chaotic rhythm, which is why it is watched closely.
 

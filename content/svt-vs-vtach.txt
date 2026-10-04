@@ -11,7 +11,7 @@ SVT (supraventricular tachycardia) is a fast rhythm that starts above the ventri
 @@LEDE@@
 SVT (supraventricular tachycardia) is a fast rhythm that starts above the ventricles and produces narrow QRS complexes; it is uncomfortable but rarely dangerous in a healthy heart. VTach (ventricular tachycardia) starts in the ventricles, produces wide QRS complexes, and is potentially life-threatening. Any wide-complex tachycardia is treated as VT until proven otherwise.
 @@BODY@@
-## What "svt vs vtach" means
+## What "SVT vs VTach" means
 
 SVT is an umbrella term for re-entry or automatic rhythms in the atria or AV node — AVNRT, AVRT (via an accessory pathway), atrial tachycardia and, loosely, atrial flutter. Rates are typically 150–250, onset and offset are abrupt, and the QRS is narrow because the ventricles are activated normally.
 

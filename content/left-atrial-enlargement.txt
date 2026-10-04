@@ -11,7 +11,7 @@ Needs clinician review
 @@LEDE@@
 "Possible left atrial enlargement" means the P wave — the small bump before each QRS — is wider or more notched than usual, a shape that can occur when the left upper chamber of the heart is stretched or under pressure. The ECG is a poor judge of chamber size, so this is a hint, not a measurement; an echocardiogram gives the real answer.
 @@BODY@@
-## What "left atrial enlargement" means
+## What "Left atrial enlargement" means
 
 The P wave is the electrical signature of the two atria contracting, right first and then left. If the left atrium is larger or conducts slowly, its part of the P wave is delayed and prolonged. The software flags a P wave longer than 120 ms, a double-humped P wave in lead II, or a deep, wide negative tail in lead V1. Many reports now use the more accurate term left atrial abnormality.
 

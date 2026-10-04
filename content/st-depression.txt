@@ -11,7 +11,7 @@ Depends on context
 @@LEDE@@
 ST depression means the ST segment — the flat part just after the QRS — sits below the baseline. Its most important cause is reduced blood flow to the heart muscle (ischaemia), but it also appears with a thick ventricle, digoxin, a fast heart rate and low potassium. The pattern of leads, whether it is new, and your symptoms decide how much it matters.
 @@BODY@@
-## What "st depression" means
+## What "ST depression" means
 
 The ST segment should sit level with the baseline. When part of the heart muscle is not getting enough blood, the ST segment in the leads facing that area drops below the line. During a stress test, ST depression that appears with exercise is the classic sign of a significant coronary narrowing.
 

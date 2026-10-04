@@ -11,7 +11,7 @@ Depends on context
 @@LEDE@@
 A biphasic T wave is one that goes in two directions — partly up and partly down — instead of being a simple single hump. What it means depends on the order and the leads: an up-then-down T wave in the chest leads after chest pain can be an important warning sign (Wellens pattern), while a down-then-up T wave is more often linked with low potassium or a minor change.
 @@BODY@@
-## What "biphasic t wave" means
+## What "Biphasic T wave" means
 
 The T wave reflects the ventricles recovering after each beat. When that recovery is disturbed unevenly, the T wave can take on two phases. The direction matters. An initial upward deflection followed by a terminal downward dip in leads V2–V3, in someone who has had chest pain, is the Wellens pattern and points to a critical narrowing of the main front artery. A downward-then-upward T wave is more typical of low potassium or digoxin.
 

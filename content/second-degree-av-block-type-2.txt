@@ -11,7 +11,7 @@ Seek prompt care
 @@LEDE@@
 Second degree AV block type 2 — Mobitz II — is a pattern in which some impulses from the atria are suddenly not conducted to the ventricles, with no warning lengthening of the PR interval beforehand. The block sits below the AV node in the bundle branches, which makes it unpredictable and liable to progress to complete heart block. It is one of the ECG findings that usually leads to a pacemaker.
 @@BODY@@
-## What "2nd degree av block type 2" means
+## What "2nd degree AV block type 2" means
 
 Unlike Wenckebach, the conduction system here is not tiring gradually; it is intermittently failing outright. The PR interval of the conducted beats is constant, and then a P wave simply has no QRS after it. Because the disease is in the His-Purkinje system, the QRS is often wide and any escape rhythm that takes over is slow and unreliable.
 

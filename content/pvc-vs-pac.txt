@@ -11,7 +11,7 @@ Usually harmless
 @@LEDE@@
 A PAC (premature atrial contraction) is an early beat that starts in the upper chambers and travels the normal route, so its QRS looks normal. A PVC (premature ventricular contraction) starts in the lower chambers and spreads abnormally, giving a wide, odd-shaped QRS. Both are common and usually harmless; PVCs are the ones more often counted and followed up.
 @@BODY@@
-## What "pvc vs pac" means
+## What "PVC vs PAC" means
 
 Both are ectopic beats — impulses from a spot other than the sinus node. The difference is location. PACs come from atrial tissue, use the AV node and bundle branches, and produce a narrow QRS preceded by an abnormal P wave. PVCs bypass the wiring, produce a wide QRS with no preceding P wave, and are usually followed by a longer (compensatory) pause.
 

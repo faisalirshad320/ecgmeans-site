@@ -11,7 +11,7 @@ NONE
 @@LEDE@@
 A junctional rhythm means the heartbeat is being started by the AV junction — the relay point between the upper and lower chambers — instead of the usual sinus node. It typically runs at 40–60 beats per minute with a normal narrow QRS but no normal P wave in front. It is a back-up rhythm that appears when the sinus node slows or is blocked.
 @@BODY@@
-## What "junctional rhythm" means
+## What "Junctional rhythm" means
 
 The heart has a hierarchy of pacemakers. The sinus node leads at 60–100; if it fails or slows enough, the AV junction takes over at its own built-in rate of 40–60. This is called a junctional escape rhythm and is protective. The names change with the rate: below 40 is junctional bradycardia, 60–100 is accelerated junctional rhythm, above 100 is junctional tachycardia.
 

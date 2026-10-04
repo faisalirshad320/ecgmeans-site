@@ -11,7 +11,7 @@ Usually harmless
 @@LEDE@@
 "Sinus rhythm with PACs" means your underlying rhythm is normal, with occasional early beats arising from the upper chambers (premature atrial complexes, also called contractions). Almost everyone has some. They may be felt as a skipped beat or flutter and are harmless in the great majority of people.
 @@BODY@@
-## What "sinus rhythm with pac" means
+## What "Sinus rhythm with PAC" means
 
 A PAC happens when a spot in the atria fires before the sinus node's next scheduled beat. The early impulse travels down the normal wiring, so the QRS looks normal; the sinus node then resets, giving a short pause before the next beat. That pause, and the stronger beat after it, is what people notice.
 

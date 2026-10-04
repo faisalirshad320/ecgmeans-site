@@ -347,7 +347,7 @@ An EKG — also written ECG — is a quick, painless test that records the elect
 
 ### ECG Axis Calculator
 URL: https://www.ecgmeans.com/ecg-axis-calculator/
-Verdict/quick answer: The normal QRS axis is −30° to +90°. If the QRS is mainly upright in both lead I and aVF, the axis is normal. Upright in I but negative in aVF suggests left axis deviation; negative in I but upright in aVF suggests right axis deviation.
+Verdict/quick answer: The normal QRS axis is −30° to +90°. If the QRS is mainly upright in both lead I and aVF, the axis is normal. Upright in I but negative in aVF suggests left axis deviation unless lead II is also upright (0° to −30°, still normal); negative in I but upright in aVF suggests right axis deviation.
 The QRS axis is the average direction of electrical flow through the ventricles. Enter the net size of the QRS in leads I and aVF (upward deflection minus downward deflection, in small boxes or mm), and the calculator estimates the axis in degrees.
 
 ### How to Calculate Heart Rate on an ECG

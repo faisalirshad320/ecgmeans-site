@@ -11,7 +11,7 @@ Needs clinician review
 @@LEDE@@
 Electrical alternans means the height of the QRS complexes changes from one beat to the next in a regular alternating pattern. Its best-known cause is a large collection of fluid around the heart (a pericardial effusion), in which the heart swings within the fluid so that each beat is recorded from a slightly different position. It can also occur with very fast rhythms. New electrical alternans deserves prompt assessment.
 @@BODY@@
-## What "electrical alternans" means
+## What "Electrical alternans" means
 
 When a lot of fluid builds up in the sac around the heart, the heart can literally swing back and forth within it with each beat. Because the heart's position relative to the electrodes changes beat to beat, the recorded QRS alternates in height. Combined with low voltage and a fast heart rate, this is a classic clue to a large effusion and to cardiac tamponade, a dangerous build-up that stops the heart filling properly.
 

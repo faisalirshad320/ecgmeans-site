@@ -13,7 +13,7 @@ An EKG (ECG) records the heart's electrical activity over about ten seconds usin
 
 The EKG is the electrical tracing; the echocardiogram is an ultrasound picture of the heart itself.
 @@BODY@@
-## What "echocardiogram vs ekg" means
+## What "Echocardiogram vs EKG" means
 
 The EKG is quick, cheap and excellent for rhythm problems, conduction blocks and an acute heart attack. It is poor at judging chamber size or pump strength, and a normal EKG does not rule out structural heart disease.
 

@@ -11,7 +11,7 @@ Usually harmless
 @@LEDE@@
 Sinus bradycardia is a normal heart rhythm at a rate below 60 beats per minute. The beat starts in the right place and travels the normal route; it is simply slow. It is normal during sleep and in physically fit people, and is only a problem if the rate is too slow to meet your body's needs.
 @@BODY@@
-## What "sinus bradycardia" means
+## What "Sinus bradycardia" means
 
 The 60 bpm cut-off is a convention, and many cardiologists regard resting rates in the 50s as normal. The sinus node is slowed by the vagus nerve, which is more active at rest, in sleep and in trained athletes, whose hearts pump more blood per beat. Rates in the 40s are routine in endurance athletes.
 

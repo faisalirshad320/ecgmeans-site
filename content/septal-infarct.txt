@@ -11,7 +11,7 @@ Depends on context
 @@LEDE@@
 "Septal infarct" means the ECG software saw a pattern in chest leads V1–V2 that can be left behind by a past heart attack affecting the septum, the wall between the ventricles. It is one of the most frequently over-called findings. Misplaced chest electrodes and normal variation produce the same pattern in people who have never had a heart attack.
 @@BODY@@
-## What "septal infarct" means
+## What "Septal infarct" means
 
 When heart muscle dies it stops producing electrical signal. In the leads that look at that region, the normal small upward R wave disappears and a downward Q wave (or a QS complex) is left. The program looks for this in V1 and V2 and, if it finds it, prints septal infarct. "Age undetermined" means it cannot tell whether this happened last week or twenty years ago; "possible" or "cannot rule out" means the pattern is weak.
 

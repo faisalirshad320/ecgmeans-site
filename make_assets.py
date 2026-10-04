@@ -149,6 +149,7 @@ main{padding:24px 0 48px}
 .copyright{font-size:.8rem}
 .ecg-fig{margin:1.2em 0 1.4em;background:#fff8f8;border:1px solid var(--line);border-radius:var(--rad);padding:8px}
 .ecg-fig img{display:block;width:100%;height:auto;border-radius:6px}
+.ecg-fig-narrow{max-width:440px}
 .ecg-fig figcaption{font-size:.82rem;color:var(--muted);margin-top:6px;line-height:1.45}
 .hub-intro{margin:2em 0 1em;max-width:760px}
 .tool{border:2px solid var(--brand);border-radius:var(--rad);padding:18px;margin:1.2em 0 1.4em;background:var(--soft)}

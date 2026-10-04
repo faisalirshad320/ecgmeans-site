@@ -11,7 +11,7 @@ Needs clinician review
 @@LEDE@@
 Atrial tachycardia is a fast heart rhythm — usually 150–250 beats per minute — driven by a single focus in the atria rather than the normal sinus node. On the ECG each QRS is preceded by an abnormally shaped P wave. It is a form of supraventricular tachycardia (SVT) and, while rarely immediately dangerous, it should be assessed because a persistently fast rate can tire the heart.
 @@BODY@@
-## What "atrial tachycardia" means
+## What "Atrial tachycardia" means
 
 In atrial tachycardia an irritable cluster of atrial cells fires faster than the sinus node and takes over the rhythm. Because the impulse starts away from the sinus node, the P wave looks different from a normal sinus P wave — it may be a different shape or point the wrong way. The ventricles follow normally, so the QRS stays narrow.
 

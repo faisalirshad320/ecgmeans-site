@@ -11,7 +11,7 @@ Usually harmless
 @@LEDE@@
 Right bundle branch block (RBBB) means the impulse is delayed in the right branch of the heart's wiring, so the right ventricle is activated a little late. The QRS widens and takes on an "M-shaped" rSR' pattern in lead V1. Incomplete RBBB (QRS 110–119 ms) is a common normal variant, particularly in young people; complete RBBB is usually harmless too but is worth checking once.
 @@BODY@@
-## What "right bundle branch block" means
+## What "Right bundle branch block" means
 
 The right bundle is a long, thin structure and is easily delayed. When it is, the left ventricle fires normally and the right one follows slightly later, producing a second upstroke in V1 (the R') and a wide S wave in the lateral leads. Because the left ventricle — the main pumping chamber — is activated normally, RBBB rarely affects heart function.
 

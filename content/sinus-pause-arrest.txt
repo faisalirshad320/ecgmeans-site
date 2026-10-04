@@ -11,7 +11,7 @@ Depends on context
 @@LEDE@@
 A sinus pause (or sinus arrest) is a gap in which the heart's natural pacemaker, the sinus node, briefly fails to fire, so no beat is produced for a moment. Short pauses are common and usually harmless, especially during sleep or in athletes. Long pauses, or pauses that cause dizziness or fainting, point to sinus node disease and may need a pacemaker.
 @@BODY@@
-## What "sinus pause" means
+## What "Sinus pause" means
 
 The sinus node normally fires steadily. If it pauses, there is a flat gap on the ECG with no P wave and no QRS until it restarts or a lower back-up (escape) pacemaker steps in. Brief pauses, especially at night, reflect normal high vagal tone. Longer or frequent pauses suggest the sinus node is diseased — part of what is called sick sinus syndrome.
 

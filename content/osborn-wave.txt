@@ -11,7 +11,7 @@ Needs clinician review
 @@LEDE@@
 An Osborn wave — also called a J wave — is an extra positive deflection or notch at the junction where the QRS ends and the ST segment begins (the J point). Its classic cause is hypothermia (a dangerously low body temperature), and the colder the person, the larger the wave. It also appears with high blood calcium and some other conditions, and it typically disappears as the cause is corrected.
 @@BODY@@
-## What "osborn wave" means
+## What "Osborn wave" means
 
 The J point is the hinge between the QRS and the ST segment. When the body cools, the heart's electrical recovery is altered in a way that lifts this point into a distinct hump — the Osborn wave. The size of the wave tends to track the degree of hypothermia, and it is most visible in the inferior and lateral leads. It fades as the person is rewarmed.
 

@@ -11,7 +11,7 @@ Depends on context
 @@LEDE@@
 An intraventricular conduction delay (IVCD) means the impulse takes longer than normal to spread through the ventricles, widening the QRS, but the pattern does not fit a typical left or right bundle branch block. When reports add the word "nonspecific," it simply means the delay has no classic shape. It is common, often mild, and its importance depends on the cause.
 @@BODY@@
-## What "intraventricular conduction delay" means
+## What "Intraventricular conduction delay" means
 
 The ventricles are normally activated through a fast wiring network, keeping the QRS narrow. If conduction through that network is slowed in a way that does not match the specific pattern of a right or left bundle branch block, the software calls it a nonspecific intraventricular conduction delay. The QRS is widened (usually 110 ms or more) but lacks the characteristic rSR' of RBBB or the broad notched shape of LBBB.
 

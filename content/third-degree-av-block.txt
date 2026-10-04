@@ -11,7 +11,7 @@ Seek prompt care
 @@LEDE@@
 Third degree AV block — complete heart block — means the electrical connection between the upper and lower chambers has failed completely. The atria and ventricles beat independently, and the heart relies on a slow back-up (escape) rhythm to keep going. It is the most serious of the AV blocks and usually needs urgent assessment and a pacemaker.
 @@BODY@@
-## What "third degree av block" means
+## What "Third degree AV block" means
 
 In a normal heart every impulse from the sinus node passes through the AV node to the ventricles. In complete heart block none of them get through. The atria carry on at their own rate while a back-up pacemaker lower down — in the AV junction or the ventricles — takes over at a much slower rate to keep the heart beating. The two are no longer coordinated, which is described as "AV dissociation".
 

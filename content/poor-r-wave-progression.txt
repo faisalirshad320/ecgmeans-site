@@ -11,7 +11,7 @@ Depends on context
 @@LEDE@@
 "Poor R wave progression" means the upward R wave does not get taller as it should from chest lead V1 to V4 — typically the R wave in V3 is 3 mm or less. It can be a trace left by an old heart attack on the front of the heart, but far more often it reflects electrode position, body build or a normal variant.
 @@BODY@@
-## What "poor r wave progression" means
+## What "Poor R wave progression" means
 
 The six chest leads scan across the heart from right to left. In a normal tracing the R wave starts tiny in V1, grows steadily, and overtakes the downward S wave at around V3–V4 (the "transition"). When that growth is delayed, the software prints poor R wave progression, sometimes adding "consider anterior infarct".
 

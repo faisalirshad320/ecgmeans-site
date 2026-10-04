@@ -11,7 +11,7 @@ Seek prompt care
 @@LEDE@@
 In 2:1 AV block, exactly every other impulse from the upper chambers is blocked, so only one in two P waves is followed by a heartbeat — producing a pulse that is half the atrial rate. The catch is that a single strip cannot tell whether it is the benign (Mobitz I) or the more serious (Mobitz II) type, so 2:1 block is always assessed carefully.
 @@BODY@@
-## What "2:1 av block" means
+## What "2:1 AV block" means
 
 In second degree AV block some atrial impulses reach the ventricles and some are blocked. When the pattern is exactly two-to-one, every second P wave has no QRS after it. Because you cannot see the tell-tale gradual PR lengthening of Mobitz I (there is never a second conducted beat in a row to compare), a 2:1 strip is ambiguous.
 

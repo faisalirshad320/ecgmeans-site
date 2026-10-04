@@ -11,7 +11,7 @@ Needs clinician review
 @@LEDE@@
 Junctional tachycardia is a fast rhythm — over 100 beats per minute — that arises from the AV junction, the relay point between the upper and lower chambers, instead of the sinus node. The QRS is narrow but the P waves are missing or inverted. It is the fast end of the junctional-rhythm family and usually signals an irritated junction from a drug, surgery or illness.
 @@BODY@@
-## What "junctional tachycardia" means
+## What "Junctional tachycardia" means
 
 The AV junction normally only acts as a back-up pacemaker at 40–60 per minute. In junctional tachycardia it becomes abnormally excitable and fires above 100, overriding the sinus node. Because the impulse reaches the atria backwards, the P wave is hidden in the QRS or appears upside-down just before or after it.
 

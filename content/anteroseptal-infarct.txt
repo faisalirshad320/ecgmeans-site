@@ -11,7 +11,7 @@ Needs clinician review
 @@LEDE@@
 "Anteroseptal infarct, age undetermined" means the software saw a pattern across the front and middle of the chest leads (V1–V4) that a past heart attack can leave — combining the septal (V1–V2) and anterior (V3–V4) territories. It cannot date it or be certain it happened. Chest-lead placement, body build and bundle branch block are common innocent mimics.
 @@BODY@@
-## What "anteroseptal infarct age undetermined" means
+## What "Anteroseptal infarct age undetermined" means
 
 The septum and front wall of the left ventricle are supplied by the left anterior descending artery and viewed by leads V1 to V4. Healthy muscle there makes an R wave that grows steadily across the chest leads. If that growth fails or Q waves appear, the program suspects old scar and, when both the septal and anterior leads are involved, prints anteroseptal infarct.
 

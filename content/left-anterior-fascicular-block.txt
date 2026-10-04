@@ -11,7 +11,7 @@ Usually harmless
 @@LEDE@@
 Left anterior fascicular block (LAFB, or left anterior hemiblock) means one of the two small branches of the left bundle — the anterior fascicle — is delayed. The result is a marked leftward shift of the QRS axis with only slight widening of the QRS. It is a common finding, particularly with age, and on its own is generally harmless.
 @@BODY@@
-## What "left anterior fascicular block" means
+## What "Left anterior fascicular block" means
 
 The left bundle divides into an anterior and a posterior fascicle. If the anterior one is blocked, the impulse enters the left ventricle via the posterior fascicle and spreads upward and leftward, pulling the axis to between −45° and −90°. The QRS stays under 120 ms because the rest of the wiring is intact.
 

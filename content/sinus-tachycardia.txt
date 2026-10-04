@@ -11,7 +11,7 @@ Depends on context
 @@LEDE@@
 Sinus tachycardia is a normal heart rhythm at a rate above 100 beats per minute at rest. The heart's own pacemaker is simply firing faster, nearly always as a response to something — exertion, anxiety, pain, fever, dehydration, caffeine or illness. It is a sign to look for the trigger rather than a heart rhythm disease in itself.
 @@BODY@@
-## What "sinus tachycardia" means
+## What "Sinus tachycardia" means
 
 The sinus node speeds up under the influence of adrenaline and the sympathetic nervous system. That is appropriate during exercise or fear. On a resting ECG it often reflects the stress of the test or the illness that brought you to hospital.
 

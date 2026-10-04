@@ -11,7 +11,7 @@ NONE
 @@LEDE@@
 Left bundle branch block (LBBB) means the electrical impulse cannot travel down the left branch of the heart's wiring, so the left ventricle is activated late and indirectly. On the ECG the QRS becomes wide (120 ms or more) with a characteristic shape. Unlike its right-sided counterpart, LBBB is usually associated with underlying heart disease and prompts an echocardiogram.
 @@BODY@@
-## What "left bundle branch block" means
+## What "Left bundle branch block" means
 
 Below the AV node the conduction system splits into a right and a left bundle. When the left one is blocked, the right ventricle fires first and the impulse then spreads slowly through muscle to the left. The delay widens the QRS and also changes the ST segments and T waves, which is why many other ECG findings cannot be read reliably in the presence of LBBB.
 

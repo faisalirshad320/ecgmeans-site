@@ -11,7 +11,7 @@ Depends on context
 @@LEDE@@
 Peaked T waves are T waves that are taller and more pointed than usual. They have two very different meanings: in a well person they are often a harmless normal variant (or early repolarization), but when they appear acutely they are the earliest ECG sign of a high blood potassium level (hyperkalaemia), which can be dangerous. The context decides which it is.
 @@BODY@@
-## What "peaked t waves" means
+## What "Peaked T waves" means
 
 The T wave reflects the ventricles recharging after each beat, a process driven largely by potassium moving across the heart cells. When blood potassium rises, that recovery speeds up and sharpens, making the T wave tall, narrow and tented — classically "you could prick your finger on it". The same tall T wave can also appear in healthy young people as a normal variant, and in the first minutes of a heart attack (hyperacute T waves).
 

@@ -11,7 +11,7 @@ Normal is under 120 ms — less than three small squares — and many cardiologi
 @@LEDE@@
 The QRS interval (or duration) is how long it takes the electrical impulse to spread through both ventricles. Normal is under 120 ms — less than three small squares — and many cardiologists prefer under 100–110 ms. A wide QRS means the impulse took a slow route: usually a bundle branch block, a beat starting in the ventricle, a pacemaker, or a drug or electrolyte effect.
 @@BODY@@
-## What "qrs interval normal range" means
+## What "QRS interval normal range" means
 
 The ventricles are wired with a fast-conducting network (the His-Purkinje system) so that they contract almost simultaneously. If the impulse uses that network, the QRS is narrow. If part of the network is blocked, or the beat originates in ventricular muscle, the impulse spreads cell-to-cell and the QRS widens.
 

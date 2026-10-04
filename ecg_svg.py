@@ -57,6 +57,9 @@ def qrs_t(t, m):
         if m["st_shape"] == "concave":
             frac = min(max((t - j) / max(end - j, 1e-3), 0), 1)
             shape *= 0.6 + 0.4 * frac
+        elif m["st_shape"] == "down":
+            frac = min(max((t - j) / max(end - j, 1e-3), 0), 1)
+            shape *= 0.75 + 0.35 * frac
         elif m["st_shape"] == "convex":
             frac = min(max((t - j) / max(end - j, 1e-3), 0), 1)
             shape *= 1.0 - 0.25 * (frac - 0.5) ** 2 * 4
@@ -75,7 +78,7 @@ def p_wave(t, kind="normal"):
     if kind == "peaked":
         return g(t, 0.30, 0.045, 0.016)
     if kind == "mitrale":
-        return g(t, 0.12, 0.035, 0.016) + g(t, 0.12, 0.085, 0.018)
+        return g(t, 0.12, 0.035, 0.018) + g(t, 0.12, 0.10, 0.02)
     if kind == "inverted":
         return g(t, -0.12, 0.05, 0.020)
     if kind == "small":
@@ -310,12 +313,12 @@ def fig(slug):
             t += 0.66
         return [s]
     if slug == "third-degree-av-block":
-        s = Strip(dur=7.0); t = 0.2
+        s = Strip(dur=7.0); t = 0.12
         while t < s.dur - 0.1:
-            s.p.append((t, "normal")); t += 0.75
-        t = 0.6; m = M(qrs=wide([(1.0, 0.05, 0.022), (-0.3, 0.11, 0.02)], 1.0), j=0.14, t=(-0.3, 0.36, 0.06, 0.05))
+            s.p.append((t, "tall_narrow")); s.labels.append((t + 0.04, 0.42, "P")); t += 0.72
+        t = 0.55; m = M(qrs=wide([(1.0, 0.05, 0.022), (-0.3, 0.11, 0.02)], 1.0), j=0.14, t=(-0.3, 0.36, 0.06, 0.05))
         while t < s.dur - 0.4:
-            s.q.append((t, m)); t += 1.55
+            s.q.append((t, m)); t += 1.63
         return [s]
     if slug == "right-bundle-branch-block":
         m = M(qrs=[(0.28, 0.025, 0.010), (-0.32, 0.058, 0.011), (0.85, 0.105, 0.018)], j=0.13, t=(-0.22, 0.32, 0.06, 0.045))
@@ -324,7 +327,7 @@ def fig(slug):
         m = M(qrs=[(0.85, 0.045, 0.022), (0.9, 0.105, 0.022)], j=0.15, st=-0.12, t=(-0.32, 0.36, 0.06, 0.05))
         return [sinus(Strip(lead="V6"), hr=72, morph=m)]
     if slug == "intraventricular-conduction-delay":
-        m = M(qrs=wide(N["qrs"], 1.4), j=0.125)
+        m = M(qrs=wide(N["qrs"], 1.75), j=0.15, t=(0.25, 0.34, 0.06, 0.045))
         return [sinus(Strip(lead="V5"), hr=72, morph=m)]
     if slug == "left-anterior-fascicular-block":
         rS = M(qrs=[(0.25, 0.025, 0.01), (-0.9, 0.06, 0.013)], t=(0.18, 0.30, 0.055, 0.04))
@@ -349,7 +352,7 @@ def fig(slug):
         return [s]
     if slug == "delta-wave":
         m = M(qrs=[(0.32, 0.035, 0.024), (0.8, 0.085, 0.012), (-0.12, 0.11, 0.01)], j=0.13)
-        s = sinus(Strip(), hr=72, pr=0.10, morph=m); s.labels.append((0.35 + 60/72 - 0.02, 0.62, "delta"))
+        s = sinus(Strip(), hr=72, pr=0.10, morph=m); s.labels.append((0.35 + 60/72 - 0.17, 0.62, "delta"))
         return [s]
     if slug == "qrs-interval":
         s = one_beat(dur=1.9, at=0.6); s.brackets.append((0.6, 0.69, -0.55, "QRS under 120 ms"))
@@ -365,7 +368,7 @@ def fig(slug):
     if slug == "st-elevation":
         return [sinus(Strip(lead="V2"), hr=78, morph=M(qrs=[(0.5, 0.035, 0.01), (-0.35, 0.065, 0.011)], st=0.42, st_shape="flat", t=(0.45, 0.29, 0.07, 0.045)))]
     if slug == "st-depression":
-        return [sinus(Strip(lead="V5"), hr=78, morph=M(st=-0.18, t=(0.12, 0.31, 0.05, 0.04)))]
+        return [sinus(Strip(lead="V5"), hr=72, morph=M(st=-0.2, st_shape="down", t=(0.08, 0.36, 0.05, 0.04)))]
     if slug in ("t-wave-inversion",):
         return [sinus(Strip(lead="V3"), hr=72, morph=M(t=(-0.32, 0.30, 0.055, 0.045)))]
     if slug == "nonspecific-t-wave-abnormality":
@@ -399,7 +402,7 @@ def fig(slug):
         return [sinus(Strip(lead="V4"), hr=62, morph=M(jwave=0.12, st=0.17, st_shape="concave", t=(0.55, 0.31, 0.06, 0.045)))]
     if slug == "pericarditis-ecg":
         s = Strip(); t = 0.35
-        m = M(st=0.18, st_shape="concave", t=(0.38, 0.30, 0.06, 0.045))
+        m = M(st=0.26, st_shape="concave", t=(0.42, 0.30, 0.06, 0.045))
         while t < s.dur - 0.25:
             s.p.append((t - 0.16, "normal")); s.q.append((t, m)); t += 60 / 92
         s.base = lambda x: 0.0
@@ -407,7 +410,7 @@ def fig(slug):
         orig = s.q[:]
         s.p = [(pt, "normal") for pt, _ in s.p]
         def prdep(x, qs=[q[0] for q in orig]):
-            return sum(-0.07 * sig((x - (q - 0.09)) / 0.008) * sig((q - 0.005 - x) / 0.008) for q in qs)
+            return sum(-0.11 * sig((x - (q - 0.09)) / 0.008) * sig((q - 0.005 - x) / 0.008) for q in qs)
         s.base = prdep
         return [s]
     if slug in ("septal-infarct", "anteroseptal-infarct", "anterior-infarct-age-undetermined"):
@@ -426,10 +429,10 @@ def fig(slug):
         seq = [0.08, 0.12, 0.16, 0.22, 0.5, 0.8]
         return [panel([(f"V{i+1}", one_beat(M(qrs=[(r, 0.03, 0.01), (-(0.9 - r), 0.06, 0.013)]), lead=f"V{i+1}", dur=1.0)) for i, r in enumerate(seq)])]
     if slug == "left-atrial-enlargement":
-        s = sinus(Strip(), hr=70, pr=0.20, pkind="mitrale"); s.labels.append((0.35 + 60/70 - 0.14, 0.42, "notched P"))
+        s = sinus(Strip(), hr=70, pr=0.22, pkind="mitrale"); s.labels.append((0.35 + 60/70 - 0.30, 0.55, "notched P"))
         return [s]
     if slug == "right-atrial-enlargement":
-        s = sinus(Strip(), hr=72, pkind="peaked"); s.labels.append((0.35 + 60/72 - 0.11, 0.55, "tall P"))
+        s = sinus(Strip(), hr=72, pkind="peaked"); s.labels.append((0.35 + 60/72 - 0.27, 0.62, "tall P"))
         return [s]
     if slug == "left-ventricular-hypertrophy":
         m = M(qrs=[(-0.1, 0.012, 0.007), (2.6, 0.042, 0.011), (-0.2, 0.072, 0.01)], j=0.1, st=-0.12, t=(-0.25, 0.32, 0.06, 0.045))
@@ -506,7 +509,7 @@ DESCR = {
  "borderline-ecg": "a normal heartbeat labelled P, Q, R, S and T, the reference that report findings are judged against",
  "ekg-vs-echocardiogram": "one EKG heartbeat labelled P, Q, R, S and T, the electrical signal an EKG records",
  "st-elevation": "lead V2 with the ST segment raised well above the baseline",
- "st-depression": "lead V5 with a flat ST segment pushed below the baseline",
+ "st-depression": "lead V5 with a horizontal-to-downsloping ST segment pushed below the baseline",
  "t-wave-inversion": "lead V3 with T waves pointing downward",
  "nonspecific-t-wave-abnormality": "lead V5 with low, flattened T waves",
  "peaked-t-waves": "lead V3 with tall, narrow, pointed T waves",
@@ -516,7 +519,7 @@ DESCR = {
  "electrical-alternans": "QRS height alternating tall and short from beat to beat",
  "s1q3t3": "an S wave in lead I with a Q wave and an inverted T wave in lead III",
  "early-repolarization": "lead V4 with a notched J point, concave ST elevation and tall T waves",
- "pericarditis-ecg": "lead II with concave ST elevation and slight PR-segment depression",
+ "pericarditis-ecg": "lead II with widespread concave ST elevation and PR-segment depression (lead aVR typically shows the mirror image)",
  "septal-infarct": "QS complexes (no R wave) in V1 and V2 with normal R waves in V3 and V4",
  "anteroseptal-infarct": "QS complexes in V1 to V3 with an R wave returning in V4",
  "anterior-infarct-age-undetermined": "QS complexes across V2 to V4",

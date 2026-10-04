@@ -11,7 +11,7 @@ Needs clinician review
 @@LEDE@@
 A "lateral infarct" on an ECG report means the software saw a pattern — usually Q waves — in the leads that look at the side wall of the heart (I, aVL, V5 and V6), which a past heart attack can leave. As with the other "age undetermined" infarct labels, it is a suggestion that needs a clinician's review and often an echocardiogram, because lead factors and normal variants can mimic it.
 @@BODY@@
-## What "lateral infarct" means
+## What "Lateral infarct" means
 
 The side (lateral) wall of the left ventricle is viewed by leads I and aVL (high lateral) and V5–V6 (low lateral), and is supplied by branches of the left-sided coronary arteries. When muscle there has been damaged by a heart attack, Q waves or lost R waves appear in these leads. The report may say lateral infarct, high lateral infarct, or combine territories (for example anterolateral).
 

@@ -17,7 +17,7 @@ Depends on context
 "Abnormal ECG" is a summary line printed by the ECG machine's software. It means at least one measurement — rate, rhythm, an interval or a wave shape — fell outside the program's normal limits. It is not a diagnosis. Many abnormal readings turn out to be harmless variants once a clinician looks at the tracing and at you.
 
 @@BODY@@
-## What "abnormal ecg" means
+## What "Abnormal ECG" means
 
 Every modern ECG machine runs an interpretation program. It measures the tracing, compares the numbers with built-in thresholds, prints the individual findings, and then adds an overall verdict: Normal ECG, Otherwise normal ECG, Borderline ECG or Abnormal ECG. The verdict is driven by the most significant finding on the list above it, so the useful information is in those individual lines, not in the word "abnormal".
 

@@ -11,7 +11,7 @@ Needs clinician review
 @@LEDE@@
 "Possible right atrial enlargement" means the first part of your P wave — the bit made by the right upper chamber — is taller and more peaked than usual, a pattern called P pulmonale. Like its left-sided counterpart it is only a hint from the P wave shape; the ECG judges chamber size poorly, so an echocardiogram gives the real answer.
 @@BODY@@
-## What "right atrial enlargement" means
+## What "Right atrial enlargement" means
 
 The P wave is made by the two atria contracting, the right one first. If the right atrium is enlarged or under pressure, its share of the P wave becomes taller and more pointed. The software flags a P wave taller than about 2.5 mm in the inferior leads (II, III, aVF), or a large initial positive deflection in V1. Many reports now use the broader term right atrial abnormality.
 

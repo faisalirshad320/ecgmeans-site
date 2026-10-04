@@ -11,7 +11,7 @@ Usually harmless
 @@LEDE@@
 A "borderline ECG" means the machine found something just outside its normal limits, but not far enough to call the tracing abnormal. It is the software's way of saying "probably fine, worth a human glance". In people without symptoms it is most often a normal variant or a technical artefact.
 @@BODY@@
-## What "borderline ecg" means
+## What "Borderline ECG" means
 
 ECG software grades its overall verdict. Normal means every measurement is inside the limits. Borderline means one or two measurements are marginally outside. Abnormal means a finding that the program considers clinically significant. Borderline is therefore the mildest of the non-normal verdicts.
 

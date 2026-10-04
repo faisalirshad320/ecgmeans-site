@@ -30,6 +30,8 @@ function band(v,sex){var up=sex==='f'?460:440;
  return['Within the usual normal range','ok'];}
 function calc(src){
  var qt=parseFloat($('qt').value),hr=parseFloat($('hr').value),rr=parseFloat($('rr').value),sex=$('sex').value;
+ if(src==='hr'&&!(hr>0)){$('rr').value='';rr=NaN;}
+ else if(src==='rr'&&!(rr>0)){$('hr').value='';hr=NaN;}
  if(src==='hr'&&hr>0){$('rr').value=Math.round(60000/hr);rr=60000/hr;}
  else if(src==='rr'&&rr>0){$('hr').value=Math.round(60000/rr);hr=60000/rr;}
  else if(!(rr>0)&&hr>0){rr=60000/hr;}
@@ -39,7 +41,7 @@ function calc(src){
  var s=rr/1000;
  var f=[['Bazett','QT ÷ √RR',qt/Math.sqrt(s)],['Fridericia','QT ÷ ∛RR',qt/Math.cbrt(s)],['Framingham','QT + 154 × (1 − RR)',qt+154*(1-s)],['Hodges','QT + 1.75 × (HR − 60)',qt+1.75*(hr-60)]];
  var rows=f.map(function(x){var b=band(x[2],sex);return '<tr><th scope="row">'+x[0]+'</th><td>'+x[1]+'</td><td><strong>'+Math.round(x[2])+' ms</strong></td><td><span class="verdict verdict-'+b[1]+'">'+b[0]+'</span></td></tr>';}).join('');
- var note=(hr<50||hr>100)?'<p class="tool-note">At heart rates outside 60–100 bpm Bazett over- or under-corrects. Fridericia or Framingham is more reliable here.</p>':'';
+ var note=(hr<60||hr>90)?'<p class="tool-note">At heart rates outside 60–90 bpm Bazett over- or under-corrects. Fridericia or Framingham is more reliable here.</p>':'';
  out.innerHTML='<p class="tool-res">Heart rate <strong>'+Math.round(hr)+' bpm</strong> · RR <strong>'+Math.round(rr)+' ms</strong></p><table class="tool-table"><thead><tr><th>Formula</th><th>Equation</th><th>QTc</th><th>Interpretation</th></tr></thead><tbody>'+rows+'</tbody></table>'+note+'<p class="tool-note">Educational estimate only. QT is best measured by hand in lead II or V5; a machine value can be off. Discuss any prolonged result with your clinician.</p>';
 }
 ['qt','sex'].forEach(function(i){$(i).addEventListener('input',function(){calc('')});});
@@ -66,7 +68,7 @@ The four formulas use the RR interval in seconds (RR = 60 ÷ heart rate):
 - **Normal:** under about 440 ms in men and 460 ms in women. Exact cut-offs vary a little between guidelines.
 - **Prolonged:** above those limits. A QTc of 440–480 ms is usually just a reason to review medicines and potassium, magnesium and calcium levels.
 - **Markedly prolonged:** over 500 ms. This is associated with a clearly higher risk of the dangerous rhythm torsades de pointes and needs prompt assessment.
-- **Short:** under about 350 ms. A short QT is rare and is worth mentioning to a doctor, especially with a family history of sudden death.
+- **Short:** under about 350–360 ms (thresholds vary between references). A short QT is rare and is worth mentioning to a doctor, especially with a family history of sudden death.
 
 **Get urgent help** if a long QT comes with fainting, seizures, palpitations or chest pain. Those symptoms matter more than any single number.
 

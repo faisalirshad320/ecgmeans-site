@@ -312,10 +312,11 @@ def render_content(s):
         mw = re.search(r'width="(\d+)" height="(\d+)"', svg)
         w, hgt = int(mw.group(1)), int(mw.group(2))
         d = ecg_svg.DESCR[s]
-        alt = f"Schematic ECG illustration of {h1_crumb(h1).lower() if not h1_crumb(h1).isupper() else h1_crumb(h1)}: {d}"
+        alt = f"Schematic ECG illustration of {ABOUT_NAME.get(s, h1_crumb(h1))}: {d}"
         cap = d[0].upper() + d[1:]
         img_url = f"{HOST}/assets/ecg/{s}.svg"
-        fig_html = (f'<figure class="ecg-fig"><img src="/assets/ecg/{s}.svg" width="{w}" height="{hgt}" alt="{esc(alt)}" decoding="async">'
+        figcls = "ecg-fig ecg-fig-narrow" if w < 300 else "ecg-fig"
+        fig_html = (f'<figure class="{figcls}"><img src="/assets/ecg/{s}.svg" width="{w}" height="{hgt}" alt="{esc(alt)}" decoding="async">'
                     f'<figcaption>{esc(cap)}. Schematic teaching illustration, not a real patient tracing.</figcaption></figure>')
         img_node = {"@type": "ImageObject", "@id": canonical + "#ecg", "url": img_url, "contentUrl": img_url,
                     "width": w, "height": hgt, "caption": cap, "encodingFormat": "image/svg+xml",
@@ -383,7 +384,8 @@ def render_content(s):
         "primaryImageOfPage": {"@type": "ImageObject", "url": OG_IMG},
     }
     if img_node:
-        mwp["image"] = [{"@id": img_node["@id"]}, OG_IMG]
+        mwp["image"] = {"@id": img_node["@id"]}
+        mwp["primaryImageOfPage"] = {"@id": img_node["@id"]}
     nodes = [mwp, breadcrumb_jsonld(trail)]
     if img_node:
         nodes.append(img_node)
@@ -449,7 +451,8 @@ def render_hub(s):
     collection = {
         "@type": "CollectionPage", "@id": canonical + "#webpage",
         "name": title, "description": desc, "url": canonical, "inLanguage": "en",
-        "isPartOf": {"@id": HOST + "/#website"}, "about": {"@id": HOST + "/#org"},
+        "isPartOf": {"@id": HOST + "/#website"},
+        "about": {"@type": "MedicalTest", "name": "Electrocardiogram (ECG/EKG)"}, "publisher": {"@id": HOST + "/#org"},
         "dateModified": MODIFIED, "mainEntity": item_list,
     }
     nodes = [collection, breadcrumb_jsonld(trail)]

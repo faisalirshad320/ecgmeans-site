@@ -11,7 +11,7 @@ Usually harmless
 @@LEDE@@
 An ECG report has three parts: a block of measurements (rate, PR, QRS, QT/QTc, axis), a list of automated findings, and an overall verdict such as Normal, Borderline or Abnormal ECG. The measurements are reliable; the findings are over-sensitive suggestions; the verdict is only as good as the most significant finding. This guide walks through each part.
 @@BODY@@
-## What "how to read ecg" means
+## The short answer
 
 Measurements: heart rate 60–100; PR 120–200 ms; QRS under 120 ms; QTc under about 440–460 ms; P axis, QRS axis (−30° to +90°) and T axis. Anything outside these limits generates a finding line.
 

@@ -11,7 +11,7 @@ Depends on context
 @@LEDE@@
 Trigeminy is a repeating pattern in which every third heartbeat is a premature (extra) beat: normal, normal, early, pause. When the extra beats come from the lower chambers it is ventricular trigeminy, the usual form. It reflects frequent PVCs falling into a regular pattern and, in an otherwise healthy heart, is generally harmless.
 @@BODY@@
-## What "trigeminy" means
+## What "Trigeminy" means
 
 PVCs often organise themselves into patterns. Every other beat is bigeminy, every third is trigeminy, every fourth is quadrigeminy. The pattern itself carries no extra risk beyond telling your doctor that PVCs are fairly frequent during that recording.
 

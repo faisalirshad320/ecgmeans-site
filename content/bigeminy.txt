@@ -11,7 +11,7 @@ Depends on context
 @@LEDE@@
 Bigeminy means every second heartbeat is a premature (extra) beat, so beats arrive in pairs: normal, early, pause; normal, early, pause. Usually the extra beats are PVCs from the lower chambers — ventricular bigeminy. It can feel like a slow or thumping pulse. In a structurally normal heart it is generally benign.
 @@BODY@@
-## What "bigeminy" means
+## What "Bigeminy" means
 
 Each premature beat resets the timing in a way that favours another premature beat after the next normal one, so the pattern tends to sustain itself for seconds or minutes. The early beat often pumps little blood, which is why a pulse check or a fitness watch may report half the true heart rate.
 

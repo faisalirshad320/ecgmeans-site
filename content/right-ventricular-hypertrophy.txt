@@ -11,7 +11,7 @@ Needs clinician review
 @@LEDE@@
 Right ventricular hypertrophy (RVH) means the smaller, right-sided pumping chamber has thickened, usually because it is working against high pressure in the lungs. On the ECG the normally small right ventricle starts to dominate, giving a tall R wave in lead V1 and a rightward axis. The ECG is insensitive to it, so an echocardiogram is the test that confirms it.
 @@BODY@@
-## What "right ventricular hypertrophy" means
+## What "Right ventricular hypertrophy" means
 
 The right ventricle is normally thin and its signal is drowned out by the much larger left ventricle. When lung pressure is chronically high the right ventricle thickens, and its electrical signal grows enough to swing the QRS to the right and produce a tall R wave in V1 — the reverse of the usual pattern there.
 

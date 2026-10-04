@@ -11,7 +11,7 @@ Usually harmless
 @@LEDE@@
 Sinus rhythm is the normal rhythm of the heart. It means each heartbeat is being started by the heart's natural pacemaker, the sinus node, and travelling through the normal pathway. "Normal sinus rhythm" adds that the rate is between 60 and 100 beats per minute. The word "sinus" has nothing to do with your nose.
 @@BODY@@
-## What "sinus rhythm" means
+## What "Sinus rhythm" means
 
 The sinus (sinoatrial) node is a cluster of cells in the right upper chamber. It fires, the atria contract — producing the P wave — the impulse pauses at the AV node, then spreads through the ventricles to produce the QRS. If every QRS is preceded by a normal-looking P wave at a regular pace, the rhythm is sinus.
 

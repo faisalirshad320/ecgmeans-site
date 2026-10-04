@@ -34,7 +34,7 @@ Standard ECG paper runs at 25 mm/s with a sensitivity of 10 mm per mV. One small
 
 - **Q waves:** small "septal" q waves in leads I, aVL, V5 and V6 are normal when they are narrow (under 40 ms) and shallow.
 - **R-wave progression:** R waves grow from V1 to about V4–V5, with the switch from mainly negative to mainly positive (the transition) around V3–V4. See [poor R wave progression](/poor-r-wave-progression/).
-- **ST elevation thresholds:** small amounts of J-point elevation are normal. Under the Fourth Universal Definition of Myocardial Infarction, new elevation is significant at 1 mm in most leads. In V2–V3 the threshold is 2 mm in men aged 40 or over, 2.5 mm in men under 40 and 1.5 mm in women.
+- **ST thresholds:** small amounts of J-point elevation are normal. Under the Fourth Universal Definition of Myocardial Infarction, new ST elevation at the J point in two or more neighbouring (contiguous) leads is significant at 1 mm in most leads; in V2–V3 the threshold is 2 mm in men aged 40 or over, 2.5 mm in men under 40 and 1.5 mm in women. New horizontal or downsloping ST depression of 0.5 mm or more in two contiguous leads is also significant.
 - **T waves** may be inverted in lead III and V1 in healthy adults, and in V1–V3 in children and some young adults.
 
 ## Why normal ranges have limits

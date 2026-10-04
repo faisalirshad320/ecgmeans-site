@@ -11,7 +11,7 @@ Usually harmless
 @@LEDE@@
 Early repolarization is a common normal variant in which the point where the QRS ends and the ST segment begins (the J point) sits slightly above the baseline, often with a small notch. It is seen in roughly 1 in 10 to 1 in 20 people, especially young adults, athletes and men, and in the great majority it is harmless.
 @@BODY@@
-## What "early repolarization" means
+## What "Early repolarization" means
 
 After each beat the ventricles recharge (repolarize). In some hearts a part of the muscle begins this a fraction early, lifting the start of the ST segment. The result is a concave, "smiley" ST elevation with a tall upright T wave, most obvious in the chest leads and more marked at slow heart rates.
 

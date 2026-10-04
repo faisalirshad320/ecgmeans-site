@@ -11,7 +11,7 @@ NONE
 @@LEDE@@
 "Low voltage QRS" means the main spikes of your ECG are unusually small: under 5 mm in all six limb leads, or under 10 mm in all six chest leads. Either the heart is generating less signal, or — more commonly — something between the heart and the skin electrodes, such as fat, air or fluid, is dampening it.
 @@BODY@@
-## What "low voltage qrs" means
+## What "Low voltage QRS" means
 
 QRS height depends on how much working heart muscle there is and how well its signal conducts to the skin. Anything that adds insulation reduces the height: a large body, over-inflated lungs, or fluid around the heart or lungs. Less often the muscle itself is the issue — replaced by scar after several heart attacks, or infiltrated by abnormal protein in amyloidosis.
 

@@ -11,7 +11,7 @@ Needs clinician review
 @@LEDE@@
 "Inferior infarct, age undetermined" means the software saw Q waves in the leads that look at the bottom (inferior) wall of the heart — II, III and aVF — a pattern a past heart attack can leave. It cannot say when, or be sure it happened at all. Small inferior Q waves are common in healthy people, so this is one of the more frequently over-called findings.
 @@BODY@@
-## What "inferior infarct age undetermined" means
+## What "Inferior infarct age undetermined" means
 
 The inferior wall of the left ventricle is viewed by leads II, III and aVF and is usually supplied by the right coronary artery. When muscle there has been lost to a heart attack, a Q wave (a downward deflection at the start of the QRS) is left behind. The program looks for Q waves in these leads and, if they meet its size rule, prints inferior infarct.
 

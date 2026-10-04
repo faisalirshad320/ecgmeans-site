@@ -11,7 +11,7 @@ Needs clinician review
 @@LEDE@@
 Left ventricular hypertrophy (LVH) means the main pumping chamber's muscle is thicker than normal. The ECG only measures the electricity, so it infers LVH from tall QRS complexes using "voltage criteria". These criteria miss many thick hearts and flag many normal ones — especially slim, young or athletic people — so the ECG statement is a prompt for an echocardiogram, not a diagnosis.
 @@BODY@@
-## What "left ventricular hypertrophy" means
+## What "Left ventricular hypertrophy" means
 
 The left ventricle thickens when it has to pump against high pressure for years, most often from high blood pressure or a tight aortic valve. More muscle produces a bigger electrical signal, so the R waves over the left side of the heart (leads V5–V6, I, aVL) grow taller and the S waves over the right (V1–V2) grow deeper. Software adds these heights up against fixed thresholds such as the Sokolow-Lyon or Cornell criteria and, if they are exceeded, prints "voltage criteria for LVH" or "possible left ventricular hypertrophy".
 

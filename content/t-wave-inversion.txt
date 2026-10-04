@@ -11,7 +11,7 @@ Depends on context
 @@LEDE@@
 T wave inversion means the T wave points downward instead of upward. In some leads (aVR, V1, and often III) that is completely normal. In others it can be a normal variant, a sign of strain from a thick ventricle, a bundle branch block effect, or evidence of reduced blood supply or a recent heart attack. Which leads are involved, and whether it is new, decide its meaning.
 @@BODY@@
-## What "t wave inversion" means
+## What "T wave inversion" means
 
 The T wave represents ventricular recovery. It normally points the same way as the QRS in most leads. When recovery is disturbed — by ischaemia, strain, inflammation or an abnormal activation sequence — the T wave flips. The pattern of leads involved maps onto the region of the heart affected.
 

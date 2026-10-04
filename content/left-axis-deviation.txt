@@ -11,7 +11,7 @@ Usually harmless
 @@LEDE@@
 Left axis deviation means the average direction of electrical flow through your ventricles points further up and to the left than usual — between −30° and −90°, where normal is −30° to +90°. It is a measurement rather than a disease, and as an isolated finding it usually needs no action.
 @@BODY@@
-## What "left axis deviation" means
+## What "Left axis deviation" means
 
 The ECG machine calculates the "QRS axis" from how tall the QRS is in the different limb leads, and prints it as a number in degrees. The axis drifts leftward naturally with age and with a horizontal heart position (for example in shorter, heavier people or late pregnancy). A value between 0° and −30° may be labelled borderline left axis deviation.
 

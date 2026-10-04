@@ -11,7 +11,7 @@ Depends on context
 @@LEDE@@
 "Nonspecific T wave abnormality" means your T waves are flatter than expected, or very slightly inverted, without forming any pattern that points to a particular disease. The T wave is the most easily influenced part of the ECG — breathing, meals, anxiety, medicines and electrolytes all change it — so this is a common and usually minor finding.
 @@BODY@@
-## What "nonspecific t wave abnormality" means
+## What "Nonspecific T wave abnormality" means
 
 The T wave represents the heart's ventricles electrically resetting after each beat. It is normally upright in most leads and at least a tenth of the height of the R wave before it. When it is lower than that, or dips a little below the baseline, the software flags it. "Nonspecific" is the key word: the change does not match the recognised patterns of ischaemia, strain, pericarditis or electrolyte disturbance.
 

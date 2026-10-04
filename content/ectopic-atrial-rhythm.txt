@@ -11,7 +11,7 @@ Depends on context
 @@LEDE@@
 An ectopic atrial rhythm means the heartbeat is being started by a site in the atria other than the sinus node. The rhythm is regular and the QRS normal, but the P waves look different from usual — sometimes small, flat or inverted. At a normal rate it is often a harmless variant; it takes on more importance only when it is fast or persistent.
 @@BODY@@
-## What "ectopic atrial rhythm" means
+## What "Ectopic atrial rhythm" means
 
 The sinus node is the usual pacemaker, but other atrial cells can take over if they fire faster, or if the sinus node slows. Because the impulse starts in a different place, it spreads through the atria on an unusual path, changing the shape of the P wave while leaving the QRS normal.
 

@@ -11,7 +11,7 @@ Needs clinician review
 @@LEDE@@
 Atrial fibrillation (AF or AFib) is the most common sustained abnormal heart rhythm. The upper chambers quiver instead of beating in an organised way, so the pulse becomes irregular and often fast. On the ECG there are no normal P waves and the QRS complexes are irregularly spaced. It is rarely immediately life-threatening, but it raises the risk of stroke and needs proper assessment.
 @@BODY@@
-## What "atrial fibrillation" means
+## What "Atrial fibrillation" means
 
 Normally each beat starts in the sinus node and the atria contract together. In atrial fibrillation many disorganised electrical wavelets fire in the atria at once, so they quiver rather than contract. The AV node lets through only some of these impulses, at random, which is why the ventricles — and the pulse — are irregular.
 

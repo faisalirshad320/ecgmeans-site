@@ -11,7 +11,7 @@ Seek prompt care
 @@LEDE@@
 ST elevation means the ST segment — the flat part just after the QRS — sits above the baseline. In the setting of chest pain it is the hallmark of a major heart attack (a STEMI) and is a time-critical emergency. But ST elevation also has several harmless causes, such as early repolarization and the normal pattern in some leads, so it is always read together with your symptoms.
 @@BODY@@
-## What "st elevation" means
+## What "ST elevation" means
 
 The ST segment represents the brief pause when the whole ventricle is depolarised, and it normally sits level with the baseline. When a coronary artery is suddenly blocked, the injured muscle shifts the ST segment upward in the leads facing it — an ST-elevation myocardial infarction, or STEMI. Because muscle dies minute by minute, a STEMI is treated as an emergency to reopen the artery as fast as possible.
 

@@ -11,7 +11,7 @@ Usually harmless
 @@LEDE@@
 First degree AV block means every impulse from the upper chambers still reaches the lower chambers, but it takes slightly longer than normal to get through the AV node — a PR interval longer than 200 ms (one large square). Nothing is actually blocked. In most people it is a benign finding that needs no treatment.
 @@BODY@@
-## What "first degree av block" means
+## What "First degree AV block" means
 
 The PR interval measures the time from the start of the P wave to the start of the QRS: the journey from the atria, through the AV node, to the ventricles. The AV node deliberately slows the signal, and in some people it slows it a little more than average. Fitness, ageing, medicines and high vagal tone all lengthen it.
 

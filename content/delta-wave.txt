@@ -11,7 +11,7 @@ Needs clinician review
 @@LEDE@@
 A delta wave is a slurred, gradual upstroke at the very start of the QRS complex. It is the signature of an extra electrical connection between the upper and lower chambers (an accessory pathway) that lets the impulse bypass the normal AV node delay. Combined with a short PR interval, a delta wave is the Wolff-Parkinson-White (WPW) pattern, which should be assessed by a cardiologist.
 @@BODY@@
-## What "delta wave" means
+## What "Delta wave" means
 
 Normally the only route from the atria to the ventricles is through the AV node, which deliberately slows the impulse. In some people an extra muscle strand (an accessory pathway) provides a short-cut. Part of the ventricle is then activated early, producing a short PR interval and a slurred start to the QRS — the delta wave. This is called pre-excitation.
 

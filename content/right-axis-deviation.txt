@@ -11,7 +11,7 @@ Depends on context
 @@LEDE@@
 Right axis deviation means the average direction of electrical flow through your ventricles points further to the right than usual — beyond +90°, where normal is −30° to +90°. It can be a normal variant in tall, slim young people, but it is also a classic sign of strain on the right side of the heart, so it is read together with the rest of the tracing.
 @@BODY@@
-## What "right axis deviation" means
+## What "Right axis deviation" means
 
 The ECG calculates the QRS axis from the limb leads and prints it in degrees. The axis naturally sits more to the right in children, tall thin adults and people with a vertical heart. A clearly rightward axis in an adult, however, often reflects the right ventricle working harder than usual, which pulls the electrical forces towards it.
 

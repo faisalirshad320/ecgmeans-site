@@ -11,7 +11,7 @@ Usually harmless
 @@LEDE@@
 A normal ECG is reassuring: it makes an acute heart attack, a serious rhythm disturbance during the recording, and significant conduction disease unlikely. But it is a ten-second electrical snapshot. It cannot see blocked arteries that are not currently causing damage, mild valve disease, or a rhythm problem that comes and goes. Whether your heart is OK depends on what question is being asked.
 @@BODY@@
-## What "if ecg is normal, is my heart ok" means
+## The short answer
 
 The ECG is very good at what it does — recording electrical activity at one moment. Most coronary artery disease produces no ECG change at rest; up to half of people with significant narrowings have a normal resting ECG. Palpitations that are not happening during the recording leave no trace.
 

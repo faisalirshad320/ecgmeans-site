@@ -11,7 +11,7 @@ Needs clinician review
 @@LEDE@@
 Atrial flutter is a fast, usually regular rhythm in which the upper chambers beat in a rapid, organised circle — around 300 times a minute — while the AV node lets only a fraction through to the ventricles. On the ECG it produces a distinctive "sawtooth" baseline. It is a close relative of atrial fibrillation and carries a similar stroke risk.
 @@BODY@@
-## What "atrial flutter" means
+## What "Atrial flutter" means
 
 In typical atrial flutter a single electrical wave circles a loop in the right atrium at about 300 beats per minute. The AV node blocks most of these, commonly letting through one in two (2:1), giving a ventricular rate of about 150, or one in three or four. Because the conduction ratio is often fixed, the pulse is usually regular — unlike atrial fibrillation, which is irregular.
 

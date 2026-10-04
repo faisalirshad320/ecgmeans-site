@@ -11,7 +11,7 @@ Usually harmless
 @@LEDE@@
 Sinus arrhythmia is a normal, harmless variation in which the heart speeds up slightly as you breathe in and slows as you breathe out. Despite the word "arrhythmia", it is not a rhythm disorder. It is most obvious in children, young adults and fit people, and indicates a healthy, responsive nervous system.
 @@BODY@@
-## What "sinus rhythm with sinus arrhythmia" means
+## What "Sinus rhythm with sinus arrhythmia" means
 
 Breathing changes the pressure in the chest and the activity of the vagus nerve, which in turn nudges the sinus node faster and slower. The software measures the spacing between beats, and if the longest and shortest intervals differ by more than about 120 ms (or 10%) it prints sinus arrhythmia. "Marked" just means the variation is larger.
 

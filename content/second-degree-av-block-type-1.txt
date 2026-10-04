@@ -11,7 +11,7 @@ Depends on context
 @@LEDE@@
 Second degree AV block type 1 — also called Mobitz I or Wenckebach — is a pattern in which the delay through the AV node grows longer with each beat until one impulse fails to get through and a beat is dropped, after which the cycle restarts. The block is in the AV node itself, and in most people it is benign, especially when it appears during sleep or in athletes.
 @@BODY@@
-## What "second degree av block type 1" means
+## What "Second degree AV block type 1" means
 
 The AV node becomes progressively more tired with each impulse: the PR interval stretches beat by beat until a P wave arrives that it cannot pass on. The pause lets it recover and the next PR is short again. The grouped beating this creates is the hallmark.
 

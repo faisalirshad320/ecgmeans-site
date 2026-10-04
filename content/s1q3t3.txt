@@ -11,7 +11,7 @@ Needs clinician review
 @@LEDE@@
 S1Q3T3 describes a combination of three findings — an S wave in lead I, a Q wave in lead III, and an inverted T wave in lead III. It is best known as a textbook sign of a pulmonary embolism (a clot in the lungs), but it is neither sensitive nor specific: most people with a PE do not have it, and it can appear in healthy people. It is a prompt to think about PE in the right setting, not a diagnosis.
 @@BODY@@
-## What "s1q3t3" means
+## What "S1Q3T3" means
 
 A large or sudden clot in the lung arteries strains the right side of the heart. That acute right-heart strain can shift the electrical forces, producing an S wave in lead I and a new Q wave with T wave inversion in lead III. Put together, that is the S1Q3T3 pattern.
 

@@ -11,7 +11,7 @@ Depends on context
 @@LEDE@@
 A U wave is a small, rounded bump that sometimes follows the T wave on an ECG. Small U waves are a normal finding, most visible at slow heart rates and in the chest leads. Prominent U waves are the ones that matter — they are a classic sign of a low blood potassium level and of certain medicines.
 @@BODY@@
-## What "u wave" means
+## What "U wave" means
 
 The U wave represents the final part of the heart's electrical recovery. In most people it is tiny or not seen at all. It becomes taller when recovery is prolonged — most importantly when blood potassium is low, but also with low magnesium or calcium, a slow heart rate, and drugs that lengthen repolarization.
 

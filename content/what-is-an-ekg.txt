@@ -11,7 +11,7 @@ Usually harmless
 @@LEDE@@
 An EKG — also written ECG — is a quick, painless test that records the electrical signals your heart makes with each beat. Small sticky pads on your chest, arms and legs pick up the signals, and the machine prints them as a set of waves. It takes only a few minutes, uses no needles and no radiation, and shows your heart's rhythm, rate and electrical health at that moment.
 @@BODY@@
-## What "what is an ekg" means
+## The short answer
 
 EKG and ECG are the same test. "ECG" comes from the English electrocardiogram; "EKG" from the German elektrokardiogramm. American clinics tend to say EKG, while the UK, Canada, Australia and most of the world say ECG. There is no difference in the test itself.
 

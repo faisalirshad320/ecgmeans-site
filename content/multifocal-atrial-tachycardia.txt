@@ -11,7 +11,7 @@ Needs clinician review
 @@LEDE@@
 Multifocal atrial tachycardia (MAT) is a fast, irregular rhythm in which several different sites in the atria fire in competition, producing at least three distinct P wave shapes at a rate over 100. It is strongly associated with serious lung disease and other acute illness, so although the rhythm itself is rarely the main danger, it is a marker that the person is unwell.
 @@BODY@@
-## What "multifocal atrial tachycardia" means
+## What "Multifocal atrial tachycardia" means
 
 In MAT at least three separate atrial pacemaker sites fire independently, each producing its own P wave shape, at a combined rate above 100 beats per minute. The irregular timing can make it look like atrial fibrillation, but unlike AF there are clear (if varying) P waves before the QRS complexes.
 
