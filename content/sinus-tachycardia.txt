@@ -69,6 +69,7 @@ Atrial Fibrillation: What It Means on an ECG | https://www.ecgmeans.com/atrial-f
 Atrial Flutter: What It Means on an ECG | https://www.ecgmeans.com/atrial-flutter/ | Needs clinician review
 Atrial Tachycardia: What It Means on an ECG | https://www.ecgmeans.com/atrial-tachycardia/ | Needs clinician review
 Junctional Tachycardia: What It Means | https://www.ecgmeans.com/junctional-tachycardia/ | Needs clinician review
+S1Q3T3: What the Pattern Means on an ECG | https://www.ecgmeans.com/s1q3t3/ | Needs clinician review
 @@ALSO@@
 sinus tachycardia ecg, what is sinus tachycardia, inappropriate sinus tachycardia
 @@SOURCES@@

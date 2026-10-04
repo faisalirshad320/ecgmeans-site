@@ -12,8 +12,12 @@ RewriteRule ^ https://www.ecgmeans.com%{REQUEST_URI} [L,R=301]
 # Strip index.html
 RewriteCond %{THE_REQUEST} \s/(.*/)?index\.html[\s?] [NC]
 RewriteRule ^(.*/)?index\.html$ /%1 [R=301,L]
-# Block source dirs if ever present
+# Block source dirs and generator files
 RewriteRule ^(content|scripts|src|node_modules|\.github|\.git)(/|$) - [F,L]
+RewriteRule ^(build|make_assets|ecg_svg)\.py$ - [F,L]
+RewriteRule ^(README\.md|package\.json|\.gitignore)$ - [F,L]
+
+AddType application/manifest+json .webmanifest
 
 ErrorDocument 404 /404.html
 
@@ -22,6 +26,7 @@ ErrorDocument 404 /404.html
   Header always set X-Frame-Options "SAMEORIGIN"
   Header always set Referrer-Policy "strict-origin-when-cross-origin"
   Header always set Permissions-Policy "geolocation=(), microphone=(), camera=()"
+  Header always set Strict-Transport-Security "max-age=31536000"
 </IfModule>
 <IfModule mod_expires.c>
   ExpiresActive On

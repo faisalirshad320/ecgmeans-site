@@ -146,7 +146,24 @@ main{padding:24px 0 48px}
 .foot-links{display:flex;flex-wrap:wrap;gap:8px 18px;margin:12px 0}
 .foot-links a{color:var(--muted);text-decoration:none}.foot-links a:hover{color:var(--brand)}
 .foot-note{font-size:.82rem;opacity:.9}
-.copyright{font-size:.8rem;opacity:.8}
+.copyright{font-size:.8rem}
+.ecg-fig{margin:1.2em 0 1.4em;background:#fff8f8;border:1px solid var(--line);border-radius:var(--rad);padding:8px}
+.ecg-fig img{display:block;width:100%;height:auto;border-radius:6px}
+.ecg-fig figcaption{font-size:.82rem;color:var(--muted);margin-top:6px;line-height:1.45}
+.hub-intro{margin:2em 0 1em;max-width:760px}
+.tool{border:2px solid var(--brand);border-radius:var(--rad);padding:18px;margin:1.2em 0 1.4em;background:var(--soft)}
+.tool-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:12px}
+.tool label{display:flex;flex-direction:column;gap:6px;font-weight:700;font-size:.9rem}
+.tool input,.tool select{font:inherit;font-size:1rem;padding:10px 12px;border:1px solid #c9ced6;border-radius:8px;background:var(--bg);color:var(--ink);min-width:0}
+.tool input:focus,.tool select:focus{outline:2px solid var(--brand);outline-offset:1px}
+.tool-out{margin-top:14px}
+.tool-hint,.tool-note{color:var(--muted);font-size:.88rem;margin:.4em 0}
+.tool-res{margin:.3em 0}
+.tool-big{font-size:2rem;font-weight:800;color:var(--ink)}
+.tool-how{color:var(--muted);font-size:.9rem}
+.tool-table{width:100%;border-collapse:collapse;margin:.6em 0;font-size:.92rem}
+.tool-table th,.tool-table td{text-align:left;padding:8px 6px;border-bottom:1px solid var(--line);vertical-align:middle}
+@media (max-width:560px){.tool-table td:nth-child(2),.tool-table th:nth-child(2){display:none}}
 @media(max-width:520px){ body{font-size:17px} h1{font-size:1.6rem} .hero{padding:12px 0} }
 """
 open(os.path.join(CSS_DIR, "style.css"), "w").write(CSS)

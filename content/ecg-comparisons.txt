@@ -1,9 +1,15 @@
 @@TITLE@@
 Comparisons Explained | ECG Means
 @@DESC@@
-Side-by-side answers to the questions patients ask most: PVC vs PAC, SVT vs VT, EKG vs echocardiogram.
+Side-by-side answers to the ECG questions patients ask most: PVC vs PAC, SVT vs VT, and EKG vs echocardiogram, explained in plain English.
 @@H1@@
 ECG Comparisons: This vs That
 @@LEDE@@
 Side-by-side answers to the questions patients ask most: PVC vs PAC, SVT vs VT, EKG vs echocardiogram.
+@@BODY@@
+## Why these comparisons matter
+
+Some ECG terms sound alike but mean very different things. A PAC and a PVC are both extra beats, but they start in different chambers. SVT and VT are both fast rhythms, but VT is far more serious. An EKG and an echocardiogram are both heart tests, but one records electricity and the other is an ultrasound picture of the heart's structure.
+
+Each comparison page explains the difference in plain English, how the two look on the tracing, and which one usually needs more attention. If a report mentions one term and a doctor mentions the other, these pages help you follow the conversation.
 @@END@@

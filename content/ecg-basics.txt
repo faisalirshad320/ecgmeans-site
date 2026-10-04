@@ -6,4 +6,10 @@ How to read the report in your hand, what a normal ECG can and cannot tell you, 
 ECG Basics for Patients
 @@LEDE@@
 How to read the report in your hand, what a normal ECG can and cannot tell you, and the questions worth asking.
+@@BODY@@
+## Start here if ECGs are new to you
+
+An electrocardiogram (ECG or EKG) records the heart's electrical activity through stickers on the skin in about ten seconds. The printout shows twelve views of the same heartbeats, a set of measurements in milliseconds, and an automated interpretation, which is often the part that worries people.
+
+The guides below explain what the test does, how to read each section of the report, and what a normal ECG can and cannot rule out. Once you know the layout, you can look up any specific phrase in the [report phrases](/ecg-report-phrases/) section or check the numbers against the [normal ECG values chart](/normal-ecg-values/).
 @@END@@

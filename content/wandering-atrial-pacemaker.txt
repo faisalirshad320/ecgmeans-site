@@ -1,7 +1,7 @@
 @@TITLE@@
 Wandering Atrial Pacemaker on ECG: Meaning & Causes
 @@DESC@@
-Wandering atrial pacemaker is a usually benign rhythm where the pacemaker site shifts, changing the P wave shape. Learn how it differs from multifocal atrial tachycardia.
+Wandering atrial pacemaker is a usually benign rhythm where the pacemaker site shifts and the P wave changes shape. Learn how it differs from MAT.
 @@H1@@
 Wandering Atrial Pacemaker: What It Means
 @@CATEGORY@@

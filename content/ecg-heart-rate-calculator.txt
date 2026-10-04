@@ -1,0 +1,91 @@
+@@TITLE@@
+How to Calculate Heart Rate on an ECG (+ Calculator)
+@@DESC@@
+Calculate heart rate from an ECG with the 300, 1500 and 6-second methods. Free calculator using small boxes, large boxes, R-wave count or the RR interval.
+@@H1@@
+How to Calculate Heart Rate on an ECG
+@@CATEGORY@@
+ECG Tools | https://www.ecgmeans.com/ecg-tools/
+@@QUICK@@
+For a regular rhythm, divide 300 by the number of large boxes between two R waves, or 1500 by the number of small boxes. For an irregular rhythm, count the R waves in a 6-second strip and multiply by 10. A resting rate of 60–100 bpm is normal.
+@@LEDE@@
+Every ECG report prints a heart rate, but you can also work it out from the tracing itself. Choose a method below, enter what you count on the strip, and the calculator converts it to beats per minute.
+@@TOOL@@
+<div class="tool" id="hr-tool">
+<div class="tool-grid">
+<label>Method<select id="m">
+<option value="small">Small boxes between two R waves (1500 rule)</option>
+<option value="large">Large boxes between two R waves (300 rule)</option>
+<option value="six">R waves in a 6-second strip (×10)</option>
+<option value="rr">RR interval in milliseconds</option>
+</select></label>
+<label><span id="vlabel">Number of small boxes</span><input type="number" id="v" inputmode="decimal" min="0" step="0.5" placeholder="e.g. 20"></label>
+</div>
+<div class="tool-out" id="hr-out" aria-live="polite"><p class="tool-hint">Pick a method and enter your count.</p></div>
+</div>
+<script>
+(function(){
+var m=document.getElementById('m'),v=document.getElementById('v'),out=document.getElementById('hr-out'),lab=document.getElementById('vlabel');
+var L={small:['Number of small boxes','e.g. 20'],large:['Number of large boxes','e.g. 4'],six:['R waves counted in 6 seconds','e.g. 7'],rr:['RR interval (ms)','e.g. 800']};
+function band(h){if(h<60)return['Below 60 bpm: slow (bradycardia)','warn','/sinus-bradycardia/'];if(h>100)return['Above 100 bpm: fast (tachycardia)','warn','/sinus-tachycardia/'];return['60–100 bpm: normal resting range','ok','/sinus-rhythm/'];}
+function calc(){var x=parseFloat(v.value),k=m.value,h=NaN,how='';
+ if(x>0){if(k==='small'){h=1500/x;how='1500 ÷ '+x;}else if(k==='large'){h=300/x;how='300 ÷ '+x;}else if(k==='six'){h=x*10;how=x+' × 10';}else{h=60000/x;how='60,000 ÷ '+x;}}
+ if(!(h>0)||!isFinite(h)){out.innerHTML='<p class="tool-hint">Pick a method and enter your count.</p>';return;}
+ var b=band(h);
+ out.innerHTML='<p class="tool-res"><span class="tool-big">'+Math.round(h)+' bpm</span> <span class="tool-how">('+how+')</span></p><p><span class="verdict verdict-'+b[1]+'">'+b[0]+'</span> <a href="'+b[2]+'">What this means</a></p>'+(k==='six'?'':'<p class="tool-note">Box methods assume a regular rhythm. If the beats are irregular, use the 6-second method.</p>')+'<p class="tool-note">Educational estimate only, assuming standard paper speed of 25 mm/s.</p>';}
+m.addEventListener('change',function(){lab.textContent=L[m.value][0];v.placeholder=L[m.value][1];calc();});
+v.addEventListener('input',calc);
+})();
+</script>
+@@BODY@@
+## The three ways to calculate heart rate
+
+Standard ECG paper runs at 25 mm per second. Each small box is 1 mm wide and lasts 0.04 seconds (40 ms). Each large box holds five small boxes and lasts 0.2 seconds (200 ms), so 300 large boxes or 1500 small boxes pass in one minute.
+
+| Method | How to do it | Best for |
+| --- | --- | --- |
+| 300 rule | 300 ÷ large boxes between two consecutive R waves | A quick estimate when the rhythm is regular |
+| 1500 rule | 1500 ÷ small boxes between two consecutive R waves | The most precise method for a regular rhythm |
+| 6-second rule | Count R waves in a 6-second strip (30 large boxes) and multiply by 10 | Irregular rhythms such as atrial fibrillation |
+
+## The 300 rule: quick sequence
+
+Find an R wave that sits on a thick line. Then count the thick lines to the next R wave: 300, 150, 100, 75, 60, 50. If the next R wave lands on the third thick line, the rate is about 100 bpm. If it lands between two lines, the rate is between those two values.
+
+## Worked examples
+
+- **20 small boxes** between R waves: 1500 ÷ 20 = **75 bpm**.
+- **4 large boxes** between R waves: 300 ÷ 4 = **75 bpm**.
+- **9 R waves** in a 6-second strip: 9 × 10 = **90 bpm**, a useful average when the beats are irregular.
+- **RR interval of 600 ms**: 60,000 ÷ 600 = **100 bpm**.
+
+## What the number means
+
+- **Under 60 bpm** is called bradycardia. It is common and normal in fit people and during sleep; see [sinus bradycardia](/sinus-bradycardia/).
+- **60–100 bpm** is the normal resting range in adults.
+- **Over 100 bpm** is tachycardia. It is normal with exercise, fever, pain or anxiety; see [sinus tachycardia](/sinus-tachycardia/).
+
+Children have faster normal heart rates than adults, so these adult ranges do not apply to them.
+
+**Get urgent help** if a very fast or very slow heart rate comes with chest pain, fainting, severe breathlessness or confusion.
+@@FAQ@@
+Q: How do you calculate heart rate on an ECG quickly?
+A: Divide 300 by the number of large boxes between two R waves. Four large boxes means about 75 bpm.
+Q: How do you calculate heart rate when the rhythm is irregular?
+A: Count the R waves in a 6-second strip (30 large boxes) and multiply by 10. Box methods only work when the beats are evenly spaced.
+Q: What is the 1500 rule on an ECG?
+A: Divide 1500 by the number of small boxes between two R waves. It is the most precise box method because there are 1500 small boxes in one minute.
+Q: How many seconds is one large box on an ECG?
+A: 0.2 seconds. Each small box is 0.04 seconds at the standard paper speed of 25 mm/s.
+@@RELATED@@
+Sinus Rhythm: What It Means on Your ECG | https://www.ecgmeans.com/sinus-rhythm/ | Usually harmless
+Sinus Bradycardia: What It Means | https://www.ecgmeans.com/sinus-bradycardia/ | Usually harmless
+Sinus Tachycardia: What It Means | https://www.ecgmeans.com/sinus-tachycardia/ | Depends on context
+Atrial Fibrillation: What It Means on an ECG | https://www.ecgmeans.com/atrial-fibrillation/ | Needs clinician review
+QTc Calculator | https://www.ecgmeans.com/qtc-calculator/ | NONE
+How to Read Your ECG Report | https://www.ecgmeans.com/how-to-read-ecg-report/ | Usually harmless
+@@ALSO@@
+how to calculate heart rate on ecg, heart rate from ecg, ecg heart rate calculator, 300 rule ecg, 1500 rule ecg, 6 second rule ecg
+@@SOURCES@@
+ECG Rate Interpretation | https://litfl.com/ecg-rate-interpretation/
+@@END@@

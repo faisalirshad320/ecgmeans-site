@@ -14,7 +14,7 @@ HOST = "https://www.ecgmeans.com"
 TAGLINE = "Your ECG report, explained in plain English"
 BRAND = "#b91c1c"
 PUBLISHED = "2026-09-21"
-MODIFIED = "2026-10-01"
+MODIFIED = "2026-10-05"
 REVIEWER = "Dr. Faisal Irshad"
 REVIEWER_SUFFIX = "MBBS"
 REVIEWER_TITLE = "Medical Doctor"
@@ -29,6 +29,10 @@ AD_SLOT_INARTICLE = ""
 GSC_VERIFY = ""
 
 import markdown as mdlib
+import sys as _sys
+_sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import ecg_svg
+INDEXNOW_KEY = "7f3c9a1e5d2b48c6a0e4f1b9d8c27e53"
 
 HUBS = [
     ("ecg-report-phrases", "Report phrases", "ECG Report Phrases", "MedicalSignOrSymptom"),
@@ -37,6 +41,7 @@ HUBS = [
     ("ecg-intervals-waves", "Intervals", "Intervals & Waves", "MedicalSignOrSymptom"),
     ("ecg-comparisons", "Comparisons", "Comparisons", "MedicalTest"),
     ("ecg-basics", "Basics", "ECG Basics", "MedicalTest"),
+    ("ecg-tools", "Tools", "ECG Tools & Calculators", "MedicalTest"),
 ]
 HUB_SLUGS = [h[0] for h in HUBS]
 HUB_LABEL = {h[0]: h[2] for h in HUBS}
@@ -117,7 +122,7 @@ AUTHOR_NODE = {
     "description": "Medical doctor (MBBS) with 18 years of clinical and laboratory-medicine experience.",
 }
 
-def head(title, desc, canonical, og_type, extra_nodes):
+def head(title, desc, canonical, og_type, extra_nodes, robots="index,follow,max-snippet:-1,max-image-preview:large,max-video-preview:-1", og_image=None):
     nodes = [ORG_NODE, WEBSITE_NODE, AUTHOR_NODE] + extra_nodes
     ads = ""
     if AD_CLIENT:
@@ -132,7 +137,7 @@ def head(title, desc, canonical, og_type, extra_nodes):
 <title>{esc(title)}</title>
 <meta name="description" content="{esc(desc)}">
 <link rel="canonical" href="{canonical}">
-<meta name="robots" content="index,follow,max-snippet:-1,max-image-preview:large,max-video-preview:-1">
+<meta name="robots" content="{robots}">
 <meta name="author" content="{esc(REVIEWER)}, {REVIEWER_SUFFIX}">
 <meta name="theme-color" content="{BRAND}">
 {verify}<meta property="og:type" content="{og_type}">
@@ -149,6 +154,7 @@ def head(title, desc, canonical, og_type, extra_nodes):
 <meta name="twitter:image" content="{OG_IMG}">
 <link rel="icon" href="/favicon.svg" type="image/svg+xml">
 <link rel="apple-touch-icon" href="/assets/img/icon-180.png">
+<link rel="manifest" href="/site.webmanifest">
 <link rel="stylesheet" href="/assets/css/style.css">
 <link rel="sitemap" type="application/xml" href="/sitemap.xml">
 {ads}{jsonld_graph(nodes)}
@@ -227,6 +233,12 @@ def verdict_badge(quick):
         return f'<span class="verdict verdict-{cls}">{esc(quick)}</span>'
     return ""
 
+SVG_IMAGES = {}
+ABOUT_NAME = {"what-is-an-ekg": "Electrocardiogram (ECG/EKG)", "how-to-read-ecg-report": "Electrocardiogram (ECG/EKG)",
+  "if-ecg-is-normal-is-my-heart-ok": "Electrocardiogram (ECG/EKG)", "ekg-vs-echocardiogram": "Electrocardiogram vs echocardiogram",
+  "qtc-calculator": "Corrected QT interval (QTc)", "ecg-heart-rate-calculator": "Heart rate on the electrocardiogram",
+  "ecg-axis-calculator": "QRS axis", "normal-ecg-values": "Normal electrocardiogram values"}
+
 def write_page(rel_path, html_text):
     d = os.path.join(OUT, rel_path.strip("/"))
     os.makedirs(d, exist_ok=True)
@@ -288,6 +300,27 @@ def render_content(s):
     trail = [("Home", "/"), (hub_label, f"/{hub}/" if hub else "/"), (h1_crumb(h1), None)]
 
     body_html, heads = render_md(body_md)
+    tool_html = f.get("TOOL", "").strip()
+
+    # schematic ECG illustration
+    fig_html = ""; img_node = None
+    rows = ecg_svg.fig(s)
+    if rows:
+        svg = ecg_svg.render(rows, ecg_svg.DESCR[s])
+        os.makedirs(os.path.join(OUT, "assets", "ecg"), exist_ok=True)
+        open(os.path.join(OUT, "assets", "ecg", f"{s}.svg"), "w", encoding="utf-8").write(svg)
+        mw = re.search(r'width="(\d+)" height="(\d+)"', svg)
+        w, hgt = int(mw.group(1)), int(mw.group(2))
+        d = ecg_svg.DESCR[s]
+        alt = f"Schematic ECG illustration of {h1_crumb(h1).lower() if not h1_crumb(h1).isupper() else h1_crumb(h1)}: {d}"
+        cap = d[0].upper() + d[1:]
+        img_url = f"{HOST}/assets/ecg/{s}.svg"
+        fig_html = (f'<figure class="ecg-fig"><img src="/assets/ecg/{s}.svg" width="{w}" height="{hgt}" alt="{esc(alt)}" decoding="async">'
+                    f'<figcaption>{esc(cap)}. Schematic teaching illustration, not a real patient tracing.</figcaption></figure>')
+        img_node = {"@type": "ImageObject", "@id": canonical + "#ecg", "url": img_url, "contentUrl": img_url,
+                    "width": w, "height": hgt, "caption": cap, "encodingFormat": "image/svg+xml",
+                    "creator": {"@id": HOST + "/#org"}, "copyrightNotice": "© 2026 ECG Means"}
+        SVG_IMAGES[s] = (img_url, cap)
 
     # answer / badge logic
     answer_box = ""
@@ -341,7 +374,7 @@ def render_content(s):
         "name": title, "headline": h1, "description": desc, "url": canonical,
         "inLanguage": "en", "datePublished": PUBLISHED, "dateModified": MODIFIED,
         "isPartOf": {"@id": HOST + "/#website"},
-        "about": {"@type": HUB_ABOUT.get(hub, "MedicalSignOrSymptom"), "name": h1_crumb(h1)},
+        "about": {"@type": HUB_ABOUT.get(hub, "MedicalSignOrSymptom"), "name": ABOUT_NAME.get(s, h1_crumb(h1))},
         "author": {"@id": HOST + "/#author"},
         "reviewedBy": {"@id": HOST + "/#author"},
         "lastReviewed": MODIFIED,
@@ -349,7 +382,16 @@ def render_content(s):
         "medicalAudience": {"@type": "MedicalAudience", "audienceType": "Patient"},
         "primaryImageOfPage": {"@type": "ImageObject", "url": OG_IMG},
     }
+    if img_node:
+        mwp["image"] = [{"@id": img_node["@id"]}, OG_IMG]
     nodes = [mwp, breadcrumb_jsonld(trail)]
+    if img_node:
+        nodes.append(img_node)
+    if tool_html:
+        nodes.append({"@type": "WebApplication", "@id": canonical + "#app", "name": h1, "url": canonical,
+                      "applicationCategory": "HealthApplication", "operatingSystem": "Any (runs in the browser)",
+                      "isAccessibleForFree": True, "offers": {"@type": "Offer", "price": "0", "priceCurrency": "USD"},
+                      "description": desc, "publisher": {"@id": HOST + "/#org"}})
     if faqs:
         nodes.append(faq_jsonld(faqs))
 
@@ -362,7 +404,9 @@ def render_content(s):
 {badge_html}
 {lede_html}
 {byline()}
+{tool_html}
 {answer_box}
+{fig_html}
 {ad_unit()}
 {toc}
 <div class="body">
@@ -379,7 +423,9 @@ def render_content(s):
 
 def h1_crumb(h1):
     # short label for breadcrumb/about
-    return re.split(r':|\(|\u2014| on an| on your| on the', h1)[0].strip()
+    lab = re.split(r': |\? |\u2014| on an | on your | on the ', h1 + " ")[0].strip()
+    lab = re.sub(r'\s*\((ECG|EKG|LVH|RVH|IVCD|MAT|J Wave|Wenckebach|Mobitz II)\)\??$', '', lab).strip()
+    return lab.rstrip('?').strip()
 
 # ---------- render hubs ----------
 def render_hub(s):
@@ -407,6 +453,8 @@ def render_hub(s):
         "dateModified": MODIFIED, "mainEntity": item_list,
     }
     nodes = [collection, breadcrumb_jsonld(trail)]
+    hub_body, _ = render_md(f.get("BODY", ""))
+    hub_body_html = f'<section class="body hub-intro">{hub_body}</section>' if hub_body.strip() else ""
     main = f'''{breadcrumbs_html(trail)}
 <article>
 <h1>{esc(h1)}</h1>
@@ -416,6 +464,7 @@ def render_hub(s):
 <ul class="cards">
 {cards}
 </ul>
+{hub_body_html}
 <section class="other-hubs"><h2>More ECG topics</h2><ul class="cards">
 {others}
 </ul></section>
@@ -509,11 +558,17 @@ q&&q.addEventListener('input',function(){{
 
 # ---------- sitemaps ----------
 def build_sitemaps(all_urls):
+    def img(u):
+        slug = u.replace(HOST, "").strip("/")
+        if slug in SVG_IMAGES:
+            iu, cap = SVG_IMAGES[slug]
+            return f'<image:image><image:loc>{iu}</image:loc></image:image>'
+        return ""
     def urlset(entries):
         rows = "\n".join(
-            f'<url><loc>{u}</loc><lastmod>{MODIFIED}</lastmod><changefreq>{cf}</changefreq><priority>{pr}</priority></url>'
+            f'<url><loc>{u}</loc><lastmod>{MODIFIED}</lastmod><changefreq>{cf}</changefreq><priority>{pr}</priority>{img(u)}</url>'
             for u, cf, pr in entries)
-        return f'<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n{rows}\n</urlset>\n'
+        return f'<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">\n{rows}\n</urlset>\n'
     open(os.path.join(OUT, "sitemap.xml"), "w").write(urlset(all_urls))
 
 # ---------- MAIN ----------
@@ -569,8 +624,12 @@ RewriteRule ^ https://www.ecgmeans.com%{{REQUEST_URI}} [L,R=301]
 # Strip index.html
 RewriteCond %{{THE_REQUEST}} \\s/(.*/)?index\\.html[\\s?] [NC]
 RewriteRule ^(.*/)?index\\.html$ /%1 [R=301,L]
-# Block source dirs if ever present
+# Block source dirs and generator files
 RewriteRule ^(content|scripts|src|node_modules|\\.github|\\.git)(/|$) - [F,L]
+RewriteRule ^(build|make_assets|ecg_svg)\\.py$ - [F,L]
+RewriteRule ^(README\\.md|package\\.json|\\.gitignore)$ - [F,L]
+
+AddType application/manifest+json .webmanifest
 
 ErrorDocument 404 /404.html
 
@@ -579,6 +638,7 @@ ErrorDocument 404 /404.html
   Header always set X-Frame-Options "SAMEORIGIN"
   Header always set Referrer-Policy "strict-origin-when-cross-origin"
   Header always set Permissions-Policy "geolocation=(), microphone=(), camera=()"
+  Header always set Strict-Transport-Security "max-age=31536000"
 </IfModule>
 <IfModule mod_expires.c>
   ExpiresActive On
@@ -618,18 +678,27 @@ readfile(__DIR__ . '/404.html');
     open(os.path.join(OUT, "index.php"), "w").write(php)
 
     # 404
-    nf = head("Page not found — ECG Means", "That page could not be found.", HOST + "/404.html", "website", []) \
+    nf = head("Page not found — ECG Means", "That page could not be found. Search for the phrase on your ECG report from the ECG Means home page.", HOST + "/", "website", [], robots="noindex,follow") \
         + header_html() + ('<main id="main" class="wrap narrow"><article><h1>Page not found</h1>'
         '<p class="lede">That page could not be found. Try searching for your ECG phrase from the home page.</p>'
         '<p><a class="btn" href="/">Go to the ECG Means home page</a></p></article></main>') + footer_html()
     open(os.path.join(OUT, "404.html"), "w").write(nf)
 
     # README + package.json + gitignore
-    open(os.path.join(OUT, ".gitignore"), "w").write("node_modules/\n.DS_Store\n*.log\n")
+    open(os.path.join(OUT, ".gitignore"), "w").write("node_modules/\n.DS_Store\n*.log\n__pycache__/\n")
 
     # favicon
     open(os.path.join(OUT, "favicon.svg"), "w").write(
         '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><rect width="64" height="64" rx="12" fill="#b91c1c"/><path d="M6 36h12l6-16 8 30 8-22 4 8h14" fill="none" stroke="#fff" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/></svg>')
+
+    # web app manifest
+    manifest = {"name": SITE, "short_name": SITE, "description": TAGLINE, "start_url": "/", "display": "standalone",
+                "background_color": "#ffffff", "theme_color": BRAND,
+                "icons": [{"src": "/assets/img/icon-180.png", "sizes": "180x180", "type": "image/png"},
+                          {"src": "/assets/img/logo.png", "sizes": "512x512", "type": "image/png"}]}
+    open(os.path.join(OUT, "site.webmanifest"), "w").write(json.dumps(manifest, indent=1))
+    # IndexNow key (Bing, Yandex, Seznam, Naver)
+    open(os.path.join(OUT, f"{INDEXNOW_KEY}.txt"), "w").write(INDEXNOW_KEY)
 
     build_llms()
 

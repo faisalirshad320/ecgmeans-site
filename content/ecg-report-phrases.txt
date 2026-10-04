@@ -6,4 +6,10 @@ The wording the machine prints — abnormal ECG, borderline ECG, septal infarct,
 ECG Report Phrases Explained
 @@LEDE@@
 The wording the machine prints — abnormal ECG, borderline ECG, septal infarct, nonspecific T wave abnormality — and what each line really means. These are the overall verdicts and summary findings an ECG machine prints at the top of your report.
+@@BODY@@
+## Why ECG machines print alarming phrases
+
+Most ECGs are read first by software built into the machine. It is designed to be over-sensitive so that nothing important is missed, which means it often prints phrases like "possible infarct", "cannot rule out" or "abnormal ECG" for findings that turn out to be normal variants, lead placement or body shape once a clinician looks at the tracing.
+
+Words such as "possible", "consider" and "cannot rule out" signal uncertainty, and "age undetermined" means the software cannot tell whether a pattern is old, new or real at all. A clinician confirms or overrules these lines by looking at the tracing itself, comparing it with older ECGs and, where needed, ordering an echocardiogram. Each page below explains one phrase, the common harmless explanations, and the findings that genuinely need follow-up.
 @@END@@

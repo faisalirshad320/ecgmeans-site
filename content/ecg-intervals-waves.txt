@@ -1,9 +1,15 @@
 @@TITLE@@
 Intervals & Waves Explained | ECG Means
 @@DESC@@
-PR, QRS and QT/QTc normal ranges, what short and long values mean, and the T wave changes reports mention.
+PR, QRS and QT/QTc normal ranges, what short and long values mean, and the T wave, ST segment and U wave changes that ECG reports mention.
 @@H1@@
 ECG Intervals and Waves: Normal Ranges
 @@LEDE@@
 PR, QRS and QT/QTc normal ranges, what short and long values mean, and the T wave changes reports mention.
+@@BODY@@
+## Reading the waves and intervals
+
+An ECG trace repeats the same pattern with every heartbeat: a small P wave from the upper chambers, a tall QRS complex from the lower chambers, and a T wave as they recover. The gaps between them, the PR, QRS and QT intervals, are measured in milliseconds and printed at the top of your report.
+
+Each interval has a normal range, and values a little outside it are common in healthy people. The pages in this section give the normal ranges, explain what a short or long value suggests, and cover the wave shapes reports mention, such as T wave inversion, peaked T waves, ST elevation and U waves. For quick checks, use the [normal ECG values chart](/normal-ecg-values/) and the [QTc calculator](/qtc-calculator/).
 @@END@@

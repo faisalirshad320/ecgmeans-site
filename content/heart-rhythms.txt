@@ -6,4 +6,12 @@ Sinus rhythm and its variants, junctional and ventricular rhythms, and the extra
 Heart Rhythms on the ECG
 @@LEDE@@
 Sinus rhythm and its variants, junctional and ventricular rhythms, and the extra-beat patterns bigeminy and trigeminy — what each rhythm label on your report means and when it matters.
+@@BODY@@
+## How rhythm is described on an ECG report
+
+The first line of most ECG printouts names the rhythm. "Sinus rhythm" means each beat starts normally in the sinus node, the heart's natural pacemaker, and travels the usual route. Words added after it describe the rate (bradycardia under 60, tachycardia over 100 beats per minute) or extra beats that interrupt it, such as premature atrial complexes (PACs) or premature ventricular complexes (PVCs).
+
+When the beat starts somewhere else, the name says where. Atrial rhythms begin in the upper chambers, junctional rhythms begin near the AV node, and idioventricular rhythms start in the lower chambers. Atrial fibrillation and atrial flutter are disorganised or circuit-driven atrial rhythms with their own risks, mainly stroke.
+
+Most rhythm labels on a routine ECG from a person without symptoms are harmless variants. The pages below explain each label, how it looks on the tracing, and when it needs follow-up.
 @@END@@

@@ -71,3 +71,13 @@ jobs:
             case "$CODE" in *200*) ;; *) echo "::error::$u is not returning 200"; exit 1;; esac
             if [ "${AGE:-0}" -gt 300 ]; then echo "::error::$u is still a stale cached copy (age ${AGE}s) - purge did not take effect"; exit 1; fi
           done
+      - name: Notify search engines (IndexNow - Bing, Yandex, Seznam, Naver)
+        continue-on-error: true
+        env:
+          INDEXNOW_KEY: "7f3c9a1e5d2b48c6a0e4f1b9d8c27e53"
+        run: |
+          curl -sf "https://www.ecgmeans.com/$INDEXNOW_KEY.txt" | grep -q "$INDEXNOW_KEY" || { echo "key file not live"; exit 0; }
+          URLS=$(curl -s https://www.ecgmeans.com/sitemap.xml | grep -o '<loc>[^<]*</loc>' | grep -v '/assets/' | sed 's#<loc>\(.*\)</loc>#"\1"#' | paste -sd, -)
+          BODY="{\"host\":\"www.ecgmeans.com\",\"key\":\"$INDEXNOW_KEY\",\"keyLocation\":\"https://www.ecgmeans.com/$INDEXNOW_KEY.txt\",\"urlList\":[$URLS]}"
+          CODE=$(curl -s -o /dev/null -w "%{http_code}" -X POST https://api.indexnow.org/indexnow -H "Content-Type: application/json; charset=utf-8" -d "$BODY")
+          echo "IndexNow response: $CODE (200/202 = accepted)"

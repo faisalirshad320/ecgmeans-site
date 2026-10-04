@@ -1,7 +1,7 @@
 @@TITLE@@
 Atrial Flutter on ECG: Sawtooth Pattern Explained
 @@DESC@@
-Atrial flutter shows a sawtooth pattern on the ECG with a fast, often regular pulse. Learn how it differs from atrial fibrillation and why it also raises stroke risk.
+Atrial flutter shows a sawtooth pattern on the ECG with a fast, often regular pulse. Learn how it differs from atrial fibrillation and why it raises stroke risk.
 @@H1@@
 Atrial Flutter: What It Means on an ECG
 @@CATEGORY@@

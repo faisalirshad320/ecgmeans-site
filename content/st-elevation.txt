@@ -1,7 +1,7 @@
 @@TITLE@@
 ST Elevation on ECG: What It Means and When It's an Emergency
 @@DESC@@
-ST elevation can signal a heart attack (STEMI) but also has harmless causes like early repolarization and pericarditis. Learn what separates them and why context is key.
+ST elevation can signal a heart attack (STEMI) but also has harmless causes like early repolarization and pericarditis. Learn what separates them.
 @@H1@@
 ST Elevation: What It Means on an ECG
 @@CATEGORY@@

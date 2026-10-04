@@ -343,3 +343,25 @@ URL: https://www.ecgmeans.com/what-is-an-ekg/
 Verdict/quick answer: Usually harmless
 An EKG — also written ECG — is a quick, painless test that records the electrical signals your heart makes with each beat. Small sticky pads on your chest, arms and legs pick up the signals, and the machine prints them as a set of waves. It takes only a few minutes, uses no needles and no radiation, and shows your heart's rhythm, rate and electrical health at that moment.
 
+## ECG Tools & Calculators
+
+### ECG Axis Calculator
+URL: https://www.ecgmeans.com/ecg-axis-calculator/
+Verdict/quick answer: The normal QRS axis is −30° to +90°. If the QRS is mainly upright in both lead I and aVF, the axis is normal. Upright in I but negative in aVF suggests left axis deviation; negative in I but upright in aVF suggests right axis deviation.
+The QRS axis is the average direction of electrical flow through the ventricles. Enter the net size of the QRS in leads I and aVF (upward deflection minus downward deflection, in small boxes or mm), and the calculator estimates the axis in degrees.
+
+### How to Calculate Heart Rate on an ECG
+URL: https://www.ecgmeans.com/ecg-heart-rate-calculator/
+Verdict/quick answer: For a regular rhythm, divide 300 by the number of large boxes between two R waves, or 1500 by the number of small boxes. For an irregular rhythm, count the R waves in a 6-second strip and multiply by 10. A resting rate of 60–100 bpm is normal.
+Every ECG report prints a heart rate, but you can also work it out from the tracing itself. Choose a method below, enter what you count on the strip, and the calculator converts it to beats per minute.
+
+### Normal ECG Values (Adults)
+URL: https://www.ecgmeans.com/normal-ecg-values/
+Verdict/quick answer: Normal adult ECG values: heart rate 60–100 bpm, PR interval 120–200 ms, QRS under 120 ms, QTc under about 440 ms (men) or 460 ms (women), and QRS axis −30° to +90°.
+Every number printed at the top of an ECG report has a normal range. This chart puts them all in one place for adults, with links to what it means when a value falls outside it.
+
+### QTc Calculator (Corrected QT Interval)
+URL: https://www.ecgmeans.com/qtc-calculator/
+Verdict/quick answer: QTc corrects the QT interval for heart rate. Bazett: QTc = QT ÷ √RR. Fridericia: QTc = QT ÷ ∛RR (RR in seconds). A QTc under about 440 ms in men and 460 ms in women is normal; over 500 ms is clearly prolonged.
+Enter the QT interval and the heart rate (or RR interval) from your ECG report. The calculator gives the corrected QT (QTc) by the four standard formulas and shows where the result sits against the usual normal ranges.
+

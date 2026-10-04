@@ -1,7 +1,7 @@
 @@TITLE@@
 Left Posterior Fascicular Block (LPFB) on ECG: Meaning
 @@DESC@@
-Left posterior fascicular block is an uncommon conduction delay causing right axis deviation. Because the posterior fascicle is sturdy, it often signals real disease.
+Left posterior fascicular block is an uncommon conduction delay causing right axis deviation. Because the fascicle is sturdy, it often signals real disease.
 @@H1@@
 Left Posterior Fascicular Block: What It Means
 @@CATEGORY@@

@@ -1,0 +1,65 @@
+@@TITLE@@
+Normal ECG Values: Intervals, Waves & Axis (Adult Chart)
+@@DESC@@
+Normal adult ECG values in one chart: heart rate, P wave, PR, QRS, QT/QTc, axis, ST segment and T waves, with what it means when a value is outside range.
+@@H1@@
+Normal ECG Values (Adults)
+@@CATEGORY@@
+ECG Tools | https://www.ecgmeans.com/ecg-tools/
+@@QUICK@@
+Normal adult ECG values: heart rate 60–100 bpm, PR interval 120–200 ms, QRS under 120 ms, QTc under about 440 ms (men) or 460 ms (women), and QRS axis −30° to +90°.
+@@LEDE@@
+Every number printed at the top of an ECG report has a normal range. This chart puts them all in one place for adults, with links to what it means when a value falls outside it.
+@@BODY@@
+## Normal ECG values chart
+
+| Measurement | Normal adult range | Outside the range |
+| --- | --- | --- |
+| Heart rate | 60–100 bpm | Under 60: [bradycardia](/sinus-bradycardia/); over 100: [tachycardia](/sinus-tachycardia/) |
+| P wave | Under 120 ms wide and under 2.5 mm tall in lead II | Wide or notched: [left atrial enlargement](/left-atrial-enlargement/); tall: [right atrial enlargement](/right-atrial-enlargement/) |
+| PR interval | 120–200 ms (3–5 small boxes) | Under 120: [short PR](/short-pr-interval/); over 200: [first degree AV block](/first-degree-av-block/) |
+| QRS duration | Under 120 ms; ideally under 100–110 ms | Wide: [QRS interval](/qrs-interval/), [bundle branch block](/heart-block-conduction/) |
+| QTc | Under about 440 ms (men) or 460 ms (women) | Over 500 ms is clearly prolonged: [QT interval](/qt-interval/) |
+| QRS axis | −30° to +90° | [Left](/left-axis-deviation/) or [right axis deviation](/right-axis-deviation/) |
+| ST segment | At the baseline (isoelectric) | [ST elevation](/st-elevation/) or [ST depression](/st-depression/) |
+| T wave | Upright in I, II and V3–V6; inverted in aVR | [T wave inversion](/t-wave-inversion/), [peaked T waves](/peaked-t-waves/) |
+
+Use the [QTc calculator](/qtc-calculator/), [heart rate calculator](/ecg-heart-rate-calculator/) and [axis calculator](/ecg-axis-calculator/) to check your own numbers.
+
+## Reading the numbers on paper
+
+Standard ECG paper runs at 25 mm/s with a sensitivity of 10 mm per mV. One small box is 40 ms wide and 0.1 mV tall; one large box is 200 ms wide. A normal PR interval therefore spans 3–5 small boxes, and a normal QRS stays under 3 small boxes.
+
+## Other normal findings
+
+- **Q waves:** small "septal" q waves in leads I, aVL, V5 and V6 are normal when they are narrow (under 40 ms) and shallow.
+- **R-wave progression:** R waves grow from V1 to about V4–V5, with the switch from mainly negative to mainly positive (the transition) around V3–V4. See [poor R wave progression](/poor-r-wave-progression/).
+- **ST elevation thresholds:** small amounts of J-point elevation are normal. Under the Fourth Universal Definition of Myocardial Infarction, new elevation is significant at 1 mm in most leads. In V2–V3 the threshold is 2 mm in men aged 40 or over, 2.5 mm in men under 40 and 1.5 mm in women.
+- **T waves** may be inverted in lead III and V1 in healthy adults, and in V1–V3 in children and some young adults.
+
+## Why normal ranges have limits
+
+These are adult values. Children have faster heart rates, shorter intervals and a more rightward axis. Athletes often have slower rates, longer PR intervals and taller QRS complexes without any disease. A value just outside the range is common in healthy people, so it is always judged alongside symptoms and the rest of the tracing.
+@@FAQ@@
+Q: What are normal ECG values?
+A: Heart rate 60–100 bpm, PR 120–200 ms, QRS under 120 ms, QTc under about 440 ms in men or 460 ms in women, and axis −30° to +90°.
+Q: What is a normal PR interval?
+A: 120–200 ms, which is 3 to 5 small boxes on standard ECG paper.
+Q: What is a normal QRS duration?
+A: Under 120 ms, and ideally under 100–110 ms.
+Q: Are ECG normal values different for children?
+A: Yes. Children have faster heart rates, shorter PR and QRS intervals and a more rightward axis, so adult ranges do not apply.
+@@RELATED@@
+How to Read Your ECG Report: A Plain-English Guide | https://www.ecgmeans.com/how-to-read-ecg-report/ | Usually harmless
+PR Interval: Normal Range and What Short or Long Means | https://www.ecgmeans.com/pr-interval/ | NONE
+QRS Interval: Normal Range and What a Wide QRS Means | https://www.ecgmeans.com/qrs-interval/ | NONE
+QT and QTc Interval: Normal Range and Prolonged QT | https://www.ecgmeans.com/qt-interval/ | NONE
+QTc Calculator | https://www.ecgmeans.com/qtc-calculator/ | NONE
+ECG Axis Calculator | https://www.ecgmeans.com/ecg-axis-calculator/ | NONE
+@@ALSO@@
+normal ecg values, ekg normal values, ecg normal values chart, ecg intervals normal values, normal ecg parameters
+@@SOURCES@@
+Fourth Universal Definition of Myocardial Infarction (2018) | https://www.ahajournals.org/doi/10.1161/CIR.0000000000000617
+QT Interval | https://litfl.com/qt-interval-ecg-library/
+ECG Axis Interpretation | https://litfl.com/ecg-axis-interpretation/
+@@END@@

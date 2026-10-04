@@ -1,7 +1,7 @@
 @@TITLE@@
 Medical Disclaimer | ECG Means
 @@DESC@@
-ECG Means provides general educational information only and does not provide medical advice.
+ECG Means provides general educational information about ECG findings only. It is not medical advice and cannot interpret your individual ECG.
 @@H1@@
 Medical Disclaimer
 @@LEDE@@

@@ -1,7 +1,7 @@
 @@TITLE@@
 Multifocal Atrial Tachycardia (MAT) on ECG: Meaning & Causes
 @@DESC@@
-Multifocal atrial tachycardia is a fast, irregular rhythm with at least three P wave shapes, strongly linked to lung disease. Learn how it differs from atrial fibrillation.
+Multifocal atrial tachycardia is a fast, irregular rhythm with three or more P wave shapes, linked to lung disease. Learn how it differs from AFib.
 @@H1@@
 Multifocal Atrial Tachycardia (MAT): What It Means
 @@CATEGORY@@

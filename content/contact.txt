@@ -1,7 +1,7 @@
 @@TITLE@@
-Contact | ECG Means
+Contact ECG Means: Corrections and Suggestions
 @@DESC@@
-Contact ECG Means about corrections, suggestions or new phrases to cover.
+Contact ECG Means to report a correction, suggest an ECG report phrase we should explain, or ask about the site. We cannot interpret individual ECGs.
 @@H1@@
 Contact
 @@LEDE@@

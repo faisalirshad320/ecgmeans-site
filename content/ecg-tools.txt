@@ -1,0 +1,15 @@
+@@TITLE@@
+ECG Tools & Calculators | ECG Means
+@@DESC@@
+Free ECG calculators for patients and students: QTc calculator, heart rate from an ECG, QRS axis calculator and a chart of normal adult ECG values.
+@@H1@@
+ECG Tools and Calculators
+@@LEDE@@
+Check the numbers on an ECG report yourself: correct the QT for heart rate, work out the heart rate from the tracing, estimate the QRS axis, and compare every value against the normal adult range.
+@@BODY@@
+## About these tools
+
+Each calculator uses the standard formulas found in ECG textbooks and runs entirely in your browser, so nothing you type is sent anywhere. They assume standard ECG paper (25 mm/s and 10 mm/mV), which is what almost every machine prints.
+
+The tools are for understanding and learning, not for diagnosis. An automated machine reading, a hand measurement and a calculator can each give slightly different numbers. A value near the edge of a normal range is common in healthy people, so it is always judged together with symptoms, medicines and the rest of the tracing by the clinician who ordered the test.
+@@END@@

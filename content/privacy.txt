@@ -1,7 +1,7 @@
 @@TITLE@@
 Privacy Policy | ECG Means
 @@DESC@@
-How ECG Means handles data, cookies and advertising.
+How ECG Means handles your data: no accounts, no health data collected, in-browser search and calculators, and Google AdSense advertising cookies.
 @@H1@@
 Privacy Policy
 @@LEDE@@

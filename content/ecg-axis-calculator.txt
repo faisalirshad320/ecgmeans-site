@@ -1,0 +1,73 @@
+@@TITLE@@
+ECG Axis Calculator: Find the QRS Axis From Leads I and aVF
+@@DESC@@
+Free ECG axis calculator. Enter the net QRS size in leads I and aVF to get the electrical axis in degrees and see if it is normal, left or right axis deviation.
+@@H1@@
+ECG Axis Calculator
+@@CATEGORY@@
+ECG Tools | https://www.ecgmeans.com/ecg-tools/
+@@QUICK@@
+The normal QRS axis is −30° to +90°. If the QRS is mainly upright in both lead I and aVF, the axis is normal. Upright in I but negative in aVF suggests left axis deviation; negative in I but upright in aVF suggests right axis deviation.
+@@LEDE@@
+The QRS axis is the average direction of electrical flow through the ventricles. Enter the net size of the QRS in leads I and aVF (upward deflection minus downward deflection, in small boxes or mm), and the calculator estimates the axis in degrees.
+@@TOOL@@
+<div class="tool" id="axis-tool">
+<div class="tool-grid">
+<label>Lead I net QRS (mm)<input type="number" id="l1" inputmode="decimal" step="0.5" placeholder="e.g. 8 or −3"></label>
+<label>Lead aVF net QRS (mm)<input type="number" id="avf" inputmode="decimal" step="0.5" placeholder="e.g. 6 or −5"></label>
+</div>
+<div class="tool-out" id="axis-out" aria-live="polite"><p class="tool-hint">Net QRS = height of the upward deflection minus depth of the downward deflection. Use a minus sign if the QRS is mainly negative.</p></div>
+</div>
+<script>
+(function(){
+var a=document.getElementById('l1'),b=document.getElementById('avf'),out=document.getElementById('axis-out');
+function cls(d){if(d>=-30&&d<=90)return['Normal axis (−30° to +90°)','ok','/how-to-read-ecg-report/'];if(d<-30&&d>=-90)return['Left axis deviation (−30° to −90°)','warn','/left-axis-deviation/'];if(d>90&&d<=180)return['Right axis deviation (+90° to +180°)','warn','/right-axis-deviation/'];return['Extreme axis (−90° to ±180°)','review','/right-axis-deviation/'];}
+function calc(){var x=parseFloat(a.value),y=parseFloat(b.value);
+ if(isNaN(x)||isNaN(y)||(x===0&&y===0)){out.innerHTML='<p class="tool-hint">Net QRS = height of the upward deflection minus depth of the downward deflection. Use a minus sign if the QRS is mainly negative.</p>';return;}
+ var d=Math.atan2(y,x)*180/Math.PI;var c=cls(d);
+ out.innerHTML='<p class="tool-res"><span class="tool-big">'+(Math.round(d)>0?'+':Math.round(d)<0?'−':'')+Math.abs(Math.round(d))+'°</span></p><p><span class="verdict verdict-'+c[1]+'">'+c[0]+'</span> <a href="'+c[2]+'">What this means</a></p><p class="tool-note">An estimate from two leads. Your ECG report prints the measured axis next to "QRS axis" or "Axis".</p>';}
+a.addEventListener('input',calc);b.addEventListener('input',calc);
+})();
+</script>
+@@BODY@@
+## The quadrant method
+
+Lead I looks at the heart from the left (0°) and lead aVF looks from below (+90°). Whether the QRS is mainly positive or negative in each tells you which quarter of the circle the axis points into.
+
+| Lead I | Lead aVF | Axis |
+| --- | --- | --- |
+| Positive | Positive | Normal (0° to +90°) |
+| Positive | Negative | Left axis, or normal if lead II is positive (0° to −30°) |
+| Negative | Positive | Right axis deviation (+90° to +180°) |
+| Negative | Negative | Extreme axis (−90° to ±180°) |
+
+When lead I is positive and aVF is negative, check lead II. If lead II is mainly positive, the axis is between 0° and −30° and still normal. If lead II is mainly negative, it is left axis deviation.
+
+## How the calculator works
+
+Because leads I and aVF sit at right angles, the net QRS in each acts like x and y coordinates. The axis is the angle of that point: axis = arctan(aVF ÷ lead I), adjusted for the quarter it falls in. This is the same estimate clinicians make by eye, and it is accurate to within roughly 10–15°.
+
+## What the result means
+
+- **Normal (−30° to +90°):** the expected direction in most adults.
+- **[Left axis deviation](/left-axis-deviation/) (−30° to −90°):** often due to left anterior fascicular block, and usually harmless on its own.
+- **[Right axis deviation](/right-axis-deviation/) (+90° to +180°):** normal in children and some tall, thin adults, but can reflect strain on the right side of the heart.
+- **Extreme axis (−90° to ±180°):** uncommon. It can be caused by swapped arm electrodes, and otherwise needs a clinician's review.
+@@FAQ@@
+Q: What is a normal ECG axis?
+A: −30° to +90°. Some references use −30° to +100°.
+Q: How do you calculate the axis on an ECG?
+A: Look at leads I and aVF. Mainly positive in both means a normal axis. For a number, use the net QRS in each lead as x and y and take the angle.
+Q: Is left axis deviation serious?
+A: Usually not on its own. It is most often due to a minor conduction pattern called left anterior fascicular block, but it is worth a review alongside the rest of the ECG.
+@@RELATED@@
+Left Axis Deviation: What It Means on an ECG | https://www.ecgmeans.com/left-axis-deviation/ | Usually harmless
+Right Axis Deviation: What It Means on an ECG | https://www.ecgmeans.com/right-axis-deviation/ | Depends on context
+Left Anterior Fascicular Block: What It Means | https://www.ecgmeans.com/left-anterior-fascicular-block/ | Usually harmless
+Left Posterior Fascicular Block: What It Means | https://www.ecgmeans.com/left-posterior-fascicular-block/ | Needs clinician review
+Normal ECG Values | https://www.ecgmeans.com/normal-ecg-values/ | NONE
+@@ALSO@@
+ecg axis calculator, qrs axis calculator, how to calculate ecg axis, cardiac axis, normal ecg axis
+@@SOURCES@@
+ECG Axis Interpretation | https://litfl.com/ecg-axis-interpretation/
+@@END@@

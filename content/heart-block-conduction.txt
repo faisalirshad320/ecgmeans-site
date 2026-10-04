@@ -6,4 +6,10 @@ First, second and third degree AV block, left and right bundle branch block, and
 AV Blocks and Bundle Branch Blocks
 @@LEDE@@
 First, second and third degree AV block, left and right bundle branch block, and fascicular block — which are harmless and which are not.
+@@BODY@@
+## What "block" means on an ECG
+
+"Block" on an ECG report means a delay or interruption in how the electrical signal travels, not a blocked artery. AV blocks affect the junction between the upper and lower chambers; their degree (first, second or third) describes how many signals get through. Bundle branch and fascicular blocks affect the wiring inside the ventricles and change the shape and width of the QRS complex.
+
+Some of these findings are common and usually harmless, such as first degree AV block or right bundle branch block in a healthy person. Others, such as Mobitz II or complete heart block, can cause dizziness or fainting and often need a pacemaker. Each page below says which group a finding belongs to and what usually happens next.
 @@END@@

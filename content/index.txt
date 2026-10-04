@@ -1,7 +1,7 @@
 @@TITLE@@
 ECG Means — Your ECG Report Explained in Plain English
 @@DESC@@
-Look up any phrase printed on your ECG or EKG report and get a plain-English explanation of what it means, whether it is usually harmless, and what happens next. Reviewed by a medical doctor.
+Look up any phrase printed on your ECG or EKG report and get a plain-English explanation of what it means and what happens next, reviewed by a doctor.
 @@H1@@
 What does that line on your ECG report mean?
 @@LEDE@@

@@ -1,0 +1,100 @@
+@@TITLE@@
+QTc Calculator: Bazett, Fridericia, Framingham & Hodges
+@@DESC@@
+Free QTc calculator. Enter the QT interval and heart rate to get the corrected QT by Bazett, Fridericia, Framingham and Hodges, with normal ranges explained.
+@@H1@@
+QTc Calculator (Corrected QT Interval)
+@@CATEGORY@@
+ECG Tools | https://www.ecgmeans.com/ecg-tools/
+@@QUICK@@
+QTc corrects the QT interval for heart rate. Bazett: QTc = QT ÷ √RR. Fridericia: QTc = QT ÷ ∛RR (RR in seconds). A QTc under about 440 ms in men and 460 ms in women is normal; over 500 ms is clearly prolonged.
+@@LEDE@@
+Enter the QT interval and the heart rate (or RR interval) from your ECG report. The calculator gives the corrected QT (QTc) by the four standard formulas and shows where the result sits against the usual normal ranges.
+@@TOOL@@
+<div class="tool" id="qtc-tool">
+<div class="tool-grid">
+<label>QT interval (ms)<input type="number" id="qt" inputmode="numeric" min="200" max="700" placeholder="e.g. 400"></label>
+<label><span>Heart rate (bpm)</span><input type="number" id="hr" inputmode="numeric" min="20" max="250" placeholder="e.g. 75"></label>
+<label><span>or RR interval (ms)</span><input type="number" id="rr" inputmode="numeric" min="240" max="3000" placeholder="e.g. 800"></label>
+<label>Sex (for normal range)<select id="sex"><option value="m">Male</option><option value="f">Female</option></select></label>
+</div>
+<div class="tool-out" id="qtc-out" aria-live="polite"><p class="tool-hint">Enter the QT and either the heart rate or the RR interval.</p></div>
+</div>
+<script>
+(function(){
+var $=function(i){return document.getElementById(i)};
+function band(v,sex){var up=sex==='f'?460:440;
+ if(v>500)return['Markedly prolonged','urgent'];
+ if(v>up)return['Prolonged','review'];
+ if(v<350)return['Short','warn'];
+ return['Within the usual normal range','ok'];}
+function calc(src){
+ var qt=parseFloat($('qt').value),hr=parseFloat($('hr').value),rr=parseFloat($('rr').value),sex=$('sex').value;
+ if(src==='hr'&&hr>0){$('rr').value=Math.round(60000/hr);rr=60000/hr;}
+ else if(src==='rr'&&rr>0){$('hr').value=Math.round(60000/rr);hr=60000/rr;}
+ else if(!(rr>0)&&hr>0){rr=60000/hr;}
+ else if(!(hr>0)&&rr>0){hr=60000/rr;}
+ var out=$('qtc-out');
+ if(!(qt>0)||!(rr>0)){out.innerHTML='<p class="tool-hint">Enter the QT and either the heart rate or the RR interval.</p>';return;}
+ var s=rr/1000;
+ var f=[['Bazett','QT ÷ √RR',qt/Math.sqrt(s)],['Fridericia','QT ÷ ∛RR',qt/Math.cbrt(s)],['Framingham','QT + 154 × (1 − RR)',qt+154*(1-s)],['Hodges','QT + 1.75 × (HR − 60)',qt+1.75*(hr-60)]];
+ var rows=f.map(function(x){var b=band(x[2],sex);return '<tr><th scope="row">'+x[0]+'</th><td>'+x[1]+'</td><td><strong>'+Math.round(x[2])+' ms</strong></td><td><span class="verdict verdict-'+b[1]+'">'+b[0]+'</span></td></tr>';}).join('');
+ var note=(hr<50||hr>100)?'<p class="tool-note">At heart rates outside 60–100 bpm Bazett over- or under-corrects. Fridericia or Framingham is more reliable here.</p>':'';
+ out.innerHTML='<p class="tool-res">Heart rate <strong>'+Math.round(hr)+' bpm</strong> · RR <strong>'+Math.round(rr)+' ms</strong></p><table class="tool-table"><thead><tr><th>Formula</th><th>Equation</th><th>QTc</th><th>Interpretation</th></tr></thead><tbody>'+rows+'</tbody></table>'+note+'<p class="tool-note">Educational estimate only. QT is best measured by hand in lead II or V5; a machine value can be off. Discuss any prolonged result with your clinician.</p>';
+}
+['qt','sex'].forEach(function(i){$(i).addEventListener('input',function(){calc('')});});
+$('hr').addEventListener('input',function(){calc('hr')});
+$('rr').addEventListener('input',function(){calc('rr')});
+})();
+</script>
+@@BODY@@
+## How the QTc calculator works
+
+The QT interval runs from the start of the QRS complex to the end of the T wave. It naturally shortens as the heart speeds up, so a raw QT cannot be compared between two heart rates. The corrected QT (QTc) estimates what the QT would be at 60 beats per minute, where the RR interval is exactly one second.
+
+The four formulas use the RR interval in seconds (RR = 60 ÷ heart rate):
+
+| Formula | Equation | Notes |
+| --- | --- | --- |
+| Bazett | QTc = QT ÷ √RR | The most widely printed on ECG machines; over-corrects at fast rates and under-corrects at slow rates |
+| Fridericia | QTc = QT ÷ ∛RR | More accurate at heart rates above 90 or below 60; preferred in many drug-safety studies |
+| Framingham | QTc = QT + 154 × (1 − RR) | A linear correction from the Framingham Heart Study |
+| Hodges | QTc = QT + 1.75 × (heart rate − 60) | A linear correction based on heart rate |
+
+## Normal QTc values
+
+- **Normal:** under about 440 ms in men and 460 ms in women. Exact cut-offs vary a little between guidelines.
+- **Prolonged:** above those limits. A QTc of 440–480 ms is usually just a reason to review medicines and potassium, magnesium and calcium levels.
+- **Markedly prolonged:** over 500 ms. This is associated with a clearly higher risk of the dangerous rhythm torsades de pointes and needs prompt assessment.
+- **Short:** under about 350 ms. A short QT is rare and is worth mentioning to a doctor, especially with a family history of sudden death.
+
+**Get urgent help** if a long QT comes with fainting, seizures, palpitations or chest pain. Those symptoms matter more than any single number.
+
+## How to measure QT on an ECG
+
+Measure from the very start of the QRS complex to the point where the T wave returns to the baseline, ideally in lead II or V5. On standard paper at 25 mm/s each small box is 40 ms, so a QT spanning 10 small boxes is 400 ms. Measure the RR interval between two consecutive R waves the same way, or use the heart rate printed on the report.
+
+## Worked example
+
+A QT of 400 ms at a heart rate of 75 bpm gives an RR of 0.8 seconds. Bazett: 400 ÷ √0.8 = 447 ms. Fridericia: 400 ÷ ∛0.8 = 431 ms. The two formulas disagree by 16 ms here, which is why a borderline machine value is often re-checked by hand.
+@@FAQ@@
+Q: Which QTc formula is best?
+A: Bazett is the most common, but it is least accurate when the heart rate is below 60 or above 90 bpm. Fridericia is generally preferred at those rates.
+Q: What QTc is dangerous?
+A: A QTc over 500 ms is associated with a clearly increased risk of torsades de pointes and should be assessed promptly.
+Q: What is a normal QTc for a woman?
+A: Under about 460 ms. Women have a slightly longer QTc than men on average.
+Q: Why is my machine QTc different from this calculator?
+A: Machines measure QT automatically and usually apply Bazett. A small difference in where the end of the T wave is placed changes the result, so borderline values are often re-measured by hand.
+@@RELATED@@
+QT and QTc Interval: Normal Range and Prolonged QT | https://www.ecgmeans.com/qt-interval/ | Depends on context
+ECG Heart Rate Calculator | https://www.ecgmeans.com/ecg-heart-rate-calculator/ | NONE
+Normal ECG Values | https://www.ecgmeans.com/normal-ecg-values/ | NONE
+U Wave: What It Means on an ECG | https://www.ecgmeans.com/u-wave/ | Depends on context
+Sinus Bradycardia: What It Means | https://www.ecgmeans.com/sinus-bradycardia/ | Usually harmless
+@@ALSO@@
+qtc calculator, qt interval calculator, corrected qt calculator, bazett formula, fridericia formula, qtc formula
+@@SOURCES@@
+QT Interval | https://litfl.com/qt-interval-ecg-library/
+Long QT Syndrome (StatPearls) | https://www.ncbi.nlm.nih.gov/books/NBK441860/
+@@END@@

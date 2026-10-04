@@ -1,0 +1,21 @@
+{
+ "name": "ECG Means",
+ "short_name": "ECG Means",
+ "description": "Your ECG report, explained in plain English",
+ "start_url": "/",
+ "display": "standalone",
+ "background_color": "#ffffff",
+ "theme_color": "#b91c1c",
+ "icons": [
+  {
+   "src": "/assets/img/icon-180.png",
+   "sizes": "180x180",
+   "type": "image/png"
+  },
+  {
+   "src": "/assets/img/logo.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  }
+ ]
+}
