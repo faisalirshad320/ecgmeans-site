@@ -62,7 +62,7 @@ Sinus Tachycardia: What It Means | https://www.ecgmeans.com/sinus-tachycardia/ |
 @@ALSO@@
 possible right atrial enlargement, right atrial abnormality, p pulmonale, right atrial enlargement ecg
 @@SOURCES@@
-Right Atrial Enlargement (P Pulmonale) | https://litfl.com/right-atrial-enlargement-p-pulmonale/
+Right Atrial Enlargement (LITFL) | https://litfl.com/right-atrial-enlargement-ecg-library/
 Pulmonary Hypertension | https://www.nhlbi.nih.gov/health/pulmonary-hypertension
 Electrocardiogram | https://medlineplus.gov/lab-tests/electrocardiogram/
 @@END@@

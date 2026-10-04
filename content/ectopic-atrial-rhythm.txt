@@ -66,7 +66,7 @@ Atrial Tachycardia: What It Means on an ECG | https://www.ecgmeans.com/atrial-ta
 @@ALSO@@
 ectopic atrial rhythm ecg, low atrial rhythm, ectopic atrial rhythm meaning, ectopic atrial tachycardia
 @@SOURCES@@
-Ectopic Atrial Rhythm | https://my.clevelandclinic.org/health/diseases/ectopic-atrial-rhythm
-Ectopic Atrial Rhythm & Tachycardia | https://litfl.com/ectopic-atrial-rhythm-and-multifocal-atrial-rhythm/
+Ectopic Heartbeat (Cleveland Clinic) | https://my.clevelandclinic.org/health/diseases/23000-ectopic-heartbeat
+P Wave (LITFL) | https://litfl.com/p-wave-ecg-library/
 EKG Rhythm | https://www.ncbi.nlm.nih.gov/books/NBK555952/
 @@END@@

@@ -68,5 +68,5 @@ st depression ecg, st segment depression, st depression causes, downsloping st d
 @@SOURCES@@
 Coronary Artery Disease | https://my.clevelandclinic.org/health/diseases/16898-coronary-artery-disease
 ST Segment | https://litfl.com/st-segment-ecg-library/
-Myocardial Ischemia | https://www.ncbi.nlm.nih.gov/books/NBK537081/
+Myocardial Ischaemia (LITFL) | https://litfl.com/myocardial-ischaemia-ecg-library/
 @@END@@

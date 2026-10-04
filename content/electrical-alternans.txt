@@ -64,7 +64,6 @@ Abnormal ECG: What It Means on Your Report | https://www.ecgmeans.com/abnormal-e
 @@ALSO@@
 electrical alternans, electrical alternans ecg, electrical alternans tamponade, qrs alternans
 @@SOURCES@@
-Cardiac Tamponade | https://my.clevelandclinic.org/health/diseases/17357-cardiac-tamponade
-Electrical Alternans | https://litfl.com/electrical-alternans-ecg-library/
-Cardiac Tamponade | https://www.ncbi.nlm.nih.gov/books/NBK431090/
+Cardiac Tamponade (StatPearls) | https://www.ncbi.nlm.nih.gov/books/NBK431090/
+ECG Findings in Massive Pericardial Effusion (LITFL) | https://litfl.com/ecg-findings-in-massive-pericardial-effusion/
 @@END@@

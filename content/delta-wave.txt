@@ -62,7 +62,7 @@ Atrial Fibrillation: What It Means on an ECG | https://www.ecgmeans.com/atrial-f
 @@ALSO@@
 delta wave ecg, wpw delta wave, pre-excitation, wolff parkinson white ecg
 @@SOURCES@@
-Wolff-Parkinson-White Syndrome | https://my.clevelandclinic.org/health/diseases/22064-wolff-parkinson-white-syndrome-wpw
+Wolff-Parkinson-White Syndrome | https://my.clevelandclinic.org/health/diseases/17643-wolff-parkinson-white-syndrome-wpw
 Pre-excitation Syndromes | https://litfl.com/pre-excitation-syndromes-ecg-library/
 Wolff-Parkinson-White Syndrome | https://www.ncbi.nlm.nih.gov/books/NBK554437/
 @@END@@

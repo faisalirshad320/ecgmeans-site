@@ -145,13 +145,13 @@ def head(title, desc, canonical, og_type, extra_nodes, robots="index,follow,max-
 <meta property="og:title" content="{esc(title)}">
 <meta property="og:description" content="{esc(desc)}">
 <meta property="og:url" content="{canonical}">
-<meta property="og:image" content="{OG_IMG}">
+<meta property="og:image" content="{og_image or OG_IMG}">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="{esc(title)}">
 <meta name="twitter:description" content="{esc(desc)}">
-<meta name="twitter:image" content="{OG_IMG}">
+<meta name="twitter:image" content="{og_image or OG_IMG}">
 <link rel="icon" href="/favicon.svg" type="image/svg+xml">
 <link rel="apple-touch-icon" href="/assets/img/icon-180.png">
 <link rel="manifest" href="/manifest.json">
@@ -234,6 +234,7 @@ def verdict_badge(quick):
     return ""
 
 SVG_IMAGES = {}
+OG_PAGES = []
 ABOUT_NAME = {"what-is-an-ekg": "Electrocardiogram (ECG/EKG)", "how-to-read-ecg-report": "Electrocardiogram (ECG/EKG)",
   "if-ecg-is-normal-is-my-heart-ok": "Electrocardiogram (ECG/EKG)", "ekg-vs-echocardiogram": "Electrocardiogram vs echocardiogram",
   "qtc-calculator": "Corrected QT interval (QTc)", "ecg-heart-rate-calculator": "Heart rate on the electrocardiogram",
@@ -420,7 +421,8 @@ def render_content(s):
 {sources_html}
 </article>'''
 
-    return head(title, desc, canonical, "article", nodes) + header_html() + \
+    OG_PAGES.append((s, h1))
+    return head(title, desc, canonical, "article", nodes, og_image=f"{HOST}/assets/og/{s}.png") + header_html() + \
         f'<main id="main" class="wrap narrow">{article}</main>' + footer_html()
 
 def h1_crumb(h1):
@@ -472,7 +474,8 @@ def render_hub(s):
 {others}
 </ul></section>
 </article>'''
-    return head(title, desc, canonical, "website", nodes) + header_html() + \
+    OG_PAGES.append((s, h1))
+    return head(title, desc, canonical, "website", nodes, og_image=f"{HOST}/assets/og/{s}.png") + header_html() + \
         f'<main id="main" class="wrap">{main}</main>' + footer_html()
 
 # ---------- render policy ----------
@@ -593,6 +596,7 @@ def main():
         all_urls.append((f"{HOST}/{s}/", "yearly", "0.3"))
 
     build_sitemaps(all_urls)
+    open(os.path.join(ROOT, "og_pages.json"), "w").write(json.dumps(OG_PAGES))
     write_support_files()
     print(f"Built {len(all_urls)} pages into {OUT}")
 

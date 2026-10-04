@@ -64,7 +64,7 @@ Third Degree (Complete) Heart Block: What It Means | https://www.ecgmeans.com/th
 @@ALSO@@
 left posterior fascicular block, lpfb ecg, left posterior hemiblock, bifascicular block
 @@SOURCES@@
-Bundle Branch Block | https://my.clevelandclinic.org/health/diseases/22734-bundle-branch-block
+Heart Conduction System (Cleveland Clinic) | https://my.clevelandclinic.org/health/body/21648-heart-conduction-system
 Left Posterior Fascicular Block (LPFB) | https://litfl.com/left-posterior-fascicular-block-lpfb-ecg-library/
-Fascicular Block | https://www.ncbi.nlm.nih.gov/books/NBK553135/
+Left Posterior Fascicular Block (Cleveland Clinic) | https://my.clevelandclinic.org/health/diseases/23288-left-posterior-fascicular-block
 @@END@@

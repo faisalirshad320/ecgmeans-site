@@ -64,6 +64,4 @@ Sinus Bradycardia: What It Means | https://www.ecgmeans.com/sinus-bradycardia/ |
 wandering atrial pacemaker ecg, wandering pacemaker, wap ecg, multiple p wave morphologies
 @@SOURCES@@
 Wandering Atrial Pacemaker | https://my.clevelandclinic.org/health/diseases/wandering-atrial-pacemaker
-Wandering Atrial Pacemaker | https://www.ncbi.nlm.nih.gov/books/NBK536985/
-Atrial Ectopics and Wandering Pacemaker | https://litfl.com/wandering-atrial-pacemaker/
 @@END@@

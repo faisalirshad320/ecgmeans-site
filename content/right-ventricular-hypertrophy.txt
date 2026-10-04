@@ -63,7 +63,7 @@ Abnormal ECG: What It Means on Your Report | https://www.ecgmeans.com/abnormal-e
 @@ALSO@@
 rvh ecg, right ventricular hypertrophy ekg, rvh criteria, tall r wave in v1
 @@SOURCES@@
-Right Ventricular Hypertrophy | https://my.clevelandclinic.org/health/diseases/right-ventricular-hypertrophy
+Right Ventricular Hypertrophy (StatPearls) | https://www.ncbi.nlm.nih.gov/books/NBK499876/
 Right Ventricular Hypertrophy (RVH) | https://litfl.com/right-ventricular-hypertrophy-rvh-ecg-library/
 Pulmonary Hypertension | https://www.nhlbi.nih.gov/health/pulmonary-hypertension
 @@END@@

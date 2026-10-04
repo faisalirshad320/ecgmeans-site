@@ -63,7 +63,7 @@ Multifocal Atrial Tachycardia: What It Means | https://www.ecgmeans.com/multifoc
 @@ALSO@@
 atrial flutter ecg, atrial flutter sawtooth, aflutter ecg, atrial flutter vs afib
 @@SOURCES@@
-Atrial Flutter | https://my.clevelandclinic.org/health/diseases/17388-atrial-flutter
+Atrial Flutter (StatPearls) | https://www.ncbi.nlm.nih.gov/books/NBK540985/
 Atrial Flutter | https://litfl.com/atrial-flutter-ecg-library/
 What are the Symptoms of Atrial Fibrillation (AFib or AF)? | https://www.heart.org/en/health-topics/atrial-fibrillation
 @@END@@

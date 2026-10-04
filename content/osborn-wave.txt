@@ -65,7 +65,6 @@ Abnormal ECG: What It Means on Your Report | https://www.ecgmeans.com/abnormal-e
 @@ALSO@@
 osborn wave, j wave ecg, osborn wave hypothermia, j point notch
 @@SOURCES@@
-Hypothermia | https://my.clevelandclinic.org/health/diseases/21164-hypothermia
+Hypothermia (StatPearls) | https://www.ncbi.nlm.nih.gov/books/NBK545239/
 Osborn Wave (J Wave) | https://litfl.com/osborn-wave-j-wave-ecg-library/
-Hypothermia | https://www.ncbi.nlm.nih.gov/books/NBK545239/
 @@END@@

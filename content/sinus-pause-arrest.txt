@@ -65,7 +65,6 @@ Sinus Rhythm With Sinus Arrhythmia: What It Means | https://www.ecgmeans.com/sin
 @@ALSO@@
 sinus pause, sinus arrest, sinus pause ecg, sick sinus syndrome
 @@SOURCES@@
-Sick Sinus Syndrome | https://my.clevelandclinic.org/health/diseases/17057-sick-sinus-syndrome
-Sinoatrial Arrest | https://litfl.com/sinoatrial-arrest-sa-node/
-Sinus Node Dysfunction (Sick Sinus Syndrome) | https://www.ncbi.nlm.nih.gov/books/NBK544387/
+Sick Sinus Syndrome (Cleveland Clinic) | https://my.clevelandclinic.org/health/diseases/21789-sick-sinus-syndrome
+Sinus Node Dysfunction (LITFL) | https://litfl.com/sinus-node-dysfunction-sick-sinus-syndrome/
 @@END@@

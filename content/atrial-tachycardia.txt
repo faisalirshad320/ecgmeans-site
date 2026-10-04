@@ -63,7 +63,7 @@ Ectopic Atrial Rhythm: What It Means | https://www.ecgmeans.com/ectopic-atrial-r
 @@ALSO@@
 atrial tachycardia ecg, focal atrial tachycardia, atrial tachycardia with block, SVT
 @@SOURCES@@
-Atrial Tachycardia | https://my.clevelandclinic.org/health/diseases/22642-atrial-tachycardia
+Atrial Tachycardia | https://my.clevelandclinic.org/health/diseases/21800-atrial-tachycardia
 Atrial Tachycardia | https://litfl.com/atrial-tachycardia-ecg-library/
 Supraventricular Tachycardia | https://www.ncbi.nlm.nih.gov/books/NBK441972/
 @@END@@

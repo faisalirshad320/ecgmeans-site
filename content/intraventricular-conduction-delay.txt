@@ -66,7 +66,7 @@ Abnormal ECG: What It Means on Your Report | https://www.ecgmeans.com/abnormal-e
 @@ALSO@@
 intraventricular conduction delay, nonspecific intraventricular conduction delay, ivcd ecg, nonspecific ivcd
 @@SOURCES@@
-Bundle Branch Block | https://my.clevelandclinic.org/health/diseases/22734-bundle-branch-block
-Intraventricular Conduction Delay | https://litfl.com/ivcd-nonspecific-intraventricular-conduction-delay/
+Heart Conduction System (Cleveland Clinic) | https://my.clevelandclinic.org/health/body/21648-heart-conduction-system
+Intraventricular Conduction Delay (LITFL) | https://litfl.com/intraventricular-conduction-delay-qrs-widening/
 Electrocardiogram | https://www.ncbi.nlm.nih.gov/books/NBK549803/
 @@END@@

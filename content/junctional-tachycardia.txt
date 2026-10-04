@@ -65,6 +65,6 @@ Short PR Interval: What It Means | https://www.ecgmeans.com/short-pr-interval/ |
 junctional tachycardia ecg, junctional ectopic tachycardia, JET, accelerated junctional rhythm
 @@SOURCES@@
 Junctional Rhythm | https://my.clevelandclinic.org/health/diseases/23206-junctional-rhythm
-Junctional Tachycardia | https://litfl.com/junctional-tachycardia-ecg-library/
+Accelerated Junctional Rhythm (LITFL) | https://litfl.com/accelerated-junctional-rhythm-ajr/
 Junctional Rhythm | https://www.ncbi.nlm.nih.gov/books/NBK507715/
 @@END@@

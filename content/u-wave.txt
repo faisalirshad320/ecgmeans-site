@@ -66,7 +66,6 @@ Nonspecific T Wave Abnormality: What It Means | https://www.ecgmeans.com/nonspec
 @@ALSO@@
 u wave ecg, prominent u waves, u wave hypokalemia, inverted u wave
 @@SOURCES@@
-Hypokalemia | https://my.clevelandclinic.org/health/diseases/17740-low-potassium-levels-hypokalemia
+Hypokalemia (StatPearls) | https://www.ncbi.nlm.nih.gov/books/NBK482465/
 U Wave | https://litfl.com/u-wave-ecg-library/
-ECG U Wave | https://www.ncbi.nlm.nih.gov/books/NBK557490/
 @@END@@
