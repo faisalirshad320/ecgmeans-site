@@ -35,12 +35,39 @@ jobs:
           echo "::add-mask::$BEARER"
           echo "token=$BEARER" >> "$GITHUB_OUTPUT"
       - name: Trigger Git pull (deploy) on Cloudways
+        id: pull
         run: |
           set -e
           RESP=$(curl -s -X POST https://api.cloudways.com/api/v1/git/pull -H "Authorization: Bearer ${{ steps.token.outputs.token }}" -d "server_id=$CW_SERVER_ID" -d "app_id=$CW_APP_ID" -d "branch_name=$CW_BRANCH")
           echo "Git pull response: $RESP"
           echo "$RESP" | grep -qi 'error\|invalid\|unauth' && { echo "::error::Cloudways git pull failed"; exit 1; } || true
-      - name: Purge application cache (Varnish)
-        continue-on-error: true
+          OP=$(printf '%s' "$RESP" | grep -o '"operation_id"[^,}]*' | grep -o '[0-9A-Za-z-]*$' | head -1)
+          echo "op=$OP" >> "$GITHUB_OUTPUT"
+      - name: Wait for the Git pull to finish
         run: |
-          curl -s -X POST https://api.cloudways.com/api/v1/app/manage/varnish -H "Authorization: Bearer ${{ steps.token.outputs.token }}" -d "server_id=$CW_SERVER_ID" -d "app_id=$CW_APP_ID" -d "action=purge"
+          OP="${{ steps.pull.outputs.op }}"
+          if [ -z "$OP" ]; then echo "No operation id returned; waiting 45s instead"; sleep 45; exit 0; fi
+          for i in $(seq 1 40); do
+            R=$(curl -s "https://api.cloudways.com/api/v1/operation/$OP" -H "Authorization: Bearer ${{ steps.token.outputs.token }}")
+            DONE=$(printf '%s' "$R" | grep -o '"is_completed"[^,}]*' | grep -o '\-\?[0-9]' | head -1)
+            echo "poll $i: is_completed=$DONE"
+            [ "$DONE" = "1" ] && exit 0
+            [ "$DONE" = "-1" ] && { echo "::error::Git pull operation failed: $R"; exit 1; }
+            sleep 6
+          done
+          echo "::warning::Git pull still running after 4 minutes; purging anyway"
+      - name: Purge cache (after the pull has finished)
+        run: |
+          AUTH="Authorization: Bearer ${{ steps.token.outputs.token }}"
+          echo "App purge:    $(curl -s -X POST https://api.cloudways.com/api/v1/app/manage/varnish -H "$AUTH" -d "server_id=$CW_SERVER_ID" -d "app_id=$CW_APP_ID" -d "action=purge")"
+          echo "Server purge: $(curl -s -X POST https://api.cloudways.com/api/v1/service/varnish -H "$AUTH" -d "server_id=$CW_SERVER_ID" -d "action=purge")"
+      - name: Verify the live site is serving fresh pages
+        run: |
+          sleep 5
+          for u in / /sitemap.xml /ads.txt; do
+            H=$(curl -s -o /dev/null -D - "https://www.ecgmeans.com$u")
+            CODE=$(printf '%s' "$H" | head -1); AGE=$(printf '%s' "$H" | grep -i '^age:' | tr -dc '0-9')
+            echo "$u -> $CODE age=${AGE:-0}"
+            case "$CODE" in *200*) ;; *) echo "::error::$u is not returning 200"; exit 1;; esac
+            if [ "${AGE:-0}" -gt 300 ]; then echo "::error::$u is still a stale cached copy (age ${AGE}s) - purge did not take effect"; exit 1; fi
+          done
