@@ -321,7 +321,7 @@ def render_content(s):
                     f'<figcaption>{esc(cap)}. Schematic teaching illustration, not a real patient tracing.</figcaption></figure>')
         img_node = {"@type": "ImageObject", "@id": canonical + "#ecg", "url": img_url, "contentUrl": img_url,
                     "width": w, "height": hgt, "caption": cap, "encodingFormat": "image/svg+xml",
-                    "creator": {"@id": HOST + "/#org"}, "copyrightNotice": "© 2026 ECG Means"}
+                    "creator": {"@id": HOST + "/#org"}, "copyrightNotice": "© 2026 ECG Means", "creditText": "ECG Means", "license": HOST + "/about/", "acquireLicensePage": HOST + "/contact/"}
         SVG_IMAGES[s] = (img_url, cap)
 
     # answer / badge logic
