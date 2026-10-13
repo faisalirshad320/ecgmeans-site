@@ -31,7 +31,7 @@ The pattern reflects a reperfused but critically narrowed artery. A stress test 
 **This is an emergency pattern.** Any return of chest pain, pressure, breathlessness, sweating, or arm or jaw discomfort needs immediate medical attention — call emergency services.
 
 ## Why the timing is deceptive
-The Wellens pattern classically appears after an episode of chest pain has settled, during a pain-free window, which is deceptive because the person may look and feel well while a critically narrowed artery remains. The T-wave changes can also evolve — the biphasic (Type B) form often appears first and deepens into the inverted (Type A) form over hours to days as the situation progresses.
+The Wellens pattern classically appears after an episode of chest pain has settled, during a pain-free window, which is deceptive because the person may look and feel well while a critically narrowed artery remains. The T-wave changes can also evolve — the biphasic (Type A) form often appears first and deepens into the inverted (Type B) form over hours to days as the situation progresses.
 
 ## What usually happens next
 
@@ -49,7 +49,7 @@ The Wellens pattern classically appears after an episode of chest pain has settl
 Q: Why is Wellens syndrome so important?
 A: Because the T-wave pattern signals a critically narrowed LAD artery and a high risk of a large heart attack within days, even when the person currently feels well.
 Q: What are the two types of Wellens T waves?
-A: Type A shows deep, symmetrical T-wave inversion in V2–V3; Type B shows biphasic T waves that go up then down.
+A: Type A shows biphasic T waves that go up then down; Type B shows deep, symmetrical T-wave inversion in V2–V3.
 Q: Should I have a stress test for Wellens syndrome?
 A: No — stress testing can be dangerous in this situation. The recommended step is prompt coronary angiography.
 @@RELATED@@
