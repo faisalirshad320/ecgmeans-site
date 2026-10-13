@@ -1,0 +1,70 @@
+@@TITLE@@
+AV Dissociation: What It Means on an ECG
+@@DESC@@
+AV dissociation means the atria and ventricles are beating independently. Learn what it means on an ECG, the causes, and why context decides if it matters.
+@@H1@@
+AV Dissociation: What It Means on an ECG
+@@CATEGORY@@
+Heart Rhythms | https://www.ecgmeans.com/heart-rhythms/
+@@QUICK@@
+Needs clinician review
+@@LEDE@@
+AV dissociation means the atria and the ventricles are beating independently of each other, each driven by its own pacemaker, rather than in the normal coordinated way. It is a description rather than a single diagnosis — it can be benign or a sign of a serious conduction problem — so the cause needs to be identified.
+@@BODY@@
+## What "AV dissociation" means
+
+Normally the atria fire first (the P wave) and the signal passes to the ventricles (the QRS) in step. In AV dissociation the two are out of step: the atria follow one pacemaker and the ventricles another, so P waves and QRS complexes march to different drummers. It is not a diagnosis in itself but a pattern with several possible causes.
+
+## What it looks like on the ECG
+
+P waves and QRS complexes occur at their own independent rates, so the PR interval constantly changes and P waves drift in and out of the QRS complexes. Depending on the cause, the ventricular rate may be slower than, similar to, or faster than the atrial rate.
+
+## Common causes
+
+- A slow sinus rate letting a junctional or ventricular back-up pacemaker take over
+- An accelerated lower pacemaker overtaking the sinus node
+- Complete (third-degree) heart block, where the signal cannot pass at all
+- Ventricular tachycardia
+- Certain medicines and times of high vagal tone
+
+## Why it matters
+
+The importance depends entirely on the cause. Brief AV dissociation from high vagal tone in a young person is benign, whereas AV dissociation from complete heart block or ventricular tachycardia is serious and needs urgent treatment. That is why the underlying mechanism must be worked out.
+
+**Seek prompt care** if AV dissociation comes with fainting, a very slow or very fast pulse, chest pain or severe breathlessness.
+
+## A common benign form
+A common and usually benign type is "isorhythmic" AV dissociation, where the atria and ventricles happen to beat at almost the same rate, so P waves drift slowly in and out of the QRS complexes. This often occurs with a slightly slow sinus rate and a junctional back-up pacemaker, is frequently seen in young people with high vagal tone, and typically needs no treatment once a more serious cause has been excluded.
+
+## What usually happens next
+
+1. Careful analysis of the P waves and QRS rates to find the mechanism
+2. Comparison with old ECGs and review of medicines
+3. Monitoring to capture the rhythm over time
+4. Treatment of the specific cause — which may range from observation to a pacemaker or arrhythmia treatment
+
+### Questions to ask your doctor
+
+- What is causing my atria and ventricles to beat separately?
+- Is this a benign type or a type that needs treatment?
+- Do I need a pacemaker or rhythm treatment?
+@@FAQ@@
+Q: Is AV dissociation the same as heart block?
+A: Not always. Complete heart block is one cause of AV dissociation, but AV dissociation can also occur without block, for example when a lower pacemaker speeds up or the sinus node slows down.
+Q: Is AV dissociation dangerous?
+A: It depends on the cause — some forms are benign, while others, such as those from complete heart block or ventricular tachycardia, are serious.
+Q: How is the cause found?
+A: By analysing the relationship and rates of the P waves and QRS complexes, comparing old ECGs, and often using continuous monitoring.
+@@RELATED@@
+Third-Degree AV Block: What It Means | https://www.ecgmeans.com/third-degree-av-block/ | Seek prompt care
+Junctional Rhythm: What It Means on an ECG | https://www.ecgmeans.com/junctional-rhythm/ | Depends on context
+Ventricular Tachycardia: What It Means | https://www.ecgmeans.com/ventricular-tachycardia/ | Seek prompt care
+Accelerated Idioventricular Rhythm: What It Means | https://www.ecgmeans.com/accelerated-idioventricular-rhythm/ | Depends on context
+First-Degree AV Block: What It Means | https://www.ecgmeans.com/first-degree-av-block/ | Usually harmless
+@@ALSO@@
+av dissociation, atrioventricular dissociation, av dissociation ecg
+@@SOURCES@@
+AV Dissociation | https://litfl.com/av-dissociation-ecg-library/
+Atrioventricular Dissociation | https://www.ncbi.nlm.nih.gov/books/NBK556056/
+Heart Block | https://my.clevelandclinic.org/health/diseases/21830-heart-block
+@@END@@

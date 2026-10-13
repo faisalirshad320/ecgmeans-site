@@ -1,0 +1,65 @@
+@@TITLE@@
+Right Heart Strain: What It Means on an ECG
+@@DESC@@
+Right heart strain means the right ventricle is working against high pressure, shown by T-wave inversion in V1–V3 and other signs. Learn what it means.
+@@H1@@
+Right Heart Strain: What It Means on an ECG
+@@CATEGORY@@
+ECG Report Phrases | https://www.ecgmeans.com/ecg-report-phrases/
+@@QUICK@@
+Depends on context
+@@LEDE@@
+Right heart strain (right ventricular strain) means the right side of the heart is working hard against raised pressure in the lungs. On the ECG it shows as T-wave inversion in the right chest leads (V1–V3) and other right-sided changes. It is a clue to look for an underlying lung or pulmonary-artery problem, most urgently a pulmonary embolism.
+@@BODY@@
+## What "right heart strain" means
+
+The right ventricle pumps blood to the lungs. If the pressure in the lung circulation rises — suddenly, as in a pulmonary embolism, or gradually, as in chronic lung disease — the right ventricle has to work harder. The ECG pattern this produces is called right ventricular strain.
+
+## What it looks like on the ECG
+
+- T-wave inversion in the right chest leads (V1–V3) and often the inferior leads
+- Sometimes a rightward shift of the QRS axis (right axis deviation)
+- Signs of right atrial enlargement (tall, peaked P waves)
+- In acute cases, patterns such as S1Q3T3 or a new right bundle branch block
+
+## Why it matters
+
+Right heart strain is a signal, not a diagnosis. A sudden strain pattern in a breathless patient raises concern for a pulmonary embolism and needs urgent assessment. A long-standing pattern more often reflects chronic lung disease, pulmonary hypertension, or heart problems that raise lung pressure.
+
+**Seek prompt care** if a strain pattern comes with sudden breathlessness, chest pain worse on breathing, coughing up blood, fainting or a fast heartbeat.
+
+## Acute versus long-standing strain
+Telling a new (acute) strain pattern apart from a long-standing one changes everything. An acute pattern in a breathless patient suggests a sudden event such as a pulmonary embolism and is urgent. A long-standing pattern more often develops gradually with chronic lung disease or pulmonary hypertension, where the right heart has slowly adapted. Comparison with an old ECG is often the quickest way to tell the two apart.
+
+## What usually happens next
+
+1. Deciding whether the pattern is new (acute) or long-standing
+2. Investigating for a pulmonary embolism when it is acute (D-dimer, CT scan)
+3. An echocardiogram to assess the right heart and lung pressures
+4. Treating the underlying cause — clot, lung disease or pulmonary hypertension
+
+### Questions to ask your doctor
+
+- Is my strain pattern new or long-standing?
+- Could this be a pulmonary embolism?
+- What test will show the cause — an echo or a CT scan?
+@@FAQ@@
+Q: What does right heart strain on an ECG mean?
+A: It means the right ventricle is working against raised lung pressure. It is a clue to look for a cause such as a pulmonary embolism or chronic lung disease, not a diagnosis by itself.
+Q: Is right heart strain an emergency?
+A: It can be. A new strain pattern with sudden breathlessness may indicate a pulmonary embolism and needs urgent assessment; a long-standing pattern is usually less acute.
+Q: How is the cause of right heart strain found?
+A: Through clinical assessment, an echocardiogram, and tests for pulmonary embolism or lung disease depending on the situation.
+@@RELATED@@
+S1Q3T3: What It Means on an ECG | https://www.ecgmeans.com/s1q3t3/ | Needs clinician review
+Pulmonary Embolism on an ECG: What It Shows | https://www.ecgmeans.com/pulmonary-embolism-ecg/ | Seek prompt care
+Right Ventricular Hypertrophy: What It Means | https://www.ecgmeans.com/right-ventricular-hypertrophy/ | Needs clinician review
+Right Atrial Enlargement: What It Means | https://www.ecgmeans.com/right-atrial-enlargement/ | Needs clinician review
+Right Axis Deviation: What It Means | https://www.ecgmeans.com/right-axis-deviation/ | Depends on context
+@@ALSO@@
+right heart strain, right ventricular strain, rv strain pattern, right ventricular strain pattern
+@@SOURCES@@
+Right Ventricular Strain | https://litfl.com/right-ventricular-strain-ecg-library/
+Pulmonary Embolism | https://www.ncbi.nlm.nih.gov/books/NBK560551/
+Pulmonary Hypertension | https://my.clevelandclinic.org/health/diseases/6530-pulmonary-hypertension
+@@END@@

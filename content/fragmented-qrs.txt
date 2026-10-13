@@ -1,0 +1,62 @@
+@@TITLE@@
+Fragmented QRS: What It Means on an ECG
+@@DESC@@
+A fragmented QRS has extra notches or spikes from scarred heart muscle. Learn what fragmented QRS means on an ECG, its causes and why it can be a useful marker.
+@@H1@@
+Fragmented QRS: What It Means on an ECG
+@@CATEGORY@@
+Intervals & Waves | https://www.ecgmeans.com/ecg-intervals-waves/
+@@QUICK@@
+Needs clinician review
+@@LEDE@@
+A fragmented QRS means the QRS complex has extra notches or spikes rather than a smooth shape, reflecting scarred or diseased heart muscle that slows and splinters the electrical signal. It is often a subtle marker of previous heart damage and can carry prognostic information, so it is interpreted alongside your history and other tests.
+@@BODY@@
+## What "fragmented QRS" means
+
+The QRS complex represents the ventricles being activated. When an area of muscle is scarred or diseased, the electrical wavefront has to detour around it, arriving in a broken-up fashion. This shows on the ECG as additional notches, spikes or an RSR'-like appearance within the QRS — a fragmented QRS — without the QRS necessarily being wide.
+
+## What it looks like on the ECG
+
+Extra deflections within the QRS: additional R or S waves, notching of the R or S wave, or a jagged, splintered shape, usually seen in two or more leads that look at the same region of the heart.
+
+## Why it matters
+
+Fragmentation often reflects a scar, for example from a previous heart attack, and it can also be seen in cardiomyopathies and other conditions. Research links fragmented QRS to a higher chance of arrhythmias and adverse events in certain heart conditions, so it is a useful, if non-specific, marker that adds to the overall picture rather than standing alone.
+
+**Get checked** if fragmented QRS is found with chest symptoms, fainting, palpitations, or a known or suspected heart condition.
+
+## A subtle but useful marker
+Fragmentation is easy to overlook because the QRS does not have to be wide for it to be present — the clue is the extra notches or spikes within an otherwise ordinary-looking complex. On its own it is non-specific, but in someone with known or suspected heart disease it adds to the picture, and research has linked it to a somewhat higher risk of arrhythmias and scarring, which is why it is reported.
+
+## What usually happens next
+
+1. Interpretation in the context of your history and other ECG findings
+2. An echocardiogram to look at heart muscle and scar
+3. Further imaging, such as cardiac MRI, in selected cases
+4. Management aimed at the underlying heart condition and arrhythmia risk
+
+### Questions to ask your doctor
+
+- Does my fragmented QRS suggest a scar or a cardiomyopathy?
+- Does it change my risk or my treatment?
+- Do I need further imaging such as an MRI?
+@@FAQ@@
+Q: What causes a fragmented QRS?
+A: Scarred or diseased heart muscle — most often from a previous heart attack, but also from cardiomyopathies and other conditions — which splinters the electrical signal.
+Q: Is a fragmented QRS dangerous?
+A: The pattern itself is a marker, not a disease. It can indicate heart scar and a somewhat higher arrhythmia risk, so it is assessed with your history and other tests.
+Q: Does a fragmented QRS need treatment?
+A: There is no treatment for the pattern itself; care is directed at the underlying heart condition it points to.
+@@RELATED@@
+Pathological Q Waves: What They Mean | https://www.ecgmeans.com/pathological-q-waves/ | Needs clinician review
+Poor R Wave Progression: What It Means | https://www.ecgmeans.com/poor-r-wave-progression/ | Depends on context
+Wide QRS Complex: What It Means | https://www.ecgmeans.com/wide-qrs-complex/ | Needs clinician review
+Low Voltage QRS: What It Means | https://www.ecgmeans.com/low-voltage-qrs/ | Needs clinician review
+Intraventricular Conduction Delay: What It Means | https://www.ecgmeans.com/intraventricular-conduction-delay/ | Needs clinician review
+@@ALSO@@
+fragmented qrs, fqrs, fragmented qrs complex, notched qrs
+@@SOURCES@@
+Fragmented QRS | https://litfl.com/fragmented-qrs/
+Fragmented QRS Complexes | https://www.ncbi.nlm.nih.gov/books/NBK570566/
+Electrocardiogram (EKG) | https://my.clevelandclinic.org/health/diagnostics/16953-electrocardiogram-ekg
+@@END@@

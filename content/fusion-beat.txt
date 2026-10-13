@@ -1,0 +1,62 @@
+@@TITLE@@
+Fusion Beat: What It Means on an ECG
+@@DESC@@
+A fusion beat forms when a normal beat and a ventricular beat activate the heart together, making a hybrid shape. Learn what a fusion beat means on an ECG.
+@@H1@@
+Fusion Beat: What It Means on an ECG
+@@CATEGORY@@
+Heart Rhythms | https://www.ecgmeans.com/heart-rhythms/
+@@QUICK@@
+Usually harmless
+@@LEDE@@
+A fusion beat happens when the heart is activated from two directions at once — the normal pathway from above and a ventricular beat from below meet in the middle, producing a single hybrid-shaped beat. Fusion beats are usually harmless in themselves, and they are a helpful clue that confirms a ventricular rhythm.
+@@BODY@@
+## What a "fusion beat" means
+
+Normally each beat is activated from one source. A fusion beat occurs when two wavefronts collide: the normal signal coming down from the atria and an impulse arising in the ventricles reach the ventricular muscle at nearly the same moment. The resulting QRS is a blend — part normal, part ventricular — so its shape sits between the two.
+
+## What it looks like on the ECG
+
+A single QRS whose shape is intermediate between the patient's normal narrow beat and their wide ventricular beats. It often appears among premature ventricular contractions or during a ventricular rhythm, when timing allows the two sources to overlap.
+
+## Why it matters
+
+Fusion beats are generally not dangerous on their own. Their real value is diagnostic: when a wide-complex tachycardia is in question, the presence of fusion beats (and capture beats) is strong evidence that the rhythm is ventricular tachycardia rather than a supraventricular rhythm conducted abnormally. So they help doctors identify the rhythm correctly.
+
+**Get checked** if fusion beats appear during a sustained fast heartbeat, or with symptoms such as palpitations that do not settle, fainting, chest pain or breathlessness.
+
+## Fusion and capture beats together
+Fusion beats are often mentioned alongside "capture beats". During a ventricular rhythm, an occasional normal beat from above may slip through and briefly activate the ventricles normally (a capture beat), or partly blend with a ventricular beat (a fusion beat). Seeing either during a fast, wide-complex rhythm is strong evidence that the rhythm is ventricular tachycardia, which is why doctors look for them so carefully.
+
+## What usually happens next
+
+1. Using the fusion (and capture) beats to help confirm a ventricular rhythm
+2. Assessing the underlying rhythm and the heart's structure
+3. Monitoring if a ventricular tachycardia is suspected
+4. Treating the underlying rhythm rather than the fusion beats themselves
+
+### Questions to ask your doctor
+
+- Do my fusion beats confirm a ventricular rhythm?
+- Is the underlying rhythm something that needs treatment?
+- Does my heart need further imaging or monitoring?
+@@FAQ@@
+Q: Is a fusion beat dangerous?
+A: The fusion beat itself is usually harmless. It is mainly useful as a clue that helps confirm a ventricular rhythm.
+Q: What causes a fusion beat?
+A: It forms when a normal beat from above and a ventricular beat from below activate the ventricles at the same time, blending into one hybrid-shaped QRS.
+Q: Why are fusion beats important?
+A: Together with capture beats, they are strong evidence that a wide-complex tachycardia is ventricular tachycardia rather than another rhythm.
+@@RELATED@@
+Ventricular Tachycardia: What It Means | https://www.ecgmeans.com/ventricular-tachycardia/ | Seek prompt care
+Premature Ventricular Contractions (PVCs): What They Mean | https://www.ecgmeans.com/premature-ventricular-contractions/ | Depends on context
+Accelerated Idioventricular Rhythm: What It Means | https://www.ecgmeans.com/accelerated-idioventricular-rhythm/ | Depends on context
+Wide QRS Complex: What It Means | https://www.ecgmeans.com/wide-qrs-complex/ | Needs clinician review
+SVT vs VTach: What's the Difference? | https://www.ecgmeans.com/svt-vs-vtach/ | Seek prompt care
+@@ALSO@@
+fusion beat, fusion beats, dressler beat, fusion complex ecg
+@@SOURCES@@
+Fusion and Capture Beats | https://litfl.com/fusion-and-capture-beats/
+Ventricular Tachycardia | https://www.ncbi.nlm.nih.gov/books/NBK532954/
+Ventricular Tachycardia | https://my.clevelandclinic.org/health/diseases/21481-ventricular-tachycardia
+@@END@@

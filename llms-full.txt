@@ -113,10 +113,25 @@ URL: https://www.ecgmeans.com/right-atrial-enlargement/
 Verdict/quick answer: Needs clinician review
 "Possible right atrial enlargement" means the first part of your P wave — the bit made by the right upper chamber — is taller and more peaked than usual, a pattern called P pulmonale. Like its left-sided counterpart it is only a hint from the P wave shape; the ECG judges chamber size poorly, so an echocardiogram gives the real answer.
 
+### Posterior MI: What It Means on an ECG
+URL: https://www.ecgmeans.com/posterior-mi/
+Verdict/quick answer: Seek prompt care
+A posterior MI is a heart attack affecting the back wall of the heart. Standard ECG leads do not look directly at this area, so it shows up as mirror-image changes — ST depression and tall R waves in the front chest leads (V1–V3). It is easy to miss, which is why it is important, and it needs urgent treatment like any heart attack.
+
+### Pulmonary Embolism on an ECG: What It Shows
+URL: https://www.ecgmeans.com/pulmonary-embolism-ecg/
+Verdict/quick answer: Seek prompt care
+A pulmonary embolism (PE) is a blood clot in the lungs. The ECG can show clues — most often a fast heart rate, sometimes the classic S1Q3T3 pattern or signs of right heart strain — but no single ECG finding confirms or excludes a PE. A normal ECG does not rule it out, so suspected PE always needs proper testing.
+
 ### Right Axis Deviation: What It Means on an ECG
 URL: https://www.ecgmeans.com/right-axis-deviation/
 Verdict/quick answer: Depends on context
 Right axis deviation means the average direction of electrical flow through your ventricles points further to the right than usual — beyond +90°, where normal is −30° to +90°. It can be a normal variant in tall, slim young people, but it is also a classic sign of strain on the right side of the heart, so it is read together with the rest of the tracing.
+
+### Right Heart Strain: What It Means on an ECG
+URL: https://www.ecgmeans.com/right-heart-strain/
+Verdict/quick answer: Depends on context
+Right heart strain (right ventricular strain) means the right side of the heart is working hard against raised pressure in the lungs. On the ECG it shows as T-wave inversion in the right chest leads (V1–V3) and other right-sided changes. It is a clue to look for an underlying lung or pulmonary-artery problem, most urgently a pulmonary embolism.
 
 ### Right Ventricular Hypertrophy (RVH): What It Means
 URL: https://www.ecgmeans.com/right-ventricular-hypertrophy/
@@ -127,6 +142,16 @@ Right ventricular hypertrophy (RVH) means the smaller, right-sided pumping chamb
 URL: https://www.ecgmeans.com/septal-infarct/
 Verdict/quick answer: Depends on context
 "Septal infarct" means the ECG software saw a pattern in chest leads V1–V2 that can be left behind by a past heart attack affecting the septum, the wall between the ventricles. It is one of the most frequently over-called findings. Misplaced chest electrodes and normal variation produce the same pattern in people who have never had a heart attack.
+
+### Sgarbossa Criteria: Finding a Heart Attack in LBBB
+URL: https://www.ecgmeans.com/sgarbossa-criteria/
+Verdict/quick answer: Seek prompt care
+The Sgarbossa criteria are three ECG signs that help doctors spot a heart attack (STEMI) when the usual signs are hidden by a left bundle branch block (LBBB) or a pacemaker. A normal LBBB already distorts the ST segments, so these rules look for changes that go beyond what the block alone would cause. If your report mentions them, it is in the context of a possible heart attack and needs urgent care.
+
+### Wellens Syndrome: What It Means on an ECG
+URL: https://www.ecgmeans.com/wellens-syndrome/
+Verdict/quick answer: Seek prompt care
+Wellens syndrome is a specific pattern of T-wave changes in the chest leads (V2–V3) that warns of a critically narrowed left anterior descending (LAD) coronary artery. It often appears when chest pain has settled, which can be falsely reassuring. It is a red-flag pattern that needs urgent cardiology assessment because a large heart attack may be close.
 
 ## Heart Rhythms
 
@@ -139,6 +164,21 @@ Accelerated idioventricular rhythm (AIVR) means your heartbeat was being set by 
 URL: https://www.ecgmeans.com/accelerated-junctional-rhythm/
 Verdict/quick answer: Needs clinician review
 Accelerated junctional rhythm is a rhythm arising from the AV junction at 60–100 beats per minute — faster than the junction's natural 40–60, so it outpaces the sinus node. The QRS is narrow and normal-looking but the P waves are missing or upside-down. It usually signals irritation of the junction by a drug, recent surgery or reduced blood supply.
+
+### AFib with RVR: What It Means on an ECG
+URL: https://www.ecgmeans.com/afib-with-rvr/
+Verdict/quick answer: Needs clinician review
+AFib with RVR means atrial fibrillation with a rapid ventricular response — the heart is in atrial fibrillation and the ventricles are being driven unusually fast, usually over 100 beats per minute. On the ECG it looks irregularly irregular, with no clear P waves and closely spaced, normal-shaped QRS complexes. It is common and treatable, but a fast rate needs assessment.
+
+### Ashman Phenomenon: What It Means on an ECG
+URL: https://www.ecgmeans.com/ashman-phenomenon/
+Verdict/quick answer: Usually harmless
+Ashman phenomenon is a single wide beat that happens when a short cycle follows a longer one, causing one beat to be conducted abnormally (aberrantly) through the bundle branches. It is most often seen in atrial fibrillation and is harmless in itself — its importance is that it can be mistaken for a premature ventricular beat.
+
+### Atrial Bigeminy: What It Means on an ECG
+URL: https://www.ecgmeans.com/atrial-bigeminy/
+Verdict/quick answer: Usually harmless
+Atrial bigeminy means the ECG shows a repeating pattern where every normal beat is followed by a premature atrial contraction (PAC) — an early beat from the upper chambers. It is very common, usually harmless, and often felt as skipped beats. A doctor may still check for triggers if it happens a lot.
 
 ### Atrial Fibrillation: What It Means on an ECG
 URL: https://www.ecgmeans.com/atrial-fibrillation/
@@ -155,6 +195,11 @@ URL: https://www.ecgmeans.com/atrial-tachycardia/
 Verdict/quick answer: Needs clinician review
 Atrial tachycardia is a fast heart rhythm — usually 150–250 beats per minute — driven by a single focus in the atria rather than the normal sinus node. On the ECG each QRS is preceded by an abnormally shaped P wave. It is a form of supraventricular tachycardia (SVT) and, while rarely immediately dangerous, it should be assessed because a persistently fast rate can tire the heart.
 
+### AV Dissociation: What It Means on an ECG
+URL: https://www.ecgmeans.com/av-dissociation/
+Verdict/quick answer: Needs clinician review
+AV dissociation means the atria and the ventricles are beating independently of each other, each driven by its own pacemaker, rather than in the normal coordinated way. It is a description rather than a single diagnosis — it can be benign or a sign of a serious conduction problem — so the cause needs to be identified.
+
 ### Bigeminy: What It Means on an ECG
 URL: https://www.ecgmeans.com/bigeminy/
 Verdict/quick answer: Depends on context
@@ -170,10 +215,20 @@ URL: https://www.ecgmeans.com/ectopic-heartbeat/
 Verdict/quick answer: Usually harmless
 An ectopic beat is an extra heartbeat that starts somewhere other than the sinus node, the heart's usual starting point. 'Ectopic' simply means 'out of place.' Ectopic beats are extremely common, and most healthy people have some. Occasional ectopic beats are harmless and do not shorten life, even though they can feel alarming.
 
+### Fusion Beat: What It Means on an ECG
+URL: https://www.ecgmeans.com/fusion-beat/
+Verdict/quick answer: Usually harmless
+A fusion beat happens when the heart is activated from two directions at once — the normal pathway from above and a ventricular beat from below meet in the middle, producing a single hybrid-shaped beat. Fusion beats are usually harmless in themselves, and they are a helpful clue that confirms a ventricular rhythm.
+
 ### Idioventricular Rhythm: What It Means
 URL: https://www.ecgmeans.com/idioventricular-rhythm/
 Verdict/quick answer: Seek prompt care
 An idioventricular rhythm is a slow rhythm, usually 20–40 beats per minute, generated by the ventricles themselves when no impulse reaches them from above. The QRS complexes are wide and there are no related P waves. The accelerated form (AIVR), at roughly 50–110 per minute, is commonly seen for a short time after a blocked coronary artery is reopened and is usually harmless.
+
+### Junctional Bradycardia: What It Means on an ECG
+URL: https://www.ecgmeans.com/junctional-bradycardia/
+Verdict/quick answer: Depends on context
+Junctional bradycardia means a slow heart rhythm that is being driven from the AV junction (the area around the AV node) rather than the normal sinus pacemaker, usually at a rate below about 40 beats per minute. It can be a normal back-up rhythm or a sign that the sinus node or AV conduction is not working well, so the context matters.
 
 ### Junctional Escape Rhythm on an ECG: What It Means
 URL: https://www.ecgmeans.com/junctional-escape-rhythm/
@@ -208,6 +263,11 @@ A premature junctional contraction (PJC) is an early extra beat that starts in t
 URL: https://www.ecgmeans.com/premature-ventricular-contractions/
 Verdict/quick answer: Usually harmless
 A premature ventricular contraction (PVC) is an early extra beat that starts in the ventricles, the heart's lower pumping chambers, rather than in the sinus node, the heart's natural pacemaker. PVCs are one of the most common findings on any ECG and are usually benign, especially in a structurally normal heart. They deserve a closer look mainly when they are very frequent, come in runs, or happen alongside symptoms such as fainting or chest pain.
+
+### R-on-T Phenomenon: What It Means on an ECG
+URL: https://www.ecgmeans.com/r-on-t-phenomenon/
+Verdict/quick answer: Needs clinician review
+R-on-T phenomenon means a premature ventricular beat (PVC) falls very early — right on top of the previous beat's T wave. The T wave marks a vulnerable moment in the heart's electrical cycle, so a beat landing there can occasionally trigger a dangerous fast rhythm. It is worth a careful review, especially when the heart is already stressed.
 
 ### Sick Sinus Syndrome on an ECG: What It Means
 URL: https://www.ecgmeans.com/sick-sinus-syndrome/
@@ -254,6 +314,16 @@ URL: https://www.ecgmeans.com/trigeminy/
 Verdict/quick answer: Depends on context
 Trigeminy is a repeating pattern in which every third heartbeat is a premature (extra) beat: normal, normal, early, pause. When the extra beats come from the lower chambers it is ventricular trigeminy, the usual form. It reflects frequent PVCs falling into a regular pattern and, in an otherwise healthy heart, is generally harmless.
 
+### Ventricular Bigeminy: What It Means on an ECG
+URL: https://www.ecgmeans.com/ventricular-bigeminy/
+Verdict/quick answer: Depends on context
+Ventricular bigeminy means the ECG shows a repeating pattern where every normal beat is followed by a premature ventricular contraction (PVC) — an early, wide beat from the ventricles. It often feels like skipped beats or a flip-flop in the chest. It is frequently harmless, but a doctor should check how often it occurs and whether the heart is otherwise normal.
+
+### Ventricular Couplet: What It Means on an ECG
+URL: https://www.ecgmeans.com/ventricular-couplet/
+Verdict/quick answer: Depends on context
+A ventricular couplet means two premature ventricular contractions (PVCs) occur back-to-back — two early, wide beats from the ventricles in a row. Isolated couplets are common and often harmless in a normal heart, but frequent couplets, or couplets with heart disease, deserve a closer look because they sit a step closer to longer ventricular runs.
+
 ### Ventricular Fibrillation on an ECG: What It Means
 URL: https://www.ecgmeans.com/ventricular-fibrillation/
 Verdict/quick answer: Seek prompt care
@@ -263,6 +333,11 @@ Ventricular fibrillation (VF) means the lower chambers of the heart (the ventric
 URL: https://www.ecgmeans.com/ventricular-tachycardia/
 Verdict/quick answer: Seek prompt care
 Ventricular tachycardia (VT) is a fast heart rhythm that starts in the ventricles, the heart's lower pumping chambers, instead of following the normal electrical pathway. Because the ventricles beat fast and inefficiently, VT can lower blood pressure and can turn into a more dangerous rhythm that causes cardiac arrest. It is a potentially life-threatening rhythm and doctors treat it as an emergency. With prompt assessment and treatment, it can be stabilised and its underlying cause addressed.
+
+### Ventricular Trigeminy: What It Means on an ECG
+URL: https://www.ecgmeans.com/ventricular-trigeminy/
+Verdict/quick answer: Depends on context
+Ventricular trigeminy means the ECG shows a repeating pattern of two normal beats followed by a premature ventricular contraction (PVC) — an early, wide beat from the ventricles. Like bigeminy, it is often harmless, especially in a normal heart, but a doctor should check how frequent the PVCs are and whether the heart is otherwise healthy.
 
 ### Wandering Atrial Pacemaker: What It Means
 URL: https://www.ecgmeans.com/wandering-atrial-pacemaker/
@@ -275,6 +350,16 @@ A wandering atrial pacemaker means the spot that starts each heartbeat drifts be
 URL: https://www.ecgmeans.com/2-1-av-block/
 Verdict/quick answer: Seek prompt care
 In 2:1 AV block, exactly every other impulse from the upper chambers is blocked, so only one in two P waves is followed by a heartbeat — producing a pulse that is half the atrial rate. The catch is that a single strip cannot tell whether it is the benign (Mobitz I) or the more serious (Mobitz II) type, so 2:1 block is always assessed carefully.
+
+### Bifascicular Block: What It Means on an ECG
+URL: https://www.ecgmeans.com/bifascicular-block/
+Verdict/quick answer: Needs clinician review
+Bifascicular block means two of the three main conduction branches that carry the electrical signal to the ventricles are blocked. The usual combination is a right bundle branch block plus one of the two left-sided fascicles. On its own it often causes no symptoms, but it reflects disease in the heart's wiring and sometimes needs monitoring.
+
+### Incomplete Left Bundle Branch Block: What It Means
+URL: https://www.ecgmeans.com/incomplete-left-bundle-branch-block/
+Verdict/quick answer: Depends on context
+Incomplete left bundle branch block means the left branch of the heart's electrical system is partly delayed — the QRS has an LBBB-like shape but is not yet fully widened. It is less well defined than a complete block and is often a marker of early conduction-system or left-heart changes rather than an acute problem.
 
 ### Incomplete Right Bundle Branch Block on an ECG: What It Means
 URL: https://www.ecgmeans.com/incomplete-right-bundle-branch-block/
@@ -299,6 +384,11 @@ Left bundle branch block (LBBB) means the electrical impulse cannot travel down 
 URL: https://www.ecgmeans.com/left-posterior-fascicular-block/
 Verdict/quick answer: Needs clinician review
 Left posterior fascicular block (LPFB, or left posterior hemiblock) means the posterior branch of the left bundle is delayed. It is much less common than its anterior counterpart, and because the posterior fascicle is short, thick and well-supplied with blood, a block there usually means there is genuine underlying heart disease. It shifts the QRS axis to the right and is a diagnosis of exclusion.
+
+### Lown-Ganong-Levine (LGL) Syndrome
+URL: https://www.ecgmeans.com/lown-ganong-levine-syndrome/
+Verdict/quick answer: Needs clinician review
+Lown-Ganong-Levine (LGL) syndrome is an old term for a short PR interval on the ECG together with a normal, narrow QRS (no delta wave) and episodes of fast heartbeat. It is a form of suspected pre-excitation. The concept is debated today, but if your report mentions it, the key issue is the fast-heartbeat episodes, which deserve assessment.
 
 ### Right Bundle Branch Block: What It Means
 URL: https://www.ecgmeans.com/right-bundle-branch-block/
@@ -330,6 +420,16 @@ URL: https://www.ecgmeans.com/third-degree-av-block/
 Verdict/quick answer: Seek prompt care
 Third degree AV block — complete heart block — means the electrical connection between the upper and lower chambers has failed completely. The atria and ventricles beat independently, and the heart relies on a slow back-up (escape) rhythm to keep going. It is the most serious of the AV blocks and usually needs urgent assessment and a pacemaker.
 
+### Trifascicular Block: What It Means on an ECG
+URL: https://www.ecgmeans.com/trifascicular-block/
+Verdict/quick answer: Needs clinician review
+Trifascicular block refers to disease affecting all three of the branches that carry the electrical signal to the ventricles. In practice the term is most often used for a bifascicular block (two branches) together with a delay in the third, shown as a long PR interval. It reflects widespread conduction-system disease and needs careful assessment.
+
+### Wolff-Parkinson-White (WPW): What It Means
+URL: https://www.ecgmeans.com/wolff-parkinson-white/
+Verdict/quick answer: Needs clinician review
+Wolff-Parkinson-White (WPW) means there is an extra electrical connection (an accessory pathway) between the upper and lower chambers of the heart. On the ECG it shows as a short PR interval and a slurred start to the QRS called a delta wave. Many people never have symptoms, but WPW can cause fast heart-rhythm episodes, so it is always worth a cardiology review.
+
 ## Intervals & Waves
 
 ### Aberrant Conduction on an ECG: What It Means
@@ -342,6 +442,11 @@ URL: https://www.ecgmeans.com/biphasic-t-wave/
 Verdict/quick answer: Depends on context
 A biphasic T wave is one that goes in two directions — partly up and partly down — instead of being a simple single hump. What it means depends on the order and the leads: an up-then-down T wave in the chest leads after chest pain can be an important warning sign (Wellens pattern), while a down-then-up T wave is more often linked with low potassium or a minor change.
 
+### De Winter T Waves: What They Mean on an ECG
+URL: https://www.ecgmeans.com/de-winter-t-waves/
+Verdict/quick answer: Seek prompt care
+De Winter T waves are a pattern of upsloping ST depression leading into tall, symmetrical T waves across the chest leads (V1–V6). They are considered a “STEMI-equivalent” — a sign of a blocked left anterior descending (LAD) artery — even though there is no classic ST elevation. The pattern needs the same urgent treatment as a heart attack.
+
 ### Delta Wave: What It Means on an ECG
 URL: https://www.ecgmeans.com/delta-wave/
 Verdict/quick answer: Needs clinician review
@@ -351,6 +456,21 @@ A delta wave is a slurred, gradual upstroke at the very start of the QRS complex
 URL: https://www.ecgmeans.com/electrical-alternans/
 Verdict/quick answer: Needs clinician review
 Electrical alternans means the height of the QRS complexes changes from one beat to the next in a regular alternating pattern. Its best-known cause is a large collection of fluid around the heart (a pericardial effusion), in which the heart swings within the fluid so that each beat is recorded from a slightly different position. It can also occur with very fast rhythms. New electrical alternans deserves prompt assessment.
+
+### Epsilon Wave: What It Means on an ECG
+URL: https://www.ecgmeans.com/epsilon-wave/
+Verdict/quick answer: Needs clinician review
+An epsilon wave is a small, low-amplitude deflection that appears just after the QRS complex, in the early part of the ST segment. It is best known as a marker of arrhythmogenic right ventricular cardiomyopathy (ARVC), a condition that can cause dangerous rhythms, so it always warrants specialist assessment.
+
+### Fragmented QRS: What It Means on an ECG
+URL: https://www.ecgmeans.com/fragmented-qrs/
+Verdict/quick answer: Needs clinician review
+A fragmented QRS means the QRS complex has extra notches or spikes rather than a smooth shape, reflecting scarred or diseased heart muscle that slows and splinters the electrical signal. It is often a subtle marker of previous heart damage and can carry prognostic information, so it is interpreted alongside your history and other tests.
+
+### Hyperacute T Waves: What They Mean on an ECG
+URL: https://www.ecgmeans.com/hyperacute-t-waves/
+Verdict/quick answer: Seek prompt care
+Hyperacute T waves are tall, broad, often symmetrical T waves that can be the very first ECG change of a heart attack — appearing even before the classic ST elevation. Because they can come and go quickly and precede obvious changes, they are an important early warning sign that needs urgent assessment when chest symptoms are present.
 
 ### Inverted P Wave on an ECG: What It Means
 URL: https://www.ecgmeans.com/inverted-p-wave/
@@ -366,6 +486,11 @@ Verdict/quick answer: Usually harmless
 URL: https://www.ecgmeans.com/osborn-wave/
 Verdict/quick answer: Needs clinician review
 An Osborn wave — also called a J wave — is an extra positive deflection or notch at the junction where the QRS ends and the ST segment begins (the J point). Its classic cause is hypothermia (a dangerously low body temperature), and the colder the person, the larger the wave. It also appears with high blood calcium and some other conditions, and it typically disappears as the cause is corrected.
+
+### Pathological Q Waves: What They Mean on an ECG
+URL: https://www.ecgmeans.com/pathological-q-waves/
+Verdict/quick answer: Needs clinician review
+Pathological Q waves are abnormally deep or wide Q waves that usually indicate scar from a previous heart attack. Small, narrow Q waves can be completely normal, so the distinction matters. On their own, pathological Q waves often reflect an old, healed event rather than an emergency, but they should be interpreted by a doctor.
 
 ### Peaked T Waves: What They Mean on an ECG
 URL: https://www.ecgmeans.com/peaked-t-waves/

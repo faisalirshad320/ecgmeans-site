@@ -1,0 +1,70 @@
+@@TITLE@@
+Junctional Bradycardia: What It Means on an ECG
+@@DESC@@
+Junctional bradycardia is a slow heart rhythm from the AV junction, often under 40 beats per minute. Learn what it means, common causes and when it matters.
+@@H1@@
+Junctional Bradycardia: What It Means on an ECG
+@@CATEGORY@@
+Heart Rhythms | https://www.ecgmeans.com/heart-rhythms/
+@@QUICK@@
+Depends on context
+@@LEDE@@
+Junctional bradycardia means a slow heart rhythm that is being driven from the AV junction (the area around the AV node) rather than the normal sinus pacemaker, usually at a rate below about 40 beats per minute. It can be a normal back-up rhythm or a sign that the sinus node or AV conduction is not working well, so the context matters.
+@@BODY@@
+## What "junctional bradycardia" means
+
+The heart's normal pacemaker is the sinus node. If it slows too much or its signal is blocked, a back-up pacemaker in the AV junction can take over. The junction's natural rate is slow — about 40–60 beats per minute — and when it drives the heart below roughly 40, it is called junctional bradycardia.
+
+## What it looks like on the ECG
+
+A regular, slow rhythm with narrow QRS complexes. P waves are often absent, hidden inside the QRS, or inverted and appearing just before or just after the QRS, because the atria are activated backwards from the junction.
+
+## Common causes
+
+- A normal finding in fit, young people or during sleep (high vagal tone)
+- Medicines that slow the heart (beta-blockers, calcium-channel blockers, digoxin)
+- Sick sinus syndrome, where the sinus node under-performs
+- After heart surgery or a heart attack
+- Low thyroid function or electrolyte problems
+
+## Should you worry?
+
+If the slow rhythm causes no symptoms and there is a clear cause such as medication, it may simply need observation. If it causes tiredness, dizziness, breathlessness or fainting, or the rate is very slow, it needs assessment and treatment of the cause.
+
+**Get prompt care** if junctional bradycardia comes with fainting, near-fainting, chest pain or severe breathlessness.
+
+## What it can feel like
+Many people with a slow junctional rhythm feel completely normal, especially if they are fit or it happens during sleep. When the rate is too slow to meet the body's needs, it can cause tiredness, lightheadedness, breathlessness on exertion, or, at its most severe, fainting. Symptoms like these, rather than the number alone, are usually what decide whether treatment is needed.
+
+## What usually happens next
+
+1. A review of medicines that slow the heart
+2. Blood tests for thyroid function and electrolytes
+3. Monitoring to see how slow and how symptomatic the rhythm is
+4. Treating the cause; a pacemaker only if there are symptoms from a persistently slow rhythm
+
+### Questions to ask your doctor
+
+- Is one of my medicines slowing my heart?
+- Is my sinus node working normally?
+- Do my symptoms mean I need a pacemaker?
+@@FAQ@@
+Q: Is junctional bradycardia dangerous?
+A: It is often a harmless back-up rhythm, but it can cause symptoms if too slow, and it may point to a sinus node or medication problem that needs treatment.
+Q: Why are there no normal P waves?
+A: Because the beat starts in the AV junction, not the sinus node, so the atria are activated backwards; P waves are often hidden, inverted, or absent.
+Q: How is junctional bradycardia treated?
+A: By correcting the cause — adjusting heart-slowing medicines, treating thyroid or electrolyte problems — and, if symptoms persist from a slow rate, considering a pacemaker.
+@@RELATED@@
+Junctional Rhythm: What It Means on an ECG | https://www.ecgmeans.com/junctional-rhythm/ | Depends on context
+Junctional Escape Rhythm: What It Means | https://www.ecgmeans.com/junctional-escape-rhythm/ | Depends on context
+Sinus Bradycardia: What It Means | https://www.ecgmeans.com/sinus-bradycardia/ | Depends on context
+Sick Sinus Syndrome: What It Means | https://www.ecgmeans.com/sick-sinus-syndrome/ | Needs clinician review
+Accelerated Junctional Rhythm: What It Means | https://www.ecgmeans.com/accelerated-junctional-rhythm/ | Depends on context
+@@ALSO@@
+junctional bradycardia, slow junctional rhythm, junctional escape bradycardia
+@@SOURCES@@
+Junctional Rhythm | https://litfl.com/junctional-escape-rhythm-ecg-library/
+Junctional Rhythm | https://www.ncbi.nlm.nih.gov/books/NBK507715/
+Bradycardia | https://my.clevelandclinic.org/health/diseases/17841-bradycardia
+@@END@@

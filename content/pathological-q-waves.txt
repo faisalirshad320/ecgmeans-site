@@ -1,0 +1,62 @@
+@@TITLE@@
+Pathological Q Waves: What They Mean on an ECG
+@@DESC@@
+Pathological Q waves are deep or wide Q waves that often signal a past heart attack. Learn what they mean on an ECG, how they differ from normal Q waves.
+@@H1@@
+Pathological Q Waves: What They Mean on an ECG
+@@CATEGORY@@
+Intervals & Waves | https://www.ecgmeans.com/ecg-intervals-waves/
+@@QUICK@@
+Needs clinician review
+@@LEDE@@
+Pathological Q waves are abnormally deep or wide Q waves that usually indicate scar from a previous heart attack. Small, narrow Q waves can be completely normal, so the distinction matters. On their own, pathological Q waves often reflect an old, healed event rather than an emergency, but they should be interpreted by a doctor.
+@@BODY@@
+## What "pathological Q waves" mean
+
+The Q wave is the first small downward deflection at the start of the QRS complex. Many people have small, normal Q waves. A Q wave becomes "pathological" when it is too deep or too wide — generally wider than 0.04 seconds (one small square) or deeper than a quarter of the following R wave — which usually means an area of heart muscle has been replaced by scar after a heart attack.
+
+## What they look like on the ECG
+
+Deep or broad Q waves grouped in the leads that look at one region of the heart (for example, the inferior or anterior leads). Their location points to which part of the heart was previously affected.
+
+## Why they matter
+
+Pathological Q waves most often indicate a prior (sometimes silent) heart attack. Because they usually represent established scar, they tend to be permanent and are not themselves an emergency. However, they tell your doctor about past heart damage that affects long-term care. New Q waves developing during acute symptoms are a different, urgent situation.
+
+**Get prompt care** if Q waves are found alongside current chest pain, breathlessness or other heart-attack symptoms.
+
+## How doctors judge a Q wave
+Not every Q wave is abnormal — small, narrow Q waves in certain leads are a normal part of the heart's activation. A Q wave is judged pathological mainly by its width (0.04 seconds or more) and depth (more than a quarter of the following R wave), and by appearing in a group of leads that look at the same region. Its location on the ECG points to which wall of the heart was affected.
+
+## What usually happens next
+
+1. Comparison with old ECGs to judge whether the Q waves are new or old
+2. An echocardiogram to look at heart muscle function and scar
+3. Consideration of the underlying coronary artery disease and risk factors
+4. Treatment focused on protecting the remaining heart muscle
+
+### Questions to ask your doctor
+
+- Do my Q waves suggest a past heart attack, and where?
+- Is my heart's pumping function affected?
+- What should I do to protect my heart going forward?
+@@FAQ@@
+Q: Do pathological Q waves always mean a heart attack?
+A: They usually indicate scar from a previous heart attack, but a doctor interprets them with your history and other tests, as some Q waves have other causes.
+Q: How are normal Q waves different from pathological ones?
+A: Normal Q waves are small and narrow; pathological Q waves are deep (over a quarter of the R wave) or wide (0.04 seconds or more).
+Q: Are pathological Q waves an emergency?
+A: Usually not — they often reflect an old, healed heart attack. New Q waves with current chest symptoms are urgent.
+@@RELATED@@
+Anterior Infarct (Age Undetermined): ECG Meaning | https://www.ecgmeans.com/anterior-infarct-age-undetermined/ | Needs clinician review
+Inferior Infarct (Age Undetermined): ECG Meaning | https://www.ecgmeans.com/inferior-infarct-age-undetermined/ | Needs clinician review
+Septal Infarct: What It Means on an ECG | https://www.ecgmeans.com/septal-infarct/ | Needs clinician review
+Poor R Wave Progression: What It Means | https://www.ecgmeans.com/poor-r-wave-progression/ | Depends on context
+Posterior MI: What It Means on an ECG | https://www.ecgmeans.com/posterior-mi/ | Seek prompt care
+@@ALSO@@
+pathological q waves, q waves on ecg, abnormal q waves, q wave myocardial infarction
+@@SOURCES@@
+Q Wave | https://litfl.com/q-wave-ecg-library/
+Pathologic Q Waves | https://www.ncbi.nlm.nih.gov/books/NBK544254/
+Heart Attack (Myocardial Infarction) | https://my.clevelandclinic.org/health/diseases/16818-heart-attack-myocardial-infarction
+@@END@@

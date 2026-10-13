@@ -1,0 +1,62 @@
+@@TITLE@@
+Incomplete Left Bundle Branch Block: ECG Meaning
+@@DESC@@
+Incomplete left bundle branch block is a partial delay in the heart's left conduction branch, with a QRS not yet fully widened. Learn what it means on an ECG.
+@@H1@@
+Incomplete Left Bundle Branch Block: What It Means
+@@CATEGORY@@
+Heart Blocks & Conduction | https://www.ecgmeans.com/heart-block-conduction/
+@@QUICK@@
+Depends on context
+@@LEDE@@
+Incomplete left bundle branch block means the left branch of the heart's electrical system is partly delayed — the QRS has an LBBB-like shape but is not yet fully widened. It is less well defined than a complete block and is often a marker of early conduction-system or left-heart changes rather than an acute problem.
+@@BODY@@
+## What "incomplete left bundle branch block" means
+
+The left bundle branch carries the electrical signal to the left ventricle. In a complete left bundle branch block (LBBB) this branch is fully blocked and the QRS becomes wide (0.12 seconds or more). In the incomplete form, conduction is only partially delayed, so the QRS shows LBBB-like features but measures between about 0.11 and 0.12 seconds — wider than normal but not fully widened.
+
+## What it looks like on the ECG
+
+A QRS with a left-bundle shape (broad, notched R waves in the lateral leads and a loss of the normal small septal q waves) but of borderline width. The changes are milder than in complete LBBB.
+
+## Why it matters
+
+Incomplete LBBB is often a sign of early changes in the conduction system or thickening of the left ventricle (for example from long-standing high blood pressure). On its own it rarely causes symptoms, but it can progress to complete LBBB over time and is worth noting in the context of your overall heart health.
+
+**Get checked** if it appears with chest pain, breathlessness, fainting, or if it is a new change from a previous ECG.
+
+## Why it is less clearly defined
+Unlike complete LBBB, which has agreed criteria, the incomplete form sits in a grey zone between normal conduction and a full block, and different reports may describe borderline tracings differently. What matters clinically is less the exact label and more whether it is new, whether there are symptoms, and whether there is an underlying cause such as left ventricular thickening from high blood pressure.
+
+## What usually happens next
+
+1. Comparison with old ECGs to see if it is new or progressing
+2. Checking blood pressure and risk factors for heart disease
+3. An echocardiogram if there are symptoms or signs of left-heart thickening
+4. Routine follow-up to watch for progression
+
+### Questions to ask your doctor
+
+- Is this a new change on my ECG?
+- Could it be related to my blood pressure?
+- Do I need an echocardiogram or follow-up?
+@@FAQ@@
+Q: Is incomplete left bundle branch block serious?
+A: Usually it is not serious on its own, but it can mark early conduction-system or left-heart changes and may progress to complete LBBB, so context and follow-up matter.
+Q: How is it different from complete LBBB?
+A: In complete LBBB the QRS is fully widened (0.12 seconds or more); in the incomplete form the QRS has an LBBB shape but is only borderline wide.
+Q: Does incomplete LBBB need treatment?
+A: The pattern itself is not treated; care focuses on any underlying cause such as high blood pressure and on monitoring for progression.
+@@RELATED@@
+Left Bundle Branch Block (LBBB): What It Means | https://www.ecgmeans.com/left-bundle-branch-block/ | Needs clinician review
+Incomplete Right Bundle Branch Block: What It Means | https://www.ecgmeans.com/incomplete-right-bundle-branch-block/ | Depends on context
+LBBB vs RBBB: What's the Difference? | https://www.ecgmeans.com/lbbb-vs-rbbb/ | Needs clinician review
+Left Ventricular Hypertrophy: What It Means | https://www.ecgmeans.com/left-ventricular-hypertrophy/ | Needs clinician review
+Wide QRS Complex: What It Means | https://www.ecgmeans.com/wide-qrs-complex/ | Needs clinician review
+@@ALSO@@
+incomplete left bundle branch block, incomplete lbbb, partial lbbb
+@@SOURCES@@
+Left Bundle Branch Block | https://litfl.com/left-bundle-branch-block-lbbb-ecg-library/
+Left Bundle Branch Block | https://www.ncbi.nlm.nih.gov/books/NBK482167/
+Bundle Branch Block | https://my.clevelandclinic.org/health/diseases/23515-bundle-branch-block
+@@END@@

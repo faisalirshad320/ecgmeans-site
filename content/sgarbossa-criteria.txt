@@ -1,0 +1,66 @@
+@@TITLE@@
+Sgarbossa Criteria: Spotting a Heart Attack in LBBB
+@@DESC@@
+The Sgarbossa criteria help detect a heart attack when the ECG already shows a left bundle branch block or a paced rhythm. Learn what the three signs mean.
+@@H1@@
+Sgarbossa Criteria: Finding a Heart Attack in LBBB
+@@CATEGORY@@
+ECG Report Phrases | https://www.ecgmeans.com/ecg-report-phrases/
+@@QUICK@@
+Seek prompt care
+@@LEDE@@
+The Sgarbossa criteria are three ECG signs that help doctors spot a heart attack (STEMI) when the usual signs are hidden by a left bundle branch block (LBBB) or a pacemaker. A normal LBBB already distorts the ST segments, so these rules look for changes that go beyond what the block alone would cause. If your report mentions them, it is in the context of a possible heart attack and needs urgent care.
+@@BODY@@
+## Why the Sgarbossa criteria exist
+
+A left bundle branch block (LBBB) and ventricular pacing both change the shape of the QRS and the ST segment, which can hide — or mimic — the signs of a heart attack. In 1996 Dr. Elena Sgarbossa and colleagues published three ECG criteria to tell a real heart attack apart from the expected changes of LBBB.
+
+## The three criteria
+
+1. **Concordant ST elevation** — the ST segment rises at least 1 mm in a lead where the main QRS deflection also points up (5 points). This is the most specific sign.
+2. **Concordant ST depression** — the ST segment drops at least 1 mm in leads V1, V2 or V3 (3 points).
+3. **Excessively discordant ST elevation** — the ST segment rises by at least 5 mm in a lead where the QRS mainly points down (2 points).
+
+A total score of 3 or more points strongly suggests a heart attack. The modified (Smith) version replaces the third rule with a ratio: ST elevation that is at least 25% of the depth of the S wave.
+
+## What it means on your report
+
+Seeing "Sgarbossa criteria" means the reading doctor was carefully checking whether a heart attack is hidden behind an LBBB or paced rhythm. A positive result is treated as a heart attack until proven otherwise.
+
+**This is an emergency context.** Chest pain or pressure, breathlessness, sweating, or arm or jaw pain with these findings needs immediate medical attention — call emergency services.
+
+## Why the normal LBBB pattern is misleading
+In an uncomplicated left bundle branch block, the ST segment and T wave normally point the opposite way to the main QRS deflection, so some ST shift is expected and does not mean a heart attack. The Sgarbossa criteria work by flagging only the changes that go beyond this expected "discordance", which is why concordant (same-direction) ST shifts are such a strong signal of a real heart attack.
+
+## What usually happens next
+
+1. Immediate comparison with any old ECGs to see whether the LBBB is new
+2. Blood tests for troponin, repeated over a few hours
+3. Urgent cardiology review and, if a heart attack is confirmed, angiography
+4. Treatment of the blockage, often with an emergency stent
+
+### Questions to ask your doctor
+
+- Is my left bundle branch block new or old?
+- Did my troponin blood test rise?
+- Do I need an angiogram now?
+@@FAQ@@
+Q: What do the Sgarbossa criteria detect?
+A: They detect an acute heart attack (STEMI) in people whose ECG shows a left bundle branch block or a paced rhythm, where the usual STEMI signs are obscured.
+Q: What Sgarbossa score suggests a heart attack?
+A: A total of 3 or more points is considered positive and is treated as a heart attack until proven otherwise.
+Q: What is the modified Sgarbossa (Smith) criterion?
+A: It replaces the third rule with a proportion: ST elevation that is at least one quarter (25%) of the depth of the preceding S wave.
+@@RELATED@@
+Left Bundle Branch Block (LBBB): What It Means | https://www.ecgmeans.com/left-bundle-branch-block/ | Needs clinician review
+STEMI vs NSTEMI: What's the Difference? | https://www.ecgmeans.com/stemi-vs-nstemi/ | Seek prompt care
+ST Elevation: What It Means on an ECG | https://www.ecgmeans.com/st-elevation/ | Seek prompt care
+Paced Rhythm: What It Means on an ECG | https://www.ecgmeans.com/paced-rhythm/ | Needs clinician review
+Wellens Syndrome: What It Means | https://www.ecgmeans.com/wellens-syndrome/ | Seek prompt care
+@@ALSO@@
+sgarbossa criteria, sgarbossa, modified sgarbossa, stemi in lbbb, smith modified sgarbossa
+@@SOURCES@@
+Sgarbossa Criteria | https://litfl.com/sgarbossa-criteria-ecg-library/
+MI in Left Bundle Branch Block (Sgarbossa) | https://www.ncbi.nlm.nih.gov/books/NBK553123/
+Diagnosis of Acute MI in LBBB | https://www.ahajournals.org/doi/10.1161/circ.94.4.874
+@@END@@

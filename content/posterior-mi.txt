@@ -1,0 +1,62 @@
+@@TITLE@@
+Posterior MI: What It Means on an ECG
+@@DESC@@
+A posterior MI is a heart attack affecting the back of the heart, shown by ST depression and tall R waves in V1–V3. Learn what it means and why it is urgent.
+@@H1@@
+Posterior MI: What It Means on an ECG
+@@CATEGORY@@
+ECG Report Phrases | https://www.ecgmeans.com/ecg-report-phrases/
+@@QUICK@@
+Seek prompt care
+@@LEDE@@
+A posterior MI is a heart attack affecting the back wall of the heart. Standard ECG leads do not look directly at this area, so it shows up as mirror-image changes — ST depression and tall R waves in the front chest leads (V1–V3). It is easy to miss, which is why it is important, and it needs urgent treatment like any heart attack.
+@@BODY@@
+## What "posterior MI" means
+
+A heart attack (myocardial infarction, MI) happens when a coronary artery is blocked and part of the heart muscle is starved of blood. A posterior MI affects the back wall of the heart. Because the standard 12 leads do not sit over the back, the usual sign of a heart attack — ST elevation — is not seen directly. Instead, the front leads show a mirror image.
+
+## What it looks like on the ECG
+
+In leads V1–V3 the ECG shows the reverse of a heart attack: ST depression (instead of elevation), tall and broad R waves (instead of deep Q waves), and upright T waves. Placing extra leads on the back (V7–V9) can reveal the true ST elevation and confirm the diagnosis. Posterior MI often accompanies an inferior or lateral heart attack.
+
+## Why it matters
+
+Because it hides in the standard leads, a posterior MI can be missed and treatment delayed. It is a genuine heart attack and, when recognised, is treated as urgently as any ST-elevation heart attack.
+
+**This is an emergency.** Chest pain or pressure, breathlessness, sweating, nausea, or arm or jaw pain needs immediate medical attention — call emergency services.
+
+## Which artery is usually involved
+The back wall of the heart is most often supplied by the right coronary artery or the circumflex branch of the left coronary artery, so a posterior MI usually reflects a blockage in one of these. This is also why it so often occurs together with an inferior or lateral heart attack, which share the same blood supply — recognising the mirror-image changes can reveal a larger area at risk than the standard leads suggest.
+
+## What usually happens next
+
+1. Recognising the mirror-image changes in V1–V3
+2. Recording posterior leads (V7–V9) to confirm ST elevation
+3. Serial troponin blood tests and urgent cardiology review
+4. Emergency angiography and opening of the blocked artery, usually with a stent
+
+### Questions to ask your doctor
+
+- Were posterior leads (V7–V9) recorded?
+- Which artery was blocked?
+- What treatment do I need right now?
+@@FAQ@@
+Q: Why is a posterior MI easy to miss?
+A: Because the standard ECG leads do not look directly at the back of the heart, so it shows only as mirror-image changes (ST depression and tall R waves) in V1–V3.
+Q: How is a posterior MI confirmed?
+A: By recording extra leads placed on the back (V7–V9), which reveal the ST elevation that is hidden on the standard 12-lead ECG.
+Q: Is a posterior MI as serious as other heart attacks?
+A: Yes — it is a true heart attack and is treated as an emergency, usually with urgent angiography and a stent.
+@@RELATED@@
+ST Depression: What It Means on an ECG | https://www.ecgmeans.com/st-depression/ | Needs clinician review
+Inferior Infarct (Age Undetermined): ECG Meaning | https://www.ecgmeans.com/inferior-infarct-age-undetermined/ | Needs clinician review
+Lateral Infarct: What It Means on an ECG | https://www.ecgmeans.com/lateral-infarct/ | Needs clinician review
+STEMI vs NSTEMI: What's the Difference? | https://www.ecgmeans.com/stemi-vs-nstemi/ | Seek prompt care
+Pathological Q Waves: What They Mean | https://www.ecgmeans.com/pathological-q-waves/ | Needs clinician review
+@@ALSO@@
+posterior mi, posterior infarct, posterior stemi, posterior myocardial infarction
+@@SOURCES@@
+Posterior Myocardial Infarction | https://litfl.com/posterior-myocardial-infarction-ecg-library/
+Posterior Myocardial Infarction | https://www.ncbi.nlm.nih.gov/books/NBK553039/
+Heart Attack (Myocardial Infarction) | https://my.clevelandclinic.org/health/diseases/16818-heart-attack-myocardial-infarction
+@@END@@

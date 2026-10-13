@@ -1,0 +1,71 @@
+@@TITLE@@
+Ventricular Bigeminy: What It Means on an ECG
+@@DESC@@
+Ventricular bigeminy means every normal beat is followed by a PVC (an extra ventricular beat). Learn what it means, common causes and when it matters.
+@@H1@@
+Ventricular Bigeminy: What It Means on an ECG
+@@CATEGORY@@
+Heart Rhythms | https://www.ecgmeans.com/heart-rhythms/
+@@QUICK@@
+Depends on context
+@@LEDE@@
+Ventricular bigeminy means the ECG shows a repeating pattern where every normal beat is followed by a premature ventricular contraction (PVC) — an early, wide beat from the ventricles. It often feels like skipped beats or a flip-flop in the chest. It is frequently harmless, but a doctor should check how often it occurs and whether the heart is otherwise normal.
+@@BODY@@
+## What "ventricular bigeminy" means
+
+A premature ventricular contraction (PVC) is an extra heartbeat that starts in the ventricles instead of the normal pacemaker. In ventricular bigeminy, PVCs alternate one-for-one with normal beats: normal – PVC – normal – PVC, in a steady repeating pair. "Bi-" means two, describing the repeating pair.
+
+## What it looks like on the ECG
+
+A regular alternation between a normal narrow QRS (preceded by a P wave) and a wide, oddly shaped QRS with no preceding P wave. The wide beat usually comes early and is often followed by a slightly longer pause before the next normal beat.
+
+## Common causes
+
+- Perfectly normal hearts — PVCs are very common and often mean nothing
+- Caffeine, alcohol, nicotine, stress and tiredness
+- Low potassium or magnesium
+- An overactive thyroid
+- Underlying heart disease (previous heart attack, cardiomyopathy or valve disease)
+- Some medications and stimulants
+
+## Should you worry?
+
+Occasional bigeminy in a structurally normal heart is usually benign, even though it can feel unsettling. What matters is how many PVCs there are over a day and whether the heart is otherwise healthy. A very high PVC burden (often quoted as more than 10–15% of beats) can, over time, weaken the heart and deserves follow-up.
+
+**Get checked promptly** if bigeminy comes with fainting, chest pain, severe breathlessness, or a family history of sudden cardiac death.
+
+## How common is it?
+Occasional PVCs occur in most healthy people, and short runs of bigeminy are a frequent, often incidental finding. They become more common with age, caffeine and stress, and during illness. In a normal heart they rarely cause harm, but because a very high PVC burden can occasionally weaken the heart muscle over months, the total number over a day is what guides whether any treatment is needed.
+
+## What usually happens next
+
+1. A review of symptoms, caffeine, alcohol and medications
+2. Blood tests for potassium, magnesium and thyroid function
+3. A Holter monitor to count the PVC burden over 24–48 hours
+4. An echocardiogram if the burden is high or the heart may be abnormal
+
+### Questions to ask your doctor
+
+- What percentage of my beats are PVCs?
+- Is my heart structurally normal on an echo?
+- Do I need treatment, or just reassurance and lifestyle changes?
+@@FAQ@@
+Q: Is ventricular bigeminy dangerous?
+A: In a structurally normal heart it is usually benign, but a very high PVC burden over time can weaken the heart, so the frequency and the underlying heart should be checked.
+Q: What does ventricular bigeminy feel like?
+A: Many people feel skipped beats, a thud or a fluttering in the chest; others feel nothing at all.
+Q: How is it treated?
+A: Often just reassurance and cutting triggers like caffeine. If PVCs are very frequent or symptomatic, medication or a catheter ablation may be considered.
+@@RELATED@@
+Premature Ventricular Contractions (PVCs): What They Mean | https://www.ecgmeans.com/premature-ventricular-contractions/ | Depends on context
+Bigeminy: What It Means on an ECG | https://www.ecgmeans.com/bigeminy/ | Depends on context
+Trigeminy: What It Means on an ECG | https://www.ecgmeans.com/trigeminy/ | Depends on context
+Ventricular Trigeminy: What It Means | https://www.ecgmeans.com/ventricular-trigeminy/ | Depends on context
+Ventricular Couplet: What It Means | https://www.ecgmeans.com/ventricular-couplet/ | Depends on context
+@@ALSO@@
+ventricular bigeminy, pvc bigeminy, bigeminy ecg, every other beat pvc
+@@SOURCES@@
+Premature Ventricular Contractions (PVCs) | https://my.clevelandclinic.org/health/diseases/17381-premature-ventricular-contractions-pvcs
+Premature Ventricular Complex (PVC) | https://litfl.com/premature-ventricular-complex-pvc-ecg-library/
+Premature Ventricular Contraction | https://www.ncbi.nlm.nih.gov/books/NBK532991/
+@@END@@

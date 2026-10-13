@@ -1,0 +1,62 @@
+@@TITLE@@
+Hyperacute T Waves: What They Mean on an ECG
+@@DESC@@
+Hyperacute T waves are tall, broad T waves that can be the earliest sign of a heart attack. Learn what they mean on an ECG and why they need urgent attention.
+@@H1@@
+Hyperacute T Waves: What They Mean on an ECG
+@@CATEGORY@@
+Intervals & Waves | https://www.ecgmeans.com/ecg-intervals-waves/
+@@QUICK@@
+Seek prompt care
+@@LEDE@@
+Hyperacute T waves are tall, broad, often symmetrical T waves that can be the very first ECG change of a heart attack — appearing even before the classic ST elevation. Because they can come and go quickly and precede obvious changes, they are an important early warning sign that needs urgent assessment when chest symptoms are present.
+@@BODY@@
+## What "hyperacute T waves" mean
+
+The T wave shows the heart muscle recovering after each beat. In the earliest minutes of a heart attack, before ST elevation develops, the affected area can produce T waves that become unusually tall, wide at the base and more symmetrical than normal. These are called hyperacute T waves.
+
+## What they look like on the ECG
+
+Tall, broad T waves that are often symmetrical and sit on a widened base, usually grouped in the leads looking at one region of the heart. They can look similar to the peaked T waves of high potassium, but those are typically narrow and tented rather than broad.
+
+## Why they matter
+
+Hyperacute T waves can be the first sign of a blocked coronary artery. They are transient and may evolve into ST elevation (a STEMI) over minutes. Recognising them early, in the right clinical setting, can mean faster treatment and more heart muscle saved.
+
+**This can be an emergency.** Tall T-wave changes with chest pain or pressure, breathlessness, sweating, or arm or jaw discomfort need immediate medical attention — call emergency services.
+
+## Why they are easy to miss
+Hyperacute T waves are fleeting — they can appear within minutes of an artery blocking and then evolve into ST elevation, so a single early ECG may show only this subtle change. They can also be mistaken for the normal tall T waves some healthy people have, or for the peaked T waves of high potassium. Comparing with an old ECG and repeating the tracing quickly are the keys to catching them.
+
+## What usually happens next
+
+1. Immediate repeat and continuous ECGs to watch for ST elevation
+2. Comparison with old tracings and a check of potassium levels
+3. Serial troponin blood tests
+4. Urgent cardiology review and angiography if a heart attack is confirmed
+
+### Questions to ask your doctor
+
+- Are my T-wave changes from the heart or from potassium?
+- Do I need repeat ECGs to watch for a heart attack?
+- Should I have an angiogram?
+@@FAQ@@
+Q: What do hyperacute T waves indicate?
+A: They can be the earliest ECG sign of a heart attack, often appearing before ST elevation, and so need urgent assessment when chest symptoms are present.
+Q: How are hyperacute T waves different from peaked T waves of high potassium?
+A: Hyperacute T waves are tall and broad with a wide base; the peaked T waves of high potassium are usually narrow and sharply pointed (tented).
+Q: Are hyperacute T waves always a heart attack?
+A: Not always, but in someone with chest pain they are treated as a possible early heart attack until proven otherwise.
+@@RELATED@@
+ST Elevation: What It Means on an ECG | https://www.ecgmeans.com/st-elevation/ | Seek prompt care
+Peaked T Waves: What They Mean | https://www.ecgmeans.com/peaked-t-waves/ | Needs clinician review
+T Wave Inversion: What It Means on an ECG | https://www.ecgmeans.com/t-wave-inversion/ | Needs clinician review
+De Winter T Waves: What They Mean | https://www.ecgmeans.com/de-winter-t-waves/ | Seek prompt care
+STEMI vs NSTEMI: What's the Difference? | https://www.ecgmeans.com/stemi-vs-nstemi/ | Seek prompt care
+@@ALSO@@
+hyperacute t waves, hyperacute t wave, tall broad t waves, early stemi t waves
+@@SOURCES@@
+Hyperacute T Waves | https://litfl.com/hyperacute-t-waves-ecg-library/
+T Wave Changes in Myocardial Ischemia | https://www.ncbi.nlm.nih.gov/books/NBK459364/
+Heart Attack (Myocardial Infarction) | https://my.clevelandclinic.org/health/diseases/16818-heart-attack-myocardial-infarction
+@@END@@

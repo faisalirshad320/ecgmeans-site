@@ -1,0 +1,62 @@
+@@TITLE@@
+Wolff-Parkinson-White (WPW) on an ECG
+@@DESC@@
+Wolff-Parkinson-White (WPW) is an extra electrical pathway that shows as a short PR and a delta wave on the ECG. Learn what WPW means and when it matters.
+@@H1@@
+Wolff-Parkinson-White (WPW): What It Means
+@@CATEGORY@@
+Heart Blocks & Conduction | https://www.ecgmeans.com/heart-block-conduction/
+@@QUICK@@
+Needs clinician review
+@@LEDE@@
+Wolff-Parkinson-White (WPW) means there is an extra electrical connection (an accessory pathway) between the upper and lower chambers of the heart. On the ECG it shows as a short PR interval and a slurred start to the QRS called a delta wave. Many people never have symptoms, but WPW can cause fast heart-rhythm episodes, so it is always worth a cardiology review.
+@@BODY@@
+## What "Wolff-Parkinson-White" means
+
+Normally electricity travels from the atria to the ventricles through one route — the AV node — which deliberately slows the signal. In WPW there is an extra pathway (often called the "bundle of Kent") that bypasses this delay, so part of the ventricle is activated early. This early activation is called pre-excitation.
+
+## What it looks like on the ECG
+
+Three classic features appear together: a **short PR interval** (under 0.12 seconds), a **delta wave** (a slurred, slow upstroke at the beginning of the QRS), and a slightly **widened QRS**. The ST segment and T wave often point the opposite way to the delta wave.
+
+## Why it matters
+
+The extra pathway can set up a short circuit, letting electrical signals spin around in a loop and trigger a fast heart rhythm (a re-entrant tachycardia or SVT). Less commonly, if atrial fibrillation develops, the pathway can conduct dangerously fast. The combination of WPW on the ECG plus episodes of fast heartbeat is called WPW syndrome.
+
+**Seek prompt care** for episodes of a very fast, pounding heartbeat, especially with chest pain, breathlessness, dizziness or fainting.
+
+## How common is WPW?
+The WPW pattern is found on roughly 1 to 3 of every 1,000 ECGs, and many of these people never have symptoms. A smaller group has episodes of fast heartbeat (WPW syndrome). It is one of the more common causes of SVT in younger people, which is why it is often picked up in otherwise healthy teenagers and young adults during a routine or symptom-triggered ECG.
+
+## What usually happens next
+
+1. Confirmation on a 12-lead ECG, comparing with old tracings
+2. Assessment of symptoms and sometimes a monitor to catch episodes
+3. Risk assessment of the pathway, sometimes with an electrophysiology (EP) study
+4. Catheter ablation, which can cure WPW by destroying the extra pathway, for those with symptoms or a higher-risk pathway
+
+### Questions to ask your doctor
+
+- Do I have WPW on the ECG only, or WPW syndrome with symptoms?
+- Is my accessory pathway high-risk?
+- Would an EP study or ablation be right for me?
+@@FAQ@@
+Q: Is Wolff-Parkinson-White dangerous?
+A: Most people do well, but WPW can cause fast heart-rhythm episodes and, rarely, a dangerous rhythm, so it should always be assessed by a cardiologist.
+Q: What are the ECG signs of WPW?
+A: A short PR interval, a delta wave (a slurred start to the QRS), and a somewhat wide QRS.
+Q: Can WPW be cured?
+A: Yes — catheter ablation of the extra pathway cures most people and is often recommended for those with symptoms or a higher-risk pathway.
+@@RELATED@@
+Delta Wave: What It Means on an ECG | https://www.ecgmeans.com/delta-wave/ | Needs clinician review
+Short PR Interval: What It Means | https://www.ecgmeans.com/short-pr-interval/ | Depends on context
+Supraventricular Tachycardia (SVT): What It Means | https://www.ecgmeans.com/supraventricular-tachycardia/ | Seek prompt care
+Lown-Ganong-Levine Syndrome: What It Means | https://www.ecgmeans.com/lown-ganong-levine-syndrome/ | Needs clinician review
+PR Interval: What It Means on an ECG | https://www.ecgmeans.com/pr-interval/ | Depends on context
+@@ALSO@@
+wolff parkinson white, wpw, wpw ecg, pre-excitation, delta wave, bundle of kent
+@@SOURCES@@
+Wolff-Parkinson-White (WPW) Syndrome | https://my.clevelandclinic.org/health/diseases/21882-wolff-parkinson-white-syndrome
+Pre-excitation Syndromes (WPW) | https://litfl.com/pre-excitation-syndromes-ecg-library/
+Wolff-Parkinson-White Syndrome | https://www.ncbi.nlm.nih.gov/books/NBK554437/
+@@END@@

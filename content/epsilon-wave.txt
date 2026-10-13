@@ -1,0 +1,62 @@
+@@TITLE@@
+Epsilon Wave: What It Means on an ECG
+@@DESC@@
+An epsilon wave is a small deflection after the QRS, best known as a sign of ARVC. Learn what an epsilon wave means on an ECG and why it needs assessment.
+@@H1@@
+Epsilon Wave: What It Means on an ECG
+@@CATEGORY@@
+Intervals & Waves | https://www.ecgmeans.com/ecg-intervals-waves/
+@@QUICK@@
+Needs clinician review
+@@LEDE@@
+An epsilon wave is a small, low-amplitude deflection that appears just after the QRS complex, in the early part of the ST segment. It is best known as a marker of arrhythmogenic right ventricular cardiomyopathy (ARVC), a condition that can cause dangerous rhythms, so it always warrants specialist assessment.
+@@BODY@@
+## What an "epsilon wave" means
+
+After the main QRS spike, the tracing normally returns to the baseline. An epsilon wave is a tiny extra blip at the end of the QRS or the very start of the ST segment, usually seen in the right-sided chest leads (V1–V2). It reflects delayed, slowed conduction through abnormal right ventricular muscle.
+
+## What it looks like on the ECG
+
+A small, often jagged deflection right after the QRS in V1–V2. It can be subtle and is sometimes only seen with special lead placement or signal-averaged ECG. It may be accompanied by T-wave inversion in the right chest leads.
+
+## Why it matters
+
+The epsilon wave is one of the diagnostic features of arrhythmogenic right ventricular cardiomyopathy (ARVC), in which right ventricular muscle is gradually replaced by fat and fibrous tissue. ARVC can cause ventricular arrhythmias and is an important, treatable cause of sudden cardiac death in young people and athletes, so finding an epsilon wave prompts a careful work-up.
+
+**Seek prompt care** if an epsilon wave is found with fainting, palpitations, a family history of sudden death, or exercise-related symptoms.
+
+## How often it is seen
+The epsilon wave is an uncommon finding and can be easy to overlook, as it is small and sometimes only visible with special lead placement or a signal-averaged ECG. When present, it is one of several features used to diagnose arrhythmogenic right ventricular cardiomyopathy, alongside imaging, family history and monitoring. Its rarity means it should prompt careful specialist review rather than be dismissed.
+
+## What usually happens next
+
+1. A detailed personal and family history, including any sudden deaths
+2. Cardiac imaging (echocardiogram and often cardiac MRI) to assess the right ventricle
+3. Monitoring for ventricular arrhythmias
+4. Specialist management, which may include activity advice, medication, or a defibrillator
+
+### Questions to ask your doctor
+
+- Could this be ARVC, and what tests confirm it?
+- Should my close relatives be screened?
+- Do I need to change my exercise or activity?
+@@FAQ@@
+Q: What condition is an epsilon wave associated with?
+A: Most characteristically arrhythmogenic right ventricular cardiomyopathy (ARVC), though it is uncommon and can be subtle.
+Q: Where is an epsilon wave seen on the ECG?
+A: As a small deflection just after the QRS, usually in the right-sided chest leads V1–V2.
+Q: Is an epsilon wave dangerous by itself?
+A: The wave itself is just a marker, but the underlying condition it suggests can cause dangerous rhythms, so it needs specialist assessment.
+@@RELATED@@
+Right Ventricular Hypertrophy: What It Means | https://www.ecgmeans.com/right-ventricular-hypertrophy/ | Needs clinician review
+T Wave Inversion: What It Means on an ECG | https://www.ecgmeans.com/t-wave-inversion/ | Needs clinician review
+Brugada Syndrome: What It Means | https://www.ecgmeans.com/brugada-syndrome/ | Needs clinician review
+Ventricular Tachycardia: What It Means | https://www.ecgmeans.com/ventricular-tachycardia/ | Seek prompt care
+Right Heart Strain: What It Means | https://www.ecgmeans.com/right-heart-strain/ | Needs clinician review
+@@ALSO@@
+epsilon wave, epsilon waves, arvc ecg, epsilon wave ecg
+@@SOURCES@@
+Epsilon Wave | https://litfl.com/epsilon-wave-ecg-library/
+Arrhythmogenic Right Ventricular Cardiomyopathy | https://www.ncbi.nlm.nih.gov/books/NBK470378/
+Arrhythmogenic Right Ventricular Dysplasia | https://my.clevelandclinic.org/health/diseases/17710-arrhythmogenic-right-ventricular-dysplasia
+@@END@@

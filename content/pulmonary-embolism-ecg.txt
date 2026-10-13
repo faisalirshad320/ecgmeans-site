@@ -1,0 +1,66 @@
+@@TITLE@@
+Pulmonary Embolism on an ECG: What It Shows
+@@DESC@@
+A pulmonary embolism can cause ECG changes like sinus tachycardia, S1Q3T3 and right heart strain. Learn why a normal ECG still can't rule it out.
+@@H1@@
+Pulmonary Embolism on an ECG: What It Shows
+@@CATEGORY@@
+ECG Report Phrases | https://www.ecgmeans.com/ecg-report-phrases/
+@@QUICK@@
+Seek prompt care
+@@LEDE@@
+A pulmonary embolism (PE) is a blood clot in the lungs. The ECG can show clues — most often a fast heart rate, sometimes the classic S1Q3T3 pattern or signs of right heart strain — but no single ECG finding confirms or excludes a PE. A normal ECG does not rule it out, so suspected PE always needs proper testing.
+@@BODY@@
+## What a pulmonary embolism does to the heart
+
+A pulmonary embolism blocks one or more arteries in the lungs. This suddenly raises the pressure the right side of the heart must pump against, straining the right ventricle. The ECG changes reflect that strain and the body's response, rather than a problem with the heart's own blood supply.
+
+## What it can look like on the ECG
+
+- **Sinus tachycardia** — a fast, regular rhythm is the most common finding
+- **S1Q3T3** — an S wave in lead I, a Q wave and inverted T wave in lead III (classic but not common)
+- **Right heart strain** — T-wave inversion in the right chest leads (V1–V3) and inferior leads
+- **New right bundle branch block** or a rightward shift of the axis
+- Sometimes the ECG is completely normal
+
+## Why the ECG is only a clue
+
+Many people with a PE have only a fast heart rate or an entirely normal tracing, and the classic S1Q3T3 pattern is actually uncommon. So the ECG supports the picture but cannot confirm or exclude a PE. Diagnosis relies on clinical assessment, a D-dimer blood test, and imaging such as a CT pulmonary angiogram.
+
+**This can be an emergency.** Sudden breathlessness, chest pain that is worse on breathing in, coughing up blood, a fast heartbeat, or fainting needs immediate medical attention — call emergency services.
+
+## Why the ECG is still done
+If the ECG cannot diagnose a PE, it is fair to ask why it is recorded. The ECG helps rule other causes of the same symptoms in or out — such as a heart attack or a dangerous arrhythmia — and signs of right heart strain can flag a larger, more dangerous clot that needs more intensive treatment. So it supports the overall assessment rather than making the diagnosis.
+
+## What usually happens next
+
+1. A clinical risk assessment (such as the Wells score)
+2. A D-dimer blood test and oxygen level check
+3. A CT pulmonary angiogram (or a V/Q scan) to confirm the clot
+4. Blood-thinning treatment, and more intensive treatment for large, unstable clots
+
+### Questions to ask your doctor
+
+- Could my symptoms be a pulmonary embolism despite my ECG?
+- Do I need a D-dimer test or a CT scan?
+- What is the treatment and how long will I need it?
+@@FAQ@@
+Q: Can an ECG diagnose a pulmonary embolism?
+A: No. The ECG can give clues such as a fast heart rate, S1Q3T3 or right heart strain, but it cannot confirm or rule out a PE — imaging is needed.
+Q: What is the most common ECG finding in PE?
+A: A fast, regular heart rate (sinus tachycardia). The classic S1Q3T3 pattern is actually uncommon.
+Q: Does a normal ECG rule out a pulmonary embolism?
+A: No. Many people with a PE have a normal or near-normal ECG, so suspected PE always needs proper testing.
+@@RELATED@@
+S1Q3T3: What It Means on an ECG | https://www.ecgmeans.com/s1q3t3/ | Needs clinician review
+Sinus Tachycardia: What It Means | https://www.ecgmeans.com/sinus-tachycardia/ | Depends on context
+Right Heart Strain: What It Means | https://www.ecgmeans.com/right-heart-strain/ | Needs clinician review
+Right Bundle Branch Block (RBBB): What It Means | https://www.ecgmeans.com/right-bundle-branch-block/ | Needs clinician review
+T Wave Inversion: What It Means on an ECG | https://www.ecgmeans.com/t-wave-inversion/ | Needs clinician review
+@@ALSO@@
+pulmonary embolism ecg, pe ecg, s1q3t3, ecg changes in pulmonary embolism
+@@SOURCES@@
+Pulmonary Embolism | https://litfl.com/pulmonary-embolism-ecg-library/
+Pulmonary Embolism | https://www.ncbi.nlm.nih.gov/books/NBK560551/
+Pulmonary Embolism | https://my.clevelandclinic.org/health/diseases/17400-pulmonary-embolism
+@@END@@
