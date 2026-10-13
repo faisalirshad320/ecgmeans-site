@@ -1,0 +1,78 @@
+@@TITLE@@
+Junctional Escape Rhythm on ECG: What It Means
+@@DESC@@
+A junctional escape rhythm is a backup heart rhythm from the AV junction. It's usually protective; what matters is why the sinus node stopped leading.
+@@H1@@
+Junctional Escape Rhythm on an ECG: What It Means
+@@CATEGORY@@
+Heart Rhythms | https://www.ecgmeans.com/heart-rhythms/
+@@QUICK@@
+Depends on context
+@@LEDE@@
+A junctional escape rhythm is a backup rhythm that starts in the AV junction, around the AV node, when the heart's usual pacemaker (the sinus node) fails to pace the heart or its impulses are blocked. It is a safety mechanism, not a primary problem in itself, and on its own it often causes no symptoms. What matters most is finding out why the sinus node stopped leading.
+@@BODY@@
+## What "junctional escape rhythm" means
+
+Your heartbeat normally starts in a small cluster of cells called the **sinus node**, which acts as the heart's natural pacemaker. Electrical signals travel from there through the upper chambers (the atria), pass through the **AV junction** (the area around the AV node), and then spread to the lower chambers (the ventricles).
+
+A junctional escape rhythm is a backup rhythm that starts in the AV junction. It appears when the sinus node fails to pace the heart, or when its impulses are blocked before they get through. The junction "escapes" and takes over so the heart keeps beating.
+
+Think of it as a safety net rather than a fault. It is a protective mechanism, not a primary problem in itself. The more important question is what caused the sinus node to step back in the first place.
+
+## What it looks like on the ECG
+
+On the tracing, a junctional escape rhythm shows a few typical features:
+
+- **A regular rhythm.** The beats are evenly spaced.
+- **A slow rate of 40-60 bpm.** This is the junction's own built-in (intrinsic) rate, which is slower than the sinus node usually runs.
+- **A narrow QRS complex (less than 120 ms).** The QRS is the large spike showing the ventricles being activated. It stays narrow because the signal still travels down the heart's normal wiring, unless there is also a bundle branch block, in which case it can look wider.
+- **Unusual or missing P waves.** The P wave reflects the atria being activated. In a junctional rhythm, P waves may be absent, inverted (upside down) in the inferior leads, or appear just before, during, or just after the QRS. This happens because the atria are activated backwards, from the junction upwards, rather than from the sinus node downwards.
+
+## Common causes
+
+A junctional escape rhythm happens because something has slowed, stopped or blocked the sinus node's signal. Common reasons include:
+
+- Slowing or failure of the sinus node, such as **sick sinus syndrome** or **high vagal tone** (strong activity of the nerve that naturally slows the heart)
+- Medicines that slow the sinus node, including **beta-blockers**, **calcium-channel blockers** and **digoxin**
+- **AV block**, where signals from the atria are blocked and the junction takes over below the block
+- Recovery **after cardiac surgery**
+- An **inferior heart attack** affecting the sinus node
+
+## Should you worry?
+
+Depends on context
+
+On its own, a junctional escape rhythm is protective and often causes no symptoms. What matters is why the sinus node stopped leading. That underlying cause, whether it's a medicine, sick sinus syndrome or a heart block, is what your doctor will assess. Symptoms such as fatigue or dizziness appear mainly if the rate is too slow, so it's worth telling your doctor if you have noticed either.
+
+## What usually happens next
+
+Your doctor will look for the trigger. This usually means reviewing your symptoms, your other ECG findings and your medical history, and checking any medicines that can slow the heart, such as beta-blockers, calcium-channel blockers or digoxin. If one of these is responsible, the dose or the medicine may be reviewed.
+
+If you feel well and the heart rate is adequate, no treatment is needed. The rhythm is doing its job as a backup.
+
+A pacemaker is considered only if a slow junctional rhythm is causing symptoms and no reversible cause is found. In many people, identifying and addressing the underlying reason is all that's required.
+
+If you've seen this phrase on your report, the most useful step is to talk it through with the doctor who ordered the test. Bring a list of your medicines and mention any tiredness, light-headedness or dizziness you've had.
+@@FAQ@@
+Q: What does junctional escape rhythm mean on my ECG?
+A: It means your heartbeat was being set by a backup pacemaker in the AV junction, around the AV node, instead of the sinus node. This happens when the sinus node fails to pace the heart or its impulses are blocked. It is a safety mechanism that keeps the heart beating, not a primary problem in itself.
+Q: Is a junctional escape rhythm dangerous?
+A: On its own it is protective and often causes no symptoms. What matters is the reason the sinus node stopped leading, such as medicines, sick sinus syndrome or heart block. Symptoms like fatigue or dizziness mainly appear if the rate is too slow.
+Q: What causes a junctional escape rhythm?
+A: Common causes include slowing or failure of the sinus node (for example sick sinus syndrome or high vagal tone) and medicines that slow the sinus node, such as beta-blockers, calcium-channel blockers and digoxin. It can also occur with AV block, after cardiac surgery, or after an inferior heart attack affecting the sinus node.
+Q: Will I need a pacemaker?
+A: Usually not. No treatment is needed if you are well and your heart rate is adequate. A pacemaker is considered only if a slow junctional rhythm causes symptoms and no reversible cause is found.
+Q: Can I do anything about it?
+A: The main step is finding and addressing the underlying trigger. If a medicine that slows the heart is involved, your doctor may review it, so don't stop any medicine without speaking to them first. Let your doctor know if you notice fatigue or dizziness, as these can suggest the rate is too slow.
+@@RELATED@@
+Junctional Rhythm: What It Means | https://www.ecgmeans.com/junctional-rhythm/ | Depends on context
+Accelerated Junctional Rhythm | https://www.ecgmeans.com/accelerated-junctional-rhythm/ | Depends on context
+Sinus Bradycardia: What It Means | https://www.ecgmeans.com/sinus-bradycardia/ | Usually harmless
+Sick Sinus Syndrome: What It Means | https://www.ecgmeans.com/sick-sinus-syndrome/ | Needs clinician review
+@@ALSO@@
+junctional rhythm, junctional escape, AV junctional escape rhythm, AV junctional rhythm, nodal escape rhythm, nodal rhythm, junctional escape beats
+@@SOURCES@@
+Junctional Rhythm | https://litfl.com/junctional-escape-rhythm-ecg-library/
+Junctional Rhythm | https://www.ncbi.nlm.nih.gov/books/NBK507715/
+Junctional Rhythm | https://my.clevelandclinic.org/health/diseases/junctional-rhythm
+@@END@@

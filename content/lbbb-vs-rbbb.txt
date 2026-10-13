@@ -1,0 +1,73 @@
+@@TITLE@@
+Left vs Right Bundle Branch Block: What It Means
+@@DESC@@
+Left and right bundle branch block both widen the QRS on an ECG. Learn how they differ, why RBBB is often benign, and when LBBB needs more checks.
+@@H1@@
+Left vs Right Bundle Branch Block on an ECG: What It Means
+@@CATEGORY@@
+Comparisons | https://www.ecgmeans.com/ecg-comparisons/
+@@QUICK@@
+NONE
+@@LEDE@@
+Left and right bundle branch block both mean that one of the two main electrical cables to the heart's lower chambers (the ventricles) is blocked. That side of the heart is activated a little late, which makes the QRS complex on your ECG wider. The key difference is which cable is affected. Right bundle branch block is frequently benign, especially in a well person, while left bundle branch block more often points to underlying heart disease and is usually looked into further.
+@@BODY@@
+## The quick answer
+
+Both left bundle branch block (LBBB) and right bundle branch block (RBBB) mean one of the two main wiring pathways to the ventricles isn't conducting normally, so one side of the heart is activated late and the QRS widens to **≥120 ms** in complete block. **RBBB is often a normal variant** and is frequently harmless, especially when it has been there a long time in someone who feels well. **LBBB more often signals underlying heart disease**, so doctors take it more seriously, particularly if it is new.
+
+## Right bundle branch block in brief
+
+The right bundle branch carries the electrical signal to the right ventricle. When it is blocked, the right side is activated late, after the left side has already been triggered.
+
+- **What it looks like:** an **'rSR'' (M-shaped, 'rabbit ears') pattern in lead V1** and a **wide S wave in V6**.
+- **Common causes:** it is often a **normal variant**. It can also be linked to right-heart strain, lung disease, or ageing of the heart's conduction tissue.
+- **How worrying is it?** RBBB is **frequently benign**, especially when it is long-standing and found in a person who is otherwise well.
+
+## Left bundle branch block in brief
+
+The left bundle branch carries the signal to the left ventricle, the heart's main pumping chamber. When it is blocked, the left side is activated late.
+
+- **What it looks like:** a **broad, notched R wave in V6 and lead I**, and a **deep, wide QS or rS pattern in V1**.
+- **Common causes:** LBBB is **more often linked to underlying heart disease**, such as high blood pressure (hypertension), coronary artery disease, cardiomyopathy (heart muscle disease), or aortic valve disease.
+- **How worrying is it?** It is taken more seriously than RBBB, particularly when it is **new**. A **new LBBB with chest pain is treated like a possible heart attack**.
+
+## How to tell them apart on the ECG
+
+- **Both:** the QRS is widened to **≥120 ms** in complete block.
+- **RBBB:** **M-shaped 'rSR'' ('rabbit ears') in V1**, with a **wide S wave in V6**.
+- **LBBB:** **deep, wide QS/rS in V1**, with a **broad, notched R wave in V6 and lead I**.
+- **Memory aid: 'WiLLiaM MaRRoW'.** In LBBB, V1 looks like a **W** and V6 like an **M** (WiLLiaM). In RBBB, V1 looks like an **M** and V6 like a **W** (MaRRoW).
+- **Old vs new:** doctors compare your ECG with any previous tracing to see whether the block is new or has been there before.
+
+## What each one means for you
+
+**If your report says right bundle branch block:** this is often a normal variant and frequently nothing to worry about, especially if you feel well and it has been seen on earlier ECGs. Your doctor may still consider whether anything is putting strain on the right side of the heart or the lungs. If you have symptoms, they may suggest further checks.
+
+**If your report says left bundle branch block:** this doesn't automatically mean something serious is happening, but it more often goes along with an underlying heart condition. That is why doctors usually look into it further. They will compare your ECG with older tracings. If the LBBB is new, or if you have symptoms, this usually leads to further cardiac assessment, such as an **echocardiogram** (an ultrasound scan of the heart). This scan shows how well the heart muscle and valves are working.
+
+**When to act quickly:** a new LBBB together with chest pain is treated like a possible heart attack. If you have chest pain, seek urgent medical help rather than waiting for a routine appointment.
+
+**For either type:** the ECG finding itself describes how electricity travels through your heart. What matters most is the bigger picture: whether the block is new, whether you have symptoms, and whether there is any underlying heart or lung condition. Your doctor will put these together to decide whether any further tests are needed.
+@@FAQ@@
+Q: What is the difference between left and right bundle branch block?
+A: Both mean one of the two main electrical cables to the ventricles is blocked, so that side of the heart is activated late and the QRS widens. In right bundle branch block the right-sided cable is affected, and in left bundle branch block the left-sided cable is affected. The difference matters because RBBB is frequently benign, while LBBB more often signals underlying heart disease.
+Q: Is bundle branch block dangerous?
+A: Right bundle branch block is frequently benign, especially when it is long-standing and found in a well person. Left bundle branch block is taken more seriously because it is more often linked to underlying heart disease, particularly when it is new. A new LBBB with chest pain is treated like a possible heart attack, so chest pain needs urgent medical attention.
+Q: What causes left and right bundle branch block?
+A: RBBB is often a normal variant. It can also be linked to right-heart strain, lung disease or ageing conduction tissue. LBBB is more often linked to underlying heart conditions such as high blood pressure, coronary artery disease, cardiomyopathy or aortic valve disease.
+Q: What happens next if my ECG shows bundle branch block?
+A: Your doctor will look at the shape of the ECG to confirm which type it is and compare it with any older tracing to see if the block is new. A new LBBB, or either type of block with symptoms, usually prompts further heart tests such as an echocardiogram. A long-standing RBBB in someone who feels well often needs no further action.
+Q: Can I prevent bundle branch block?
+A: Bundle branch block itself is a change in the heart's wiring, and RBBB is often simply a normal variant. Because LBBB is more often linked to conditions like high blood pressure, coronary disease, cardiomyopathy or valve disease, identifying and managing any underlying heart condition is the main focus. Your doctor can advise what is relevant for you after assessment.
+@@RELATED@@
+Left Bundle Branch Block | https://www.ecgmeans.com/left-bundle-branch-block/ | Needs clinician review
+Right Bundle Branch Block | https://www.ecgmeans.com/right-bundle-branch-block/ | Depends on context
+Wide QRS Complex: What It Means | https://www.ecgmeans.com/wide-qrs-complex/ | Depends on context
+Intraventricular Conduction Delay | https://www.ecgmeans.com/intraventricular-conduction-delay/ | Depends on context
+@@ALSO@@
+RBBB, LBBB, right bundle branch block, left bundle branch block, complete right bundle branch block, complete left bundle branch block, complete RBBB, complete LBBB, bundle branch block, BBB, RBBB vs LBBB
+@@SOURCES@@
+Bundle Branch Block | https://my.clevelandclinic.org/health/diseases/17818-bundle-branch-block
+Left Bundle Branch Block | https://litfl.com/left-bundle-branch-block-lbbb-ecg-library/
+Bundle Branch Block | https://www.ncbi.nlm.nih.gov/books/NBK507872/
+@@END@@

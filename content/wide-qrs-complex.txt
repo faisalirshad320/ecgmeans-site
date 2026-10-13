@@ -1,0 +1,89 @@
+@@TITLE@@
+Wide QRS Complex on an ECG: What It Means
+@@DESC@@
+A wide QRS complex means the heart's ventricles took longer than normal to activate. Learn what causes it and when it matters, as it depends on context.
+@@H1@@
+Wide QRS Complex on an ECG: What It Means
+@@CATEGORY@@
+Intervals & Waves | https://www.ecgmeans.com/ecg-intervals-waves/
+@@QUICK@@
+Depends on context
+@@LEDE@@
+A wide (broad) QRS complex means the heart's main pumping chambers, the ventricles, took longer than normal to activate electrically. It is a description, not a diagnosis, so what it means depends entirely on the cause. A long-standing bundle branch block in a well person can be harmless. A new wide QRS with chest pain, or a fast wide-complex rhythm, is treated urgently.
+@@BODY@@
+## What "wide QRS complex" means
+
+The QRS complex is the part of the ECG that shows the ventricles being electrically activated. The ventricles are the heart's main pumping chambers. Normally the electrical impulse spreads through them quickly along special fast-conducting fibres, which produces a narrow, sharp QRS.
+
+A **wide (broad) QRS** means the ventricles took longer than normal to activate. Instead of travelling down the fast-conducting fibres, the impulse took a slower route through the heart. That slower spread stretches out the QRS on the tracing, so it looks broader.
+
+The phrase on your report describes how the electrical signal behaved. It does not, on its own, tell you why it happened. Finding the reason is the important next step.
+
+## What it looks like on the ECG
+
+ECG paper is printed with a grid of small squares, and the width of the QRS is measured against that grid:
+
+- A normal QRS is **under 120 ms**, which is less than **3 small squares** wide.
+- Many cardiologists regard **under 100–110 ms** as ideal.
+- A QRS of **120 ms or more** is called "wide".
+
+The exact shape of the wide QRS gives clues to the cause:
+
+- A **left or right bundle branch block** pattern
+- A beat that **starts in the ventricle** itself
+- **Pacing spikes** just before each beat, if a pacemaker is working
+- **Diffuse widening** caused by a drug or an electrolyte (blood salt) effect
+
+This is why doctors look closely at the overall shape, not just the width.
+
+## Common causes
+
+- **Bundle branch block (left or right).** This is the commonest cause. One of the two main wiring branches to the ventricles is not conducting normally, so the impulse takes a slower path.
+- **A beat or rhythm starting in the ventricle.** Examples are ventricular ectopic (extra) beats and ventricular tachycardia (VT).
+- **A pacemaker pacing the ventricle.** Paced beats are expected to look wide.
+- **High potassium or certain drugs that slow conduction.** These can widen the QRS across the whole tracing.
+- **Pre-excitation (WPW).** In Wolff-Parkinson-White pattern, an extra electrical pathway changes how the ventricles are activated.
+
+## Should you worry?
+
+Depends on context
+
+A wide QRS is a description, not a diagnosis, and how much it matters depends entirely on the cause. A long-standing bundle branch block in a person who feels well can be harmless and may simply be noted for future reference. By contrast, a new wide QRS that comes with chest pain, or a fast wide-complex rhythm, is treated as urgent.
+
+**Get urgent help** if you have chest pain, or you have been told your heart rhythm is fast and wide, because these situations need prompt assessment.
+
+## What usually happens next
+
+Your doctor will use two main things to work out the cause:
+
+1. **The shape of the QRS.** Whether it looks like a left or right bundle branch block, a ventricular beat, a paced beat, or diffuse widening.
+2. **The clinical picture.** This includes your symptoms, your medicines, any pacemaker, and relevant blood results such as potassium.
+
+Comparing with an **old ECG** is very helpful. If a previous tracing shows the same wide QRS, it is long-standing. If it is new, it needs more attention.
+
+If the ECG shows a **fast wide-complex rhythm**, doctors assume it is **ventricular tachycardia until proven otherwise** and assess it urgently. This cautious approach is standard practice and makes sure a potentially serious rhythm is not missed.
+
+For many people, especially those who feel well and whose wide QRS has been there for a long time, the result may simply be recorded and kept in mind for future ECGs. Your doctor will explain what the cause appears to be in your case and whether anything further is needed.
+@@FAQ@@
+Q: What does a wide QRS complex mean on my ECG?
+A: It means your ventricles, the heart's main pumping chambers, took longer than normal to activate electrically. The impulse travelled by a slower route instead of the usual fast-conducting fibres, which makes the QRS look broader on the tracing.
+Q: What QRS width counts as wide?
+A: A normal QRS is under 120 ms, which is less than 3 small squares on ECG paper. Many cardiologists regard under 100–110 ms as ideal. A QRS of 120 ms or more is described as wide.
+Q: Is a wide QRS dangerous?
+A: It depends entirely on the cause, because a wide QRS is a description, not a diagnosis. A long-standing bundle branch block in a well person can be harmless. A new wide QRS with chest pain, or a fast wide-complex rhythm, is treated urgently.
+Q: What causes a wide QRS complex?
+A: The commonest cause is bundle branch block, either left or right. Other causes include beats or rhythms starting in the ventricle (such as ventricular ectopics or VT), a pacemaker pacing the ventricle, high potassium or certain drugs that slow conduction, and pre-excitation (WPW).
+Q: What happens after a wide QRS is found?
+A: Your doctor looks at the shape of the QRS and your overall clinical picture to identify the cause. Comparing with an old ECG shows whether the finding is new. A fast wide-complex rhythm is assumed to be ventricular tachycardia until proven otherwise and is assessed urgently.
+@@RELATED@@
+QRS Interval: What It Means | https://www.ecgmeans.com/qrs-interval/ | Depends on context
+Left Bundle Branch Block | https://www.ecgmeans.com/left-bundle-branch-block/ | Needs clinician review
+Right Bundle Branch Block | https://www.ecgmeans.com/right-bundle-branch-block/ | Depends on context
+Ventricular Tachycardia: What It Means | https://www.ecgmeans.com/ventricular-tachycardia/ | Seek prompt care
+@@ALSO@@
+wide QRS, broad QRS, broad QRS complex, QRS widening, widened QRS, prolonged QRS duration, QRS 120 ms or more, wide-complex rhythm
+@@SOURCES@@
+QRS Complex | https://litfl.com/qrs-complex-ecg-library/
+Wide Complex Tachycardia | https://www.ncbi.nlm.nih.gov/books/NBK519050/
+Bundle Branch Block | https://my.clevelandclinic.org/health/diseases/17818-bundle-branch-block
+@@END@@

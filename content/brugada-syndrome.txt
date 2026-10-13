@@ -1,0 +1,90 @@
+@@TITLE@@
+Brugada Syndrome (Brugada Pattern) on ECG: What It Means
+@@DESC@@
+Brugada pattern on ECG means a possible inherited sodium channel condition. Learn what it looks like, what triggers it, and why it needs specialist review.
+@@H1@@
+Brugada Pattern on an ECG: What It Means
+@@CATEGORY@@
+ECG Report Phrases | https://www.ecgmeans.com/ecg-report-phrases/
+@@QUICK@@
+Needs clinician review
+@@LEDE@@
+Brugada syndrome is an inherited condition of the heart's sodium channels. It produces a characteristic pattern in the right chest leads of an ECG and carries a risk of dangerous heart rhythms. Many people with a Brugada pattern feel completely well. Even so, it always needs proper assessment by a heart specialist, especially if you have had fainting or a family history of sudden death.
+@@BODY@@
+## What "Brugada pattern" means
+
+Brugada syndrome is an inherited condition that affects the heart's **sodium channels**. These are tiny pathways in heart cells that help carry the electrical signals controlling your heartbeat.
+
+When these channels don't work in the usual way, two things can happen:
+
+- A characteristic pattern can appear on the ECG in the right-sided chest leads.
+- There is a risk of dangerous rhythms starting in the heart's lower chambers (ventricular arrhythmias).
+
+A "Brugada pattern" can show up on the ECG even when the person feels completely well. Seeing this phrase on your report doesn't mean something is happening to your heart right now. It does mean the finding should be looked at carefully by a specialist.
+
+## What it looks like on the ECG
+
+The changes appear in leads **V1–V2**. These are the chest leads placed over the right side of the heart.
+
+Doctors describe two main appearances:
+
+- **Type 1 (the diagnostic pattern):** a "coved" ST elevation of **≥2 mm** in **≥1 right precordial lead (V1–V2)**. This is followed by a descending ST segment and an inverted (upside-down) T wave. The Type 1 pattern is the one described as diagnostic.
+- **Type 2:** a "saddleback" shape of ST elevation.
+
+An important feature of Brugada is that the pattern can **come and go**. One ECG may look normal and another may show the pattern. It can also be **unmasked** by fever or by certain medicines. This means a hidden pattern may become visible on the ECG under those conditions.
+
+## Common causes
+
+- An inherited gene change (often in a gene called **SCN5A**), frequently with a family history
+- Fever, a classic trigger that can unmask the pattern
+- Certain medicines, including some antiarrhythmics, antidepressants and anaesthetics
+- Electrolyte disturbance (imbalances in blood salts) and excess alcohol or cocaine
+
+## Should you worry?
+
+Needs clinician review
+
+How important this finding is depends largely on your symptoms and your family history. The main risk is dangerous ventricular arrhythmias and, rarely, sudden cardiac death. These events classically happen at rest, during sleep or during a fever. A pattern found by chance in someone with no symptoms and no family history is lower risk, but it still needs specialist assessment.
+
+**Get urgent help** if you or someone with a Brugada pattern faints, has a seizure, or is heard gasping during sleep. These can be warning signs of a dangerous heart rhythm.
+
+## What usually happens next
+
+You will usually be referred to a cardiologist or an electrophysiologist, a heart rhythm specialist. Their assessment typically includes:
+
+- **Family history:** questions about fainting, seizures or sudden unexplained deaths in relatives.
+- **Risk stratification:** working out how likely you are to have a dangerous rhythm, based on your symptoms, ECG and history.
+- **Family screening:** because the condition is inherited, close relatives may be offered checks too.
+
+Practical steps are also important:
+
+- **Treat fever promptly** with paracetamol (acetaminophen), because fever is a classic trigger.
+- **Avoid culprit drugs** that can unmask the pattern or provoke arrhythmias. Your specialist can advise which medicines to avoid. Tell any doctor, dentist or anaesthetist that you have a Brugada pattern.
+- **Avoid excess alcohol and cocaine.**
+
+People judged to be at higher risk may be offered an **implantable defibrillator (ICD)**. This small device sits under the skin. It can detect a dangerous rhythm and deliver a shock to restore a normal heartbeat.
+
+Many people with a Brugada pattern, particularly those found by chance with no symptoms, are managed with careful advice and follow-up. The key is to have it properly assessed rather than ignored.
+@@FAQ@@
+Q: What does a Brugada pattern on my ECG mean?
+A: It means your ECG shows a characteristic change in the right chest leads (V1–V2) linked to Brugada syndrome. This is an inherited condition of the heart's sodium channels. Many people with the pattern feel completely well, but it needs to be assessed by a heart specialist.
+Q: Is Brugada syndrome dangerous?
+A: It can be. The main risk is dangerous ventricular rhythms and, rarely, sudden cardiac death, classically at rest, during sleep or during fever. The level of risk depends largely on your symptoms and family history. A pattern found by chance with no symptoms or family history is lower risk.
+Q: What causes a Brugada pattern?
+A: It is usually due to an inherited gene change, often in a gene called SCN5A, and frequently runs in families. The pattern can be brought out by fever, certain medicines (some antiarrhythmics, antidepressants and anaesthetics), electrolyte disturbance, or excess alcohol or cocaine.
+Q: What happens after a Brugada pattern is found?
+A: You will usually see a cardiologist or electrophysiologist. They will review your family history, assess your risk and arrange screening for relatives. Higher-risk people may be offered an implantable defibrillator (ICD).
+Q: Can I reduce my risk if I have a Brugada pattern?
+A: Yes, there are practical steps that help. Treat any fever promptly with paracetamol (acetaminophen), avoid medicines known to provoke the pattern, and avoid excess alcohol and cocaine. Seek urgent help for fainting, seizures or gasping during sleep.
+@@RELATED@@
+ST Elevation: What It Means | https://www.ecgmeans.com/st-elevation/ | Seek prompt care
+Ventricular Fibrillation: What It Means | https://www.ecgmeans.com/ventricular-fibrillation/ | Seek prompt care
+Right Bundle Branch Block | https://www.ecgmeans.com/right-bundle-branch-block/ | Depends on context
+Early Repolarization: What It Means | https://www.ecgmeans.com/early-repolarization/ | Usually harmless
+@@ALSO@@
+Brugada pattern, Brugada syndrome, Brugada-type ECG, Type 1 Brugada pattern, coved ST elevation in V1-V2, Type 2 Brugada pattern, saddleback ST elevation in V1-V2, Brugada-like ECG changes
+@@SOURCES@@
+Brugada Syndrome | https://my.clevelandclinic.org/health/diseases/17570-brugada-syndrome
+Brugada Syndrome | https://litfl.com/brugada-syndrome-ecg-library/
+Brugada Syndrome | https://www.ncbi.nlm.nih.gov/books/NBK519568/
+@@END@@

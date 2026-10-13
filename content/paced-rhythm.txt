@@ -1,0 +1,84 @@
+@@TITLE@@
+Paced Rhythm on an ECG: What It Means
+@@DESC@@
+A paced rhythm on your ECG means your pacemaker is producing some or all heartbeats. Learn what it looks like and when it needs a closer look.
+@@H1@@
+Paced Rhythm on an ECG: What It Means
+@@CATEGORY@@
+Heart Rhythms | https://www.ecgmeans.com/heart-rhythms/
+@@QUICK@@
+Depends on context
+@@LEDE@@
+A paced rhythm means an implanted pacemaker is generating some or all of your heartbeats. The report is describing the pacemaker's output, not a disease, so it tells you the device is doing its job. A normally functioning paced rhythm is expected and reassuring. Concern arises only if there are signs the device is not working properly or you develop new symptoms such as dizziness or fainting.
+@@BODY@@
+## What "Paced Rhythm" means
+
+A **paced rhythm** means an implanted pacemaker is generating some or all of your heartbeats. When your ECG report uses this phrase, it is describing the pacemaker's output. It is not naming a disease. In most cases, it simply confirms that the device is doing its job.
+
+A pacemaker watches your heart's own rhythm and steps in when needed. Most pacemakers have a programmed lower rate limit, commonly **60 bpm**. If your heart's natural rate drops below the set limit, the pacemaker sends a small electrical signal to trigger a beat. Depending on how your heart is behaving at the time, your ECG may show only paced beats, only your own beats, or a mix of both.
+
+If you have a pacemaker, seeing "paced rhythm" on your report is usually exactly what your doctors expect to see.
+
+## What it looks like on the ECG
+
+The key feature is the **pacing spike**. This is a narrow vertical line that appears just before the part of the heart it triggers. Where the spike sits tells the reader which chamber is being paced:
+
+- **Atrial pacing:** a spike appears just before a P wave. The P wave is the small bump that shows the upper chambers (atria) contracting.
+- **Ventricular pacing:** a spike appears just before a wide QRS complex. The QRS is the tall main spike that shows the lower chambers (ventricles) contracting.
+- **Dual-chamber pacing:** spikes appear before both the P wave and the QRS.
+
+A ventricular-paced QRS is wide, at **120 ms or more**. When the pacemaker lead sits in the right ventricle, the QRS usually takes on a shape that looks like a left bundle branch block.
+
+This wide shape is normal for a paced heart. It is **not** a new bundle branch block, and it does not mean something has gone wrong. It reflects the fact that the electrical signal starts at the pacemaker lead rather than travelling through the heart's own wiring.
+
+## Common causes
+
+A paced rhythm appears because a pacemaker has been fitted. Common reasons for having one include:
+
+- A pacemaker fitted for a slow heart rate or heart block
+- Sick sinus syndrome
+- After AV-node ablation for atrial fibrillation
+- Part of a biventricular (cardiac resynchronisation) device for heart failure
+
+The reason your own pacemaker was fitted affects how often it needs to pace. Some people are paced almost all the time. Others are paced only now and then.
+
+## Should you worry?
+
+Depends on context
+
+A normally functioning paced rhythm is expected and reassuring. It means your device is working as intended.
+
+Concern arises only when there are signs of malfunction. These include spikes that do not capture the heart (a spike with no beat following it), missing spikes when a beat is due, or new symptoms such as dizziness or fainting.
+
+Remember that a wide paced QRS is normal and should not be mistaken for a new bundle branch block. If your report mentions only a paced rhythm, with no comment about capture or sensing problems, and you feel well, this is generally reassuring.
+
+## What usually happens next
+
+Pacemakers are checked regularly in a device clinic. If your ECG shows a normal paced rhythm, you will usually just continue with your routine device checks.
+
+The device is interrogated if your report suggests a pacing problem, or if you feel faint or breathless. During an interrogation, the clinic team reads information directly from the pacemaker and reviews its settings and battery. This is a routine part of pacemaker care, and it helps make sure the device keeps working well for you.
+
+If you have questions about what your report says, bring it to your next device clinic appointment or ask the doctor who ordered the ECG. Contact your care team sooner if you notice new dizziness, fainting, or breathlessness.
+@@FAQ@@
+Q: What does 'paced rhythm' mean on my ECG?
+A: It means an implanted pacemaker is generating some or all of your heartbeats. The report is describing the pacemaker's output, not a disease. It usually shows that the device is doing its job.
+Q: Is a paced rhythm dangerous?
+A: A normally functioning paced rhythm is expected and reassuring. Concern arises only with signs of malfunction, such as spikes that don't capture the heart or missing spikes when they are due. New symptoms like dizziness or fainting also need checking.
+Q: Why is my QRS wide? Do I have a bundle branch block?
+A: A ventricular-paced QRS is normally wide, at 120 ms or more. Pacing from the right ventricle usually produces a shape like a left bundle branch block. This is a normal effect of pacing and is not a new bundle branch block.
+Q: Why would someone have a paced rhythm?
+A: Common reasons include a pacemaker fitted for a slow heart rate or heart block, or for sick sinus syndrome. Some people have one after AV-node ablation for atrial fibrillation. Others have a biventricular (cardiac resynchronisation) device for heart failure.
+Q: What happens next if my ECG shows a paced rhythm?
+A: Pacemakers are checked regularly in a device clinic. If the report suggests a pacing problem, or you feel faint or breathless, the device is interrogated to review its settings and battery. Otherwise, you usually just continue your routine checks.
+@@RELATED@@
+Wide QRS Complex: What It Means | https://www.ecgmeans.com/wide-qrs-complex/ | Depends on context
+Left Bundle Branch Block: What It Means | https://www.ecgmeans.com/left-bundle-branch-block/ | Needs clinician review
+Third-Degree (Complete) Heart Block | https://www.ecgmeans.com/third-degree-av-block/ | Seek prompt care
+Sick Sinus Syndrome: What It Means | https://www.ecgmeans.com/sick-sinus-syndrome/ | Needs clinician review
+@@ALSO@@
+Paced rhythm, Pacemaker rhythm, Electronic paced rhythm, Atrial paced rhythm, Ventricular paced rhythm, AV paced rhythm, Dual-chamber paced rhythm, A-paced, V-paced, Biventricular paced rhythm
+@@SOURCES@@
+Pacemaker Rhythms | https://litfl.com/pacemaker-rhythms-normal-patterns/
+Pacemaker | https://my.clevelandclinic.org/health/treatments/17360-permanent-pacemaker
+Pacemaker Basics | https://www.ncbi.nlm.nih.gov/books/NBK526001/
+@@END@@

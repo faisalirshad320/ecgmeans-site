@@ -1,0 +1,74 @@
+@@TITLE@@
+STEMI vs NSTEMI on an ECG: What the Difference Means
+@@DESC@@
+STEMI and NSTEMI are both heart attacks. Learn how the ECG tells them apart, why both are emergencies, and how the difference sets the speed of treatment.
+@@H1@@
+STEMI vs NSTEMI on an ECG: What the Difference Means
+@@CATEGORY@@
+Comparisons | https://www.ecgmeans.com/ecg-comparisons/
+@@QUICK@@
+NONE
+@@LEDE@@
+STEMI and NSTEMI are both types of heart attack (myocardial infarction), and the difference between them comes down to what the ECG shows. A STEMI usually means a coronary artery is completely blocked, while an NSTEMI usually means a severe but not complete blockage. Both are serious and both are emergencies. Telling them apart matters because it sets how quickly treatment needs to happen. If you have chest pain or pressure, breathlessness, sweating, or pain spreading to your arm or jaw right now, call emergency services immediately.
+@@BODY@@
+## The quick answer
+
+STEMI and NSTEMI are **both heart attacks**. A **STEMI** shows **new ST-segment elevation** on the ECG and usually means a coronary artery is **completely blocked**. An **NSTEMI** shows **no ST elevation**, usually means a **severe but not complete blockage**, and is confirmed by a **rise in troponin** (a blood test). Both are serious. The main practical difference is how fast treatment needs to happen.
+
+## STEMI in brief
+
+STEMI stands for **ST-elevation myocardial infarction**. It usually happens when a coronary artery, one of the vessels supplying the heart muscle, becomes **fully blocked**. This is most often caused by a fatty plaque in the artery wall rupturing, with a clot then forming on top of it.
+
+On the ECG, a STEMI shows **new ST-segment elevation** in a pattern that matches the area of heart muscle supplied by one coronary artery. Sometimes it shows up instead as a **new left bundle branch block**. The usual threshold is new ST elevation of about **≥1 mm in two contiguous limb leads**, or **≥2 mm in chest leads**. The exact cut-offs vary slightly by age and sex.
+
+Because the artery is completely shut, the priority is to **reopen it as fast as possible**. This is done either with emergency angioplasty, which opens the artery from the inside, or with clot-busting drugs.
+
+## NSTEMI in brief
+
+NSTEMI stands for **non-ST-elevation myocardial infarction**. It usually happens when an artery is **partially blocked** or severely narrowed, so blood flow to part of the heart muscle is reduced but not fully stopped.
+
+On the ECG there is **no ST elevation**. Instead, there may be **ST depression** or **T-wave inversion**. The ECG can even look **near-normal**. Because of this, the diagnosis rests on a **rise in troponin**, a protein released into the blood when heart muscle is damaged.
+
+An NSTEMI is still a heart attack and is treated **urgently**. Treatment involves medication and an angiogram (a scan of the coronary arteries), **usually within hours to a day**.
+
+## How to tell them apart on the ECG
+
+- **ST segment:** STEMI shows **new ST elevation**. NSTEMI shows **no ST elevation**.
+- **Size of the change:** STEMI meets a threshold of about **≥1 mm in two contiguous limb leads** or **≥2 mm in chest leads**, with slightly different cut-offs by age and sex.
+- **Pattern:** In STEMI, the elevation matches **one coronary artery's territory**. Sometimes a **new left bundle branch block** is seen instead.
+- **Other changes:** NSTEMI may show **ST depression** or **T-wave inversion**, or the ECG may look **near-normal**.
+- **Blood test:** Both are diagnosed with ECG plus troponin. For NSTEMI, the **raised troponin** is what confirms the diagnosis.
+
+## What each one means for you
+
+If you are reading this because you have symptoms, such as chest pain or pressure, breathlessness, sweating, or pain spreading to your arm or jaw, **call emergency services now**. Don't wait to work out which type it might be. The ECG and troponin test are what sort STEMI from NSTEMI, and that sorting is done by the emergency team.
+
+If you have already been diagnosed, here is what each label generally means:
+
+- **STEMI:** Your care team treated it as a race against time, because a fully blocked artery needs reopening **as fast as possible**. This is why you may have gone straight for emergency angioplasty or received clot-busting drugs.
+- **NSTEMI:** Your care was **urgent but planned**. You would have been given medication and an angiogram, **usually within hours to a day**. The less dramatic ECG does not mean it was a less real heart attack.
+
+Both types share the same risk factors: **smoking, diabetes, high blood pressure, high cholesterol and a family history** of heart disease. Your doctors will usually focus on these going forward to help protect your heart. Your own care team is the best source of advice about your specific results, treatment and recovery.
+@@FAQ@@
+Q: Is an NSTEMI less serious than a STEMI?
+A: Both are heart attacks and both are emergencies. A STEMI usually means an artery is completely blocked, so it needs reopening as fast as possible. An NSTEMI usually means a severe but not complete blockage and is treated urgently with medication and an angiogram, usually within hours to a day. The difference is mainly in how fast treatment needs to happen, not whether it is real.
+Q: Can you have a heart attack with a normal-looking ECG?
+A: Yes, this can happen with an NSTEMI. The ECG may show ST depression or T-wave inversion, but it can also look near-normal. That is why a troponin blood test is essential, because the NSTEMI diagnosis rests on a rise in troponin.
+Q: What ECG change defines a STEMI?
+A: A STEMI shows new ST-segment elevation in a pattern matching one coronary artery's territory. The usual threshold is about ≥1 mm in two contiguous limb leads or ≥2 mm in chest leads, with slightly different cut-offs by age and sex. Sometimes a new left bundle branch block is seen instead.
+Q: What causes STEMI and NSTEMI?
+A: A STEMI is usually caused by a fully blocked coronary artery, most often from a ruptured plaque and clot. An NSTEMI is usually caused by a partially blocked artery or severe narrowing that reduces blood flow. Both share the same risk factors: smoking, diabetes, high blood pressure, high cholesterol and family history.
+Q: What should I do if I think I'm having a heart attack?
+A: Call emergency services straight away for symptoms like chest pain or pressure, breathlessness, sweating, or pain spreading to the arm or jaw. Don't try to judge which type it is yourself. The ECG and troponin test will sort STEMI from NSTEMI and decide how quickly treatment is needed.
+@@RELATED@@
+ST Elevation: What It Means | https://www.ecgmeans.com/st-elevation/ | Seek prompt care
+ST Depression: What It Means | https://www.ecgmeans.com/st-depression/ | Depends on context
+T Wave Inversion: What It Means | https://www.ecgmeans.com/t-wave-inversion/ | Depends on context
+Anterior Infarct, Age Undetermined | https://www.ecgmeans.com/anterior-infarct-age-undetermined/ | Needs clinician review
+@@ALSO@@
+STEMI, NSTEMI, ST-elevation myocardial infarction, non-ST-elevation myocardial infarction, ST elevation MI, non-ST elevation MI, acute myocardial infarction, acute MI, heart attack, STEMI vs NSTEMI
+@@SOURCES@@
+Heart Attack (Myocardial Infarction) | https://my.clevelandclinic.org/health/diseases/16818-heart-attack-myocardial-infarction
+STEMI | https://litfl.com/myocardial-infarction-localization/
+Acute Coronary Syndrome | https://www.ncbi.nlm.nih.gov/books/NBK459157/
+@@END@@

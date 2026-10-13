@@ -1,0 +1,91 @@
+@@TITLE@@
+Supraventricular Tachycardia (SVT): What It Means
+@@DESC@@
+SVT on an ECG means a fast, regular heart rhythm starting above the ventricles. It's rarely dangerous in a healthy heart but needs a doctor's review.
+@@H1@@
+Supraventricular Tachycardia on an ECG: What It Means
+@@CATEGORY@@
+Heart Rhythms | https://www.ecgmeans.com/heart-rhythms/
+@@QUICK@@
+Needs clinician review
+@@LEDE@@
+Supraventricular tachycardia (SVT) is a fast heart rhythm that starts at or above the AV node, in the upper chambers or the junction, rather than in the lower chambers (the ventricles). It usually begins and ends suddenly. SVT can feel unpleasant, but it is rarely dangerous in an otherwise healthy heart, and recurrent episodes can very often be cured. Because it can sometimes need urgent treatment, a doctor should review it.
+@@BODY@@
+## What "Supraventricular tachycardia" means
+
+"Supraventricular" means "above the ventricles", and "tachycardia" means a fast heart rate. Supraventricular tachycardia (SVT) is a fast heart rhythm that starts at or above the AV node, the electrical relay station between the upper and lower chambers of the heart. It begins in the atria (the upper chambers) or the junction, not in the ventricles.
+
+The two commonest types are:
+
+- **AVNRT** (AV nodal re-entrant tachycardia). A re-entry circuit inside or around the AV node lets the electrical signal loop round and round, driving the heart fast.
+- **AVRT** (atrioventricular re-entrant tachycardia). The circuit uses an extra electrical connection called an accessory pathway, as in Wolff-Parkinson-White (WPW) syndrome.
+
+A typical feature of SVT is that it **begins and ends abruptly**. People often say it feels like a switch has been flicked on, and later flicked off.
+
+## What it looks like on the ECG
+
+On an ECG, SVT usually appears as a **regular, narrow-QRS tachycardia**. In plain terms:
+
+- **Fast and regular:** the rate is typically **150-250 bpm**, and the beats come at a steady, even pace.
+- **Narrow QRS:** the QRS complex, which shows the ventricles being activated, is usually narrow at **less than 120 ms**. This tells your doctor the rhythm is using the heart's normal wiring to reach the ventricles.
+- **Hidden P waves:** the P waves, which reflect activity in the upper chambers, are often hidden in or just after the QRS. That is why they can be hard to spot.
+- **Sudden onset and offset:** when an episode is captured from start to finish, it starts and stops suddenly.
+
+Sometimes SVT can look **wide** on the ECG. This happens if the person already has a bundle branch block, or if one develops because of the fast rate (called aberrancy). Doctors take wide-complex fast rhythms very seriously, as explained below.
+
+## Common causes
+
+- A re-entry circuit at the AV node (AVNRT). This is the most common cause.
+- An accessory pathway (AVRT or WPW).
+- Atrial tachycardia, coming from an ectopic (extra) focus of electrical activity in the atria.
+- Triggers that can set off episodes, including caffeine, alcohol, stress, lack of sleep, stimulant medicines and an overactive thyroid.
+
+## Should you worry?
+
+Needs clinician review
+
+SVT is often uncomfortable. It can cause palpitations, a pounding feeling in the neck, breathlessness or light-headedness, but it is rarely dangerous in an otherwise healthy heart. **Get urgent help** if a fast heartbeat comes with chest pain, severe breathlessness or fainting, or if it does not stop. Any **wide-complex** fast rhythm is treated as ventricular tachycardia until proven otherwise, so your doctor will check your ECG carefully.
+
+## What usually happens next
+
+Your doctor will look at your ECG and symptoms to confirm SVT and work out which type it is likely to be. What happens next depends on whether you are having an episode now or have had one in the past.
+
+**Stopping an episode:**
+
+- **Vagal manoeuvres** can sometimes stop SVT. These are simple techniques such as bearing down, and the modified Valsalva manoeuvre is one your doctor or nurse may teach you.
+- **Adenosine** is a medicine given in hospital to stop an episode that does not settle with vagal manoeuvres.
+
+**Looking for an underlying cause:**
+
+- Your doctor may arrange an **echocardiogram** (an ultrasound scan of the heart) to check its structure and pumping.
+- They may also check your **thyroid function** with a blood test, because an overactive thyroid can be a trigger.
+
+**Longer-term options:**
+
+- If SVT keeps coming back, **catheter ablation** is a very effective cure. Your doctor can explain whether it is suitable for you.
+- Cutting back on known triggers may help. These include caffeine, alcohol, stress, lack of sleep and stimulant medicines.
+
+If you have been told you have SVT, it helps to note when episodes happen, how long they last and what you were doing at the time. This information is useful for your doctor.
+@@FAQ@@
+Q: What does supraventricular tachycardia mean on my ECG?
+A: It means your heart was beating fast with a rhythm that starts at or above the AV node, in the upper chambers or the junction, rather than in the ventricles. On the ECG it usually looks like a regular, narrow-QRS rhythm, typically at 150-250 bpm. It usually starts and stops suddenly.
+Q: Is SVT dangerous?
+A: SVT is rarely dangerous in an otherwise healthy heart, although it can feel unpleasant, with palpitations, a pounding neck, breathlessness or light-headedness. It becomes urgent if it causes chest pain, severe breathlessness or fainting, or if it does not stop. In those cases, seek urgent medical help.
+Q: What causes SVT?
+A: The most common cause is a re-entry circuit at the AV node (AVNRT). Other causes include an accessory pathway (AVRT or WPW) and atrial tachycardia from an extra electrical focus in the atria. Episodes can be triggered by caffeine, alcohol, stress, lack of sleep, stimulant medicines or an overactive thyroid.
+Q: How is an SVT episode stopped?
+A: Vagal manoeuvres, such as bearing down or the modified Valsalva manoeuvre, can stop an episode. If that does not work, a medicine called adenosine can be given in hospital. Seek urgent help if an episode does not stop or causes worrying symptoms.
+Q: Can SVT be prevented or cured?
+A: Avoiding known triggers such as caffeine, alcohol, stress, lack of sleep and stimulant medicines may help reduce episodes. If SVT keeps coming back, catheter ablation is a very effective cure. Your doctor may also arrange an echocardiogram and thyroid tests to look for contributing causes.
+@@RELATED@@
+SVT vs VT: How to Tell Them Apart | https://www.ecgmeans.com/svt-vs-vtach/ | Depends on context
+Atrial Tachycardia: What It Means | https://www.ecgmeans.com/atrial-tachycardia/ | Needs clinician review
+Delta Wave (WPW): What It Means | https://www.ecgmeans.com/delta-wave/ | Needs clinician review
+Sinus Tachycardia: What It Means | https://www.ecgmeans.com/sinus-tachycardia/ | Depends on context
+@@ALSO@@
+SVT, supraventricular tachycardia, paroxysmal supraventricular tachycardia, PSVT, narrow complex tachycardia, regular narrow-QRS tachycardia, AVNRT, AV nodal re-entrant tachycardia, AVRT, atrioventricular re-entrant tachycardia
+@@SOURCES@@
+Supraventricular Tachycardia (SVT) | https://my.clevelandclinic.org/health/diseases/21844-supraventricular-tachycardia-svt
+SVT Overview | https://litfl.com/supraventricular-tachycardia-svt-ecg-library/
+Paroxysmal Supraventricular Tachycardia | https://www.ncbi.nlm.nih.gov/books/NBK544349/
+@@END@@

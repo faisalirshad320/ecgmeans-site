@@ -1,0 +1,79 @@
+@@TITLE@@
+P Pulmonale (Peaked P Wave) on ECG: What It Means
+@@DESC@@
+P pulmonale means a tall, peaked P wave on your ECG, a sign of right atrial enlargement often linked to lung disease. Learn what it means and when to worry.
+@@H1@@
+P Pulmonale on an ECG: What It Means
+@@CATEGORY@@
+ECG Report Phrases | https://www.ecgmeans.com/ecg-report-phrases/
+@@QUICK@@
+Needs clinician review
+@@LEDE@@
+'P pulmonale' on an ECG report describes a tall, peaked P wave that suggests the right upper chamber of the heart (the right atrium) may be enlarged. The name comes from its classic link with lung ('pulmonary') disease that strains the right side of the heart. It is a clue rather than a diagnosis, and it is not an emergency on its own. It is worth having a clinician look into the cause.
+@@BODY@@
+## What "P pulmonale" means
+
+Every heartbeat starts in the upper chambers of the heart, the atria. On an ECG, the electrical activity of the atria shows up as a small bump called the **P wave**. 'P pulmonale' means this P wave is taller and more pointed than usual. This pattern suggests **right atrial enlargement**, meaning the right atrium may be bigger or under more strain than normal.
+
+The name reflects its classic link with lung ('pulmonary') disease. When the lungs are diseased, the right side of the heart has to work harder to pump blood through them. Over time, that extra workload can stretch the right atrium, and the ECG can pick this up as a tall, peaked P wave.
+
+P pulmonale is best thought of as a **clue** that points towards right-heart strain. It is not a disease in itself.
+
+## What it looks like on the ECG
+
+The main feature is a **tall, pointed P wave** that is easiest to see in the 'inferior' leads, labelled **II, III and aVF** on your tracing. Doctors use these features:
+
+- **P-wave height greater than 2.5 mm** (that is, more than **2.5 small squares**) in lead II.
+- A **normal P-wave width**, with the P wave lasting **less than 120 ms**.
+- Often, a prominent first upward part of the P wave in lead **V1**.
+
+The P wave gets taller but not wider because the right atrium is the first part of the atria to be electrically activated. Even when it is enlarged, the overall P wave does not stretch out in time. That is one way doctors tell it apart from other P-wave patterns.
+
+## Common causes
+
+P pulmonale usually reflects something that is putting pressure or strain on the right side of the heart. Common causes include:
+
+- **Chronic lung disease (COPD) and cor pulmonale.** Cor pulmonale means right-heart strain caused by lung disease.
+- **Pulmonary hypertension from any cause.** This means raised blood pressure in the blood vessels of the lungs.
+- **Pulmonary embolism (acutely).** This is a blood clot in the lungs.
+- **Tricuspid or pulmonary valve disease.** These are the valves on the right side of the heart.
+- **Congenital heart disease.** These are heart conditions present from birth.
+
+A tall P wave doesn't always mean one of these conditions is present. It can also simply reflect a **fast heart rate** or your **body position** when the ECG was recorded.
+
+## Should you worry?
+
+Needs clinician review
+
+P pulmonale is not an emergency on its own. It is a sign that the right side of the heart may be under strain, usually because of the lungs, so it is worth finding out why. Sometimes the explanation is harmless, such as a fast heart rate or your position during the test. A clinician can put the ECG finding together with your symptoms, history and other tests to work out what it means for you.
+
+## What usually happens next
+
+The most useful next test is usually an **echocardiogram**, which is an ultrasound scan of the heart. It shows how big the right atrium and right ventricle are, and it estimates the pressure in the blood vessels of the lungs. Because lung disease is such a common cause, your clinician will often add a **lung assessment** as well.
+
+There is no specific treatment for the P wave itself. **Management follows the underlying condition**, whether that is a lung problem, raised lung pressure, a valve issue or a congenital heart condition. If the tests show no underlying problem, the finding may simply reflect a fast heart rate or body position at the time of the recording.
+
+It can help to bring your ECG report to your appointment. Mention any symptoms you have noticed, as well as any known lung or heart conditions, so your clinician has the full picture.
+@@FAQ@@
+Q: What does P pulmonale mean on my ECG?
+A: It means your ECG shows a tall, peaked P wave, which suggests the right atrium (the right upper chamber of the heart) may be enlarged. The name reflects its classic link with lung disease that strains the right side of the heart. It is a clue to look for a cause, not a diagnosis by itself.
+Q: Is P pulmonale dangerous?
+A: It is not an emergency on its own. It points to possible strain on the right side of the heart, usually from the lungs, so the underlying cause is worth identifying. Sometimes a tall P wave simply reflects a fast heart rate or your body position during the recording.
+Q: What causes P pulmonale?
+A: Common causes include chronic lung disease such as COPD and cor pulmonale, and pulmonary hypertension from any cause. It can also be caused by a pulmonary embolism (acutely), tricuspid or pulmonary valve disease, or congenital heart disease. A fast heart rate or body position can also make the P wave look tall.
+Q: How do doctors measure P pulmonale?
+A: Doctors look for a P wave taller than 2.5 mm (2.5 small squares) in lead II. The P wave stays normal in width, lasting less than 120 ms. It is best seen in leads II, III and aVF, often with a prominent first upward part of the P wave in lead V1.
+Q: What happens next if my ECG shows P pulmonale?
+A: An echocardiogram is usually the next step. It checks the size of the right atrium and right ventricle and estimates the pressure in the lungs' blood vessels. A lung assessment is often added, and any treatment is aimed at the underlying lung or heart condition.
+@@RELATED@@
+Right Atrial Enlargement: What It Means | https://www.ecgmeans.com/right-atrial-enlargement/ | Needs clinician review
+P Mitrale: What It Means | https://www.ecgmeans.com/p-mitrale/ | Needs clinician review
+Right Ventricular Hypertrophy | https://www.ecgmeans.com/right-ventricular-hypertrophy/ | Needs clinician review
+Biatrial Enlargement: What It Means | https://www.ecgmeans.com/biatrial-enlargement/ | Needs clinician review
+@@ALSO@@
+P pulmonale, peaked P waves, tall P waves, right atrial enlargement, right atrial abnormality, RAE, possible right atrial enlargement
+@@SOURCES@@
+P Wave | https://litfl.com/p-wave-ecg-library/
+Right Atrial Enlargement | https://www.ncbi.nlm.nih.gov/books/NBK553165/
+Cor Pulmonale | https://my.clevelandclinic.org/health/diseases/cor-pulmonale
+@@END@@

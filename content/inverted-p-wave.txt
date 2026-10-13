@@ -1,0 +1,75 @@
+@@TITLE@@
+Inverted P Wave on an ECG: What It Means
+@@DESC@@
+An inverted P wave on ECG means the atria were activated in an unusual direction. Often harmless, such as swapped leads. See what it means and when to worry.
+@@H1@@
+Inverted P Wave on an ECG: What It Means
+@@CATEGORY@@
+Intervals & Waves | https://www.ecgmeans.com/ecg-intervals-waves/
+@@QUICK@@
+Depends on context
+@@LEDE@@
+An inverted P wave means the upper chambers of the heart (the atria) were activated in an abnormal direction, usually because the heartbeat started somewhere other than the sinus node, the heart's normal pacemaker. It is a clue to where a beat began, not a disease in itself. Often the explanation is benign, such as a junctional rhythm or limb leads that were simply swapped when the ECG was recorded.
+@@BODY@@
+## What "inverted P wave" means
+
+The P wave is the small bump on an ECG that shows the atria, the heart's upper chambers, being electrically activated just before each heartbeat. Normally every beat starts in the **sinus node**, a small cluster of cells near the top of the right atrium. Because the electrical signal spreads downward from there, the normal sinus P wave is **upright in lead II**.
+
+An inverted, or negative, P wave means the atria were activated in an abnormal direction. When a P wave points down in **lead II**, the beat usually started somewhere other than the sinus node, or the ECG leads were placed incorrectly. In other words, the finding tells your doctor something about *where* a beat came from, and whether the recording was set up correctly.
+
+## What it looks like on the ECG
+
+On the tracing, an inverted P wave points downward in **lead II**, and often also in leads **III and aVF**. These three leads view the heart from below, so they are the ones that show the direction of atrial activation most clearly.
+
+Where the inverted P wave sits depends on where the beat started:
+
+- It may appear **before** the QRS complex (the tall spike showing the main pumping chambers being activated).
+- It may be **hidden** within the QRS complex, so you can't see it at all.
+- It may appear **after** the QRS complex.
+
+It's also worth knowing that an inverted P wave seen **only in lead V1 or aVR** can be entirely normal. The finding is judged mainly in **lead II**, where a normal sinus P wave should be upright.
+
+## Common causes
+
+- **A junctional or low atrial rhythm**: the beat starts near or within the junction between the atria and ventricles, so the atria are activated from the bottom upward (retrograde activation).
+- **An ectopic atrial focus near the AV node**: a spot in the atria other than the sinus node takes over starting the beat.
+- **Reversed arm electrodes or wrong lead placement**: a common and harmless cause, where the stickers were simply put in the wrong positions.
+- **Dextrocardia**: a condition in which the heart sits on the right side of the chest instead of the left.
+- **Some atrial tachycardias**: certain fast rhythms that start in the atria rather than the sinus node.
+
+## Should you worry?
+
+Depends on context
+
+An inverted P wave is a clue to where a beat started, not a disease in itself. Often the explanation is benign, such as a junctional rhythm or simply swapped limb leads. It matters more when it comes with a fast or slow heart rhythm that is causing symptoms. If you feel unwell, or notice symptoms such as a racing or very slow heartbeat, let your doctor know so they can look at the full picture.
+
+## What usually happens next
+
+The first things your doctor or ECG technician will check are the **lead placement** and the **rest of the rhythm** on the tracing. If the electrodes were placed incorrectly, repeating the ECG with the leads in the right positions often makes the P wave look normal again, and nothing more is needed.
+
+If the inverted P wave reflects a genuine junctional or atrial rhythm, that underlying rhythm, together with any symptoms you have, guides whether anything further is needed. Many people with this finding feel completely well, and in that situation the result may simply be noted. If the rhythm is fast or slow and causing symptoms, your doctor will focus on understanding and managing that rhythm.
+
+It can help to tell your doctor about any symptoms you've had, and to bring previous ECGs if you have them, because comparing tracings over time is often very useful.
+@@FAQ@@
+Q: What does an inverted P wave on my ECG mean?
+A: It means the upper chambers of your heart (the atria) were activated in an abnormal direction. Normally the P wave is upright in lead II because the signal spreads downward from the sinus node. When it points down in lead II, the beat usually started somewhere other than the sinus node, or the ECG leads were misplaced.
+Q: Is an inverted P wave dangerous?
+A: Not by itself. It is a clue to where a beat started, not a disease in itself, and the explanation is often benign, such as a junctional rhythm or swapped limb leads. It matters more if it comes with a fast or slow rhythm that is causing symptoms.
+Q: What causes an inverted P wave?
+A: Common causes include a junctional or low atrial rhythm, an ectopic atrial focus near the AV node, and reversed arm electrodes or wrong lead placement, which is a common and harmless cause. Less often it can be due to dextrocardia (the heart sitting on the right side) or some atrial tachycardias.
+Q: Can an inverted P wave be normal?
+A: Yes, in certain leads. An inverted P wave seen only in lead V1 or aVR can be entirely normal. The finding is judged mainly in lead II, where a normal sinus P wave should be upright.
+Q: What happens after an inverted P wave is found?
+A: The first checks are whether the leads were placed correctly and what the rest of the heart rhythm looks like. If it reflects a genuine junctional or atrial rhythm, that rhythm and any symptoms you have guide whether anything further is needed.
+@@RELATED@@
+PR Interval: What It Means | https://www.ecgmeans.com/pr-interval/ | Depends on context
+Junctional Rhythm: What It Means | https://www.ecgmeans.com/junctional-rhythm/ | Depends on context
+Ectopic Atrial Rhythm: What It Means | https://www.ecgmeans.com/ectopic-atrial-rhythm/ | Usually harmless
+Short PR Interval: What It Means | https://www.ecgmeans.com/short-pr-interval/ | Depends on context
+@@ALSO@@
+Inverted P wave, Negative P wave, Inverted P waves in lead II, Inverted P waves in II, III and aVF, Retrograde P wave, Retrograde P waves, Abnormal P wave axis, Non-sinus P wave
+@@SOURCES@@
+P Wave | https://litfl.com/p-wave-ecg-library/
+Junctional Rhythm | https://www.ncbi.nlm.nih.gov/books/NBK507715/
+Electrocardiogram | https://my.clevelandclinic.org/health/diagnostics/16953-electrocardiogram-ekg
+@@END@@

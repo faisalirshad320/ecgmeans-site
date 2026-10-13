@@ -1,0 +1,86 @@
+@@TITLE@@
+Premature Junctional Contraction (PJC): What It Means
+@@DESC@@
+A premature junctional contraction (PJC) is an early extra beat from the heart's AV junction. It's usually harmless and doesn't need treatment. Here's why.
+@@H1@@
+Premature Junctional Contraction on an ECG: What It Means
+@@CATEGORY@@
+Heart Rhythms | https://www.ecgmeans.com/heart-rhythms/
+@@QUICK@@
+Usually harmless
+@@LEDE@@
+A premature junctional contraction (PJC) is an early extra beat that starts in the AV junction rather than the sinus node, the heart's usual pacemaker. It is a less common relative of the premature atrial and ventricular beats, and it is usually a benign finding. Occasional PJCs are harmless and do not need treatment. Frequent ones are worth a closer look, because they can occasionally point to digoxin toxicity or heart strain.
+@@BODY@@
+## What "premature junctional contraction" means
+
+Your heartbeat normally starts in a small cluster of cells called the **sinus node**. A premature junctional contraction (PJC) is an **early extra beat** that starts somewhere else: the **AV junction**. This area sits between the upper and lower chambers of the heart.
+
+PJCs are the junctional cousin of two much more common extra beats:
+
+- premature atrial beats, which start in the upper chambers
+- premature ventricular beats, which start in the lower chambers
+
+Like those beats, a PJC is usually a benign finding. Seeing this phrase on your report generally means the ECG caught one or more of these early beats. On its own, it does not mean something is seriously wrong with your heart.
+
+## What it looks like on the ECG
+
+Whoever reads your ECG looks for a few features that set a PJC apart from other extra beats:
+
+- **It comes early.** The beat arrives earlier than the next normal beat was expected.
+- **The QRS is narrow.** The QRS is the tall spike that marks each heartbeat. In a PJC it is **narrow (<120 ms)** and **identical in shape to your normal beats**.
+- **The P wave is unusual.** The P wave is the small bump that normally comes just before each QRS. With a PJC it is either:
+  - absent,
+  - **inverted (upside down) in the inferior leads**, or
+  - buried in the QRS or appearing just after it.
+- **There is usually a pause afterwards.** A short gap typically follows before the next normal beat. Doctors call this a **non-compensatory pause**. It is simply part of how this type of extra beat behaves.
+
+The narrow, normal-looking QRS helps tell a PJC apart from a ventricular extra beat. The unusual or missing P wave helps tell it apart from an atrial extra beat.
+
+## Common causes
+
+- Often no cause at all, in a normal, healthy heart
+- Caffeine, alcohol, nicotine and stress
+- Digoxin, a heart medicine, especially when levels are too high (toxicity)
+- Heart failure or recent heart surgery
+- Electrolyte disturbance (an imbalance in the body's salts and minerals)
+
+## Should you worry?
+
+Usually harmless
+
+Occasional PJCs are harmless, and most people never feel them at all. Some people notice a skipped beat or an extra beat. That feeling can be unsettling, but it is not dangerous in itself. PJCs do not need treatment. If they are frequent, your doctor will look at the wider picture, because frequent PJCs occasionally point to digoxin toxicity or strain on the heart.
+
+## What usually happens next
+
+For most people, nothing is needed beyond reassurance. Cutting back on obvious triggers, such as caffeine, is a sensible step.
+
+If your PJCs are frequent, or you are noticing symptoms, your doctor may:
+
+- **check your electrolytes** with a blood test
+- **review your medicines**, particularly if you take digoxin
+- **arrange heart-rhythm monitoring** to see how often the extra beats happen
+
+It helps to tell your doctor about any palpitations you have noticed. Mention any heart conditions or recent heart surgery too, and bring a list of the medicines you take. This context lets them judge whether the PJCs are simply a harmless quirk or need a closer look.
+@@FAQ@@
+Q: What does premature junctional contraction mean on my ECG?
+A: It means your ECG recorded an early extra heartbeat that started in the AV junction instead of the sinus node, your heart's normal pacemaker. It is related to the more common premature atrial and ventricular beats. It is usually a benign finding.
+Q: Is a premature junctional contraction dangerous?
+A: Occasional PJCs are harmless, and most people never feel them. They do not need treatment. Frequent PJCs can occasionally point to digoxin toxicity or heart strain, which is why your doctor considers the wider context.
+Q: What causes premature junctional contractions?
+A: Often there is no cause at all, and they happen in a perfectly normal heart. Common triggers include caffeine, alcohol, nicotine and stress. Other causes include digoxin (especially in toxicity), heart failure, recent heart surgery and electrolyte disturbances.
+Q: Why do I feel a skipped or extra beat?
+A: Some people notice a PJC as a skipped or extra beat. On the ECG, the early beat is usually followed by a short pause before the next normal beat. Many people with PJCs feel nothing at all.
+Q: Can I prevent premature junctional contractions?
+A: Cutting back on obvious triggers such as caffeine, alcohol, nicotine and stress may help. If your PJCs are frequent or causing symptoms, your doctor may check your electrolytes, review your medicines and arrange monitoring to look for an underlying cause.
+@@RELATED@@
+Sinus Rhythm with PACs | https://www.ecgmeans.com/sinus-rhythm-with-pac/ | Usually harmless
+PVC vs PAC: What's the Difference? | https://www.ecgmeans.com/pvc-vs-pac/ | Usually harmless
+Junctional Rhythm: What It Means | https://www.ecgmeans.com/junctional-rhythm/ | Depends on context
+Ectopic Heartbeat: What It Means | https://www.ecgmeans.com/ectopic-heartbeat/ | Usually harmless
+@@ALSO@@
+premature junctional contraction, PJC, premature junctional complex, premature junctional beat, junctional premature beat, junctional premature contraction, junctional extrasystole, junctional ectopic beat
+@@SOURCES@@
+Premature Junctional Contraction | https://litfl.com/premature-junctional-complex-pjc/
+Premature Junctional Contraction | https://www.ncbi.nlm.nih.gov/books/NBK537185/
+Premature Heartbeats | https://my.clevelandclinic.org/health/diseases/premature-ventricular-contractions-pvcs
+@@END@@

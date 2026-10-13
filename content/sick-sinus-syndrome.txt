@@ -1,0 +1,79 @@
+@@TITLE@@
+Sick Sinus Syndrome on an ECG: What It Means
+@@DESC@@
+Sick sinus syndrome means the heart's natural pacemaker no longer keeps a reliable rate. It needs clinician review, mainly if it causes dizziness or fainting.
+@@H1@@
+Sick Sinus Syndrome on an ECG: What It Means
+@@CATEGORY@@
+Heart Rhythms | https://www.ecgmeans.com/heart-rhythms/
+@@QUICK@@
+Needs clinician review
+@@LEDE@@
+Sick sinus syndrome (also called sinus node dysfunction) means your heart's natural pacemaker, the sinus node, no longer reliably sets a normal rate. This can show up as a heart rate that stays too slow, pauses between beats, or fast rhythms that alternate with slow ones. It is not an emergency unless there is collapse, but it does need a clinician's review. It matters most when it causes symptoms such as dizziness or fainting.
+@@BODY@@
+## What "Sick sinus syndrome" means
+
+Your heartbeat normally starts in a small area of the heart called the **sinus node**. It acts as the heart's natural pacemaker and sets a steady rate. **Sick sinus syndrome**, also called **sinus node dysfunction**, means this pacemaker no longer reliably sets a normal rate.
+
+It is not a single problem. It is a name for a group of related rhythm issues:
+
+- **Inappropriate sinus bradycardia**: the heart rate stays slower than it should.
+- **Sinus pauses or sinus arrest**: the sinus node briefly stops firing, leaving a gap between beats.
+- **Sinoatrial (SA) exit block**: the sinus node fires, but the signal does not get out to the rest of the heart, so a beat is dropped.
+- **The "tachy-brady" pattern**: fast atrial rhythms alternate with slow ones.
+
+## What it looks like on the ECG
+
+What appears on the ECG depends on which subtype is present:
+
+- A **persistently slow sinus rate**.
+- **Long pauses between P waves**, which suggests sinus arrest. (The P wave is the small bump on the ECG that marks the sinus node's signal spreading through the upper chambers.)
+- **Dropped P-QRS cycles**, where a whole beat is missing. This suggests SA exit block.
+- **Alternating runs of atrial fibrillation or flutter with slow rates and pauses**. There is often a long pause when the fast rhythm stops.
+
+These changes can come and go, so a short routine ECG may miss them. Doctors often need prolonged monitoring to capture the problem, such as a **24–48 hour Holter** monitor or a longer recording. Pauses that cause symptoms are typically **longer than 3 seconds (>3 seconds)**.
+
+## Common causes
+
+- **Age-related fibrosis (scarring) of the sinus node**. This is the commonest cause.
+- **Ischaemic heart disease**, meaning reduced blood supply to the heart muscle.
+- **Medicines that slow the heart**, such as beta-blockers, calcium-channel blockers, digoxin and some antiarrhythmics.
+- **Hypothyroidism** (an underactive thyroid) or an **electrolyte disturbance**.
+- **Prior heart surgery**.
+
+## Should you worry?
+
+Needs clinician review
+
+Sick sinus syndrome matters mainly when the slow rates or pauses cause symptoms such as fatigue, dizziness, breathlessness or fainting (syncope). The tachy-brady form also carries a stroke risk because of its atrial fibrillation component, so it is worth discussing with your doctor even if you feel well. It is not an emergency unless there is collapse. **Get urgent help** if you collapse or faint.
+
+## What usually happens next
+
+The diagnosis rests on matching your symptoms to what your heart rhythm is doing at the same time. This is why monitoring over a longer period is often arranged. It can help to note when you feel dizzy, tired, breathless or faint, so these episodes can be compared with the recording.
+
+Your medicines are usually reviewed first. Some common drugs can slow the heart, and adjusting them may help.
+
+For sick sinus syndrome that is causing symptoms, a **permanent pacemaker** is the definitive treatment. It stops the heart from running too slowly or pausing for too long. If atrial fibrillation is part of the picture, your doctor will also consider **anticoagulation** (blood-thinning treatment) to reduce stroke risk.
+@@FAQ@@
+Q: What does sick sinus syndrome mean on my ECG?
+A: It means the sinus node, your heart's natural pacemaker, is no longer reliably setting a normal heart rate. It can show as a persistently slow rate, pauses between beats, dropped beats, or fast atrial rhythms alternating with slow ones.
+Q: Is sick sinus syndrome dangerous?
+A: It is not an emergency unless there is collapse. It matters when the slow rates or pauses cause symptoms such as fatigue, dizziness, breathlessness or fainting. The tachy-brady form also carries a stroke risk from its atrial fibrillation component, so it needs a clinician's review.
+Q: What causes sick sinus syndrome?
+A: The commonest cause is age-related scarring (fibrosis) of the sinus node. Other causes include ischaemic heart disease, medicines that slow the heart such as beta-blockers, calcium-channel blockers, digoxin and some antiarrhythmics, hypothyroidism, electrolyte disturbance and prior heart surgery.
+Q: Why do I need a Holter monitor if my ECG already showed something?
+A: The rhythm changes in sick sinus syndrome can come and go, so a short ECG may not capture them fully. Prolonged monitoring, such as a 24–48 hour Holter or longer, helps match your symptoms to what your heart rhythm is doing at the time. Pauses that cause symptoms are typically longer than 3 seconds.
+Q: What happens next, and will I need a pacemaker?
+A: Your doctor will usually review any medicines that might be slowing your heart first. If sick sinus syndrome is causing symptoms, a permanent pacemaker is the definitive treatment. If atrial fibrillation is also present, anticoagulation (blood-thinning treatment) will be considered to reduce stroke risk.
+@@RELATED@@
+Sinus Pause / Arrest: What It Means | https://www.ecgmeans.com/sinus-pause-arrest/ | Needs clinician review
+Sinus Bradycardia: What It Means | https://www.ecgmeans.com/sinus-bradycardia/ | Usually harmless
+Atrial Fibrillation: What It Means | https://www.ecgmeans.com/atrial-fibrillation/ | Needs clinician review
+Third-Degree (Complete) Heart Block | https://www.ecgmeans.com/third-degree-av-block/ | Seek prompt care
+@@ALSO@@
+Sinus node dysfunction, SSS, Sick sinus, Tachy-brady syndrome, Tachycardia-bradycardia syndrome, Sinus arrest, Sinus pause, Sinoatrial exit block, SA exit block, Inappropriate sinus bradycardia
+@@SOURCES@@
+Sick Sinus Syndrome | https://my.clevelandclinic.org/health/diseases/17057-sick-sinus-syndrome
+Sinus Node Dysfunction | https://www.ncbi.nlm.nih.gov/books/NBK544348/
+Sinoatrial Node Dysfunction | https://litfl.com/sinus-node-dysfunction-ecg-library/
+@@END@@

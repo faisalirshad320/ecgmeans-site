@@ -1,0 +1,82 @@
+@@TITLE@@
+P Mitrale on an ECG: What It Means
+@@DESC@@
+P mitrale is a broad, notched P wave on an ECG that suggests left atrial enlargement. Learn what causes it, whether to worry, and what usually happens next.
+@@H1@@
+P Mitrale on an ECG: What It Means
+@@CATEGORY@@
+ECG Report Phrases | https://www.ecgmeans.com/ecg-report-phrases/
+@@QUICK@@
+Needs clinician review
+@@LEDE@@
+"P mitrale" on your ECG report means the P wave looks broad and notched, like a letter "M". This pattern suggests the left atrium, the upper-left chamber of the heart, may be enlarged. It is a marker of a strained or enlarged left atrium rather than a disease in itself. It is not an emergency, but it is worth checking with a heart scan.
+@@BODY@@
+## What "P mitrale" means
+
+Every normal heartbeat on an ECG starts with a small bump called the **P wave**. It reflects the activity of the heart's two upper chambers, the atria. When your report says "P mitrale", it means the P wave is broad and notched, often described as "M-shaped". This shape suggests **left atrial enlargement**, meaning the left upper chamber of the heart may be larger or under more strain than usual.
+
+The name comes from the pattern's classic link with **mitral valve disease**. The mitral valve sits between the left atrium and the left ventricle. When it is narrowed or leaky, pressure in the left atrium rises. Today, doctors know that P mitrale can appear with several other conditions as well, not just mitral valve problems.
+
+P mitrale is a description of what the ECG looks like. It points towards a possible issue with the left atrium, but it does not diagnose a specific disease on its own.
+
+## What it looks like on the ECG
+
+Doctors look for a few specific features when they report P mitrale:
+
+- **A wide P wave:** the P wave lasts **120 ms or longer**, which is **3 small squares** on standard ECG paper.
+- **A notch with two humps in lead II:** the P wave has a double-peaked, "M" shape, with the gap between the two humps **more than 40 ms**.
+- **A deep, wide negative ending in lead V1:** the last part of the P wave dips below the baseline. It is **at least 1 mm deep** and **at least 40 ms wide**.
+
+The key point is that the P wave is **broad rather than tall**. This helps doctors tell it apart from other P wave changes.
+
+## Common causes
+
+P mitrale reflects a left atrium that is working against higher pressure or has become enlarged. Common causes include:
+
+- **Mitral valve disease**, either narrowing (stenosis) or leaking (regurgitation). This is the classic cause.
+- **High blood pressure (hypertension)** and **left ventricular hypertrophy**, which means thickening of the main pumping chamber.
+- **Any condition that raises left-heart filling pressure**, including **heart failure**.
+- **Aortic valve disease**.
+- **Cardiomyopathy**, a disease of the heart muscle.
+
+Sometimes more than one of these is present at the same time. Your doctor will consider your symptoms, history and examination alongside the ECG.
+
+## Should you worry?
+
+Needs clinician review
+
+P mitrale is not an emergency, and it is not a disease in itself. It is a marker that the left atrium may be strained or enlarged, so it is worth finding out why. An enlarged left atrium is also a risk factor for atrial fibrillation, a common irregular heart rhythm, which is another reason it is worth following up. Most people with this finding are advised to have imaging of the heart to look for the underlying cause.
+
+## What usually happens next
+
+The usual next step is an **echocardiogram**, an ultrasound scan of the heart. It is painless and does not use radiation. The scan can:
+
+- Measure the size of the left atrium.
+- Check the heart valves, especially the mitral and aortic valves.
+- Look for thickening of the heart muscle linked to high blood pressure.
+- Look for signs of raised filling pressures in the heart.
+
+What happens after that depends on what the scan shows. Treatment is aimed at the **underlying cause**, for example managing blood pressure, treating heart failure or addressing a valve problem. Your doctor will explain the results and agree a plan with you. If you have questions about your report, write them down and bring them to your appointment.
+@@FAQ@@
+Q: What does P mitrale mean on my ECG?
+A: It means the P wave on your ECG is broad and notched, with an "M" shape. This suggests your left atrium, the upper-left chamber of the heart, may be enlarged or under strain. It describes an ECG pattern rather than a diagnosis on its own.
+Q: Is P mitrale dangerous?
+A: P mitrale is not an emergency. It is a marker of a strained or enlarged left atrium, and an enlarged left atrium is a risk factor for atrial fibrillation. That is why it is worth explaining with a heart scan, so any underlying cause can be found and treated.
+Q: What causes P mitrale?
+A: The classic cause is mitral valve disease, either narrowing or leaking of the valve. Other causes include high blood pressure with thickening of the heart muscle, heart failure or other conditions that raise left-heart filling pressure, aortic valve disease, and cardiomyopathy.
+Q: What tests will I need after an ECG shows P mitrale?
+A: The usual next step is an echocardiogram, an ultrasound scan of the heart. It measures the left atrium and looks for valve disease, thickening of the heart muscle linked to high blood pressure, and raised filling pressures. Your doctor will use the results to decide on any treatment.
+Q: Can P mitrale be treated or improved?
+A: P mitrale itself is not treated directly. Treatment focuses on the underlying cause, such as high blood pressure, heart failure or a valve problem. Your doctor will advise on the right approach once the cause is clear.
+@@RELATED@@
+Left Atrial Enlargement: What It Means | https://www.ecgmeans.com/left-atrial-enlargement/ | Needs clinician review
+P Pulmonale: What It Means | https://www.ecgmeans.com/p-pulmonale/ | Needs clinician review
+Left Ventricular Hypertrophy | https://www.ecgmeans.com/left-ventricular-hypertrophy/ | Needs clinician review
+Biatrial Enlargement: What It Means | https://www.ecgmeans.com/biatrial-enlargement/ | Needs clinician review
+@@ALSO@@
+P mitrale, left atrial enlargement, left atrial abnormality, possible left atrial enlargement, notched P wave, bifid P wave, M-shaped P wave, broad P wave
+@@SOURCES@@
+P Wave | https://litfl.com/p-wave-ecg-library/
+Left Atrial Enlargement | https://www.ncbi.nlm.nih.gov/books/NBK553165/
+Mitral Valve Disease | https://my.clevelandclinic.org/health/diseases/17615-mitral-valve-disease
+@@END@@

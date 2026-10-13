@@ -1,0 +1,88 @@
+@@TITLE@@
+Wandering Baseline on an ECG: What It Means
+@@DESC@@
+Wandering baseline on an ECG is a recording artifact, not a heart problem. Learn what causes the drift, why it's harmless and why the ECG may be repeated.
+@@H1@@
+Wandering Baseline on an ECG: What It Means
+@@CATEGORY@@
+ECG Basics | https://www.ecgmeans.com/ecg-basics/
+@@QUICK@@
+Usually harmless
+@@LEDE@@
+A "wandering baseline" on your ECG report is an artifact, not a heart problem. It means the flat line the ECG traces drifted slowly up and down during the recording, usually because of breathing, movement or a poor electrode contact. It is harmless in itself. The only reason it matters is that heavy drift can hide or mimic real changes, which is why the ECG is often simply repeated.
+@@BODY@@
+## What "wandering baseline" means
+
+If your ECG report mentions a **wandering baseline**, it is describing the quality of the recording, not the health of your heart. An ECG draws a line that should sit fairly flat between heartbeats. With a wandering baseline, that line drifts slowly up and down.
+
+This drift is an **artifact**, a feature of the recording rather than something your heart is doing. It usually happens because of breathing, movement or a poor contact between an electrode (one of the sticky pads) and your skin. Nothing about it suggests a heart problem.
+
+Wandering baseline is one of the commonest reasons an ECG is repeated. If your nurse or doctor took a second tracing, this may well be why. It is a routine step and not a sign that something worrying was found.
+
+## What it looks like on the ECG
+
+On a wandering baseline tracing, the whole recording slowly rolls up and down, a bit like a gentle wave, so the baseline is not flat. The important point is that the actual heartbeats keep their **normal shape and timing**. These are the repeating P-QRS-T complexes that represent each beat.
+
+In other words, the heart's signal is still there and looks as it should. It is simply riding on a line that drifts up and down.
+
+This looks different from two other common recording problems:
+
+- **Muscle tremor**, which causes a fine, fast fuzziness on the tracing.
+- **Electrical "noise"** (interference), which causes a jagged pattern.
+
+Wandering baseline is the slow, rolling one of the three.
+
+There is no measurement or number attached to a wandering baseline. It is purely a quality issue. Its only real effect is that it can make the true signal harder to read, especially the **ST segment**, a part of each beat that doctors look at closely.
+
+## Common causes
+
+Most causes relate to the recording setup or to normal body movement:
+
+- **Breathing movement of the chest.** This is the commonest cause.
+- **Patient movement, shivering or talking** during the recording.
+- **Loose, dried-out or poorly stuck electrodes.**
+- **Sweat, lotion or hair under the electrode**, which can stop it making good contact.
+- **Cable or lead movement**, for example if the wires are tugged or swing during the test.
+
+None of these are heart conditions. They are everyday factors that can affect any ECG recording.
+
+## Should you worry?
+
+Usually harmless
+
+A wandering baseline is harmless in itself. It concerns the recording, not your heart. It matters only because heavy drift can hide real changes on the ECG, or look like changes that are not really there, especially in the ST segment. For that reason, a drifting ECG is often simply repeated so the heart's signal can be read clearly.
+
+## What usually happens next
+
+The fix is technical and straightforward:
+
+1. **You rest still and breathe quietly** while the recording is taken.
+2. **The skin is cleaned and the electrodes are replaced**, removing sweat or lotion and making sure the pads stick firmly.
+3. **The ECG is repeated.**
+
+Once a clean tracing is obtained, it is interpreted in the normal way. Your doctor will then look at the heart rhythm and pattern as usual. Any further advice will depend on what the clear recording shows, not on the wandering baseline itself.
+
+If your report only mentions a wandering baseline and you have questions, ask the clinician who arranged your ECG whether a repeat tracing was taken or is needed. In most cases, this note simply tells the reader that the recording quality was affected, and nothing more.
+@@FAQ@@
+Q: What does "wandering baseline" mean on my ECG?
+A: It means the flat line the ECG traces drifted slowly up and down during the recording. It is an artifact, a recording quality issue, and not a heart problem. It is usually caused by breathing, movement or a poor electrode contact.
+Q: Is a wandering baseline dangerous?
+A: No. A wandering baseline is harmless in itself because it concerns the recording, not your heart. It matters only because heavy drift can hide or mimic real changes, especially in the ST segment. That is why the ECG is often repeated.
+Q: What causes a wandering baseline?
+A: The commonest cause is the normal breathing movement of the chest. Other causes include moving, shivering or talking during the test, loose or dried-out electrodes, sweat, lotion or hair under the electrodes, and movement of the cables or leads.
+Q: What happens after an ECG shows a wandering baseline?
+A: The fix is technical. You rest still and breathe quietly, the skin is cleaned and the electrodes are replaced, and the ECG is repeated. The clean tracing is then interpreted normally.
+Q: Can I help prevent a wandering baseline?
+A: Yes, to some extent. Lying still, breathing quietly and not talking during the recording all help. Clean skin without lotion under the electrodes also gives the pads a better contact.
+@@RELATED@@
+How to Read an ECG Report | https://www.ecgmeans.com/how-to-read-ecg-report/ | NONE
+What Is an EKG? | https://www.ecgmeans.com/what-is-an-ekg/ | NONE
+Abnormal ECG: What It Means | https://www.ecgmeans.com/abnormal-ecg/ | Depends on context
+Borderline ECG: What It Means | https://www.ecgmeans.com/borderline-ecg/ | Usually harmless
+@@ALSO@@
+Baseline wander, baseline drift, wandering baseline artifact, baseline wander artifact, drifting baseline, baseline artifact
+@@SOURCES@@
+ECG Artifacts | https://litfl.com/ecg-artefact/
+Electrocardiogram (ECG) | https://my.clevelandclinic.org/health/diagnostics/16953-electrocardiogram-ekg
+ECG Lead Placement and Artifact | https://www.ncbi.nlm.nih.gov/books/NBK536878/
+@@END@@

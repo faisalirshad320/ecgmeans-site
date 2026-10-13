@@ -1,0 +1,80 @@
+@@TITLE@@
+Ventricular Fibrillation (VF) on an ECG: What It Means
+@@DESC@@
+Ventricular fibrillation (VF) is a chaotic heart rhythm that stops the heart pumping. It is a cardiac arrest and needs immediate CPR and defibrillation.
+@@H1@@
+Ventricular Fibrillation on an ECG: What It Means
+@@CATEGORY@@
+Heart Rhythms | https://www.ecgmeans.com/heart-rhythms/
+@@QUICK@@
+Seek prompt care
+@@LEDE@@
+Ventricular fibrillation (VF) means the lower chambers of the heart (the ventricles) are in a chaotic, disorganised electrical storm. The heart muscle quivers instead of pumping, so there is no effective heartbeat and no pulse. This is a cardiac arrest and is immediately life-threatening. VF is also one of the few truly reversible arrest rhythms if CPR and defibrillation are started within minutes.
+@@BODY@@
+## What "ventricular fibrillation" means
+
+Your heart's pumping depends on an organised electrical signal that tells the muscle to squeeze in a coordinated way. In ventricular fibrillation (VF), that organisation breaks down completely. The ventricles, the heart's main pumping chambers, are taken over by a chaotic, disorganised electrical storm.
+
+Instead of contracting properly, the heart muscle simply quivers. Quivering muscle cannot push blood around the body, so there is **no effective heartbeat and no pulse**. This is why VF is classed as a **cardiac arrest rhythm**. It is immediately life-threatening, and the person will be unconscious.
+
+If you are reading this because the phrase appears on your own report or a relative's, it means VF was recorded at some point. The team caring for you is the best source of information about exactly when and why it happened.
+
+## What it looks like on the ECG
+
+A normal ECG shows a repeating pattern of recognisable waves: a P wave, a QRS complex and a T wave for each heartbeat. In VF, none of these can be identified. Instead, the tracing shows a **chaotic, irregular waveform** with **no identifiable P waves, QRS complexes or T waves**.
+
+Because the activity is completely disorganised, there is **no organised rate** to measure.
+
+Doctors sometimes describe VF in two ways:
+
+- **Coarse VF** has larger, more obvious deflections on the tracing.
+- **Fine VF** has smaller deflections. These can be so small that they resemble asystole (a flat line), which is one reason the tracing is checked carefully during an emergency.
+
+## Common causes
+
+VF usually happens when the heart's electrical system is disturbed by damage, strain or an underlying condition. Common causes include:
+
+- **Acute heart attack or severe ischaemia** (reduced blood supply to the heart muscle). This is the commonest trigger.
+- **Degeneration of ventricular tachycardia**, where a fast but organised rhythm from the ventricles breaks down into VF.
+- **Cardiomyopathy and scarred heart muscle**, which can disrupt normal electrical pathways.
+- **Inherited channelopathies**, such as long QT syndrome and Brugada syndrome, which affect the heart's electrical signalling.
+- **Severe electrolyte disturbance, electrocution or drowning.**
+
+## Should you worry?
+
+Seek prompt care
+
+VF is a cardiac arrest: the person is unconscious and has no pulse, so it is always an emergency. The encouraging part is that VF is one of the few truly reversible arrest rhythms when it is treated within minutes. Speed matters a great deal, because survival falls by roughly **7–10% for every minute** without defibrillation. **Get urgent help: if someone collapses, is unresponsive and is not breathing normally, call emergency services immediately, start chest compressions and use an AED if one is available.**
+
+## What usually happens next
+
+During VF, **immediate CPR and defibrillation are the only effective treatments**. Chest compressions keep some blood flowing to the brain and other organs. A defibrillator delivers an electrical shock intended to stop the chaotic activity so that an organised rhythm can return. Public-access AEDs (automated external defibrillators) are designed to be used by anyone. They give spoken instructions and analyse the rhythm themselves.
+
+For people who survive VF, the next step is working out **why it happened**. Doctors investigate for the underlying cause, which may be a heart attack, heart muscle disease, an inherited electrical condition or another trigger from the list above.
+
+Because VF can come back, **most survivors receive an implantable defibrillator (ICD)**. This small device is placed under the skin and constantly monitors the heart rhythm. If a dangerous rhythm such as VF occurs again, it can deliver a shock automatically.
+
+If VF appears on your report, your cardiology team will explain the findings from your investigations and the treatment plan that fits your situation. Do ask them questions. Understanding the cause is an important part of recovery and future protection.
+@@FAQ@@
+Q: What does ventricular fibrillation mean on my ECG?
+A: It means the ventricles, the heart's main pumping chambers, were in a chaotic, disorganised electrical storm. The heart muscle quivers instead of pumping, so there is no effective heartbeat and no pulse. It is a cardiac arrest rhythm.
+Q: Is ventricular fibrillation dangerous?
+A: Yes. VF is immediately life-threatening because the person is unconscious and has no pulse. However, it is one of the few truly reversible arrest rhythms if CPR and defibrillation are started within minutes. Survival falls by roughly 7–10% for every minute without defibrillation.
+Q: What causes ventricular fibrillation?
+A: The commonest trigger is an acute heart attack or severe ischaemia. Other causes include ventricular tachycardia breaking down into VF, cardiomyopathy or scarred heart muscle, and inherited channelopathies such as long QT or Brugada syndrome. Severe electrolyte disturbance, electrocution and drowning can also cause it.
+Q: What should I do if someone goes into ventricular fibrillation?
+A: Call emergency services straight away and start chest compressions. Use an AED (automated external defibrillator) if one is available, because immediate CPR and defibrillation are the only effective treatments for VF.
+Q: What happens after someone survives ventricular fibrillation?
+A: Survivors are investigated to find the cause of the VF. Most receive an implantable defibrillator (ICD), a device that monitors the heart rhythm and can deliver a shock automatically if a dangerous rhythm happens again.
+@@RELATED@@
+Ventricular Tachycardia: What It Means | https://www.ecgmeans.com/ventricular-tachycardia/ | Seek prompt care
+ST Elevation: What It Means | https://www.ecgmeans.com/st-elevation/ | Seek prompt care
+Brugada Syndrome / Brugada Pattern | https://www.ecgmeans.com/brugada-syndrome/ | Needs clinician review
+Prolonged QT / QT Prolongation | https://www.ecgmeans.com/qt-prolongation/ | Needs clinician review
+@@ALSO@@
+VF, V-fib, VFib, ventricular fibrillation, coarse VF, fine VF, coarse ventricular fibrillation, fine ventricular fibrillation, VF arrest, VF cardiac arrest
+@@SOURCES@@
+Ventricular Fibrillation | https://my.clevelandclinic.org/health/diseases/21878-ventricular-fibrillation
+Ventricular Fibrillation | https://litfl.com/ventricular-fibrillation-vf-ecg-library/
+Ventricular Fibrillation | https://www.ncbi.nlm.nih.gov/books/NBK537120/
+@@END@@

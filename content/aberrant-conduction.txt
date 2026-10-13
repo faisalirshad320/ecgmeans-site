@@ -1,0 +1,82 @@
+@@TITLE@@
+Aberrant Conduction (Aberrancy) on ECG: What It Means
+@@DESC@@
+Aberrant conduction means a beat from above took an unusual path through the ventricles, looking wide. It's usually benign but needs telling apart from VT.
+@@H1@@
+Aberrant Conduction on an ECG: What It Means
+@@CATEGORY@@
+Intervals & Waves | https://www.ecgmeans.com/ecg-intervals-waves/
+@@QUICK@@
+Depends on context
+@@LEDE@@
+Aberrant conduction (aberrancy) means a heartbeat that started normally in the upper part of the heart travelled through the lower chambers by an unusual route, so it looks wide on the ECG. It usually happens because one of the heart's wiring branches was still recovering when an early beat arrived. Aberrancy itself is benign. It is a normal electrical quirk, not heart damage. Its main importance is that it must be told apart from a genuinely ventricular beat or rhythm, because the two are managed very differently.
+@@BODY@@
+## What "aberrant conduction" means
+
+Your heartbeat normally starts in the upper chambers (the atria) or in the junction between the upper and lower chambers. This is called a *supraventricular* beat, meaning it comes from above the ventricles. The signal then travels down two main wiring pathways, the right and left bundle branches, to make the ventricles (the lower pumping chambers) contract.
+
+**Aberrant conduction**, often shortened to **aberrancy**, means a supraventricular beat travelled through the ventricles by an abnormal route. Because of that detour, the beat looks wide on the ECG, much like a beat that started in the ventricles themselves. It actually came from above, in the normal way.
+
+The most common reason is timing. If an early beat arrives while one bundle branch is still recovering from the previous beat, that branch can't carry the signal yet. The impulse has to go down the other branch and then spread more slowly across the heart muscle. This produces the wider shape.
+
+## What it looks like on the ECG
+
+The aberrant beat shows a **wide QRS**. The QRS is the spike that represents the ventricles being activated. During the aberrant beat, the QRS measures **120 ms or more** (written as **QRS ≥120 ms**). On the surrounding beats, conduction is normal and the QRS is narrow.
+
+Other typical features include:
+
+- **A recognisable bundle-branch-block shape.** The wide beat usually looks like a standard bundle branch block pattern, most often a *right* bundle branch block.
+- **A preceding P wave.** The aberrant beat is usually preceded by a P wave, the small bump that shows the atria firing. This is a clue that the beat started above the ventricles.
+- **A change in cycle length.** The aberrant beat often follows a long gap between beats and then a short one. This "long-short" sequence is known as the **Ashman phenomenon**.
+
+## Common causes
+
+- **An early beat.** A supraventricular beat arrives before a bundle branch has recovered.
+- **Rate-related block.** When the heart speeds up, one bundle branch may not keep pace.
+- **The Ashman phenomenon in atrial fibrillation.** The irregular rhythm of atrial fibrillation creates long-short beat sequences that can trigger aberrant beats.
+- **SVT conducting with aberrancy.** A fast rhythm from above (supraventricular tachycardia) can travel with aberrancy, which can mimic ventricular tachycardia.
+
+## Should you worry?
+
+Depends on context
+
+Aberrancy itself is benign. It is a normal electrical quirk, not a sign of heart damage. What matters is the context. A wide beat or rhythm caused by aberrancy has to be reliably told apart from one that genuinely starts in the ventricles, because the two are managed very differently. An occasional aberrant beat among otherwise normal beats is reassuring. A sustained, fast, wide-complex rhythm needs careful medical assessment.
+
+**Get urgent help** if you have a fast heartbeat together with chest pain, fainting, severe breathlessness or feeling very unwell. A wide-complex fast rhythm is treated as potentially serious until proven otherwise.
+
+## What usually happens next
+
+Your doctor will look closely at the ECG for features that support aberrancy:
+
+- a typical bundle-branch shape
+- a P wave just before the wide beat
+- the long-short Ashman pattern
+
+When these are present on isolated beats and the surrounding beats are narrow and normal, the finding is usually simply noted.
+
+The situation is different if the ECG shows a **wide-complex tachycardia**, meaning a fast rhythm made up of wide beats. In that case, doctors treat it as ventricular tachycardia until aberrancy is clearly proven. This is a deliberate safety approach. Treating a ventricular rhythm as if it were aberrancy could be harmful, while the cautious approach is safe either way.
+
+If aberrancy is linked to another rhythm, such as atrial fibrillation or SVT, your doctor's attention will usually focus on that underlying rhythm rather than on the aberrancy itself.
+@@FAQ@@
+Q: What does aberrant conduction mean on my ECG?
+A: It means a heartbeat that started normally in the upper part of the heart travelled through the lower chambers by an unusual route. This makes the beat look wide on the ECG, like a ventricular beat, even though it came from above. It usually happens because one bundle branch was still recovering when an early beat arrived.
+Q: Is aberrant conduction dangerous?
+A: Aberrancy itself is benign. It is a normal electrical quirk, not heart damage. Its importance is that a wide beat or rhythm due to aberrancy must be told apart from a genuinely ventricular one, because they are managed very differently.
+Q: What causes aberrant conduction?
+A: The common causes are an early beat arriving before a bundle branch has recovered, and rate-related block when the heart speeds up. It can also come from the Ashman phenomenon in atrial fibrillation, or from SVT conducting with aberrancy. In each case the beat starts above the ventricles but takes an unusual path through them.
+Q: How do doctors tell aberrancy apart from ventricular tachycardia?
+A: They look for features that support aberrancy: a typical bundle-branch-block shape, a P wave before the wide beat, and a long-short beat pattern known as the Ashman phenomenon. During the aberrant beat the QRS is 120 ms or more, while surrounding beats are narrow. However, a fast wide-complex rhythm is still treated as ventricular tachycardia until aberrancy is clearly proven.
+Q: What happens next if my report mentions aberrancy?
+A: If it appears as occasional wide beats among otherwise normal, narrow beats, it is usually just noted. Your doctor may focus on any underlying rhythm, such as atrial fibrillation or SVT. If there is a fast wide-complex rhythm, it will be assessed promptly and treated cautiously as ventricular tachycardia until proven otherwise.
+@@RELATED@@
+Right Bundle Branch Block | https://www.ecgmeans.com/right-bundle-branch-block/ | Depends on context
+Wide QRS Complex: What It Means | https://www.ecgmeans.com/wide-qrs-complex/ | Depends on context
+SVT vs VT: How to Tell Them Apart | https://www.ecgmeans.com/svt-vs-vtach/ | Depends on context
+Supraventricular Tachycardia (SVT) | https://www.ecgmeans.com/supraventricular-tachycardia/ | Needs clinician review
+@@ALSO@@
+aberrancy, aberrant ventricular conduction, aberrantly conducted beat, aberrantly conducted complex, supraventricular beat with aberrancy, SVT with aberrancy, Ashman phenomenon, Ashman beat, rate-related bundle branch block, rate-dependent aberrancy, functional bundle branch block
+@@SOURCES@@
+Aberrant Conduction | https://litfl.com/aberrant-conduction-ecg-library/
+Aberrancy | https://www.ncbi.nlm.nih.gov/books/NBK519050/
+Bundle Branch Block | https://my.clevelandclinic.org/health/diseases/17818-bundle-branch-block
+@@END@@

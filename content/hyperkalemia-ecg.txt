@@ -1,0 +1,82 @@
+@@TITLE@@
+Hyperkalaemia on an ECG: What It Means
+@@DESC@@
+Hyperkalaemia means high blood potassium. Learn how it changes the ECG, what causes it, and why ECG changes need urgent medical review and blood tests.
+@@H1@@
+Hyperkalaemia on an ECG: What It Means
+@@CATEGORY@@
+ECG Report Phrases | https://www.ecgmeans.com/ecg-report-phrases/
+@@QUICK@@
+Needs clinician review
+@@LEDE@@
+Hyperkalaemia means a high level of potassium in your blood. An ECG cannot measure potassium directly, but certain patterns strongly suggest it and can show up before blood results are back. The key point is that hyperkalaemia with ECG changes is treated as a medical emergency, so the blood level is checked urgently and treatment does not wait.
+@@BODY@@
+## What "hyperkalaemia" means
+
+Hyperkalaemia (spelled *hyperkalemia* in US reports) means a **high blood potassium level**. Potassium is a mineral the heart depends on to keep its electrical signals steady. Normal potassium is about **3.5-5.0 mmol/L**.
+
+When potassium rises, it changes the ECG in a fairly predictable order. An ECG cannot measure potassium. It only records the heart's electrical activity. But certain patterns strongly suggest a high level. That is why a report may say "hyperkalaemia" or "consider hyperkalaemia" even before any blood test results are available.
+
+If you see this phrase on your report, it is usually a prompt for your care team to check your potassium with a blood test straight away.
+
+## What it looks like on the ECG
+
+The changes tend to appear in stages as potassium climbs:
+
+- **First: peaked T waves.** The T wave is the part of each heartbeat that shows the heart muscle resetting. With high potassium, it becomes tall, narrow and pointed, often described as "peaked" or "tented." These often appear above about **5.5-6.5 mmol/L**.
+- **Next: changes to the P wave and PR interval.** The PR interval becomes longer, and the P waves (which reflect the upper chambers) flatten and can disappear.
+- **Then: a wider QRS.** The QRS complex, the main spike of each beat, becomes progressively wider.
+- **Severe hyperkalaemia: a "sine-wave" pattern.** The QRS and T wave blend together into a smooth, wave-like shape. This can come before cardiac arrest. QRS widening and the sine wave tend to appear at higher levels, often **above 7-8 mmol/L**.
+
+These levels are only a guide. Individuals vary, and some people have quite high potassium with few ECG changes, while others show changes at lower levels.
+
+## Common causes
+
+- **Kidney failure.** This is the most common cause, because the kidneys normally remove extra potassium.
+- **Medicines.** These include ACE inhibitors, ARBs, spironolactone and potassium supplements.
+- **Acidosis.** This includes diabetic ketoacidosis.
+- **Major tissue breakdown.** Examples are crush injury or haemolysis (breakdown of red blood cells).
+- **A falsely high reading (pseudohyperkalaemia).** A difficult blood draw can make the potassium look higher than it really is.
+
+The last cause is one reason doctors confirm the result carefully. A worrying ECG pattern together with a high blood level carries more weight than a single number on its own.
+
+## Should you worry?
+
+Needs clinician review
+
+Hyperkalaemia with ECG changes is a medical emergency, because high potassium can cause dangerous heart rhythms and cardiac arrest. ECG changes are a sign that the heart is already being affected, so treatment should not wait. The good news is that this is a well-recognised problem with established, effective treatments, and your team will act quickly once it is suspected.
+
+**Get urgent help:** if your report mentions hyperkalaemia and you are not already being looked after by a medical team, contact emergency services or go to the nearest emergency department now. Do this especially if you feel unwell, weak, or notice palpitations.
+
+## What usually happens next
+
+Your blood potassium will be checked urgently to confirm the level. Depending on the result and your ECG, treatment can include:
+
+- **Calcium**, given to protect the heart from the effects of high potassium.
+- **Insulin with glucose**, and **salbutamol**, which help drive potassium from the blood into the body's cells.
+- **Measures to remove potassium from the body.**
+
+Alongside this, your doctors will look for the underlying cause. They may check your kidney function, review any medicines that can raise potassium, and look for conditions such as acidosis. Any culprit drugs are addressed, and the cause is treated so the problem is less likely to come back. Repeat blood tests and ECGs are often used to check that treatment is working.
+@@FAQ@@
+Q: What does hyperkalaemia on my ECG mean?
+A: It means the ECG shows patterns that strongly suggest a high blood potassium level. The ECG cannot measure potassium itself, so a blood test is needed to confirm it. These patterns can appear before blood results are back, which helps doctors act quickly.
+Q: Is hyperkalaemia dangerous?
+A: It can be. Hyperkalaemia with ECG changes is treated as a medical emergency because it can cause dangerous heart rhythms and cardiac arrest. ECG changes signal that the heart is being affected, so treatment should start promptly.
+Q: What causes high potassium?
+A: Kidney failure is the most common cause. Other causes include medicines such as ACE inhibitors, ARBs, spironolactone and potassium supplements, as well as acidosis (including diabetic ketoacidosis) and major tissue breakdown such as crush injury or haemolysis. Sometimes a difficult blood draw gives a falsely high reading, called pseudohyperkalaemia.
+Q: What potassium level causes ECG changes?
+A: Normal potassium is about 3.5-5.0 mmol/L. Peaked T waves often appear above about 5.5-6.5 mmol/L, while QRS widening and the sine-wave pattern tend to appear at higher levels, often above 7-8 mmol/L. Individuals vary, so these figures are only a guide.
+Q: What happens next, and can it be prevented from coming back?
+A: Your blood potassium is checked urgently. Treatment can include calcium to protect the heart, insulin with glucose and salbutamol to move potassium into cells, and measures to remove it from the body. Your doctors will also treat the underlying cause and review any medicines that may be raising your potassium, which helps reduce the chance of it happening again.
+@@RELATED@@
+Peaked T Waves: What They Mean | https://www.ecgmeans.com/peaked-t-waves/ | Needs clinician review
+Hypokalemia on ECG: What It Means | https://www.ecgmeans.com/hypokalemia-ecg/ | Needs clinician review
+Wide QRS Complex: What It Means | https://www.ecgmeans.com/wide-qrs-complex/ | Depends on context
+U Wave: What It Means | https://www.ecgmeans.com/u-wave/ | Depends on context
+@@ALSO@@
+Hyperkalemia, possible hyperkalaemia, consider hyperkalaemia, peaked T waves, tented T waves, ECG changes of hyperkalaemia, ECG changes suggestive of high potassium, sine-wave pattern
+@@SOURCES@@
+Hyperkalemia | https://my.clevelandclinic.org/health/diseases/15184-hyperkalemia-high-blood-potassium
+Hyperkalaemia ECG Changes | https://litfl.com/hyperkalaemia-ecg-library/
+Hyperkalemia | https://www.ncbi.nlm.nih.gov/books/NBK470284/
+@@END@@

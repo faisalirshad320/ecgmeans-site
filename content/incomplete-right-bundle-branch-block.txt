@@ -1,0 +1,79 @@
+@@TITLE@@
+Incomplete Right Bundle Branch Block: What It Means
+@@DESC@@
+Incomplete right bundle branch block (IRBBB) is a mild, partial delay in the heart's right-side wiring. Usually harmless—here's what it means and when to check.
+@@H1@@
+Incomplete Right Bundle Branch Block on an ECG: What It Means
+@@CATEGORY@@
+Heart Blocks & Conduction | https://www.ecgmeans.com/heart-block-conduction/
+@@QUICK@@
+Usually harmless
+@@LEDE@@
+Incomplete right bundle branch block (IRBBB) means there is a mild, partial delay in the right bundle branch, the wiring that carries electrical signals to the right ventricle. It has the same shape as a full right bundle branch block, but the QRS is not quite wide enough to call it complete. In young, healthy people it is a very common and usually benign finding. In a well person with no symptoms, it usually needs no treatment.
+@@BODY@@
+## What "incomplete right bundle branch block" means
+
+Your heart's pumping chambers, the ventricles, are triggered by electrical signals that travel down special wiring called the bundle branches. There is a left bundle branch and a right bundle branch. The right bundle branch carries the signal to the right ventricle.
+
+Incomplete right bundle branch block (often shortened to **IRBBB**) means there is a **mild, partial delay** in the right bundle branch. The signal still gets through, just a little more slowly than usual. On the ECG, this produces the same shape as a full (complete) right bundle branch block, but the QRS, the part of the tracing that shows the ventricles activating, is not quite wide enough to call it complete.
+
+The key reassurance is that in young, healthy people this is a **very common and usually benign finding**. Many people have it without ever knowing, and it is often picked up by chance on a routine ECG.
+
+## What it looks like on the ECG
+
+Doctors recognise incomplete RBBB from a few typical features:
+
+- An **"rSR'" pattern in lead V1**, which looks like a small letter "M". This is the same signature shape seen in right bundle branch block.
+- A **QRS duration between 100 and 120 ms**. Many definitions place it at **110–120 ms**, which sits between a normal QRS of **less than 110 ms** and the **120 ms or more** that defines complete RBBB.
+- Often a **slurred S wave in leads I and V6**.
+
+In short, it looks like right bundle branch block, but narrower. The QRS width is the main thing that separates "incomplete" from "complete".
+
+## Common causes
+
+Incomplete RBBB can turn up for a range of reasons. The most common by far is simply that it is a normal variant.
+
+- **A normal variant**, very common in young and healthy people and in athletes
+- **Right ventricular enlargement or strain**
+- **Atrial septal defect**, a hole between the heart's upper chambers (a classic association)
+- **Chronic lung disease**
+- **Pulmonary embolism** (a blood clot in the lungs), in the acute setting
+
+Your doctor will consider your age, fitness, symptoms and other test results to decide which, if any, of these is relevant to you.
+
+## Should you worry?
+
+Usually harmless
+
+In a well person with no symptoms, incomplete RBBB is usually harmless and needs no treatment. It is worth a second look when it is new, when there are symptoms, or when it appears alongside other findings that suggest strain on the right side of the heart, for example a possible atrial septal defect. If you have new symptoms such as breathlessness or chest discomfort, mention them to your doctor so the finding can be seen in the right context.
+
+## What usually happens next
+
+Most of the time, incomplete RBBB is simply **noted on your report and compared with any previous ECG** you have had. If it has been there before and you feel well, that is reassuring.
+
+If your doctor sees features that suggest right-heart strain or a septal defect, they will usually arrange an **echocardiogram**, an ultrasound scan of the heart. This shows the size of the heart chambers and whether there is a hole between them.
+
+If there are no such features, **no action is needed**. You can carry on as normal, and the finding is simply something to be aware of if you have future ECGs.
+@@FAQ@@
+Q: What does incomplete right bundle branch block mean on my ECG?
+A: It means there is a mild, partial delay in the right bundle branch, the wiring that carries signals to the right ventricle. It has the same shape as complete right bundle branch block, but the QRS is narrower. In young, healthy people it is very common and usually benign.
+Q: Is incomplete right bundle branch block dangerous?
+A: In a well person with no symptoms, it is usually harmless and needs no treatment. It deserves a second look if it is new, if you have symptoms, or if other findings suggest strain on the right side of the heart.
+Q: What causes incomplete right bundle branch block?
+A: Most often it is simply a normal variant, especially in young, healthy people and athletes. Less commonly it is linked to right ventricular enlargement or strain, an atrial septal defect, chronic lung disease, or an acute pulmonary embolism.
+Q: Will I need more tests?
+A: Usually the finding is just noted and compared with any previous ECG. If there are features suggesting right-heart strain or a septal defect, your doctor will arrange an echocardiogram. Otherwise no further action is needed.
+Q: How is incomplete RBBB different from complete RBBB?
+A: Both show the same M-shaped rSR' pattern in lead V1. The difference is the width of the QRS: in incomplete RBBB it is narrower, below the 120 ms or more that defines complete RBBB.
+@@RELATED@@
+Right Bundle Branch Block | https://www.ecgmeans.com/right-bundle-branch-block/ | Depends on context
+Right Ventricular Hypertrophy | https://www.ecgmeans.com/right-ventricular-hypertrophy/ | Needs clinician review
+Intraventricular Conduction Delay | https://www.ecgmeans.com/intraventricular-conduction-delay/ | Depends on context
+Right Atrial Enlargement: What It Means | https://www.ecgmeans.com/right-atrial-enlargement/ | Needs clinician review
+@@ALSO@@
+Incomplete RBBB, IRBBB, Partial right bundle branch block, Incomplete right bundle branch block pattern, rSR' pattern in V1, RSR' in V1, Incomplete RBBB pattern
+@@SOURCES@@
+Right Bundle Branch Block | https://litfl.com/right-bundle-branch-block-rbbb-ecg-library/
+Bundle Branch Block | https://www.ncbi.nlm.nih.gov/books/NBK507872/
+Bundle Branch Block | https://my.clevelandclinic.org/health/diseases/17818-bundle-branch-block
+@@END@@

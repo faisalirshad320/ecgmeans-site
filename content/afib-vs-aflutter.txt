@@ -1,0 +1,90 @@
+@@TITLE@@
+Atrial Fibrillation vs Atrial Flutter: What It Means
+@@DESC@@
+Atrial fibrillation and atrial flutter are related fast heart rhythms that look different on an ECG. Learn how they differ, their stroke risk and treatment.
+@@H1@@
+Atrial Fibrillation vs Atrial Flutter on an ECG: What It Means
+@@CATEGORY@@
+Comparisons | https://www.ecgmeans.com/ecg-comparisons/
+@@QUICK@@
+NONE
+@@LEDE@@
+Atrial fibrillation and atrial flutter are two related fast rhythms that start in the heart's upper chambers (the atria). In atrial fibrillation the atria quiver chaotically, while in atrial flutter they beat in a fast, organised circle. Both carry the same kind of stroke risk and are assessed the same way for stroke prevention. Both are well-recognised and treatable, so the key next step is a conversation with your doctor about rhythm treatment and whether you need anticoagulation.
+@@BODY@@
+## The quick answer
+
+Atrial fibrillation (AF) and atrial flutter are close relatives. In **atrial fibrillation** the atria quiver chaotically, giving an **irregularly irregular** pulse. In **atrial flutter** the atria beat in a fast, organised circle, usually giving a **fairly regular** pulse. They often occur in the same people and share the same risks, but they look different on the ECG.
+
+## Atrial fibrillation in brief
+
+In atrial fibrillation, the electrical activity in the atria is chaotic. Instead of contracting in a coordinated way, the upper chambers quiver. Signals reach the lower chambers (the ventricles) at random, so the heartbeat becomes **irregularly irregular**. There is no consistent pattern to it.
+
+On an ECG this shows up as:
+
+- **No clear P waves**. P waves are the small bumps that normally show the atria contracting.
+- A **wavy or flat baseline** between beats.
+- An **irregularly irregular QRS rhythm**, meaning the main spikes come at unpredictable intervals.
+
+AF has **no set atrial rate**. The quivering is too disorganised to count in a simple way.
+
+## Atrial flutter in brief
+
+In atrial flutter, the electrical signal travels around a circuit in the atria in a fast but organised loop. Because it is organised, it produces a repeating pattern on the ECG.
+
+On an ECG this shows up as:
+
+- Regular **'sawtooth' flutter (F) waves**, which look like the teeth of a saw.
+- An atrial rate of classically **about 300 per minute**.
+- Usually **2:1 conduction**. Only every second flutter wave gets through to the ventricles, giving a fairly regular ventricular rate of **around 150 bpm**.
+
+This means a pulse that is fast but steady, at about 150 beats per minute, can be a clue to atrial flutter.
+
+## How to tell them apart on the ECG
+
+- **P waves:** AF has **no clear P waves**. Flutter has **sawtooth F waves** instead.
+- **Baseline:** AF has a **wavy or flat** baseline. Flutter has a **regular, repeating sawtooth** pattern.
+- **Atrial rate:** AF has **no set atrial rate**. Flutter is classically **~300/min**.
+- **Pulse rhythm:** AF is **irregularly irregular**. Flutter is usually **fairly regular**.
+- **Typical pulse in flutter:** about **150 bpm** with 2:1 block.
+
+## What each one means for you
+
+From a day-to-day point of view, the two rhythms have a lot in common.
+
+**Similar symptoms.** Both can cause palpitations, breathlessness and tiredness. Some people notice these clearly, while others feel less affected.
+
+**The same stroke concern.** Both carry a stroke risk. When the atria don't contract properly, blood can pool in them. For this reason, your doctor will assess stroke prevention in the same way for either rhythm, using a **CHA2DS2-VASc score**. This score helps decide whether you would benefit from anticoagulation, a medicine that reduces the blood's tendency to clot. The difference between AF and flutter matters more for choosing rhythm treatment than for judging stroke risk.
+
+**Shared causes.** Both are linked to high blood pressure, valve disease, heart failure, an overactive thyroid, alcohol and lung disease. Both become more common with age. Each can also turn into the other, which is why some people are diagnosed with both over time.
+
+**Treatment.** Both are managed in two main ways:
+
+- Controlling the heart rate, or restoring a normal rhythm.
+- Assessing whether anticoagulation is needed to prevent stroke.
+
+One helpful difference is that **atrial flutter is often very effectively cured by catheter ablation**. This is a procedure that targets the circuit causing the flutter.
+
+If your report mentions either rhythm, it is worth discussing with your doctor. These are common, well-understood conditions, and there are clear ways to treat them.
+@@FAQ@@
+Q: What is the difference between atrial fibrillation and atrial flutter?
+A: Both are fast rhythms starting in the heart's upper chambers. In atrial fibrillation the atria quiver chaotically and the pulse is irregularly irregular. In atrial flutter the atria beat in a fast, organised circle, usually producing a fairly regular pulse around 150 bpm.
+Q: Is atrial fibrillation or atrial flutter dangerous?
+A: Both carry a stroke risk, because blood can pool in the poorly contracting atria. They can also cause palpitations, breathlessness and tiredness. Your doctor will assess your stroke risk using a CHA2DS2-VASc score and decide whether anticoagulation is needed to lower it.
+Q: What causes atrial fibrillation and atrial flutter?
+A: They share causes, including high blood pressure, valve disease, heart failure, an overactive thyroid, alcohol and lung disease. Both become more common with age. Each can also turn into the other.
+Q: What happens next if my ECG shows one of these rhythms?
+A: Treatment usually involves controlling the heart rate or restoring a normal rhythm. Your doctor will also assess whether you need anticoagulation to prevent stroke. Atrial flutter in particular is often very effectively cured by catheter ablation.
+Q: Can I lower my chances of getting these rhythms?
+A: Some of the shared causes can be addressed. These include high blood pressure, alcohol intake and an overactive thyroid. Talk to your doctor about which of these apply to you and how to manage them.
+@@RELATED@@
+Atrial Fibrillation: What It Means | https://www.ecgmeans.com/atrial-fibrillation/ | Needs clinician review
+Atrial Flutter: What It Means | https://www.ecgmeans.com/atrial-flutter/ | Needs clinician review
+Atrial Tachycardia: What It Means | https://www.ecgmeans.com/atrial-tachycardia/ | Needs clinician review
+SVT vs VT: How to Tell Them Apart | https://www.ecgmeans.com/svt-vs-vtach/ | Depends on context
+@@ALSO@@
+atrial fibrillation, AF, AFib, A-fib, atrial flutter, AFL, atrial flutter with 2:1 conduction, atrial flutter with 2:1 block, sawtooth flutter waves, irregularly irregular rhythm, AF/flutter
+@@SOURCES@@
+Atrial Fibrillation | https://my.clevelandclinic.org/health/diseases/16765-atrial-fibrillation-afib
+Atrial Flutter | https://litfl.com/atrial-flutter-ecg-library/
+Atrial Flutter | https://www.ncbi.nlm.nih.gov/books/NBK540985/
+@@END@@
