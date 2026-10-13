@@ -463,10 +463,130 @@ def fig(slug):
         while t < b.dur - 0.25:
             b.q.append((t, vt)); t += 60 / 170
         return [a, b]
+    if slug == "afib-with-rvr":
+        s = Strip(); t = 0.3
+        while t < s.dur - 0.25:
+            s.q.append((t, M(t=(0.2, 0.25, 0.05, 0.04)))); t += R.uniform(0.33, 0.64)
+        ph = [R.uniform(0, 6.28) for _ in range(3)]
+        s.base = lambda x: 0.035 * math.sin(2*math.pi*6.3*x+ph[0]) + 0.025*math.sin(2*math.pi*8.1*x+ph[1]) + 0.02*math.sin(2*math.pi*4.7*x+ph[2])
+        return [s]
+    if slug in ("ventricular-bigeminy", "ventricular-trigeminy"):
+        s = Strip(dur=7.0); t = 0.35; k = 0
+        n = 3 if "tri" in slug else 2
+        while t < s.dur - 0.4:
+            if k % n == n - 1:
+                s.q.append((t, PVC)); s.labels.append((t + 0.07, 1.45, "PVC")); t += 1.2
+            else:
+                s.p.append((t - 0.16, "normal")); s.q.append((t, N)); t += 0.6 if (k % n == n - 2) else 0.82
+            k += 1
+        return [s]
+    if slug == "atrial-bigeminy":
+        s = Strip(dur=7.0); t = 0.35; k = 0
+        while t < s.dur - 0.4:
+            if k % 2 == 1:
+                s.p.append((t - 0.13, "biphasic")); s.q.append((t, N)); s.labels.append((t + 0.02, 1.3, "PAC")); t += 1.0
+            else:
+                s.p.append((t - 0.16, "normal")); s.q.append((t, N)); t += 0.62
+            k += 1
+        return [s]
+    if slug == "ventricular-couplet":
+        s = Strip(dur=7.0)
+        for t in [0.4, 1.22, 2.04]:
+            s.p.append((t - 0.16, "normal")); s.q.append((t, N))
+        s.q.append((2.74, PVC)); s.q.append((3.06, PVC)); s.labels.append((2.9, 1.5, "couplet"))
+        for t in [4.1, 4.92, 5.74]:
+            s.p.append((t - 0.16, "normal")); s.q.append((t, N))
+        return [s]
+    if slug == "r-on-t-phenomenon":
+        s = Strip(dur=6.0)
+        for t in [0.45, 1.3, 2.15]:
+            s.p.append((t - 0.16, "normal")); s.q.append((t, N))
+        s.q.append((2.5, PVC)); s.labels.append((2.58, 1.5, "R on T"))
+        for t in [3.5, 4.35, 5.2]:
+            s.p.append((t - 0.16, "normal")); s.q.append((t, N))
+        return [s]
+    if slug == "junctional-bradycardia":
+        s = Strip(); t = 0.4
+        while t < s.dur - 0.25:
+            s.q.append((t, N)); s.p.append((t + 0.08, "inverted")); t += 60 / 38
+        return [s]
+    if slug == "av-dissociation":
+        s = Strip(dur=7.0); t = 0.2
+        while t < s.dur - 0.1:
+            s.p.append((t, "normal")); t += 0.78
+        t = 0.5; m = M(t=(0.25, 0.33, 0.055, 0.045))
+        while t < s.dur - 0.3:
+            s.q.append((t, m)); t += 1.12
+        s.labels.append((0.2, 0.52, "P"))
+        return [s]
+    if slug == "fusion-beat":
+        s = Strip(dur=6.0)
+        for t in [0.45, 1.3]:
+            s.p.append((t - 0.16, "normal")); s.q.append((t, N))
+        s.q.append((2.1, PVC))
+        fus = M(qrs=[(0.6, 0.05, 0.02), (-0.22, 0.1, 0.016)], j=0.12, t=(-0.2, 0.34, 0.06, 0.05))
+        s.p.append((2.95 - 0.16, "normal")); s.q.append((2.95, fus)); s.labels.append((2.95, 1.35, "fusion"))
+        for t in [3.8, 4.65, 5.5]:
+            s.p.append((t - 0.16, "normal")); s.q.append((t, N))
+        return [s]
+    if slug == "ashman-phenomenon":
+        s = Strip(dur=6.0)
+        times = [0.4, 1.05, 1.5, 2.4, 2.78, 3.65, 4.55, 4.95, 5.65]
+        rbbb = M(qrs=[(0.28, 0.025, 0.01), (-0.3, 0.058, 0.011), (0.8, 0.105, 0.018)], j=0.13, t=(-0.2, 0.32, 0.06, 0.045))
+        for i, t in enumerate(times):
+            s.q.append((t, rbbb if i == 4 else M(t=(0.2, 0.27, 0.05, 0.04))))
+        s.labels.append((2.78, 1.3, "aberrant"))
+        ph = [R.uniform(0, 6.28) for _ in range(2)]
+        s.base = lambda x: 0.03 * math.sin(2*math.pi*6.3*x+ph[0]) + 0.02*math.sin(2*math.pi*8.1*x+ph[1])
+        return [s]
+    if slug == "hyperacute-t-waves":
+        return [sinus(Strip(lead="V3"), hr=74, morph=M(t=(0.85, 0.33, 0.09, 0.08)))]
+    if slug == "pathological-q-waves":
+        s = sinus(Strip(lead="III"), hr=70, morph=M(qrs=[(-0.5, 0.025, 0.016), (0.55, 0.075, 0.012)], j=0.11, t=(0.12, 0.31, 0.055, 0.045)))
+        s.labels.append((0.35 + 60/70 - 0.31, -0.5, "Q"))
+        return [s]
+    if slug == "wolff-parkinson-white":
+        m = M(qrs=[(0.32, 0.035, 0.024), (0.8, 0.085, 0.012), (-0.12, 0.11, 0.01)], j=0.13)
+        s = sinus(Strip(), hr=72, pr=0.10, morph=m); s.labels.append((0.35 + 60/72 - 0.17, 0.62, "delta"))
+        return [s]
+    if slug == "lown-ganong-levine-syndrome":
+        s = sinus(Strip(), hr=72, pr=0.10)
+        s.brackets.append((0.25 + 60/72, 0.35 + 60/72, -0.5, "short PR, normal QRS"))
+        return [s]
+    if slug == "wellens-syndrome":
+        return [sinus(Strip(lead="V2"), hr=72, morph=M(t=(-0.5, 0.31, 0.06, 0.055)))]
+    if slug == "de-winter-t-waves":
+        return [sinus(Strip(lead="V3"), hr=82, morph=M(st=-0.1, st_shape="flat", t=(0.75, 0.3, 0.075, 0.06)))]
+    if slug == "fragmented-qrs":
+        m = M(qrs=[(-0.05, 0.012, 0.007), (0.85, 0.035, 0.009), (0.3, 0.056, 0.007), (-0.12, 0.078, 0.009)], t=(0.22, 0.3, 0.055, 0.045))
+        s = sinus(Strip(lead="V4"), hr=74, morph=m); s.labels.append((0.35 + 60/74 - 0.22, 1.05, "notch"))
+        return [s]
+    if slug == "epsilon-wave":
+        m = M(qrs=[(0.5, 0.035, 0.012), (-0.35, 0.065, 0.011), (0.12, 0.12, 0.013)], j=0.1, t=(-0.12, 0.33, 0.055, 0.045))
+        s = sinus(Strip(lead="V1"), hr=70, morph=m); s.labels.append((0.35 + 60/70 + 0.12, 0.5, "epsilon"))
+        return [s]
     return None
 
 # alt text / caption (what the drawing shows)
 DESCR = {
+ "afib-with-rvr": "an irregularly irregular rhythm at about 140 beats per minute with no P waves — atrial fibrillation with a rapid ventricular response",
+ "ventricular-bigeminy": "a normal beat alternating one-for-one with a wide premature ventricular beat (PVC)",
+ "ventricular-trigeminy": "two normal beats followed by a wide premature ventricular beat (PVC), repeating",
+ "ventricular-couplet": "two premature ventricular beats in a row (a couplet) among normal beats",
+ "atrial-bigeminy": "a normal beat alternating with an early atrial beat (PAC) that has a differently shaped P wave",
+ "r-on-t-phenomenon": "a premature ventricular beat falling on the T wave of the preceding beat (R-on-T)",
+ "junctional-bradycardia": "a slow narrow-complex rhythm at about 38 beats per minute with inverted P waves after the QRS",
+ "av-dissociation": "P waves and QRS complexes at independent rates, with the P waves marching through the rhythm",
+ "fusion-beat": "a fusion beat whose shape is intermediate between a normal beat and a ventricular beat",
+ "ashman-phenomenon": "an irregular rhythm with one wide, aberrantly conducted beat after a long-short cycle sequence",
+ "hyperacute-t-waves": "tall, broad, symmetrical T waves — the hyperacute T waves of early ischaemia",
+ "pathological-q-waves": "deep, wide Q waves at the start of the QRS from a previous infarction",
+ "wolff-parkinson-white": "a short PR interval with a slurred QRS upstroke (delta wave) of pre-excitation",
+ "lown-ganong-levine-syndrome": "a short PR interval with a normal, narrow QRS and no delta wave",
+ "wellens-syndrome": "deep, symmetrical T-wave inversion in a right-sided chest lead (Wellens pattern)",
+ "de-winter-t-waves": "ST depression at the J point rising into tall, symmetrical T waves (de Winter pattern)",
+ "fragmented-qrs": "an extra notch within the QRS complex (fragmented QRS)",
+ "epsilon-wave": "a small deflection just after the QRS in lead V1 (epsilon wave)",
  "sinus-rhythm": "regular sinus rhythm at about 72 beats per minute, every QRS preceded by an upright P wave",
  "sinus-bradycardia": "regular sinus rhythm at about 46 beats per minute with normal P waves",
  "sinus-tachycardia": "regular sinus rhythm at about 118 beats per minute with normal P waves",
