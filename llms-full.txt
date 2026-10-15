@@ -78,10 +78,10 @@ URL: https://www.ecgmeans.com/nonspecific-st-abnormality/
 Verdict/quick answer: Depends on context
 "Nonspecific ST abnormality" means the ECG software noticed small changes in the ST segment or T wave that don't fit any specific diagnosis. It is one of the most common and least alarming phrases on a computer-read ECG. In someone who feels well and has no risk factors, it is usually benign. It matters more if it is new compared with an older ECG, or if you have symptoms such as chest pain or breathlessness.
 
-### Nonspecific T Wave Abnormality: What It Means
+### Nonspecific T Wave Abnormality: What It Means and Whether to Worry
 URL: https://www.ecgmeans.com/nonspecific-t-wave-abnormality/
 Verdict/quick answer: Depends on context
-"Nonspecific T wave abnormality" means your T waves are flatter than expected, or very slightly inverted, without forming any pattern that points to a particular disease. The T wave is the most easily influenced part of the ECG — breathing, meals, anxiety, medicines and electrolytes all change it — so this is a common and usually minor finding.
+Few ECG phrases generate as many anxious searches as this one, and few are as frequently harmless. "Nonspecific" is the key word: the machine is telling you the T waves look slightly off, and also telling you that the way they look off does not match any known disease. The T wave is the part of the ECG most easily nudged by everyday things — a cold drink, a fast breath, a skipped meal, a worrying thought. This page explains what the report is describing, whether it is serious, every cause worth knowing, what "inferior" means if that word appears, and what your doctor will actually do.
 
 ### P Mitrale on an ECG: What It Means
 URL: https://www.ecgmeans.com/p-mitrale/
@@ -522,10 +522,10 @@ URL: https://www.ecgmeans.com/s1q3t3/
 Verdict/quick answer: Needs clinician review
 S1Q3T3 describes a combination of three findings — an S wave in lead I, a Q wave in lead III, and an inverted T wave in lead III. It is best known as a textbook sign of a pulmonary embolism (a clot in the lungs), but it is neither sensitive nor specific: most people with a PE do not have it, and it can appear in healthy people. It is a prompt to think about PE in the right setting, not a diagnosis.
 
-### Short PR Interval: What It Means
+### Short PR Interval on an ECG: Causes, Meaning and When It Matters
 URL: https://www.ecgmeans.com/short-pr-interval/
 Verdict/quick answer: Depends on context
-A short PR interval — under 120 ms — means the impulse is reaching the ventricles faster than it normally would through the AV node. The important cause is an extra electrical connection (accessory pathway) that bypasses the node, as in Wolff-Parkinson-White. Without a delta wave and without palpitations, a short PR is often simply a normal variant.
+"Short PR interval" is one of the more unsettling lines to find on an ECG report, partly because it sounds precise and partly because the internet links it to Wolff-Parkinson-White syndrome. The reality is more reassuring: a short PR on its own, with a normal-looking QRS and no symptoms, is common and usually means nothing more than fast conduction through the AV node. This page explains what the measurement is, every cause worth knowing about, how to tell the harmless version from the one that needs attention, and what your doctor will do next.
 
 ### ST Depression: What It Means on an ECG
 URL: https://www.ecgmeans.com/st-depression/

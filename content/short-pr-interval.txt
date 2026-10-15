@@ -1,72 +1,141 @@
 @@TITLE@@
-Short PR Interval on ECG: Causes & When It Matters
+Short PR Interval: Causes, Meaning & Is It Dangerous?
 @@DESC@@
-A short PR interval (under 120 ms) means the ventricles are being activated early. Learn about accessory pathways, WPW, and when a short PR is a normal variant.
+A short PR interval (under 120 ms) is usually a harmless fast-conduction variant. Learn the causes, what it means on your ECG, when it points to WPW, and what happens next.
 @@H1@@
-Short PR Interval: What It Means
+Short PR Interval on an ECG: Causes, Meaning and When It Matters
 @@CATEGORY@@
 Intervals & Waves | https://www.ecgmeans.com/ecg-intervals-waves/
 @@QUICK@@
 Depends on context
+@@UPDATED@@
+2026-10-15
+@@ANSWER@@
+A short PR interval (under 120 ms) means the electrical signal reached your ventricles a little faster than usual. In most people it is a harmless variant of normal conduction. It matters when the QRS complex shows a delta wave (the Wolff-Parkinson-White pattern) or when you get sudden episodes of a racing heart — then it needs a cardiology review.
 @@LEDE@@
-A short PR interval — under 120 ms — means the impulse is reaching the ventricles faster than it normally would through the AV node. The important cause is an extra electrical connection (accessory pathway) that bypasses the node, as in Wolff-Parkinson-White. Without a delta wave and without palpitations, a short PR is often simply a normal variant.
+"Short PR interval" is one of the more unsettling lines to find on an ECG report, partly because it sounds precise and partly because the internet links it to Wolff-Parkinson-White syndrome. The reality is more reassuring: a short PR on its own, with a normal-looking QRS and no symptoms, is common and usually means nothing more than fast conduction through the AV node. This page explains what the measurement is, every cause worth knowing about, how to tell the harmless version from the one that needs attention, and what your doctor will do next.
 @@BODY@@
-## What "Short PR interval" means
+## What a short PR interval means on your ECG
 
-The AV node normally holds the impulse for about 100 ms. A congenital strand of muscle bridging the atria and ventricles can short-circuit that delay. If it also pre-excites part of the ventricle the QRS starts with a slurred upstroke (a delta wave): this is WPW pattern. If the PR is short with a normal QRS and episodes of fast heart rate, older texts call it Lown-Ganong-Levine syndrome, though most cardiologists now regard that as a description rather than a distinct condition.
+The PR interval is the time from the start of the P wave (the atria firing) to the start of the QRS complex (the ventricles firing). Most of that time is spent in the AV node, which deliberately slows the signal so the atria finish contracting before the ventricles start.
 
-A short PR also occurs when the beat originates in the AV junction rather than the sinus node, and in some healthy people simply because their node conducts quickly.
+| Measurement | Value | What it means |
+| --- | --- | --- |
+| Normal PR interval | 120–200 ms (3–5 small squares) | The AV node is doing its usual job |
+| **Short PR interval** | **Under 120 ms (fewer than 3 small squares)** | The signal reached the ventricles early |
+| Long PR interval | Over 200 ms | Conduction through the node is delayed (first-degree AV block) |
 
-## What it looks like on the ECG
+So "short PR interval" is a timing measurement, not a diagnosis. The ECG machine flags it automatically whenever the PR falls below 120 ms. What that means for you depends entirely on *why* the signal was fast — and the rest of the ECG usually answers that question.
 
-Less than three small squares between the start of the P wave and the start of the QRS. Look for a slurred initial upstroke (delta wave) and a slightly wide QRS, which point to WPW.
+## What causes a short PR interval
 
-## Common causes
+There are only a handful of causes, and they fall into two groups: the signal **bypassed** the AV node, or the node simply **conducted quickly**.
 
-- Normal fast AV conduction
-- Wolff-Parkinson-White pattern (accessory pathway)
-- Junctional or low atrial rhythm
-- Faster conduction at higher heart rates
-- Rare: glycogen storage disease, some congenital syndromes
+| Cause | How common | How the ECG looks | What it usually means |
+| --- | --- | --- | --- |
+| **Normal fast AV conduction** | Common — a few percent of healthy people | Short PR, normal narrow QRS, no delta wave | A normal variant. Needs no treatment |
+| **Faster heart rate** (exercise, anxiety, fever, caffeine) | Common | Short PR that lengthens again when the rate settles | Physiological; adrenaline speeds up the AV node |
+| **Junctional or low atrial rhythm** | Fairly common, often transient | Short PR with an inverted or absent P wave in leads II, III, aVF | The beat started near the AV node rather than in the sinus node |
+| **Wolff-Parkinson-White (WPW) pattern** | Roughly 1–3 in every 1,000 people | Short PR **plus a delta wave** (slurred QRS upstroke) and a slightly wide QRS | An accessory pathway bypasses the AV node. Needs cardiology assessment |
+| **Enhanced AV nodal conduction** (historically "Lown-Ganong-Levine syndrome") | Uncommon | Short PR, normal QRS, episodes of fast heart rate | Treated as a description rather than a distinct disease by most cardiologists today |
+| **Rare metabolic or genetic conditions** (Pompe disease, Fabry disease, some cardiomyopathies) | Rare | Short PR alongside other abnormalities such as marked voltage changes | Usually already known about, or suspected from other findings |
 
-## Should you worry?
+The single most useful question is whether there is a **delta wave**. Without it, a short PR is almost always one of the first three causes. With it, it is WPW pattern until proven otherwise.
 
-Depends on context
+## Is a short PR interval dangerous?
 
-A short PR with a normal QRS and no symptoms is unlikely to matter. A delta wave or a history of sudden-onset racing heart, fainting or a family history of sudden death needs cardiology assessment, because an accessory pathway can conduct dangerously fast in atrial fibrillation.
+For most people, no.
+
+A short PR interval with a **normal, narrow QRS** and **no symptoms** is not dangerous. It does not damage the heart, it does not progress to anything, and it does not need treatment or follow-up beyond your doctor noting it on your record.
+
+The situation changes when either of two things is also present:
+
+- **A delta wave on the ECG.** This means an accessory pathway exists. The concern is not the pathway itself but what happens if atrial fibrillation ever develops: the pathway can conduct the chaotic atrial signals to the ventricles far faster than the AV node would allow, and in rare cases that can trigger a dangerous ventricular rhythm. This is why WPW pattern — even without symptoms — is assessed by a cardiologist, who may recommend an exercise test or an electrophysiology study to judge how fast the pathway can conduct.
+- **Episodes of sudden racing heart**, fainting, or a family history of sudden cardiac death at a young age. These suggest the pathway is already causing rhythm problems (WPW *syndrome*, as opposed to the silent *pattern*).
 
 **Get urgent help** if this finding comes with chest pain or pressure, severe breathlessness, fainting, or a fast heartbeat that will not settle. Those symptoms matter more than any single ECG phrase.
 
+## Short PR interval symptoms: what to watch for
+
+A short PR interval on its own causes **no symptoms at all**. It is an electrical timing measurement, not a condition you can feel.
+
+What some people *do* feel is the rhythm problem that an accessory pathway can cause. If you have a short PR and any of the following, mention them to your doctor:
+
+- **Palpitations that start and stop suddenly**, like a switch — often described as the heart "taking off" for minutes to hours and then abruptly returning to normal
+- **Lightheadedness or near-fainting** during those episodes
+- **Chest discomfort or breathlessness** that comes only with the fast heartbeat
+- **Fainting** (syncope), especially during exertion
+
+If you have never had any of these, a short PR is very unlikely to be causing problems.
+
+## Short PR interval vs WPW vs "short PR syndrome"
+
+These three phrases get used interchangeably online, which causes a lot of unnecessary worry. They are not the same thing.
+
+| Phrase | What it actually means | Delta wave? | Typical next step |
+| --- | --- | --- | --- |
+| **Short PR interval** | A measurement: PR under 120 ms. Says nothing about the cause | Not necessarily | Check the QRS for a delta wave and ask about symptoms |
+| **WPW pattern** | Short PR **and** a delta wave on a routine ECG, in someone with no symptoms | Yes | Cardiology review; risk assessment of the pathway |
+| **WPW syndrome** | WPW pattern **plus** documented episodes of fast heart rhythm | Yes | Cardiology referral; often an electrophysiology study and ablation |
+| **"Short PR syndrome" / Lown-Ganong-Levine** | Short PR with a normal QRS and episodes of palpitations. An older term now regarded as a description, not a distinct disease | No | Holter monitor to capture the rhythm during symptoms |
+
+If your report says "short PR interval" and nothing about a delta wave or pre-excitation, you are in the first row. That is the common, usually harmless situation.
+
+## A worked example
+
+> **Report line:** *"Sinus rhythm. Short PR interval (104 ms). Otherwise normal ECG."*
+> **Patient:** 29-year-old, ECG done before starting a new job. No palpitations, no fainting, no family history.
+
+The doctor looked at the QRS in several leads: no slurred upstroke, QRS width 86 ms (normal). The P waves were upright in lead II, so this was a sinus beat, not a junctional one. The resting heart rate was 92 — slightly fast, as the patient was nervous.
+
+**Conclusion:** normal fast AV conduction in an anxious young adult. No referral, no follow-up ECG needed. The patient was told to come back only if they ever developed sudden racing-heart episodes.
+
+This is how the overwhelming majority of short PR findings resolve.
+
 ## What usually happens next
 
-1. Careful review of the QRS for a delta wave
-2. Cardiology referral and possibly an electrophysiology study if WPW pattern
-3. Holter monitor if there are palpitations
-4. Nothing if isolated and asymptomatic
+1. **Your doctor examines the QRS** for a delta wave and measures its width. This takes seconds and settles most cases.
+2. **You are asked about symptoms** — specifically sudden-onset palpitations, fainting, and family history of early sudden death.
+3. **If there is a delta wave**, you are referred to cardiology. Expect an echocardiogram (to check the heart's structure) and possibly an exercise test or an electrophysiology study to assess the pathway. Many people with WPW pattern are monitored only; those with symptoms or a high-risk pathway are offered catheter ablation, which is curative in the large majority.
+4. **If there is no delta wave but you have palpitations**, a Holter or event monitor is used to catch the rhythm during an episode.
+5. **If there is no delta wave and no symptoms**, nothing further is needed.
 
 ### Questions to ask your doctor
 
-- Is there a delta wave on my ECG?
-- Have I ever had episodes of a racing heart?
-- Do I need an electrophysiology assessment?
+- Is there a delta wave on my ECG, or is the QRS completely normal?
+- Was this a sinus beat or a junctional beat?
+- Do I need any further tests, or can this simply be noted?
+- What symptoms should prompt me to come back?
 @@FAQ@@
 Q: Is a short PR interval dangerous?
-A: On its own, usually not. Combined with a delta wave or palpitations it should be investigated.
+A: On its own, with a normal QRS and no symptoms, no. It becomes significant only when there is also a delta wave (WPW pattern) or episodes of sudden racing heart, fainting, or a family history of early sudden cardiac death.
+Q: What causes a short PR interval?
+A: Most often, normal fast conduction through the AV node, a faster heart rate, or a beat that started near the AV node (junctional rhythm). Less commonly, an accessory pathway bypassing the node (Wolff-Parkinson-White). Rarely, a metabolic or genetic condition.
+Q: What does a short PR interval mean on an ECG?
+A: The PR interval measures how long the signal takes to travel from the atria to the ventricles. "Short" means under 120 ms — the signal arrived early. It is a measurement, not a diagnosis; the rest of the ECG shows why.
 Q: What is a normal PR interval?
-A: 120–200 ms. Below 120 ms is considered short.
+A: 120 to 200 milliseconds (3 to 5 small squares). Below 120 ms is short; above 200 ms is prolonged.
 Q: Can a short PR interval be normal?
-A: Yes, in a proportion of healthy people, especially at faster heart rates.
+A: Yes. A few percent of healthy people have a short PR with a completely normal QRS, and it has no consequences. It is also common at faster heart rates.
+Q: Does a short PR interval cause symptoms?
+A: No. The short PR itself cannot be felt. Symptoms such as sudden palpitations or fainting come from a rhythm problem that an accessory pathway may cause — and most people with a short PR never experience them.
+Q: What is short PR syndrome?
+A: An older name (Lown-Ganong-Levine syndrome) for a short PR interval with a normal QRS and episodes of fast heart rate. Most cardiologists now treat it as a description rather than a distinct disease.
+Q: Is a short PR interval the same as WPW?
+A: No. WPW pattern requires a short PR and a delta wave. A short PR without a delta wave is not WPW.
 @@RELATED@@
 PR Interval: Normal Range and What Short or Long Means | https://www.ecgmeans.com/pr-interval/ | Depends on context
-Sinus Rhythm With 1st Degree AV Block: What It Means | https://www.ecgmeans.com/first-degree-av-block/ | Usually harmless
-Junctional Rhythm: What It Means | https://www.ecgmeans.com/junctional-rhythm/ | Needs clinician review
-SVT vs VTach: What's the Difference? | https://www.ecgmeans.com/svt-vs-vtach/ | Seek prompt care
-Sinus Rhythm: What It Means on Your ECG | https://www.ecgmeans.com/sinus-rhythm/ | Usually harmless
 Delta Wave: What It Means on an ECG | https://www.ecgmeans.com/delta-wave/ | Needs clinician review
+Wolff-Parkinson-White on an ECG: What It Means | https://www.ecgmeans.com/wolff-parkinson-white/ | Needs clinician review
+Lown-Ganong-Levine Syndrome: What It Means | https://www.ecgmeans.com/lown-ganong-levine-syndrome/ | Depends on context
+Junctional Rhythm: What It Means | https://www.ecgmeans.com/junctional-rhythm/ | Needs clinician review
+Sinus Rhythm With 1st Degree AV Block: What It Means | https://www.ecgmeans.com/first-degree-av-block/ | Usually harmless
+SVT vs VTach: What's the Difference? | https://www.ecgmeans.com/svt-vs-vtach/ | Seek prompt care
 @@ALSO@@
-short pr syndrome, short pr interval ecg, short pr interval meaning, lown ganong levine
+short pr interval causes, short pr interval meaning, short pr interval in ecg, shortened pr interval, short pr syndrome, short pr ekg, lown ganong levine
 @@SOURCES@@
 Wolff-Parkinson-White syndrome (WPW) | https://medlineplus.gov/ency/article/000151.htm
 Wolff-Parkinson-White Syndrome | https://www.ncbi.nlm.nih.gov/books/NBK554437/
 Pre-excitation syndromes | https://litfl.com/pre-excitation-syndromes-ecg-library/
+PR Interval | https://litfl.com/pr-interval-ecg-library/
 @@END@@

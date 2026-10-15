@@ -235,6 +235,7 @@ def verdict_badge(quick):
 
 SVG_IMAGES = {}
 OG_PAGES = []
+PAGE_UPDATED = {}   # slug -> per-page UPDATED date (falls back to MODIFIED)
 ABOUT_NAME = {"what-is-an-ekg": "Electrocardiogram (ECG/EKG)", "how-to-read-ecg-report": "Electrocardiogram (ECG/EKG)",
   "if-ecg-is-normal-is-my-heart-ok": "Electrocardiogram (ECG/EKG)", "ekg-vs-echocardiogram": "Electrocardiogram vs echocardiogram",
   "qtc-calculator": "Corrected QT interval (QTc)", "ecg-heart-rate-calculator": "Heart rate on the electrocardiogram",
@@ -295,6 +296,12 @@ def render_content(s):
     related = parse_pipe_lines(f.get("RELATED", ""))
     sources = parse_pipe_lines(f.get("SOURCES", ""))
     also = f.get("ALSO", "").strip()
+    # Optional per-page fields. UPDATED lets a rewritten page carry its own date
+    # instead of the site-wide MODIFIED; ANSWER is a long-form quick answer that
+    # renders as the callout while QUICK keeps serving as the verdict badge.
+    updated = f.get("UPDATED", "").strip() or MODIFIED
+    answer = f.get("ANSWER", "").strip()
+    PAGE_UPDATED[s] = updated
     canonical = f"{HOST}/{s}/"
     hub = slug_hub.get(s)
     hub_label = HUB_LABEL.get(hub, "ECG findings")
@@ -328,7 +335,9 @@ def render_content(s):
     answer_box = ""
     show_lede = True
     badge = verdict_badge(quick)
-    if quick and quick not in VERDICTS and quick.upper() != "NONE" and len(quick) > 40:
+    if answer:
+        answer_box = f'<div class="answer"><div class="answer-k">Quick answer</div><p>{esc(answer)}</p></div>'
+    elif quick and quick not in VERDICTS and quick.upper() != "NONE" and len(quick) > 40:
         # long-form quick answer -> callout
         answer_box = f'<div class="answer"><div class="answer-k">Quick answer</div><p>{esc(quick)}</p></div>'
         # dedupe lede if it repeats the quick answer
@@ -374,12 +383,12 @@ def render_content(s):
     mwp = {
         "@type": "MedicalWebPage", "@id": canonical + "#webpage",
         "name": title, "headline": h1, "description": desc, "url": canonical,
-        "inLanguage": "en", "datePublished": PUBLISHED, "dateModified": MODIFIED,
+        "inLanguage": "en", "datePublished": PUBLISHED, "dateModified": updated,
         "isPartOf": {"@id": HOST + "/#website"},
         "about": {"@type": HUB_ABOUT.get(hub, "MedicalSignOrSymptom"), "name": ABOUT_NAME.get(s, h1_crumb(h1))},
         "author": {"@id": HOST + "/#author"},
         "reviewedBy": {"@id": HOST + "/#author"},
-        "lastReviewed": MODIFIED,
+        "lastReviewed": updated,
         "publisher": {"@id": HOST + "/#org"},
         "medicalAudience": {"@type": "MedicalAudience", "audienceType": "Patient"},
         "primaryImageOfPage": {"@type": "ImageObject", "url": OG_IMG},
@@ -406,7 +415,7 @@ def render_content(s):
 <h1>{esc(h1)}</h1>
 {badge_html}
 {lede_html}
-{byline()}
+{byline(updated)}
 {tool_html}
 {answer_box}
 {fig_html}
@@ -572,7 +581,7 @@ def build_sitemaps(all_urls):
         return ""
     def urlset(entries):
         rows = "\n".join(
-            f'<url><loc>{u}</loc><lastmod>{MODIFIED}</lastmod><changefreq>{cf}</changefreq><priority>{pr}</priority>{img(u)}</url>'
+            f'<url><loc>{u}</loc><lastmod>{PAGE_UPDATED.get(u.replace(HOST, "").strip("/"), MODIFIED)}</lastmod><changefreq>{cf}</changefreq><priority>{pr}</priority>{img(u)}</url>'
             for u, cf, pr in entries)
         return f'<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">\n{rows}\n</urlset>\n'
     open(os.path.join(OUT, "sitemap.xml"), "w").write(urlset(all_urls))
