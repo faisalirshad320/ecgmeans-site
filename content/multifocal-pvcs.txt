@@ -101,6 +101,30 @@ Many people feel nothing. Others notice:
 
 Our page on [palpitations with a normal ECG](https://www.ecgmeans.com/heart-palpitations-normal-ecg/) covers what to do when you feel skipped beats but the tracing looks fine.
 
+## A worked example
+
+> **Report line:** *"Sinus rhythm with multifocal PVCs. Otherwise normal ECG."*
+> **Patient:** 58-year-old man with high blood pressure, taking a thiazide diuretic, who noticed skipped beats for two weeks.
+
+His doctor ordered blood tests, which showed a potassium of 3.2 mmol/L (slightly low) and low-normal magnesium. A 24-hour Holter found PVCs of two shapes making up about 2% of all beats, with no runs. An echocardiogram showed mildly thickened heart muscle from high blood pressure but normal pumping.
+
+**What happened:** his blood pressure medicine was adjusted, potassium was replaced and he cut back from five coffees a day. A repeat Holter three months later showed far fewer PVCs, and his symptoms settled.
+
+**The lesson:** multifocal PVCs prompted a search for causes, and in this case several small, fixable factors were found. That is a common outcome. A different result — for example a weak heart muscle on the echo — would have led to a cardiology referral and treatment for the underlying condition.
+
+## Multifocal PVCs vs other irregular rhythms
+
+Several rhythms can look like "irregular extra beats" on a monitor or smartwatch:
+
+| Finding | What it is | Key difference |
+| --- | --- | --- |
+| Multifocal PVCs | Early wide beats of several shapes from the ventricles | Underlying rhythm is regular sinus rhythm between the extra beats |
+| Multifocal atrial tachycardia | Fast rhythm with 3+ different P wave shapes from the atria | Narrow QRS; rate over 100; often lung disease |
+| Atrial fibrillation | Chaotic atrial activity, irregularly irregular rhythm | No P waves; narrow QRS unless there is a conduction problem |
+| PACs with aberrant conduction | Early beats from the atria that conduct with a wide QRS | A premature P wave precedes the wide beat |
+
+If the extra beats are narrow and preceded by a P wave, they are more likely atrial — see [PVC vs PAC](https://www.ecgmeans.com/pvc-vs-pac/) and [multifocal atrial tachycardia](https://www.ecgmeans.com/multifocal-atrial-tachycardia/).
+
 ## Tests your doctor may order
 
 1. **Blood tests** — potassium, magnesium, calcium, thyroid function, kidney function, and digoxin level if you take it

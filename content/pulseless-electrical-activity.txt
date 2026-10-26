@@ -77,6 +77,30 @@ Bedside ultrasound has become a key tool: it can show fluid around the heart, an
 
 **Pseudo-PEA** is a state in which the heart is still squeezing weakly, but the blood pressure is too low for a pulse to be felt. Ultrasound, an arterial line or carbon dioxide levels in breath can reveal it. It is still an emergency, but it often responds better to treating the cause.
 
+## How PEA is recognized during a resuscitation
+
+In practice, PEA is identified in a few seconds during the regular rhythm checks of CPR:
+
+1. **The monitor shows an organized rhythm** — not VF, not VT, not a flat line.
+2. **A pulse check finds no pulse**, usually at the carotid artery in the neck, for no longer than 10 seconds.
+3. **Other signs agree:** the person remains unresponsive and is not breathing normally.
+4. **Extra tools refine the picture:** a sudden rise in exhaled carbon dioxide (capnography) or visible heart movement on ultrasound can suggest the circulation is returning or that the situation is pseudo-PEA.
+
+Because pulse checks can be unreliable — particularly in people with very low blood pressure, obesity or hardened arteries — teams increasingly combine them with these measurements rather than relying on a fingertip alone.
+
+## PEA after a heart attack, surgery or trauma
+
+The setting often points straight to the most likely cause:
+
+- **After a heart attack:** a large loss of pumping muscle or, rarely, a rupture of the heart wall leading to tamponade
+- **After heart surgery:** bleeding into the sac around the heart (tamponade) is a leading concern
+- **After trauma:** blood loss, tension pneumothorax and tamponade are the top three
+- **In a dialysis patient:** very high potassium is high on the list
+- **After recent surgery or a long period in bed:** a large pulmonary embolism
+- **In a suspected overdose:** heart-affecting drugs such as beta-blockers, calcium channel blockers or tricyclic antidepressants
+
+Knowing the story is often as important as the rhythm itself.
+
 ## Is PEA shockable?
 
 No. Like asystole, PEA is a **non-shockable rhythm**. The electrical system is already producing organized signals; the problem is that the heart is not pumping. A shock does not fix an empty heart, a clot or fluid around the heart.

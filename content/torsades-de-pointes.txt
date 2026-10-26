@@ -96,6 +96,30 @@ Torsades de pointes and a long QT interval are closely tied. The QT is measured 
 
 For a full explanation of how the interval is measured and what changes it, see [QT interval](https://www.ecgmeans.com/qt-interval/) and [QT prolongation](https://www.ecgmeans.com/qt-prolongation/).
 
+## A worked example
+
+> **Monitor alarm:** *"Polymorphic VT, 12 beats, self-terminated."*
+> **Patient:** 72-year-old woman in hospital with pneumonia, taking a diuretic for heart failure, started on an intravenous macrolide antibiotic and an anti-sickness medicine two days earlier.
+
+Her admission ECG had a QTc of 470 ms. The new 12-lead ECG showed a QTc of 560 ms, large U waves and a heart rate of 54. Blood tests showed potassium at the low end and low magnesium. Shortly before the alarm she had felt briefly dizzy.
+
+**What the team did:** IV magnesium was given, both QT-prolonging medicines were stopped and replaced with alternatives, potassium and magnesium were topped up, and she was kept on continuous monitoring. No further episodes occurred, and over the next three days her QTc fell back below 480 ms.
+
+**The lesson:** no single factor caused the torsades — it was the stack of an older age, female sex, a diuretic, low magnesium, a slow rate and two QT-prolonging drugs together. Removing several of those layers was enough. This is the most common real-world story.
+
+## Who is most at risk?
+
+Doctors think about torsades risk as a sum of factors rather than a single cause. The more boxes ticked, the closer the monitoring:
+
+| Lower risk | Higher risk |
+| --- | --- |
+| One QT-prolonging medicine at a normal dose | Two or more QT-prolonging medicines, or high doses |
+| Normal kidney and liver function | Kidney or liver disease raising drug levels |
+| Normal potassium and magnesium | Low potassium or magnesium, diuretics, vomiting or diarrhea |
+| Normal heart rate | Slow heart rate, heart block or long pauses |
+| Normal heart | Heart failure, recent heart attack, thickened heart muscle |
+| Normal baseline QTc | Long baseline QTc or known inherited long QT |
+
 ## Symptoms of torsades de pointes
 
 - Sudden **palpitations** or a racing, fluttering heartbeat

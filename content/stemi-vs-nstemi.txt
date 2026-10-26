@@ -23,7 +23,7 @@ The NSTEMI ECG and the STEMI ECG differ in one key way: whether the ST segment i
 
 STEMI stands for **ST-elevation myocardial infarction**. It usually happens when a coronary artery, one of the vessels supplying the heart muscle, becomes **fully blocked**. This is most often caused by a fatty plaque in the artery wall rupturing, with a clot then forming on top of it.
 
-On the ECG, a STEMI shows **new ST-segment elevation** in a pattern that matches the area of heart muscle supplied by one coronary artery. Sometimes it shows up instead as a **new left bundle branch block**. The usual threshold is new ST elevation of about **≥1 mm in two contiguous limb leads**, or **≥2 mm in chest leads**. The exact cut-offs vary slightly by age and sex.
+On the ECG, a STEMI shows **new ST-segment elevation** in a pattern that matches the area of heart muscle supplied by one coronary artery. A **new left bundle branch block** with chest pain is also treated urgently, because it can hide a heart attack; doctors then use special criteria (Sgarbossa) rather than calling it a STEMI automatically. The usual threshold is new ST elevation of **at least 1 mm in two neighbouring (contiguous) leads**, except in V2–V3, where it is **at least 2 mm in men aged 40 or over, 2.5 mm in men under 40 and 1.5 mm in women**. The exact cut-offs vary slightly by age and sex.
 
 Because the artery is completely shut, the priority is to **reopen it as fast as possible**. This is done either with emergency angioplasty, which opens the artery from the inside, or with clot-busting drugs.
 
@@ -38,8 +38,8 @@ An NSTEMI is still a heart attack and is treated **urgently**. Treatment involve
 ## How to tell them apart on the ECG
 
 - **ST segment:** STEMI shows **new ST elevation**. NSTEMI shows **no ST elevation**.
-- **Size of the change:** STEMI meets a threshold of about **≥1 mm in two contiguous limb leads** or **≥2 mm in chest leads**, with slightly different cut-offs by age and sex.
-- **Pattern:** In STEMI, the elevation matches **one coronary artery's territory**. Sometimes a **new left bundle branch block** is seen instead.
+- **Size of the change:** STEMI meets a threshold of **≥1 mm in two contiguous leads**, with higher cut-offs in V2–V3 (≥2 mm in men 40+, ≥2.5 mm in men under 40, ≥1.5 mm in women).
+- **Pattern:** In STEMI, the elevation matches **one coronary artery's territory**. A **new left bundle branch block** with symptoms is assessed urgently using Sgarbossa criteria.
 - **Other changes:** NSTEMI may show **ST depression** or **T-wave inversion**, or the ECG may look **near-normal**.
 - **Blood test:** Both are diagnosed with ECG plus troponin. For NSTEMI, the **raised troponin** is what confirms the diagnosis.
 
@@ -117,7 +117,7 @@ A: Both are heart attacks and both are emergencies. A STEMI usually means an art
 Q: Can you have a heart attack with a normal-looking ECG?
 A: Yes, this can happen with an NSTEMI. The ECG may show ST depression or T-wave inversion, but it can also look near-normal. That is why a troponin blood test is essential, because the NSTEMI diagnosis rests on a rise in troponin.
 Q: What ECG change defines a STEMI?
-A: A STEMI shows new ST-segment elevation in a pattern matching one coronary artery's territory. The usual threshold is about ≥1 mm in two contiguous limb leads or ≥2 mm in chest leads, with slightly different cut-offs by age and sex. Sometimes a new left bundle branch block is seen instead.
+A: A STEMI shows new ST-segment elevation in a pattern matching one coronary artery's territory. The usual threshold is at least 1 mm in two contiguous leads, with higher cut-offs in V2–V3 that depend on age and sex. A new left bundle branch block with chest pain is also assessed urgently.
 Q: What causes STEMI and NSTEMI?
 A: A STEMI is usually caused by a fully blocked coronary artery, most often from a ruptured plaque and clot. An NSTEMI is usually caused by a partially blocked artery or severe narrowing that reduces blood flow. Both share the same risk factors: smoking, diabetes, high blood pressure, high cholesterol and family history.
 Q: What should I do if I think I'm having a heart attack?

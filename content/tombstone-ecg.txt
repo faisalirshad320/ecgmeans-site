@@ -1,7 +1,7 @@
 @@TITLE@@
 Tombstone ECG (Tombstoning): Meaning in a Heart Attack
 @@DESC@@
-A tombstone ECG shows huge dome-shaped ST elevation merging with the T wave, usually a large anterior STEMI from a blocked LAD. What it means and why it's urgent.
+A tombstone ECG shows huge dome-shaped ST elevation merging with the T wave, usually a large anterior STEMI from a blocked LAD. Meaning and why it's urgent.
 @@H1@@
 Tombstone ECG: What "Tombstoning" Means on an EKG
 @@CATEGORY@@
@@ -86,6 +86,29 @@ A tombstone STEMI is treated as a time-critical emergency:
 4. **Close monitoring** for dangerous rhythms, heart failure and shock, with treatments such as defibrillation, medicines to support blood pressure, or mechanical heart support if needed.
 
 After the artery is opened, the ST elevation usually falls over hours to days. Fast resolution of the ST segments is a good sign that blood flow has returned to the muscle.
+
+## A worked example
+
+> **Paramedic ECG:** *"Massive ST elevation V1–V6, I, aVL with reciprocal ST depression II, III, aVF. Tombstone morphology. STEMI alert."*
+> **Patient:** 61-year-old man, smoker, with 40 minutes of crushing central chest pain, sweating and vomiting.
+
+The paramedics sent the ECG ahead and took him straight to the cath lab, bypassing the emergency department. Angiography showed a complete blockage at the start of the left anterior descending artery. It was opened and stented about 70 minutes after the first ECG.
+
+The next morning, his ST segments had fallen by more than half, a good sign that blood was reaching the muscle again. His echocardiogram showed a moderately weakened front wall, and he started heart-protecting medicines and cardiac rehabilitation. A repeat echo three months later showed partial recovery.
+
+**The lesson:** the tombstone pattern correctly signalled a large, high-risk heart attack. The speed of the pre-hospital ECG and direct transfer to the cath lab is what limited the damage.
+
+## Complications doctors watch for
+
+Because tombstoning signals a large injured area, the care team watches closely for:
+
+- **Dangerous rhythms** — ventricular tachycardia or fibrillation, most common in the first 48 hours
+- **Heart failure** — breathlessness and fluid in the lungs from a weakened pump
+- **Cardiogenic shock** — very low blood pressure needing medicines or mechanical support
+- **Heart block** — slow rhythms when the conduction system is affected
+- **A clot inside the left ventricle** — from a weak, poorly moving front wall, which may need blood thinners
+- **Pericarditis** — inflammation of the heart's lining days after the attack
+- **Rare mechanical problems** — such as a tear in the septum or the heart wall, which need emergency surgery
 
 ## Tombstoning vs other causes of ST elevation
 
