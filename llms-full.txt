@@ -4,7 +4,7 @@
 
 ## ECG Report Phrases
 
-### Abnormal ECG: What It Means on Your Report
+### Abnormal ECG (Abnormal EKG): What It Means on Your Report
 URL: https://www.ecgmeans.com/abnormal-ecg/
 Verdict/quick answer: Depends on context
 "Abnormal ECG" is a summary line printed by the ECG machine's software. It means at least one measurement — rate, rhythm, an interval or a wave shape — fell outside the program's normal limits. It is not a diagnosis. Many abnormal readings turn out to be harmless variants once a clinician looks at the tracing and at you.
@@ -19,12 +19,17 @@ URL: https://www.ecgmeans.com/anteroseptal-infarct/
 Verdict/quick answer: Needs clinician review
 "Anteroseptal infarct, age undetermined" means the software saw a pattern across the front and middle of the chest leads (V1–V4) that a past heart attack can leave — combining the septal (V1–V2) and anterior (V3–V4) territories. It cannot date it or be certain it happened. Chest-lead placement, body build and bundle branch block are common innocent mimics.
 
+### Artifact on an ECG: What It Means When Your Report Mentions It
+URL: https://www.ecgmeans.com/ecg-artifact/
+Verdict/quick answer: Usually harmless
+An ECG records tiny electrical signals, measured in thousandths of a volt, through stickers on your skin. Anything else that produces electricity or disturbs those stickers can show up on the paper too. When the report says "artifact present," "baseline artifact," "somatic tremor" or "technically limited study," it is telling you the recording quality was not perfect. That matters for two reasons: noise can look alarmingly like a dangerous rhythm, and it can hide small real findings. This page explains each type of artifact, how doctors tell it apart from true arrhythmias, and what usually happens next.
+
 ### Biatrial Enlargement on an ECG: What It Means
 URL: https://www.ecgmeans.com/biatrial-enlargement/
 Verdict/quick answer: Needs clinician review
 Biatrial enlargement means your ECG shows signs that both the right and left atria, the two upper chambers of the heart, are enlarged or under strain at the same time. It is not a disease in itself. It is a clue that both sides of the heart may be working harder, usually because of an underlying condition. It warrants a proper assessment, but it is not an emergency on its own.
 
-### Borderline ECG: What It Means
+### Borderline ECG: What It Means and When to Worry
 URL: https://www.ecgmeans.com/borderline-ecg/
 Verdict/quick answer: Usually harmless
 A "borderline ECG" means the machine found something just outside its normal limits, but not far enough to call the tracing abnormal. It is the software's way of saying "probably fine, worth a human glance". In people without symptoms it is most often a normal variant or a technical artefact.
@@ -34,15 +39,30 @@ URL: https://www.ecgmeans.com/brugada-syndrome/
 Verdict/quick answer: Needs clinician review
 Brugada syndrome is an inherited condition of the heart's sodium channels. It produces a characteristic pattern in the right chest leads of an ECG and carries a risk of dangerous heart rhythms. Many people with a Brugada pattern feel completely well. Even so, it always needs proper assessment by a heart specialist, especially if you have had fainting or a family history of sudden death.
 
+### Cardiac Tamponade on an ECG: The Signs and Why It Is an Emergency
+URL: https://www.ecgmeans.com/cardiac-tamponade-ecg/
+Verdict/quick answer: Seek prompt care
+The heart sits inside a thin, two-layered sac called the pericardium. Normally there is only a small amount of lubricating fluid between the layers. When fluid, blood or pus builds up faster than the sac can stretch, the pressure squeezes the heart so it cannot fill properly, and blood pressure falls. That is cardiac tamponade. The ECG cannot see fluid directly, but it can show patterns that make a doctor think of it straight away. If a report mentions "low voltage with electrical alternans," or "consider pericardial effusion," this page explains why it matters and what happens next.
+
+### Digoxin Effect on an ECG: What It Means and How It Differs From Toxicity
+URL: https://www.ecgmeans.com/digoxin-effect-ecg/
+Verdict/quick answer: Needs clinician review
+Digoxin (brand names include Lanoxin) is an old, still widely used heart medicine for atrial fibrillation and some types of heart failure. It changes the shape of the ECG in a very recognizable way, so reports often state "digoxin effect" or "ST changes consistent with digitalis." That phrase on its own is expected and usually not a cause for alarm. The important job for you and your doctor is to make sure nothing on the tracing, in your blood tests, or in how you feel suggests the level has drifted too high. This page explains both sides clearly.
+
 ### Early Repolarization on an ECG: What It Means
 URL: https://www.ecgmeans.com/early-repolarization/
 Verdict/quick answer: Usually harmless
 Early repolarization is a common normal variant in which the point where the QRS ends and the ST segment begins (the J point) sits slightly above the baseline, often with a small notch. It is seen in roughly 1 in 10 to 1 in 20 people, especially young adults, athletes and men, and in the great majority it is harmless.
 
-### Hyperkalaemia on an ECG: What It Means
+### Heart Palpitations but a Normal ECG: What It Means
+URL: https://www.ecgmeans.com/heart-palpitations-normal-ecg/
+Verdict/quick answer: Usually harmless
+Few things are as frustrating as feeling your heart flutter, pound or skip for days, then being told your ECG is normal. It can feel like nobody believes you. In fact, your symptoms and your normal ECG can both be true at the same time. The test is a snapshot, and most palpitations come and go. This page explains why a normal ECG is still useful, what palpitations look like when they are caught on a tracing, how anxiety fits in, which monitors can catch an intermittent rhythm, and which warning signs mean you should get help quickly.
+
+### Hyperkalemia on an ECG: What the Changes Mean
 URL: https://www.ecgmeans.com/hyperkalemia-ecg/
-Verdict/quick answer: Needs clinician review
-Hyperkalaemia means a high level of potassium in your blood. An ECG cannot measure potassium directly, but certain patterns strongly suggest it and can show up before blood results are back. The key point is that hyperkalaemia with ECG changes is treated as a medical emergency, so the blood level is checked urgently and treatment does not wait.
+Verdict/quick answer: Seek prompt care
+Hyperkalemia means a high level of potassium in your blood. An ECG cannot measure potassium directly, but certain patterns strongly suggest it and can show up before blood results are back. The key point is that hyperkalemia with ECG changes is treated as a medical emergency, so the blood level is checked urgently and treatment does not wait.
 
 ### Hypokalaemia on an ECG: What It Means
 URL: https://www.ecgmeans.com/hypokalemia-ecg/
@@ -93,7 +113,7 @@ URL: https://www.ecgmeans.com/p-pulmonale/
 Verdict/quick answer: Needs clinician review
 'P pulmonale' on an ECG report describes a tall, peaked P wave that suggests the right upper chamber of the heart (the right atrium) may be enlarged. The name comes from its classic link with lung ('pulmonary') disease that strains the right side of the heart. It is a clue rather than a diagnosis, and it is not an emergency on its own. It is worth having a clinician look into the cause.
 
-### Pericarditis on an ECG: What It Shows
+### Pericarditis on an ECG: Stages, Signs and How It Differs From a Heart Attack
 URL: https://www.ecgmeans.com/pericarditis-ecg/
 Verdict/quick answer: Needs clinician review
 Pericarditis is inflammation of the sac around the heart. On the ECG it classically produces widespread, saucer-shaped (concave) ST elevation across many leads, together with PR-segment depression. The key task for a clinician is to separate it from a heart attack, which also raises the ST segment but in a different pattern. The ECG is only part of the picture, alongside symptoms and blood tests.
@@ -148,6 +168,11 @@ URL: https://www.ecgmeans.com/sgarbossa-criteria/
 Verdict/quick answer: Seek prompt care
 The Sgarbossa criteria are three ECG signs that help doctors spot a heart attack (STEMI) when the usual signs are hidden by a left bundle branch block (LBBB) or a pacemaker. A normal LBBB already distorts the ST segments, so these rules look for changes that go beyond what the block alone would cause. If your report mentions them, it is in the context of a possible heart attack and needs urgent care.
 
+### Tombstone ECG: What "Tombstoning" Means on an EKG
+URL: https://www.ecgmeans.com/tombstone-ecg/
+Verdict/quick answer: Seek prompt care
+"Tombstoning" is an informal name, but it describes one of the most urgent patterns an ECG can show. It is not a separate disease; it is a shape of ST elevation seen in a heart attack that is usually large and still evolving. Most people will meet the term in a hospital discharge letter, a paramedic's notes, or while studying ECGs. This page explains what the tombstone ECG looks like, which artery is usually involved, why it predicts a rougher course, how it is treated, and what recovery typically involves.
+
 ### Wellens Syndrome: What It Means on an ECG
 URL: https://www.ecgmeans.com/wellens-syndrome/
 Verdict/quick answer: Seek prompt care
@@ -165,7 +190,7 @@ URL: https://www.ecgmeans.com/accelerated-junctional-rhythm/
 Verdict/quick answer: Needs clinician review
 Accelerated junctional rhythm is a rhythm arising from the AV junction at 60–100 beats per minute — faster than the junction's natural 40–60, so it outpaces the sinus node. The QRS is narrow and normal-looking but the P waves are missing or upside-down. It usually signals irritation of the junction by a drug, recent surgery or reduced blood supply.
 
-### AFib with RVR: What It Means on an ECG
+### AFib With RVR: What It Means on an ECG and How It Is Treated
 URL: https://www.ecgmeans.com/afib-with-rvr/
 Verdict/quick answer: Needs clinician review
 AFib with RVR means atrial fibrillation with a rapid ventricular response — the heart is in atrial fibrillation and the ventricles are being driven unusually fast, usually over 100 beats per minute. On the ECG it looks irregularly irregular, with no clear P waves and closely spaced, normal-shaped QRS complexes. It is common and treatable, but a fast rate needs assessment.
@@ -175,17 +200,22 @@ URL: https://www.ecgmeans.com/ashman-phenomenon/
 Verdict/quick answer: Usually harmless
 Ashman phenomenon is a single wide beat that happens when a short cycle follows a longer one, causing one beat to be conducted abnormally (aberrantly) through the bundle branches. It is most often seen in atrial fibrillation and is harmless in itself — its importance is that it can be mistaken for a premature ventricular beat.
 
+### Asystole on an ECG: What a Flatline Means
+URL: https://www.ecgmeans.com/asystole/
+Verdict/quick answer: Seek prompt care
+"Flatline" is the most recognizable image in medicine, and it is also one of the most misunderstood. Television often shows doctors shocking a flat line back to life, but real defibrillators cannot restart a heart that has no electrical activity at all. This page explains what asystole looks like on an ECG (EKG — the two abbreviations mean the same test), how clinicians make sure a flat line is genuine and not a loose lead, why the treatment is CPR and medicine rather than a shock, what causes it, and what families can realistically expect.
+
 ### Atrial Bigeminy: What It Means on an ECG
 URL: https://www.ecgmeans.com/atrial-bigeminy/
 Verdict/quick answer: Usually harmless
 Atrial bigeminy means the ECG shows a repeating pattern where every normal beat is followed by a premature atrial contraction (PAC) — an early beat from the upper chambers. It is very common, usually harmless, and often felt as skipped beats. A doctor may still check for triggers if it happens a lot.
 
-### Atrial Fibrillation: What It Means on an ECG
+### Atrial Fibrillation ECG: What AFib Looks Like and What It Means
 URL: https://www.ecgmeans.com/atrial-fibrillation/
 Verdict/quick answer: Needs clinician review
 Atrial fibrillation (AF or AFib) is the most common sustained abnormal heart rhythm. The upper chambers quiver instead of beating in an organised way, so the pulse becomes irregular and often fast. On the ECG there are no normal P waves and the QRS complexes are irregularly spaced. It is rarely immediately life-threatening, but it raises the risk of stroke and needs proper assessment.
 
-### Atrial Flutter: What It Means on an ECG
+### Atrial Flutter ECG: What the Sawtooth Pattern Means
 URL: https://www.ecgmeans.com/atrial-flutter/
 Verdict/quick answer: Needs clinician review
 Atrial flutter is a fast, usually regular rhythm in which the upper chambers beat in a rapid, organised circle — around 300 times a minute — while the AV node lets only a fraction through to the ventricles. On the ECG it produces a distinctive "sawtooth" baseline. It is a close relative of atrial fibrillation and carries a similar stroke risk.
@@ -200,10 +230,19 @@ URL: https://www.ecgmeans.com/av-dissociation/
 Verdict/quick answer: Needs clinician review
 AV dissociation means the atria and the ventricles are beating independently of each other, each driven by its own pacemaker, rather than in the normal coordinated way. It is a description rather than a single diagnosis — it can be benign or a sign of a serious conduction problem — so the cause needs to be identified.
 
-### Bigeminy: What It Means on an ECG
+### AVNRT on an ECG: What AV Nodal Re-entrant Tachycardia Means
+URL: https://www.ecgmeans.com/avnrt/
+Verdict/quick answer: Needs clinician review
+People with AVNRT often describe the same story: the heart suddenly switches into a fast, pounding beat, sometimes with a flutter in the neck, and then — minutes or hours later — it stops just as suddenly. Between episodes the ECG is usually completely normal, which can make diagnosis frustrating. This page explains what is happening electrically, the specific clues clinicians look for on an AVNRT ECG, how it differs from the other common SVT (AVRT, including Wolff-Parkinson-White), and the treatments, from simple vagal maneuvers you can learn to a procedure that cures most people.
+
+### Bigeminy (PVC Bigeminy): What It Means on an ECG
 URL: https://www.ecgmeans.com/bigeminy/
 Verdict/quick answer: Depends on context
 Bigeminy means every second heartbeat is a premature (extra) beat, so beats arrive in pairs: normal, early, pause; normal, early, pause. Usually the extra beats are PVCs from the lower chambers — ventricular bigeminy. It can feel like a slow or thumping pulse. In a structurally normal heart it is generally benign.
+
+### ECG Rhythm Strips: A Visual Library of EKG Rhythms
+URL: https://www.ecgmeans.com/ecg-rhythm-strips/
+Whether you are a patient trying to understand the rhythm named on your report, or a student learning to recognise EKG rhythms, it helps to see them next to each other. Below, every common rhythm is drawn on the same ECG paper at the same scale, grouped by where in the heart it starts, so the differences jump out — a missing P wave here, a wide QRS there, a pause that should not be there.
 
 ### Ectopic Atrial Rhythm: What It Means
 URL: https://www.ecgmeans.com/ectopic-atrial-rhythm/
@@ -235,7 +274,7 @@ URL: https://www.ecgmeans.com/junctional-escape-rhythm/
 Verdict/quick answer: Depends on context
 A junctional escape rhythm is a backup rhythm that starts in the AV junction, around the AV node, when the heart's usual pacemaker (the sinus node) fails to pace the heart or its impulses are blocked. It is a safety mechanism, not a primary problem in itself, and on its own it often causes no symptoms. What matters most is finding out why the sinus node stopped leading.
 
-### Junctional Rhythm: What It Means
+### Junctional Rhythm on an ECG: What It Means, Types and Rates
 URL: https://www.ecgmeans.com/junctional-rhythm/
 A junctional rhythm means the heartbeat is being started by the AV junction — the relay point between the upper and lower chambers — instead of the usual sinus node. It typically runs at 40–60 beats per minute with a normal narrow QRS but no normal P wave in front. It is a back-up rhythm that appears when the sinus node slows or is blocked.
 
@@ -249,6 +288,16 @@ URL: https://www.ecgmeans.com/multifocal-atrial-tachycardia/
 Verdict/quick answer: Needs clinician review
 Multifocal atrial tachycardia (MAT) is a fast, irregular rhythm in which several different sites in the atria fire in competition, producing at least three distinct P wave shapes at a rate over 100. It is strongly associated with serious lung disease and other acute illness, so although the rhythm itself is rarely the main danger, it is a marker that the person is unwell.
 
+### Multifocal PVCs: What They Mean on Your ECG
+URL: https://www.ecgmeans.com/multifocal-pvcs/
+Verdict/quick answer: Needs clinician review
+A PVC — an early beat from the lower chambers — is one of the most common things an ECG picks up, and in most people it is harmless. When the report adds the word "multifocal" (or "multiform"), it is describing something a little more specific: the extra beats are not all coming from the same place. That detail does not automatically mean danger, but it shifts the question doctors ask from "Is this normal?" to "Is something irritating the heart muscle in more than one area?" This page explains what multifocal PVCs look like, why they happen, and what checks usually follow.
+
+### Normal Sinus Rhythm: What Sinus Rhythm Means on Your ECG
+URL: https://www.ecgmeans.com/sinus-rhythm/
+Verdict/quick answer: Usually harmless
+Sinus rhythm is the normal rhythm of the heart. It means each heartbeat is being started by the heart's natural pacemaker, the sinus node, and travelling through the normal pathway. "Normal sinus rhythm" adds that the rate is between 60 and 100 beats per minute. The word "sinus" has nothing to do with your nose.
+
 ### Paced Rhythm on an ECG: What It Means
 URL: https://www.ecgmeans.com/paced-rhythm/
 Verdict/quick answer: Depends on context
@@ -259,7 +308,12 @@ URL: https://www.ecgmeans.com/premature-junctional-contraction/
 Verdict/quick answer: Usually harmless
 A premature junctional contraction (PJC) is an early extra beat that starts in the AV junction rather than the sinus node, the heart's usual pacemaker. It is a less common relative of the premature atrial and ventricular beats, and it is usually a benign finding. Occasional PJCs are harmless and do not need treatment. Frequent ones are worth a closer look, because they can occasionally point to digoxin toxicity or heart strain.
 
-### Premature Ventricular Contraction (PVC) on an ECG: What It Means
+### Pulseless Electrical Activity (PEA): What It Looks Like on an ECG
+URL: https://www.ecgmeans.com/pulseless-electrical-activity/
+Verdict/quick answer: Seek prompt care
+PEA is the cardiac arrest rhythm that most confuses people, because the monitor appears to be working. There are spikes and complexes marching across the screen — yet the person is unconscious and has no pulse. The heart's electrical system is still firing, but the muscle is not producing enough pumping to create a pulse. Understanding that gap between electrical activity and mechanical pumping explains why PEA cannot be shocked, why finding the cause matters so much, and why its outlook varies so widely from one person to the next.
+
+### PVCs of the Heart (Premature Ventricular Contractions): What They Mean
 URL: https://www.ecgmeans.com/premature-ventricular-contractions/
 Verdict/quick answer: Usually harmless
 A premature ventricular contraction (PVC) is an early extra beat that starts in the ventricles, the heart's lower pumping chambers, rather than in the sinus node, the heart's natural pacemaker. PVCs are one of the most common findings on any ECG and are usually benign, especially in a structurally normal heart. They deserve a closer look mainly when they are very frequent, come in runs, or happen alongside symptoms such as fainting or chest pain.
@@ -294,20 +348,20 @@ URL: https://www.ecgmeans.com/sinus-arrhythmia/
 Verdict/quick answer: Usually harmless
 Sinus arrhythmia is a normal, harmless variation in which the heart speeds up slightly as you breathe in and slows as you breathe out. Despite the word "arrhythmia", it is not a rhythm disorder. It is most obvious in children, young adults and fit people, and indicates a healthy, responsive nervous system.
 
-### Sinus Rhythm: What It Means on Your ECG
-URL: https://www.ecgmeans.com/sinus-rhythm/
-Verdict/quick answer: Usually harmless
-Sinus rhythm is the normal rhythm of the heart. It means each heartbeat is being started by the heart's natural pacemaker, the sinus node, and travelling through the normal pathway. "Normal sinus rhythm" adds that the rate is between 60 and 100 beats per minute. The word "sinus" has nothing to do with your nose.
-
-### Sinus Tachycardia: What It Means
+### Sinus Tachycardia: What It Means, Causes and Treatment
 URL: https://www.ecgmeans.com/sinus-tachycardia/
 Verdict/quick answer: Depends on context
 Sinus tachycardia is a normal heart rhythm at a rate above 100 beats per minute at rest. The heart's own pacemaker is simply firing faster, nearly always as a response to something — exertion, anxiety, pain, fever, dehydration, caffeine or illness. It is a sign to look for the trigger rather than a heart rhythm disease in itself.
 
-### Supraventricular Tachycardia on an ECG: What It Means
+### SVT on an ECG: What Supraventricular Tachycardia Looks Like and Means
 URL: https://www.ecgmeans.com/supraventricular-tachycardia/
 Verdict/quick answer: Needs clinician review
 Supraventricular tachycardia (SVT) is a fast heart rhythm that starts at or above the AV node, in the upper chambers or the junction, rather than in the lower chambers (the ventricles). It usually begins and ends suddenly. SVT can feel unpleasant, but it is rarely dangerous in an otherwise healthy heart, and recurrent episodes can very often be cured. Because it can sometimes need urgent treatment, a doctor should review it.
+
+### Torsades de Pointes: The "Twisting" Polymorphic VT on an ECG
+URL: https://www.ecgmeans.com/torsades-de-pointes/
+Verdict/quick answer: Seek prompt care
+Torsades de pointes (French for "twisting of the points") is a rhythm most people only meet in two places: a drug leaflet warning about "QT prolongation", or a hospital report after a fainting episode. It is rare, but it is the main reason doctors care so much about the QT interval. The good news is that torsades usually has an identifiable trigger — a medicine, a low blood salt, a very slow heart rate — and once that is found it can often be prevented. This page explains what the rhythm looks like, why it happens, how it is treated and how people at risk are protected.
 
 ### Trigeminy: What It Means on an ECG
 URL: https://www.ecgmeans.com/trigeminy/
@@ -344,6 +398,11 @@ URL: https://www.ecgmeans.com/wandering-atrial-pacemaker/
 Verdict/quick answer: Usually harmless
 A wandering atrial pacemaker means the spot that starts each heartbeat drifts between the sinus node and other sites in the atria, so the P waves change shape from beat to beat. The heart rate stays normal (under 100). It is usually a benign finding related to normal changes in vagal tone, and is common in the young, the old and athletes.
 
+### What Is a Dangerous Heart Rate With AFib?
+URL: https://www.ecgmeans.com/afib-heart-rate/
+Verdict/quick answer: Needs clinician review
+In atrial fibrillation (AFib), the upper chambers quiver instead of beating in rhythm, and the heart rate depends on how many of those chaotic signals get through to the lower chambers. That rate can run fast, normal or slow, and it changes from minute to minute. If you have AFib, or you have just seen a high number on a smartwatch, you will want to know which numbers are safe, which mean calling your doctor, and which mean calling an ambulance. This page sets out the heart rate bands, what current guidelines aim for, and how to measure your pulse properly when the rhythm is irregular.
+
 ## Heart Blocks & Conduction
 
 ### 2:1 AV Block: What It Means on an ECG
@@ -371,14 +430,14 @@ URL: https://www.ecgmeans.com/intraventricular-conduction-delay/
 Verdict/quick answer: Depends on context
 An intraventricular conduction delay (IVCD) means the impulse takes longer than normal to spread through the ventricles, widening the QRS, but the pattern does not fit a typical left or right bundle branch block. When reports add the word "nonspecific," it simply means the delay has no classic shape. It is common, often mild, and its importance depends on the cause.
 
+### LBBB on an ECG: What Left Bundle Branch Block Means
+URL: https://www.ecgmeans.com/left-bundle-branch-block/
+Left bundle branch block (LBBB) means the electrical impulse cannot travel down the left branch of the heart's wiring, so the left ventricle is activated late and indirectly. On the ECG the QRS becomes wide (120 ms or more) with a characteristic shape. Unlike its right-sided counterpart, LBBB is usually associated with underlying heart disease and prompts an echocardiogram.
+
 ### Left Anterior Fascicular Block: What It Means
 URL: https://www.ecgmeans.com/left-anterior-fascicular-block/
 Verdict/quick answer: Usually harmless
 Left anterior fascicular block (LAFB, or left anterior hemiblock) means one of the two small branches of the left bundle — the anterior fascicle — is delayed. The result is a marked leftward shift of the QRS axis with only slight widening of the QRS. It is a common finding, particularly with age, and on its own is generally harmless.
-
-### Left Bundle Branch Block: What It Means
-URL: https://www.ecgmeans.com/left-bundle-branch-block/
-Left bundle branch block (LBBB) means the electrical impulse cannot travel down the left branch of the heart's wiring, so the left ventricle is activated late and indirectly. On the ECG the QRS becomes wide (120 ms or more) with a characteristic shape. Unlike its right-sided counterpart, LBBB is usually associated with underlying heart disease and prompts an echocardiogram.
 
 ### Left Posterior Fascicular Block: What It Means
 URL: https://www.ecgmeans.com/left-posterior-fascicular-block/
@@ -395,7 +454,7 @@ URL: https://www.ecgmeans.com/right-bundle-branch-block/
 Verdict/quick answer: Usually harmless
 Right bundle branch block (RBBB) means the impulse is delayed in the right branch of the heart's wiring, so the right ventricle is activated a little late. The QRS widens and takes on an "M-shaped" rSR' pattern in lead V1. Incomplete RBBB (QRS 110–119 ms) is a common normal variant, particularly in young people; complete RBBB is usually harmless too but is worth checking once.
 
-### Second Degree AV Block Type 1 (Wenckebach): What It Means
+### Second Degree AV Block Type 1 (Mobitz I / Wenckebach): What It Means
 URL: https://www.ecgmeans.com/second-degree-av-block-type-1/
 Verdict/quick answer: Depends on context
 Second degree AV block type 1 — also called Mobitz I or Wenckebach — is a pattern in which the delay through the AV node grows longer with each beat until one impulse fails to get through and a beat is dropped, after which the cycle restarts. The block is in the AV node itself, and in most people it is benign, especially when it appears during sleep or in athletes.
@@ -415,7 +474,7 @@ URL: https://www.ecgmeans.com/first-degree-av-block/
 Verdict/quick answer: Usually harmless
 First degree AV block means every impulse from the upper chambers still reaches the lower chambers, but it takes slightly longer than normal to get through the AV node — a PR interval longer than 200 ms (one large square). Nothing is actually blocked. In most people it is a benign finding that needs no treatment.
 
-### Third Degree (Complete) Heart Block: What It Means
+### Third Degree AV Block (Complete Heart Block): What It Means
 URL: https://www.ecgmeans.com/third-degree-av-block/
 Verdict/quick answer: Seek prompt care
 Third degree AV block — complete heart block — means the electrical connection between the upper and lower chambers has failed completely. The atria and ventricles beat independently, and the heart relies on a slow back-up (escape) rhythm to keep going. It is the most serious of the AV blocks and usually needs urgent assessment and a pacemaker.
@@ -482,6 +541,16 @@ URL: https://www.ecgmeans.com/j-point-elevation/
 Verdict/quick answer: Usually harmless
 "J-point elevation" means the point where the QRS complex ends and the ST segment begins sits slightly above the baseline on your ECG. In young, healthy people it is most often part of benign early repolarisation, a normal variant, rather than a sign of a heart attack. What matters is the overall pattern, whether it is new, and whether you have symptoms such as chest pain.
 
+### Normal PR Interval: Normal Range, How to Measure It, and Short or Prolonged PR
+URL: https://www.ecgmeans.com/pr-interval/
+Verdict/quick answer: Depends on context
+A normal PR interval is **120–200 ms** (0.12–0.20 seconds), or 3–5 small squares on standard ECG paper. It is the time from the start of the P wave to the start of the QRS — how long the impulse takes to travel from the atria, through the AV node, to the ventricles. Longer than 200 ms is first degree AV block; shorter than 120 ms may mean an accessory pathway or a junctional origin.
+
+### Normal QT Interval: QT and QTc Normal Range Explained
+URL: https://www.ecgmeans.com/qt-interval/
+Verdict/quick answer: Normal QTc is under about 440 ms in men and 460 ms in women; over 500 ms is clearly prolonged and raises the risk of torsades de pointes.
+The QT interval is the time the ventricles take to activate and then recover. Because it naturally shortens at faster heart rates, the machine corrects it for rate and prints the QTc. Normal QTc is under about 440 ms in men and 460 ms in women; over 500 ms is clearly prolonged and raises the risk of a dangerous rhythm called torsades de pointes.
+
 ### Osborn Wave (J Wave): What It Means on an ECG
 URL: https://www.ecgmeans.com/osborn-wave/
 Verdict/quick answer: Needs clinician review
@@ -497,20 +566,10 @@ URL: https://www.ecgmeans.com/peaked-t-waves/
 Verdict/quick answer: Depends on context
 Peaked T waves are T waves that are taller and more pointed than usual. They have two very different meanings: in a well person they are often a harmless normal variant (or early repolarization), but when they appear acutely they are the earliest ECG sign of a high blood potassium level (hyperkalaemia), which can be dangerous. The context decides which it is.
 
-### PR Interval: Normal Range and What Short or Long Means
-URL: https://www.ecgmeans.com/pr-interval/
-Verdict/quick answer: A normal PR interval is 120–200 ms (0.12–0.20 seconds), or 3–5 small squares on standard ECG paper.
-A normal PR interval is **120–200 ms** (0.12–0.20 seconds), or 3–5 small squares on standard ECG paper. It is the time from the start of the P wave to the start of the QRS — how long the impulse takes to travel from the atria, through the AV node, to the ventricles. Longer than 200 ms is first degree AV block; shorter than 120 ms may mean an accessory pathway or a junctional origin.
-
-### QRS Interval: Normal Range and What a Wide QRS Means
+### QRS Interval: Normal QRS Duration and What a Wide QRS Means
 URL: https://www.ecgmeans.com/qrs-interval/
 Verdict/quick answer: Normal is under 120 ms — less than three small squares — and many cardiologists prefer under 100–110 ms. A wide QRS means the impulse took a slow route: usually a bundle branch block, a beat starting in the ventricle, a pacemaker, or a drug or electrolyte effect.
 The QRS interval (or duration) is how long it takes the electrical impulse to spread through both ventricles. Normal is under 120 ms — less than three small squares — and many cardiologists prefer under 100–110 ms. A wide QRS means the impulse took a slow route: usually a bundle branch block, a beat starting in the ventricle, a pacemaker, or a drug or electrolyte effect.
-
-### QT and QTc Interval: Normal Range and Prolonged QT
-URL: https://www.ecgmeans.com/qt-interval/
-Verdict/quick answer: Normal QTc is under about 440 ms in men and 460 ms in women; over 500 ms is clearly prolonged and raises the risk of torsades de pointes.
-The QT interval is the time the ventricles take to activate and then recover. Because it naturally shortens at faster heart rates, the machine corrects it for rate and prints the QTc. Normal QTc is under about 440 ms in men and 460 ms in women; over 500 ms is clearly prolonged and raises the risk of a dangerous rhythm called torsades de pointes.
 
 ### QT Prolongation on an ECG: What It Means
 URL: https://www.ecgmeans.com/qt-prolongation/
@@ -547,6 +606,11 @@ URL: https://www.ecgmeans.com/u-wave/
 Verdict/quick answer: Depends on context
 A U wave is a small, rounded bump that sometimes follows the T wave on an ECG. Small U waves are a normal finding, most visible at slow heart rates and in the chest leads. Prominent U waves are the ones that matter — they are a classic sign of a low blood potassium level and of certain medicines.
 
+### What Does the P Wave Represent on an ECG?
+URL: https://www.ecgmeans.com/p-wave/
+Verdict/quick answer: Usually harmless
+Every normal heartbeat starts with a P wave. It is a small bump, but it tells you a lot: where the beat began, whether the upper chambers are stretched or thickened, and whether the signal is getting through to the lower chambers. If your ECG report mentions the P wave (as "abnormal P wave", "P mitrale", "inverted P wave" or "no P waves"), this page explains what the P wave represents, what normal looks like, and which changes are harmless and which need a closer look.
+
 ### Wide QRS Complex on an ECG: What It Means
 URL: https://www.ecgmeans.com/wide-qrs-complex/
 Verdict/quick answer: Depends on context
@@ -554,29 +618,40 @@ A wide (broad) QRS complex means the heart's main pumping chambers, the ventricl
 
 ## Comparisons
 
+### AFib vs VFib: What Is the Difference?
+URL: https://www.ecgmeans.com/afib-vs-vfib/
+AFib and VFib sound almost identical, and both mean "fibrillation", a chaotic quivering of heart muscle. Where that quivering happens changes everything. AFib is a common, long-term rhythm problem that millions of people live with. VFib is a medical emergency that causes death within minutes unless someone starts CPR and uses a defibrillator. This page compares the two side by side: what happens in the heart, what each looks like on an ECG, how they feel, how they are treated, and whether one can lead to the other.
+
 ### Atrial Fibrillation vs Atrial Flutter on an ECG: What It Means
 URL: https://www.ecgmeans.com/afib-vs-aflutter/
 Atrial fibrillation and atrial flutter are two related fast rhythms that start in the heart's upper chambers (the atria). In atrial fibrillation the atria quiver chaotically, while in atrial flutter they beat in a fast, organised circle. Both carry the same kind of stroke risk and are assessed the same way for stroke prevention. Both are well-recognised and treatable, so the key next step is a conversation with your doctor about rhythm treatment and whether you need anticoagulation.
 
-### EKG vs Echocardiogram: What's the Difference?
+### ECG vs EKG: What's the Difference?
+URL: https://www.ecgmeans.com/ecg-vs-ekg/
+If your doctor said "ECG" and the appointment letter says "EKG", you have not been booked for two different tests. The two abbreviations describe exactly the same thing, done with the same machine, and read in the same way. The difference is history and habit, not medicine. This page explains where each name comes from, why American hospitals tend to prefer EKG, what the test actually measures, the different kinds of ECG you might be offered, and how it compares with two tests people often mix it up with: the EEG and the echocardiogram.
+
+### Echocardiogram vs EKG: What's the Difference and Do You Need Both?
 URL: https://www.ecgmeans.com/ekg-vs-echocardiogram/
-Verdict/quick answer: An EKG records the heart's electrical activity over about ten seconds using stickers on the skin; an echocardiogram is an ultrasound scan that shows the heart's structure and pumping.
 An EKG (ECG) records the heart's electrical activity over about ten seconds using stickers on the skin; it shows rhythm, conduction and electrical signs of strain or damage. An echocardiogram is an ultrasound scan that shows the heart's structure and pumping — chamber sizes, wall thickness, valves and ejection fraction. They answer different questions, which is why an abnormal EKG is often followed by an echo.
 
 The EKG is the electrical tracing; the echocardiogram is an ultrasound picture of the heart itself.
+
+### EEG vs EKG: What Is the Difference Between These Two Tests?
+URL: https://www.ecgmeans.com/eeg-vs-ekg/
+EEG and EKG sound alike, use similar-looking wires and both produce wavy lines on a screen, so it is easy to mix them up — even hospital staff sometimes do, which is one reason Americans favor "EKG" over "ECG". But they look at completely different organs and answer different questions. Sometimes they are done together, for example when someone has fainted and doctors need to know whether the cause was the heart or the brain. This page compares the two tests side by side: what each measures, how long each takes, how to prepare, and what each can and cannot diagnose.
 
 ### Left vs Right Bundle Branch Block on an ECG: What It Means
 URL: https://www.ecgmeans.com/lbbb-vs-rbbb/
 Left and right bundle branch block both mean that one of the two main electrical cables to the heart's lower chambers (the ventricles) is blocked. That side of the heart is activated a little late, which makes the QRS complex on your ECG wider. The key difference is which cable is affected. Right bundle branch block is frequently benign, especially in a well person, while left bundle branch block more often points to underlying heart disease and is usually looked into further.
 
-### PVC vs PAC: What's the Difference?
+### NSTEMI vs STEMI on an ECG: What the Difference Means
+URL: https://www.ecgmeans.com/stemi-vs-nstemi/
+STEMI and NSTEMI are both types of heart attack (myocardial infarction), and the difference between them comes down to what the ECG shows. A STEMI usually means a coronary artery is completely blocked, while an NSTEMI usually means a severe but not complete blockage. Both are serious and both are emergencies. Telling them apart matters because it sets how quickly treatment needs to happen. If you have chest pain or pressure, breathlessness, sweating, or pain spreading to your arm or jaw right now, call emergency services immediately.
+
+### PAC vs PVC: What's the Difference on an ECG?
 URL: https://www.ecgmeans.com/pvc-vs-pac/
 Verdict/quick answer: Usually harmless
 A PAC (premature atrial contraction) is an early beat that starts in the upper chambers and travels the normal route, so its QRS looks normal. A PVC (premature ventricular contraction) starts in the lower chambers and spreads abnormally, giving a wide, odd-shaped QRS. Both are common and usually harmless; PVCs are the ones more often counted and followed up.
-
-### STEMI vs NSTEMI on an ECG: What the Difference Means
-URL: https://www.ecgmeans.com/stemi-vs-nstemi/
-STEMI and NSTEMI are both types of heart attack (myocardial infarction), and the difference between them comes down to what the ECG shows. A STEMI usually means a coronary artery is completely blocked, while an NSTEMI usually means a severe but not complete blockage. Both are serious and both are emergencies. Telling them apart matters because it sets how quickly treatment needs to happen. If you have chest pain or pressure, breathlessness, sweating, or pain spreading to your arm or jaw right now, call emergency services immediately.
 
 ### SVT vs VTach: What's the Difference?
 URL: https://www.ecgmeans.com/svt-vs-vtach/
@@ -584,6 +659,36 @@ Verdict/quick answer: SVT (supraventricular tachycardia) is a fast rhythm that s
 SVT (supraventricular tachycardia) is a fast rhythm that starts above the ventricles and produces narrow QRS complexes; it is uncomfortable but rarely dangerous in a healthy heart. VTach (ventricular tachycardia) starts in the ventricles, produces wide QRS complexes, and is potentially life-threatening. Any wide-complex tachycardia is treated as VT until proven otherwise.
 
 ## ECG Basics
+
+### 12 Lead ECG Placement: Where Every Electrode Goes and Why
+URL: https://www.ecgmeans.com/12-lead-ecg-placement/
+A 12-lead ECG is only as good as the electrode positions behind it. Move V1 and V2 one rib space too high and the tracing can look like an old heart attack. Swap two arm cables and the machine may print "abnormal ECG" on a healthy heart. This guide is written for nursing and medical students, EMTs, ECG technicians and curious patients. It walks through every electrode, the bony landmarks used to find them, the extra leads used in suspected posterior or right-sided heart attacks, and the misplacements that most often fool both people and software.
+
+### 3 Lead ECG Placement and the Einthoven Triangle
+URL: https://www.ecgmeans.com/3-lead-ecg-placement/
+The 3-lead ECG is the simplest way to watch a heart rhythm. It is used in ambulances, recovery rooms, during procedures and sedation, in dialysis units and on defibrillators. Three electrodes are enough to count the heart rate and spot dangerous rhythms quickly. They are not enough to diagnose a heart attack, and that limitation is just as important to understand as the placement itself. This page covers where the electrodes go, the color codes in the US and elsewhere, the triangle physics behind the three leads, the 4-lead variation, and what a 3-lead tracing can and cannot show.
+
+### 5 Lead ECG Placement and ECG Leads Explained
+URL: https://www.ecgmeans.com/5-lead-ecg-placement/
+The 5-lead setup is the workhorse of hospital heart monitoring. It is what keeps a rhythm on the screen above a bed on a cardiac ward, in step-down units, recovery rooms and ambulances. It is quicker than a 12-lead, can stay on for days, and shows more than a basic 3-lead system — including a chest lead that helps tell different fast rhythms apart. This guide covers exactly where each electrode goes, the two color systems (and why they cause mix-ups), simple memory tricks, and a plain explanation of what people mean when they say "ECG leads."
+
+### Can an EKG Detect a Heart Attack? What It Shows and What It Can Miss
+URL: https://www.ecgmeans.com/can-an-ekg-detect-a-heart-attack/
+Verdict/quick answer: Seek prompt care
+If you are reading this because you have chest pain right now, stop and call 911 (or 999 in the UK, 112 in Europe). Do not wait to get an EKG first. Otherwise, it is a fair question. The EKG is the first test done for a suspected heart attack, and it is very good at spotting some of them. It is also known to miss others. This page explains what a heart attack looks like on an EKG, why the test can look normal during a real heart attack, how doctors close that gap, and what it means when an EKG shows a heart attack from the past.
+
+### Does an EKG Show Blockage in Your Heart Arteries?
+URL: https://www.ecgmeans.com/does-an-ekg-show-blockage/
+Verdict/quick answer: Depends on context
+"Blockage" is one of the words people fear most after a heart test. It usually refers to coronary artery disease, where fatty plaque narrows the arteries that feed the heart muscle. The EKG is often the first heart test anyone has, so it is natural to ask whether it would have found a blockage. The short answer is that a resting EKG is a poor tool for that job, and a normal one does not mean your arteries are clear. This page explains why, what the EKG can hint at, how "heart block" is a different thing altogether, and which tests actually look for narrowed arteries.
+
+### EKG Interpretation Cheat Sheet (ECG Quick Reference)
+URL: https://www.ecgmeans.com/ecg-interpretation-cheat-sheet/
+This page puts the most useful EKG facts in one place: the numbers you have to know, how to recognise the common rhythms and heart blocks, the two-lead axis shortcut, which leads map to which coronary artery, and the classic electrolyte patterns. It is built for students, nurses, paramedics and monitor techs to scan or print. ECG and EKG are the same test. This sheet is a learning aid only. It is not for diagnosing patients, and real tracings always have to be read alongside the person's symptoms and history.
+
+### How to Read an EKG Strip: A Simple 8-Step Method
+URL: https://www.ecgmeans.com/how-to-read-an-ekg-strip/
+An EKG strip looks like a scribble until you know the grid underneath it. Once you know that every box stands for a set amount of time and voltage, the tracing becomes a set of measurements you can check one by one. This guide is written for nursing and medical students, EMTs, monitor technicians and curious patients. It teaches one method you can use on any rhythm strip, with a fully worked example. It is a learning guide. It cannot replace a trained clinician reading your own EKG, and it is not meant for diagnosing yourself.
 
 ### How to Read Your ECG Report: A Plain-English Guide
 URL: https://www.ecgmeans.com/how-to-read-ecg-report/
@@ -600,10 +705,18 @@ URL: https://www.ecgmeans.com/wandering-baseline-ecg/
 Verdict/quick answer: Usually harmless
 A "wandering baseline" on your ECG report is an artifact, not a heart problem. It means the flat line the ECG traces drifted slowly up and down during the recording, usually because of breathing, movement or a poor electrode contact. It is harmless in itself. The only reason it matters is that heavy drift can hide or mimic real changes, which is why the ECG is often simply repeated.
 
-### What Is an EKG (ECG)? A Plain-English Guide
+### What Can an EKG Detect? What It Finds, What It Hints At, and What It Misses
+URL: https://www.ecgmeans.com/what-can-an-ekg-detect/
+An EKG is often the first heart test people have, and it is easy to assume it checks everything. It does not. It is a ten-second recording of the heart's electrical signals, which makes it excellent at some jobs and blind to others. Knowing the difference helps you understand your result, ask the right follow-up questions, and avoid both false worry and false reassurance. This page sorts what an EKG can detect into three groups — detects well, detects partly, and cannot detect — and explains where heart failure fits.
+
+### What Is an EKG (ECG), and How Long Does an EKG Take?
 URL: https://www.ecgmeans.com/what-is-an-ekg/
 Verdict/quick answer: Usually harmless
 An EKG — also written ECG — is a quick, painless test that records the electrical signals your heart makes with each beat. Small sticky pads on your chest, arms and legs pick up the signals, and the machine prints them as a set of waves. It takes only a few minutes, uses no needles and no radiation, and shows your heart's rhythm, rate and electrical health at that moment.
+
+### Where to Get an EKG and How Much It Costs
+URL: https://www.ecgmeans.com/where-to-get-an-ekg/
+An EKG is one of the quickest and cheapest heart tests there is, but finding where to get one, and what you will pay, is not always obvious. Prices vary a lot between a doctor's office, an urgent care center, a hospital outpatient department and an emergency room. This page covers where you can get an EKG, whether urgent care does them, what it typically costs with and without insurance, how long it takes, what to wear, and when you should skip all of that and call 911.
 
 ## ECG Tools & Calculators
 
@@ -612,14 +725,17 @@ URL: https://www.ecgmeans.com/ecg-axis-calculator/
 Verdict/quick answer: The normal QRS axis is −30° to +90°. If the QRS is mainly upright in both lead I and aVF, the axis is normal. Upright in I but negative in aVF suggests left axis deviation unless lead II is also upright (0° to −30°, still normal); negative in I but upright in aVF suggests right axis deviation.
 The QRS axis is the average direction of electrical flow through the ventricles. Enter the net size of the QRS in leads I and aVF (upward deflection minus downward deflection, in small boxes or mm), and the calculator estimates the axis in degrees.
 
-### How to Calculate Heart Rate on an ECG
+### EKG Practice Strips: Interactive Rhythm Quiz
+URL: https://www.ecgmeans.com/ekg-practice-strips/
+Rhythm recognition is a skill built by repetition. Each strip below is drawn to scale on standard ECG paper. Choose a set — or practise everything — pick an answer, and the quiz tells you immediately whether you were right and what gives the rhythm away. Wrong answers are always from the same family of rhythms, so you learn to separate the look-alikes.
+
+### How to Calculate Heart Rate on an ECG: 6 Second, 300 and 1500 Methods
 URL: https://www.ecgmeans.com/ecg-heart-rate-calculator/
 Verdict/quick answer: For a regular rhythm, divide 300 by the number of large boxes between two R waves, or 1500 by the number of small boxes. For an irregular rhythm, count the R waves in a 6-second strip and multiply by 10. A resting rate of 60–100 bpm is normal.
 Every ECG report prints a heart rate, but you can also work it out from the tracing itself. Choose a method below, enter what you count on the strip, and the calculator converts it to beats per minute.
 
-### Normal ECG Values (Adults)
+### Normal EKG Results: Normal ECG Values and Intervals (Adults)
 URL: https://www.ecgmeans.com/normal-ecg-values/
-Verdict/quick answer: Normal adult ECG values: heart rate 60–100 bpm, PR interval 120–200 ms, QRS under 120 ms, QTc under about 440 ms (men) or 460 ms (women), and QRS axis −30° to +90°.
 Every number printed at the top of an ECG report has a normal range. This chart puts them all in one place for adults, with links to what it means when a value falls outside it.
 
 ### QTc Calculator (Corrected QT Interval)

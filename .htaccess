@@ -14,7 +14,9 @@ RewriteCond %{THE_REQUEST} \s/(.*/)?index\.html[\s?] [NC]
 RewriteRule ^(.*/)?index\.html$ /%1 [R=301,L]
 # Block source dirs and generator files
 RewriteRule ^(content|scripts|src|node_modules|\.github|\.git)(/|$) - [F,L]
-RewriteRule ^(build|make_assets|ecg_svg)\.py$ - [F,L]
+RewriteRule ^(build|make_assets|ecg_svg|leads_svg)\.py$ - [F,L]
+# Legacy URL Google indexed with spaces
+RewriteRule ^ECG\sReport\sPhrases/?$ /ecg-report-phrases/ [R=301,L,NC]
 RewriteRule ^(README\.md|package\.json|\.gitignore)$ - [F,L]
 
 AddType application/manifest+json .webmanifest
