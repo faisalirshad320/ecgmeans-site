@@ -55,11 +55,11 @@ A: Rarely. It usually stops within seconds to minutes and treatment can do more 
 Q: Why should AIVR not be suppressed?
 A: If it is acting as an escape rhythm, antiarrhythmic drugs could remove the only pacemaker that is working.
 @@RELATED@@
-Junctional Rhythm: What It Means | https://www.ecgmeans.com/junctional-rhythm/ | Needs clinician review
+Junctional Rhythm: What It Means | https://www.ecgmeans.com/junctional-rhythm/ | NONE
 Accelerated Junctional Rhythm: What It Means | https://www.ecgmeans.com/accelerated-junctional-rhythm/ | Needs clinician review
-SVT vs VTach: What's the Difference? | https://www.ecgmeans.com/svt-vs-vtach/ | Seek prompt care
-Left Bundle Branch Block: What It Means | https://www.ecgmeans.com/left-bundle-branch-block/ | Needs clinician review
-QRS Interval: Normal Range and What a Wide QRS Means | https://www.ecgmeans.com/qrs-interval/ | Depends on context
+SVT vs VTach: What's the Difference? | https://www.ecgmeans.com/svt-vs-vtach/ | NONE
+Left Bundle Branch Block: What It Means | https://www.ecgmeans.com/left-bundle-branch-block/ | NONE
+QRS Interval: Normal Range and What a Wide QRS Means | https://www.ecgmeans.com/qrs-interval/ | NONE
 Third Degree (Complete) Heart Block: What It Means | https://www.ecgmeans.com/third-degree-av-block/ | Seek prompt care
 @@ALSO@@
 accelerated idioventricular rhythm, aivr ecg, idioventricular rhythm ecg, ventricular escape rhythm

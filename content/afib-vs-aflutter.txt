@@ -80,7 +80,7 @@ A: Some of the shared causes can be addressed. These include high blood pressure
 Atrial Fibrillation: What It Means | https://www.ecgmeans.com/atrial-fibrillation/ | Needs clinician review
 Atrial Flutter: What It Means | https://www.ecgmeans.com/atrial-flutter/ | Needs clinician review
 Atrial Tachycardia: What It Means | https://www.ecgmeans.com/atrial-tachycardia/ | Needs clinician review
-SVT vs VT: How to Tell Them Apart | https://www.ecgmeans.com/svt-vs-vtach/ | Depends on context
+SVT vs VT: How to Tell Them Apart | https://www.ecgmeans.com/svt-vs-vtach/ | NONE
 @@ALSO@@
 atrial fibrillation, AF, AFib, A-fib, atrial flutter, AFL, atrial flutter with 2:1 conduction, atrial flutter with 2:1 block, sawtooth flutter waves, irregularly irregular rhythm, AF/flutter
 @@SOURCES@@

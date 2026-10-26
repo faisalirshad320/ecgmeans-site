@@ -150,7 +150,7 @@ A: Usually not for either. Wear a top that is easy to remove, and avoid body lot
 Abnormal ECG: What It Means on Your Report | https://www.ecgmeans.com/abnormal-ecg/ | Depends on context
 Possible Left Atrial Enlargement: ECG Meaning | https://www.ecgmeans.com/left-atrial-enlargement/ | Needs clinician review
 What Is an EKG (ECG)? A Plain-English Guide | https://www.ecgmeans.com/what-is-an-ekg/ | Usually harmless
-Low Voltage QRS: What It Means | https://www.ecgmeans.com/low-voltage-qrs/ | Needs clinician review
+Low Voltage QRS: What It Means | https://www.ecgmeans.com/low-voltage-qrs/ | NONE
 Sinus Rhythm: What It Means on Your ECG | https://www.ecgmeans.com/sinus-rhythm/ | Usually harmless
 ECG vs EKG: Is There a Difference? | https://www.ecgmeans.com/ecg-vs-ekg/ | NONE
 What Can an EKG Detect? | https://www.ecgmeans.com/what-can-an-ekg-detect/ | NONE

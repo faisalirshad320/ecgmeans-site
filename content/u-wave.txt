@@ -58,7 +58,7 @@ A: Most often a low blood potassium level; also low magnesium, a slow heart rate
 Q: Are U waves dangerous?
 A: Not in themselves, but prominent U waves can point to low potassium, which raises the risk of a dangerous rhythm and is worth correcting.
 @@RELATED@@
-QT and QTc Interval: Normal Range and Prolonged QT | https://www.ecgmeans.com/qt-interval/ | Needs clinician review
+QT and QTc Interval: Normal Range and Prolonged QT | https://www.ecgmeans.com/qt-interval/ | NONE
 Peaked T Waves: What They Mean on an ECG | https://www.ecgmeans.com/peaked-t-waves/ | Depends on context
 T Wave Inversion: What It Means on an ECG | https://www.ecgmeans.com/t-wave-inversion/ | Depends on context
 Sinus Bradycardia: What It Means | https://www.ecgmeans.com/sinus-bradycardia/ | Usually harmless

@@ -48,10 +48,10 @@ A: By recording extra leads placed on the back (V7–V9), which reveal the ST el
 Q: Is a posterior MI as serious as other heart attacks?
 A: Yes — it is a true heart attack and is treated as an emergency, usually with urgent angiography and a stent.
 @@RELATED@@
-ST Depression: What It Means on an ECG | https://www.ecgmeans.com/st-depression/ | Needs clinician review
+ST Depression: What It Means on an ECG | https://www.ecgmeans.com/st-depression/ | Depends on context
 Inferior Infarct (Age Undetermined): ECG Meaning | https://www.ecgmeans.com/inferior-infarct-age-undetermined/ | Needs clinician review
 Lateral Infarct: What It Means on an ECG | https://www.ecgmeans.com/lateral-infarct/ | Needs clinician review
-STEMI vs NSTEMI: What's the Difference? | https://www.ecgmeans.com/stemi-vs-nstemi/ | Seek prompt care
+STEMI vs NSTEMI: What's the Difference? | https://www.ecgmeans.com/stemi-vs-nstemi/ | NONE
 Pathological Q Waves: What They Mean | https://www.ecgmeans.com/pathological-q-waves/ | Needs clinician review
 @@ALSO@@
 posterior mi, posterior infarct, posterior stemi, posterior myocardial infarction

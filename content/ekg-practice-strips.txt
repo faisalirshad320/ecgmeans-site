@@ -1,7 +1,7 @@
 @@TITLE@@
 EKG Practice Strips: Free Rhythm Quiz With Answers
 @@DESC@@
-Free EKG practice strips quiz: identify 36 ECG rhythms from sinus to VFib and heart blocks, with instant answers, the key clue for each strip and links to learn more.
+Free EKG practice strips quiz: identify 36 ECG rhythms, from sinus rhythm to VFib and heart blocks, with instant answers and the key clue for every strip.
 @@H1@@
 EKG Practice Strips: Interactive Rhythm Quiz
 @@CATEGORY@@

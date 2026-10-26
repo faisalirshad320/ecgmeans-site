@@ -48,11 +48,11 @@ A: In complete LBBB the QRS is fully widened (0.12 seconds or more); in the inco
 Q: Does incomplete LBBB need treatment?
 A: The pattern itself is not treated; care focuses on any underlying cause such as high blood pressure and on monitoring for progression.
 @@RELATED@@
-Left Bundle Branch Block (LBBB): What It Means | https://www.ecgmeans.com/left-bundle-branch-block/ | Needs clinician review
-Incomplete Right Bundle Branch Block: What It Means | https://www.ecgmeans.com/incomplete-right-bundle-branch-block/ | Depends on context
-LBBB vs RBBB: What's the Difference? | https://www.ecgmeans.com/lbbb-vs-rbbb/ | Needs clinician review
+Left Bundle Branch Block (LBBB): What It Means | https://www.ecgmeans.com/left-bundle-branch-block/ | NONE
+Incomplete Right Bundle Branch Block: What It Means | https://www.ecgmeans.com/incomplete-right-bundle-branch-block/ | Usually harmless
+LBBB vs RBBB: What's the Difference? | https://www.ecgmeans.com/lbbb-vs-rbbb/ | NONE
 Left Ventricular Hypertrophy: What It Means | https://www.ecgmeans.com/left-ventricular-hypertrophy/ | Needs clinician review
-Wide QRS Complex: What It Means | https://www.ecgmeans.com/wide-qrs-complex/ | Needs clinician review
+Wide QRS Complex: What It Means | https://www.ecgmeans.com/wide-qrs-complex/ | Depends on context
 @@ALSO@@
 incomplete left bundle branch block, incomplete lbbb, partial lbbb
 @@SOURCES@@

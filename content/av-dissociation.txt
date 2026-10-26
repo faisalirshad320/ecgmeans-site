@@ -57,7 +57,7 @@ Q: How is the cause found?
 A: By analysing the relationship and rates of the P waves and QRS complexes, comparing old ECGs, and often using continuous monitoring.
 @@RELATED@@
 Third-Degree AV Block: What It Means | https://www.ecgmeans.com/third-degree-av-block/ | Seek prompt care
-Junctional Rhythm: What It Means on an ECG | https://www.ecgmeans.com/junctional-rhythm/ | Depends on context
+Junctional Rhythm: What It Means on an ECG | https://www.ecgmeans.com/junctional-rhythm/ | NONE
 Ventricular Tachycardia: What It Means | https://www.ecgmeans.com/ventricular-tachycardia/ | Seek prompt care
 Accelerated Idioventricular Rhythm: What It Means | https://www.ecgmeans.com/accelerated-idioventricular-rhythm/ | Depends on context
 First-Degree AV Block: What It Means | https://www.ecgmeans.com/first-degree-av-block/ | Usually harmless

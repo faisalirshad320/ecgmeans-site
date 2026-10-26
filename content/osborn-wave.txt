@@ -58,7 +58,7 @@ Q: Does the Osborn wave go away?
 A: Yes, it typically resolves once the cause, such as a low body temperature, is corrected.
 @@RELATED@@
 Early Repolarization on an ECG: What It Means | https://www.ecgmeans.com/early-repolarization/ | Usually harmless
-QT and QTc Interval: Normal Range and Prolonged QT | https://www.ecgmeans.com/qt-interval/ | Needs clinician review
+QT and QTc Interval: Normal Range and Prolonged QT | https://www.ecgmeans.com/qt-interval/ | NONE
 Sinus Bradycardia: What It Means | https://www.ecgmeans.com/sinus-bradycardia/ | Usually harmless
 ST Elevation: What It Means on an ECG | https://www.ecgmeans.com/st-elevation/ | Seek prompt care
 Abnormal ECG: What It Means on Your Report | https://www.ecgmeans.com/abnormal-ecg/ | Depends on context

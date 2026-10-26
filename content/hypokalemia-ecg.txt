@@ -75,7 +75,7 @@ Q: How is hypokalaemia treated?
 A: The blood level is checked first. Potassium is then replaced, by mouth or by drip with heart monitoring if it is severe. Magnesium is checked and replaced too, because potassium may not recover without it. The underlying cause, usually a diuretic or gut losses, is also addressed.
 @@RELATED@@
 U Wave: What It Means | https://www.ecgmeans.com/u-wave/ | Depends on context
-Hyperkalemia on ECG: What It Means | https://www.ecgmeans.com/hyperkalemia-ecg/ | Needs clinician review
+Hyperkalemia on ECG: What It Means | https://www.ecgmeans.com/hyperkalemia-ecg/ | Seek prompt care
 Prolonged QT / QT Prolongation | https://www.ecgmeans.com/qt-prolongation/ | Needs clinician review
 ST Depression: What It Means | https://www.ecgmeans.com/st-depression/ | Depends on context
 @@ALSO@@

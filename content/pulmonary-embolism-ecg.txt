@@ -54,9 +54,9 @@ A: No. Many people with a PE have a normal or near-normal ECG, so suspected PE a
 @@RELATED@@
 S1Q3T3: What It Means on an ECG | https://www.ecgmeans.com/s1q3t3/ | Needs clinician review
 Sinus Tachycardia: What It Means | https://www.ecgmeans.com/sinus-tachycardia/ | Depends on context
-Right Heart Strain: What It Means | https://www.ecgmeans.com/right-heart-strain/ | Needs clinician review
-Right Bundle Branch Block (RBBB): What It Means | https://www.ecgmeans.com/right-bundle-branch-block/ | Needs clinician review
-T Wave Inversion: What It Means on an ECG | https://www.ecgmeans.com/t-wave-inversion/ | Needs clinician review
+Right Heart Strain: What It Means | https://www.ecgmeans.com/right-heart-strain/ | Depends on context
+Right Bundle Branch Block (RBBB): What It Means | https://www.ecgmeans.com/right-bundle-branch-block/ | Usually harmless
+T Wave Inversion: What It Means on an ECG | https://www.ecgmeans.com/t-wave-inversion/ | Depends on context
 @@ALSO@@
 pulmonary embolism ecg, pe ecg, s1q3t3, ecg changes in pulmonary embolism
 @@SOURCES@@

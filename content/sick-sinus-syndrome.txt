@@ -66,7 +66,7 @@ A: The rhythm changes in sick sinus syndrome can come and go, so a short ECG may
 Q: What happens next, and will I need a pacemaker?
 A: Your doctor will usually review any medicines that might be slowing your heart first. If sick sinus syndrome is causing symptoms, a permanent pacemaker is the definitive treatment. If atrial fibrillation is also present, anticoagulation (blood-thinning treatment) will be considered to reduce stroke risk.
 @@RELATED@@
-Sinus Pause / Arrest: What It Means | https://www.ecgmeans.com/sinus-pause-arrest/ | Needs clinician review
+Sinus Pause / Arrest: What It Means | https://www.ecgmeans.com/sinus-pause-arrest/ | Depends on context
 Sinus Bradycardia: What It Means | https://www.ecgmeans.com/sinus-bradycardia/ | Usually harmless
 Atrial Fibrillation: What It Means | https://www.ecgmeans.com/atrial-fibrillation/ | Needs clinician review
 Third-Degree (Complete) Heart Block | https://www.ecgmeans.com/third-degree-av-block/ | Seek prompt care

@@ -75,8 +75,8 @@ A: The fix is technical. You rest still and breathe quietly, the skin is cleaned
 Q: Can I help prevent a wandering baseline?
 A: Yes, to some extent. Lying still, breathing quietly and not talking during the recording all help. Clean skin without lotion under the electrodes also gives the pads a better contact.
 @@RELATED@@
-How to Read an ECG Report | https://www.ecgmeans.com/how-to-read-ecg-report/ | NONE
-What Is an EKG? | https://www.ecgmeans.com/what-is-an-ekg/ | NONE
+How to Read an ECG Report | https://www.ecgmeans.com/how-to-read-ecg-report/ | Usually harmless
+What Is an EKG? | https://www.ecgmeans.com/what-is-an-ekg/ | Usually harmless
 Abnormal ECG: What It Means | https://www.ecgmeans.com/abnormal-ecg/ | Depends on context
 Borderline ECG: What It Means | https://www.ecgmeans.com/borderline-ecg/ | Usually harmless
 @@ALSO@@

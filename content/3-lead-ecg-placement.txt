@@ -152,7 +152,7 @@ A: An imaginary triangle formed by the right arm, left arm and left leg electrod
 5 Lead ECG Placement and ECG Leads Explained | https://www.ecgmeans.com/5-lead-ecg-placement/ | NONE
 What Is an EKG (ECG)? A Plain-English Guide | https://www.ecgmeans.com/what-is-an-ekg/ | Usually harmless
 Sinus Rhythm: What It Means on Your ECG | https://www.ecgmeans.com/sinus-rhythm/ | Usually harmless
-Left Axis Deviation: What It Means on an ECG | https://www.ecgmeans.com/left-axis-deviation/ | Depends on context
+Left Axis Deviation: What It Means on an ECG | https://www.ecgmeans.com/left-axis-deviation/ | Usually harmless
 @@ALSO@@
 3 lead ecg placement, 3 lead ecg, 3 lead ekg placement, 3 lead ekg, 4 lead ecg placement, 4 lead ekg, 3 lead cardiac monitoring, einthoven triangle, lead ii monitoring, 3 lead ecg colors, three lead ecg placement
 @@SOURCES@@

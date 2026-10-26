@@ -165,7 +165,7 @@ A: Most people need no treatment beyond reducing triggers. When symptoms are tro
 Trigeminy: What It Means on an ECG | https://www.ecgmeans.com/trigeminy/ | Depends on context
 PVC vs PAC: What's the Difference? | https://www.ecgmeans.com/pvc-vs-pac/ | Usually harmless
 Sinus Rhythm With PACs: What It Means | https://www.ecgmeans.com/sinus-rhythm-with-pac/ | Usually harmless
-SVT vs VTach: What's the Difference? | https://www.ecgmeans.com/svt-vs-vtach/ | Seek prompt care
+SVT vs VTach: What's the Difference? | https://www.ecgmeans.com/svt-vs-vtach/ | NONE
 Idioventricular Rhythm: What It Means | https://www.ecgmeans.com/idioventricular-rhythm/ | Seek prompt care
 Multifocal PVCs: What They Mean on Your ECG | https://www.ecgmeans.com/multifocal-pvcs/ | Needs clinician review
 @@ALSO@@

@@ -73,8 +73,8 @@ A: Common causes include many everyday medicines, such as some antibiotics, anti
 Q: What happens next, and can it be corrected?
 A: Your doctor will look for the cause and correct anything reversible. This might mean stopping or changing a culprit medicine and replacing low potassium or magnesium. Repeat ECGs are used to monitor the QTc. Inherited long QT syndrome is managed by a specialist, sometimes with beta-blockers or a defibrillator.
 @@RELATED@@
-QT Interval: What It Means | https://www.ecgmeans.com/qt-interval/ | Depends on context
-QTc Calculator | https://www.ecgmeans.com/qtc-calculator/ | Needs clinician review
+QT Interval: What It Means | https://www.ecgmeans.com/qt-interval/ | NONE
+QTc Calculator | https://www.ecgmeans.com/qtc-calculator/ | NONE
 Hypokalemia on ECG: What It Means | https://www.ecgmeans.com/hypokalemia-ecg/ | Needs clinician review
 Ventricular Tachycardia: What It Means | https://www.ecgmeans.com/ventricular-tachycardia/ | Seek prompt care
 @@ALSO@@

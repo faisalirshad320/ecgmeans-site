@@ -162,11 +162,11 @@ A: Usually not. Between episodes the ECG is often normal, although it can show c
 Q: What heart rate is SVT on an ECG?
 A: Typically 150–250 beats per minute, sometimes a little lower or higher. A regular rate around 150 should also make doctors consider atrial flutter.
 @@RELATED@@
-SVT vs VT: How to Tell Them Apart | https://www.ecgmeans.com/svt-vs-vtach/ | Depends on context
+SVT vs VT: How to Tell Them Apart | https://www.ecgmeans.com/svt-vs-vtach/ | NONE
 Atrial Tachycardia: What It Means | https://www.ecgmeans.com/atrial-tachycardia/ | Needs clinician review
 Delta Wave (WPW): What It Means | https://www.ecgmeans.com/delta-wave/ | Needs clinician review
 Sinus Tachycardia: What It Means | https://www.ecgmeans.com/sinus-tachycardia/ | Depends on context
-AVNRT: What It Means on an ECG | https://www.ecgmeans.com/avnrt/ | NONE
+AVNRT: What It Means on an ECG | https://www.ecgmeans.com/avnrt/ | Needs clinician review
 Wolff-Parkinson-White Syndrome on an ECG | https://www.ecgmeans.com/wolff-parkinson-white/ | Needs clinician review
 @@ALSO@@
 SVT, supraventricular tachycardia, paroxysmal supraventricular tachycardia, PSVT, narrow complex tachycardia, regular narrow-QRS tachycardia, AVNRT, AV nodal re-entrant tachycardia, AVRT, atrioventricular re-entrant tachycardia, svt ecg, svt on ecg, svt on ekg, svt ecg strip, what does svt look like on ecg, svt ekg, supraventricular tachycardia ecg

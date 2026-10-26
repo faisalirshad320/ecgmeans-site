@@ -61,8 +61,8 @@ Q: Does inverted T wave mean heart attack?
 A: It can be a sign of ischaemia or a recent heart attack, but it has many other causes; the clinical context and troponin test decide.
 @@RELATED@@
 Nonspecific T Wave Abnormality: What It Means | https://www.ecgmeans.com/nonspecific-t-wave-abnormality/ | Depends on context
-Left Bundle Branch Block: What It Means | https://www.ecgmeans.com/left-bundle-branch-block/ | Needs clinician review
-QT and QTc Interval: Normal Range and Prolonged QT | https://www.ecgmeans.com/qt-interval/ | Needs clinician review
+Left Bundle Branch Block: What It Means | https://www.ecgmeans.com/left-bundle-branch-block/ | NONE
+QT and QTc Interval: Normal Range and Prolonged QT | https://www.ecgmeans.com/qt-interval/ | NONE
 Abnormal ECG: What It Means on Your Report | https://www.ecgmeans.com/abnormal-ecg/ | Depends on context
 Anterior Infarct, Age Undetermined: ECG Meaning | https://www.ecgmeans.com/anterior-infarct-age-undetermined/ | Needs clinician review
 Peaked T Waves: What They Mean on an ECG | https://www.ecgmeans.com/peaked-t-waves/ | Depends on context

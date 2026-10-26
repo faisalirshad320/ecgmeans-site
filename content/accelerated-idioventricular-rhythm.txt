@@ -65,7 +65,7 @@ A: Usually not. AIVR is normally just observed, and suppressing it can be harmfu
 Q: How is AIVR different from ventricular tachycardia?
 A: Both rhythms start in the ventricles and show wide QRS complexes of 120 ms or more. AIVR runs at 40-120 bpm and is usually benign. Ventricular tachycardia is faster, above 120 bpm, and dangerous. Doctors distinguish between the two carefully.
 @@RELATED@@
-Idioventricular (Ventricular Escape) Rhythm | https://www.ecgmeans.com/idioventricular-rhythm/ | Needs clinician review
+Idioventricular (Ventricular Escape) Rhythm | https://www.ecgmeans.com/idioventricular-rhythm/ | Seek prompt care
 Ventricular Tachycardia: What It Means | https://www.ecgmeans.com/ventricular-tachycardia/ | Seek prompt care
 Wide QRS Complex: What It Means | https://www.ecgmeans.com/wide-qrs-complex/ | Depends on context
 ST Elevation: What It Means | https://www.ecgmeans.com/st-elevation/ | Seek prompt care

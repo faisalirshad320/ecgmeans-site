@@ -1,7 +1,7 @@
 @@TITLE@@
 PAC vs PVC: How to Tell Them Apart on an ECG & Which Matters
 @@DESC@@
-PAC vs PVC on ECG: a side-by-side guide to P waves, QRS width and pauses, what causes each extra beat, symptoms, burden percentages and when follow-up is needed.
+PAC vs PVC on ECG: a side-by-side guide to P waves, QRS width and pauses, causes, symptoms, PVC burden percentages, and when follow-up is needed.
 @@H1@@
 PAC vs PVC: What's the Difference on an ECG?
 @@CATEGORY@@
@@ -134,7 +134,7 @@ Patterns change how often the beats appear, not what they are. Bigeminy can also
 A PVC burden above about 10% of all heartbeats is considered high, and once PVCs make up more than a quarter of beats the risk of them weakening the heart muscle rises clearly. Burden is simply the share of your heartbeats that are PVCs, worked out from a Holter monitor worn for 24 to 48 hours. For example, 8,000 PVCs out of roughly 100,000 beats in a day is a burden of 8%.
 
 - **Over 10% (or more than 10,000 PVCs in 24 hours):** a high burden. An echocardiogram is usually considered to check how well the heart is pumping.
-- **Over 15%:** the level at which the 2019 AHA/ACC/HRS guideline says catheter ablation may help if the heart's pumping is reduced and medicines have not worked or were not tolerated.
+- **Over 15%:** the level at which the 2017 AHA/ACC/HRS guideline says catheter ablation may help if the heart's pumping is reduced and medicines have not worked or were not tolerated.
 - **Over 25%:** PVC-induced cardiomyopathy (heart muscle weakening caused by the extra beats) becomes more likely.
 
 PVC-induced cardiomyopathy is generally reversible once the PVCs are brought under control, most often by ablation. PACs are not usually graded by percentage in the same way: with very frequent PACs, the main long-term concern is a higher chance of atrial fibrillation or atrial flutter rather than a weak heart muscle.
@@ -190,7 +190,7 @@ Sinus Rhythm With PACs: What It Means | https://www.ecgmeans.com/sinus-rhythm-wi
 Premature Ventricular Contraction (PVC) on an ECG: What It Means | https://www.ecgmeans.com/premature-ventricular-contractions/ | Usually harmless
 Bigeminy: What It Means on an ECG | https://www.ecgmeans.com/bigeminy/ | Depends on context
 Trigeminy: What It Means on an ECG | https://www.ecgmeans.com/trigeminy/ | Depends on context
-SVT vs VTach: What's the Difference? | https://www.ecgmeans.com/svt-vs-vtach/ | Seek prompt care
+SVT vs VTach: What's the Difference? | https://www.ecgmeans.com/svt-vs-vtach/ | NONE
 Abnormal ECG: What It Means on Your Report | https://www.ecgmeans.com/abnormal-ecg/ | Depends on context
 @@ALSO@@
 pac vs pvc, pvc vs pac, pac vs pvc ecg, pvc vs pac on ecg, pac vs pvc ekg, difference between pac and pvc, premature beats, premature atrial contraction vs premature ventricular contraction, atrial vs ventricular ectopic beats, pac or pvc, pvc and pac on ecg, how to tell pac from pvc, compensatory pause pac pvc

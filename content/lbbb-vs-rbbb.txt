@@ -60,8 +60,8 @@ A: Your doctor will look at the shape of the ECG to confirm which type it is and
 Q: Can I prevent bundle branch block?
 A: Bundle branch block itself is a change in the heart's wiring, and RBBB is often simply a normal variant. Because LBBB is more often linked to conditions like high blood pressure, coronary disease, cardiomyopathy or valve disease, identifying and managing any underlying heart condition is the main focus. Your doctor can advise what is relevant for you after assessment.
 @@RELATED@@
-Left Bundle Branch Block | https://www.ecgmeans.com/left-bundle-branch-block/ | Needs clinician review
-Right Bundle Branch Block | https://www.ecgmeans.com/right-bundle-branch-block/ | Depends on context
+Left Bundle Branch Block | https://www.ecgmeans.com/left-bundle-branch-block/ | NONE
+Right Bundle Branch Block | https://www.ecgmeans.com/right-bundle-branch-block/ | Usually harmless
 Wide QRS Complex: What It Means | https://www.ecgmeans.com/wide-qrs-complex/ | Depends on context
 Intraventricular Conduction Delay | https://www.ecgmeans.com/intraventricular-conduction-delay/ | Depends on context
 @@ALSO@@

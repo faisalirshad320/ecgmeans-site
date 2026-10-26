@@ -50,9 +50,9 @@ A: No specific treatment is needed for the aberrant beats; care focuses on the u
 @@RELATED@@
 Aberrant Conduction: What It Means | https://www.ecgmeans.com/aberrant-conduction/ | Depends on context
 Atrial Fibrillation: What It Means on an ECG | https://www.ecgmeans.com/atrial-fibrillation/ | Needs clinician review
-Right Bundle Branch Block (RBBB): What It Means | https://www.ecgmeans.com/right-bundle-branch-block/ | Needs clinician review
-Premature Ventricular Contractions (PVCs): What They Mean | https://www.ecgmeans.com/premature-ventricular-contractions/ | Depends on context
-Wide QRS Complex: What It Means | https://www.ecgmeans.com/wide-qrs-complex/ | Needs clinician review
+Right Bundle Branch Block (RBBB): What It Means | https://www.ecgmeans.com/right-bundle-branch-block/ | Usually harmless
+Premature Ventricular Contractions (PVCs): What They Mean | https://www.ecgmeans.com/premature-ventricular-contractions/ | Usually harmless
+Wide QRS Complex: What It Means | https://www.ecgmeans.com/wide-qrs-complex/ | Depends on context
 @@ALSO@@
 ashman phenomenon, ashman beat, aberrancy in atrial fibrillation, ashman phenomenon ecg
 @@SOURCES@@

@@ -79,7 +79,7 @@ A: Yes, there are practical steps that help. Treat any fever promptly with parac
 @@RELATED@@
 ST Elevation: What It Means | https://www.ecgmeans.com/st-elevation/ | Seek prompt care
 Ventricular Fibrillation: What It Means | https://www.ecgmeans.com/ventricular-fibrillation/ | Seek prompt care
-Right Bundle Branch Block | https://www.ecgmeans.com/right-bundle-branch-block/ | Depends on context
+Right Bundle Branch Block | https://www.ecgmeans.com/right-bundle-branch-block/ | Usually harmless
 Early Repolarization: What It Means | https://www.ecgmeans.com/early-repolarization/ | Usually harmless
 @@ALSO@@
 Brugada pattern, Brugada syndrome, Brugada-type ECG, Type 1 Brugada pattern, coved ST elevation in V1-V2, Type 2 Brugada pattern, saddleback ST elevation in V1-V2, Brugada-like ECG changes

@@ -72,7 +72,7 @@ Q: What happens next if my ECG shows a paced rhythm?
 A: Pacemakers are checked regularly in a device clinic. If the report suggests a pacing problem, or you feel faint or breathless, the device is interrogated to review its settings and battery. Otherwise, you usually just continue your routine checks.
 @@RELATED@@
 Wide QRS Complex: What It Means | https://www.ecgmeans.com/wide-qrs-complex/ | Depends on context
-Left Bundle Branch Block: What It Means | https://www.ecgmeans.com/left-bundle-branch-block/ | Needs clinician review
+Left Bundle Branch Block: What It Means | https://www.ecgmeans.com/left-bundle-branch-block/ | NONE
 Third-Degree (Complete) Heart Block | https://www.ecgmeans.com/third-degree-av-block/ | Seek prompt care
 Sick Sinus Syndrome: What It Means | https://www.ecgmeans.com/sick-sinus-syndrome/ | Needs clinician review
 @@ALSO@@

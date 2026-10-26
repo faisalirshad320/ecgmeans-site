@@ -153,7 +153,7 @@ A: Yes. In atrial fibrillation, junctional rhythms and ventricular rhythms the v
 P Mitrale on an ECG: What It Means | https://www.ecgmeans.com/p-mitrale/ | Needs clinician review
 P Pulmonale (Peaked P Wave) on ECG | https://www.ecgmeans.com/p-pulmonale/ | Needs clinician review
 Inverted P Wave on an ECG: What It Means | https://www.ecgmeans.com/inverted-p-wave/ | Depends on context
-PR Interval Normal Range | https://www.ecgmeans.com/pr-interval/ | NONE
+PR Interval Normal Range | https://www.ecgmeans.com/pr-interval/ | Depends on context
 Possible Left Atrial Enlargement on ECG | https://www.ecgmeans.com/left-atrial-enlargement/ | Needs clinician review
 Sinus Rhythm Meaning | https://www.ecgmeans.com/sinus-rhythm/ | Usually harmless
 @@ALSO@@

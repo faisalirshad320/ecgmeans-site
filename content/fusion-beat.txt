@@ -49,10 +49,10 @@ Q: Why are fusion beats important?
 A: Together with capture beats, they are strong evidence that a wide-complex tachycardia is ventricular tachycardia rather than another rhythm.
 @@RELATED@@
 Ventricular Tachycardia: What It Means | https://www.ecgmeans.com/ventricular-tachycardia/ | Seek prompt care
-Premature Ventricular Contractions (PVCs): What They Mean | https://www.ecgmeans.com/premature-ventricular-contractions/ | Depends on context
+Premature Ventricular Contractions (PVCs): What They Mean | https://www.ecgmeans.com/premature-ventricular-contractions/ | Usually harmless
 Accelerated Idioventricular Rhythm: What It Means | https://www.ecgmeans.com/accelerated-idioventricular-rhythm/ | Depends on context
-Wide QRS Complex: What It Means | https://www.ecgmeans.com/wide-qrs-complex/ | Needs clinician review
-SVT vs VTach: What's the Difference? | https://www.ecgmeans.com/svt-vs-vtach/ | Seek prompt care
+Wide QRS Complex: What It Means | https://www.ecgmeans.com/wide-qrs-complex/ | Depends on context
+SVT vs VTach: What's the Difference? | https://www.ecgmeans.com/svt-vs-vtach/ | NONE
 @@ALSO@@
 fusion beat, fusion beats, dressler beat, fusion complex ecg
 @@SOURCES@@

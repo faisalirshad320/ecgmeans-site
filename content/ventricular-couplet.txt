@@ -56,7 +56,7 @@ A: A couplet is exactly two PVCs in a row; three or more consecutive ventricular
 Q: How are frequent couplets managed?
 A: By correcting triggers and electrolytes, treating any underlying heart disease, and sometimes medication or ablation if they are frequent or symptomatic.
 @@RELATED@@
-Premature Ventricular Contractions (PVCs): What They Mean | https://www.ecgmeans.com/premature-ventricular-contractions/ | Depends on context
+Premature Ventricular Contractions (PVCs): What They Mean | https://www.ecgmeans.com/premature-ventricular-contractions/ | Usually harmless
 Ventricular Bigeminy: What It Means | https://www.ecgmeans.com/ventricular-bigeminy/ | Depends on context
 Ventricular Trigeminy: What It Means | https://www.ecgmeans.com/ventricular-trigeminy/ | Depends on context
 Ventricular Tachycardia: What It Means | https://www.ecgmeans.com/ventricular-tachycardia/ | Seek prompt care

@@ -57,7 +57,7 @@ A: Only the leads involved. Septal refers to V1–V2, anterior to V3–V4, and a
 @@RELATED@@
 Septal Infarct on an ECG: What It Means | https://www.ecgmeans.com/septal-infarct/ | Depends on context
 Poor R Wave Progression: What It Means | https://www.ecgmeans.com/poor-r-wave-progression/ | Depends on context
-Left Bundle Branch Block: What It Means | https://www.ecgmeans.com/left-bundle-branch-block/ | Needs clinician review
+Left Bundle Branch Block: What It Means | https://www.ecgmeans.com/left-bundle-branch-block/ | NONE
 Abnormal ECG: What It Means on Your Report | https://www.ecgmeans.com/abnormal-ecg/ | Depends on context
 T Wave Inversion: What It Means on an ECG | https://www.ecgmeans.com/t-wave-inversion/ | Depends on context
 Inferior Infarct, Age Undetermined: ECG Meaning | https://www.ecgmeans.com/inferior-infarct-age-undetermined/ | Needs clinician review

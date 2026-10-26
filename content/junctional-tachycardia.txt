@@ -56,10 +56,10 @@ A: Only by rate. Accelerated junctional rhythm is 60–100; junctional tachycard
 Q: What is the most common cause in adults?
 A: Digoxin toxicity, followed by the period after cardiac surgery and acute illness.
 @@RELATED@@
-Junctional Rhythm: What It Means | https://www.ecgmeans.com/junctional-rhythm/ | Needs clinician review
+Junctional Rhythm: What It Means | https://www.ecgmeans.com/junctional-rhythm/ | NONE
 Accelerated Junctional Rhythm: What It Means | https://www.ecgmeans.com/accelerated-junctional-rhythm/ | Needs clinician review
 Atrial Tachycardia: What It Means on an ECG | https://www.ecgmeans.com/atrial-tachycardia/ | Needs clinician review
-SVT vs VTach: What's the Difference? | https://www.ecgmeans.com/svt-vs-vtach/ | Seek prompt care
+SVT vs VTach: What's the Difference? | https://www.ecgmeans.com/svt-vs-vtach/ | NONE
 Short PR Interval: What It Means | https://www.ecgmeans.com/short-pr-interval/ | Depends on context
 @@ALSO@@
 junctional tachycardia ecg, junctional ectopic tachycardia, JET, accelerated junctional rhythm

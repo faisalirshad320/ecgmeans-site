@@ -56,11 +56,11 @@ A: Because the beat starts in the AV junction, not the sinus node, so the atria 
 Q: How is junctional bradycardia treated?
 A: By correcting the cause — adjusting heart-slowing medicines, treating thyroid or electrolyte problems — and, if symptoms persist from a slow rate, considering a pacemaker.
 @@RELATED@@
-Junctional Rhythm: What It Means on an ECG | https://www.ecgmeans.com/junctional-rhythm/ | Depends on context
+Junctional Rhythm: What It Means on an ECG | https://www.ecgmeans.com/junctional-rhythm/ | NONE
 Junctional Escape Rhythm: What It Means | https://www.ecgmeans.com/junctional-escape-rhythm/ | Depends on context
-Sinus Bradycardia: What It Means | https://www.ecgmeans.com/sinus-bradycardia/ | Depends on context
+Sinus Bradycardia: What It Means | https://www.ecgmeans.com/sinus-bradycardia/ | Usually harmless
 Sick Sinus Syndrome: What It Means | https://www.ecgmeans.com/sick-sinus-syndrome/ | Needs clinician review
-Accelerated Junctional Rhythm: What It Means | https://www.ecgmeans.com/accelerated-junctional-rhythm/ | Depends on context
+Accelerated Junctional Rhythm: What It Means | https://www.ecgmeans.com/accelerated-junctional-rhythm/ | Needs clinician review
 @@ALSO@@
 junctional bradycardia, slow junctional rhythm, junctional escape bradycardia
 @@SOURCES@@

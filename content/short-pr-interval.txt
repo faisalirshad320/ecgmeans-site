@@ -127,10 +127,10 @@ A: No. WPW pattern requires a short PR and a delta wave. A short PR without a de
 PR Interval: Normal Range and What Short or Long Means | https://www.ecgmeans.com/pr-interval/ | Depends on context
 Delta Wave: What It Means on an ECG | https://www.ecgmeans.com/delta-wave/ | Needs clinician review
 Wolff-Parkinson-White on an ECG: What It Means | https://www.ecgmeans.com/wolff-parkinson-white/ | Needs clinician review
-Lown-Ganong-Levine Syndrome: What It Means | https://www.ecgmeans.com/lown-ganong-levine-syndrome/ | Depends on context
-Junctional Rhythm: What It Means | https://www.ecgmeans.com/junctional-rhythm/ | Needs clinician review
+Lown-Ganong-Levine Syndrome: What It Means | https://www.ecgmeans.com/lown-ganong-levine-syndrome/ | Needs clinician review
+Junctional Rhythm: What It Means | https://www.ecgmeans.com/junctional-rhythm/ | NONE
 Sinus Rhythm With 1st Degree AV Block: What It Means | https://www.ecgmeans.com/first-degree-av-block/ | Usually harmless
-SVT vs VTach: What's the Difference? | https://www.ecgmeans.com/svt-vs-vtach/ | Seek prompt care
+SVT vs VTach: What's the Difference? | https://www.ecgmeans.com/svt-vs-vtach/ | NONE
 @@ALSO@@
 short pr interval causes, short pr interval meaning, short pr interval in ecg, shortened pr interval, short pr syndrome, short pr ekg, lown ganong levine
 @@SOURCES@@

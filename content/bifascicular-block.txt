@@ -48,8 +48,8 @@ A: Usually age-related fibrosis of the conduction system, coronary artery diseas
 Q: Do I need a pacemaker for bifascicular block?
 A: Not usually on its own. A pacemaker is considered if there are blackouts, a very slow pulse, or evidence of more advanced block.
 @@RELATED@@
-Right Bundle Branch Block (RBBB): What It Means | https://www.ecgmeans.com/right-bundle-branch-block/ | Needs clinician review
-Left Anterior Fascicular Block: What It Means | https://www.ecgmeans.com/left-anterior-fascicular-block/ | Needs clinician review
+Right Bundle Branch Block (RBBB): What It Means | https://www.ecgmeans.com/right-bundle-branch-block/ | Usually harmless
+Left Anterior Fascicular Block: What It Means | https://www.ecgmeans.com/left-anterior-fascicular-block/ | Usually harmless
 Left Posterior Fascicular Block: What It Means | https://www.ecgmeans.com/left-posterior-fascicular-block/ | Needs clinician review
 Trifascicular Block: What It Means | https://www.ecgmeans.com/trifascicular-block/ | Needs clinician review
 Third-Degree AV Block: What It Means | https://www.ecgmeans.com/third-degree-av-block/ | Seek prompt care

@@ -56,10 +56,10 @@ A: Most classically a large collection of fluid around the heart; also some very
 Q: How is it confirmed?
 A: With an echocardiogram, which shows the fluid and how it is affecting the heart.
 @@RELATED@@
-Low Voltage QRS: What It Means | https://www.ecgmeans.com/low-voltage-qrs/ | Needs clinician review
+Low Voltage QRS: What It Means | https://www.ecgmeans.com/low-voltage-qrs/ | NONE
 Pericarditis on an ECG: What It Shows | https://www.ecgmeans.com/pericarditis-ecg/ | Needs clinician review
 Sinus Tachycardia: What It Means | https://www.ecgmeans.com/sinus-tachycardia/ | Depends on context
-SVT vs VTach: What's the Difference? | https://www.ecgmeans.com/svt-vs-vtach/ | Seek prompt care
+SVT vs VTach: What's the Difference? | https://www.ecgmeans.com/svt-vs-vtach/ | NONE
 Abnormal ECG: What It Means on Your Report | https://www.ecgmeans.com/abnormal-ecg/ | Depends on context
 @@ALSO@@
 electrical alternans, electrical alternans ecg, electrical alternans tamponade, qrs alternans

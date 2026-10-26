@@ -1,7 +1,7 @@
 @@TITLE@@
 Second Degree AV Block Type 1 (Wenckebach): ECG & Meaning
 @@DESC@@
-Second degree AV block type 1 (Mobitz I, Wenckebach heart block): how it looks on an ECG, why it is usually benign, how it differs from Mobitz II, and next steps.
+Second degree AV block type 1 (Mobitz I, Wenckebach heart block): how it looks on an ECG, why it is usually benign, and how it differs from Mobitz II.
 @@H1@@
 Second Degree AV Block Type 1 (Mobitz I / Wenckebach): What It Means
 @@CATEGORY@@
@@ -102,6 +102,23 @@ Seen on a night-time monitor in a fit person, it needs no treatment. It deserves
 
 Trained endurance athletes have high vagal tone — a strong "braking" signal from the nervous system to the heart. During rest and sleep this can slow the AV node enough to produce Wenckebach. The same happens in many healthy people at night, and it is often seen on Holter monitors. A useful reassuring sign is that the block disappears as the heart rate rises with activity.
 
+## Wenckebach heart block in hospital and after a heart attack
+
+Mobitz I is sometimes seen on a monitor in hospital — after surgery, during an infection, or in the first days after an inferior heart attack. The artery that supplies the bottom wall of the heart usually also supplies the AV node, so a blockage there can temporarily slow conduction. In this setting the team watches the rhythm closely. Most cases settle as the heart recovers, and a permanent pacemaker is rarely needed. If the rate drops low enough to cause symptoms, medicines given under monitoring or a temporary pacing wire can support the heart until conduction returns.
+
+Wenckebach can also appear alongside other slow rhythms. A [junctional escape rhythm](https://www.ecgmeans.com/junctional-escape-rhythm/) may briefly take over during a long pause, and [sinus bradycardia](https://www.ecgmeans.com/sinus-bradycardia/) often accompanies it during sleep. When slow rhythms and pauses occur together in an older person, doctors also consider [sick sinus syndrome](https://www.ecgmeans.com/sick-sinus-syndrome/) or wider conduction disease.
+
+## How to practise reading a Wenckebach rhythm strip
+
+If you are a student or nurse learning the pattern, a reliable routine helps:
+
+- Mark every P wave first, including any hidden in a T wave.
+- Measure the [PR interval](https://www.ecgmeans.com/pr-interval/) of each conducted beat and write it above the strip.
+- Find the P wave without a QRS, then compare the PR just before and just after it.
+- Count P waves and QRS complexes in each group to name the ratio.
+
+Our guides on [how to read an EKG strip](https://www.ecgmeans.com/how-to-read-an-ekg-strip/) and [ECG rhythm strips](https://www.ecgmeans.com/ecg-rhythm-strips/) walk through more examples.
+
 ## What usually happens next
 
 1. Review of rate-slowing medicines
@@ -145,7 +162,7 @@ Second Degree AV Block Type 2 (Mobitz II): What It Means | https://www.ecgmeans.
 Sinus Rhythm With 1st Degree AV Block: What It Means | https://www.ecgmeans.com/first-degree-av-block/ | Usually harmless
 PR Interval: Normal Range and What Short or Long Means | https://www.ecgmeans.com/pr-interval/ | Depends on context
 Sinus Bradycardia: What It Means | https://www.ecgmeans.com/sinus-bradycardia/ | Usually harmless
-Junctional Rhythm: What It Means | https://www.ecgmeans.com/junctional-rhythm/ | Needs clinician review
+Junctional Rhythm: What It Means | https://www.ecgmeans.com/junctional-rhythm/ | NONE
 Third Degree (Complete) Heart Block: What It Means | https://www.ecgmeans.com/third-degree-av-block/ | Seek prompt care
 2:1 AV Block: What It Means on an ECG | https://www.ecgmeans.com/2-1-av-block/ | Seek prompt care
 @@ALSO@@

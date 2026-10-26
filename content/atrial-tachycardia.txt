@@ -56,7 +56,7 @@ Q: Can atrial tachycardia be cured?
 A: Often. Catheter ablation of a single atrial focus has a high success rate.
 @@RELATED@@
 Sinus Tachycardia: What It Means | https://www.ecgmeans.com/sinus-tachycardia/ | Depends on context
-SVT vs VTach: What's the Difference? | https://www.ecgmeans.com/svt-vs-vtach/ | Seek prompt care
+SVT vs VTach: What's the Difference? | https://www.ecgmeans.com/svt-vs-vtach/ | NONE
 Multifocal Atrial Tachycardia: What It Means | https://www.ecgmeans.com/multifocal-atrial-tachycardia/ | Needs clinician review
 Junctional Tachycardia: What It Means | https://www.ecgmeans.com/junctional-tachycardia/ | Needs clinician review
 Ectopic Atrial Rhythm: What It Means | https://www.ecgmeans.com/ectopic-atrial-rhythm/ | Depends on context

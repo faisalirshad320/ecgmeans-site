@@ -48,7 +48,7 @@ A: Premature ventricular beats with a very short coupling interval, more likely 
 Q: How is it managed?
 A: By correcting any electrolyte problems or long QT, treating the underlying heart condition, and monitoring if the heart is unstable.
 @@RELATED@@
-Premature Ventricular Contractions (PVCs): What They Mean | https://www.ecgmeans.com/premature-ventricular-contractions/ | Depends on context
+Premature Ventricular Contractions (PVCs): What They Mean | https://www.ecgmeans.com/premature-ventricular-contractions/ | Usually harmless
 QT Prolongation: What It Means on an ECG | https://www.ecgmeans.com/qt-prolongation/ | Needs clinician review
 Ventricular Tachycardia: What It Means | https://www.ecgmeans.com/ventricular-tachycardia/ | Seek prompt care
 Ventricular Fibrillation: What It Means | https://www.ecgmeans.com/ventricular-fibrillation/ | Seek prompt care

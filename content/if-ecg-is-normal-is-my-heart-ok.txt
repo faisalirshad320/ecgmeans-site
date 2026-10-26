@@ -53,7 +53,7 @@ A: There is no fixed schedule for healthy people. It is done when symptoms, risk
 @@RELATED@@
 How to Read Your ECG Report: A Plain-English Guide | https://www.ecgmeans.com/how-to-read-ecg-report/ | Usually harmless
 What Is an EKG (ECG)? A Plain-English Guide | https://www.ecgmeans.com/what-is-an-ekg/ | Usually harmless
-EKG vs Echocardiogram: What's the Difference? | https://www.ecgmeans.com/ekg-vs-echocardiogram/ | Usually harmless
+EKG vs Echocardiogram: What's the Difference? | https://www.ecgmeans.com/ekg-vs-echocardiogram/ | NONE
 Sinus Rhythm: What It Means on Your ECG | https://www.ecgmeans.com/sinus-rhythm/ | Usually harmless
 Borderline ECG: What It Means | https://www.ecgmeans.com/borderline-ecg/ | Usually harmless
 @@ALSO@@

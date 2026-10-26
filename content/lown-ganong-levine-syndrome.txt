@@ -51,7 +51,7 @@ A: No. A short PR can have several causes and is only called LGL when it occurs 
 Short PR Interval: What It Means | https://www.ecgmeans.com/short-pr-interval/ | Depends on context
 Wolff-Parkinson-White (WPW): What It Means | https://www.ecgmeans.com/wolff-parkinson-white/ | Needs clinician review
 Delta Wave: What It Means on an ECG | https://www.ecgmeans.com/delta-wave/ | Needs clinician review
-Supraventricular Tachycardia (SVT): What It Means | https://www.ecgmeans.com/supraventricular-tachycardia/ | Seek prompt care
+Supraventricular Tachycardia (SVT): What It Means | https://www.ecgmeans.com/supraventricular-tachycardia/ | Needs clinician review
 PR Interval: What It Means on an ECG | https://www.ecgmeans.com/pr-interval/ | Depends on context
 @@ALSO@@
 lown ganong levine syndrome, lgl syndrome, short pr normal qrs, lgl syndrome

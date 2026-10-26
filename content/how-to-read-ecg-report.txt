@@ -60,8 +60,8 @@ Abnormal ECG: What It Means on Your Report | https://www.ecgmeans.com/abnormal-e
 Borderline ECG: What It Means | https://www.ecgmeans.com/borderline-ecg/ | Usually harmless
 What Is an EKG (ECG)? A Plain-English Guide | https://www.ecgmeans.com/what-is-an-ekg/ | Usually harmless
 PR Interval: Normal Range and What Short or Long Means | https://www.ecgmeans.com/pr-interval/ | Depends on context
-QRS Interval: Normal Range and What a Wide QRS Means | https://www.ecgmeans.com/qrs-interval/ | Depends on context
-QT and QTc Interval: Normal Range and Prolonged QT | https://www.ecgmeans.com/qt-interval/ | Needs clinician review
+QRS Interval: Normal Range and What a Wide QRS Means | https://www.ecgmeans.com/qrs-interval/ | NONE
+QT and QTc Interval: Normal Range and Prolonged QT | https://www.ecgmeans.com/qt-interval/ | NONE
 @@ALSO@@
 how to read ecg report, ecg interpretation, ekg interpretation cheat sheet, normal ecg values
 @@SOURCES@@

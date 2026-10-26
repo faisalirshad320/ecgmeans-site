@@ -60,7 +60,7 @@ A: There is nothing to fix unless an underlying cause is found. If it is due to 
 Anterior Infarct, Age Undetermined: ECG Meaning | https://www.ecgmeans.com/anterior-infarct-age-undetermined/ | Needs clinician review
 Septal Infarct on an ECG: What It Means | https://www.ecgmeans.com/septal-infarct/ | Depends on context
 Left Anterior Fascicular Block: What It Means | https://www.ecgmeans.com/left-anterior-fascicular-block/ | Usually harmless
-Low Voltage QRS: What It Means | https://www.ecgmeans.com/low-voltage-qrs/ | Needs clinician review
+Low Voltage QRS: What It Means | https://www.ecgmeans.com/low-voltage-qrs/ | NONE
 Abnormal ECG: What It Means on Your Report | https://www.ecgmeans.com/abnormal-ecg/ | Depends on context
 Anteroseptal Infarct, Age Undetermined: ECG Meaning | https://www.ecgmeans.com/anteroseptal-infarct/ | Needs clinician review
 @@ALSO@@

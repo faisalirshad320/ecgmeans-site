@@ -53,10 +53,10 @@ A: Type A shows biphasic T waves that go up then down; Type B shows deep, symmet
 Q: Should I have a stress test for Wellens syndrome?
 A: No — stress testing can be dangerous in this situation. The recommended step is prompt coronary angiography.
 @@RELATED@@
-T Wave Inversion: What It Means on an ECG | https://www.ecgmeans.com/t-wave-inversion/ | Needs clinician review
-Biphasic T Wave: What It Means | https://www.ecgmeans.com/biphasic-t-wave/ | Needs clinician review
+T Wave Inversion: What It Means on an ECG | https://www.ecgmeans.com/t-wave-inversion/ | Depends on context
+Biphasic T Wave: What It Means | https://www.ecgmeans.com/biphasic-t-wave/ | Depends on context
 Hyperacute T Waves: What They Mean | https://www.ecgmeans.com/hyperacute-t-waves/ | Seek prompt care
-STEMI vs NSTEMI: What's the Difference? | https://www.ecgmeans.com/stemi-vs-nstemi/ | Seek prompt care
+STEMI vs NSTEMI: What's the Difference? | https://www.ecgmeans.com/stemi-vs-nstemi/ | NONE
 Anterior Infarct (Age Undetermined): ECG Meaning | https://www.ecgmeans.com/anterior-infarct-age-undetermined/ | Needs clinician review
 @@ALSO@@
 wellens syndrome, wellens sign, wellens t waves, lad coronary t-wave syndrome

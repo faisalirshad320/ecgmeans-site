@@ -70,7 +70,7 @@ A: It needs emergency assessment. An unstable patient is given an electrical sho
 Q: Can ventricular tachycardia be prevented from coming back?
 A: Prevention focuses on treating the underlying cause, such as correcting low potassium or magnesium or managing heart muscle disease or blocked arteries. Many people are fitted with an ICD, which can detect and treat a dangerous rhythm if it returns, and some benefit from ablation. Your heart team will advise on the best approach for you.
 @@RELATED@@
-SVT vs VT: How to Tell Them Apart | https://www.ecgmeans.com/svt-vs-vtach/ | Depends on context
+SVT vs VT: How to Tell Them Apart | https://www.ecgmeans.com/svt-vs-vtach/ | NONE
 Ventricular Fibrillation: What It Means | https://www.ecgmeans.com/ventricular-fibrillation/ | Seek prompt care
 Wide QRS Complex: What It Means | https://www.ecgmeans.com/wide-qrs-complex/ | Depends on context
 Prolonged QT / QT Prolongation | https://www.ecgmeans.com/qt-prolongation/ | Needs clinician review

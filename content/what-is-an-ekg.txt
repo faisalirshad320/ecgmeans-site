@@ -144,7 +144,7 @@ A: Yes. An EKG only records the heart's own electrical signals and uses no radia
 How to Read Your ECG Report: A Plain-English Guide | https://www.ecgmeans.com/how-to-read-ecg-report/ | Usually harmless
 If My ECG Is Normal, Is My Heart OK? | https://www.ecgmeans.com/if-ecg-is-normal-is-my-heart-ok/ | Usually harmless
 Abnormal ECG: What It Means on Your Report | https://www.ecgmeans.com/abnormal-ecg/ | Depends on context
-EKG vs Echocardiogram: What's the Difference? | https://www.ecgmeans.com/ekg-vs-echocardiogram/ | Usually harmless
+EKG vs Echocardiogram: What's the Difference? | https://www.ecgmeans.com/ekg-vs-echocardiogram/ | NONE
 Sinus Rhythm: What It Means on Your ECG | https://www.ecgmeans.com/sinus-rhythm/ | Usually harmless
 What Can an EKG Detect? | https://www.ecgmeans.com/what-can-an-ekg-detect/ | NONE
 @@ALSO@@

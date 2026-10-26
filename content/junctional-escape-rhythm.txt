@@ -65,8 +65,8 @@ A: Usually not. No treatment is needed if you are well and your heart rate is ad
 Q: Can I do anything about it?
 A: The main step is finding and addressing the underlying trigger. If a medicine that slows the heart is involved, your doctor may review it, so don't stop any medicine without speaking to them first. Let your doctor know if you notice fatigue or dizziness, as these can suggest the rate is too slow.
 @@RELATED@@
-Junctional Rhythm: What It Means | https://www.ecgmeans.com/junctional-rhythm/ | Depends on context
-Accelerated Junctional Rhythm | https://www.ecgmeans.com/accelerated-junctional-rhythm/ | Depends on context
+Junctional Rhythm: What It Means | https://www.ecgmeans.com/junctional-rhythm/ | NONE
+Accelerated Junctional Rhythm | https://www.ecgmeans.com/accelerated-junctional-rhythm/ | Needs clinician review
 Sinus Bradycardia: What It Means | https://www.ecgmeans.com/sinus-bradycardia/ | Usually harmless
 Sick Sinus Syndrome: What It Means | https://www.ecgmeans.com/sick-sinus-syndrome/ | Needs clinician review
 @@ALSO@@

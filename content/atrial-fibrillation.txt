@@ -1,7 +1,7 @@
 @@TITLE@@
 Atrial Fibrillation ECG: What AFib Looks Like on an EKG Strip
 @@DESC@@
-Atrial fibrillation ECG explained: what AFib looks like on an EKG strip, the key criteria (no P waves, irregular RR), rate types, look-alikes, and when to worry.
+Atrial fibrillation ECG explained: what AFib looks like on an EKG strip, key criteria (no P waves, irregular RR), rate types, look-alikes and when to worry.
 @@H1@@
 Atrial Fibrillation ECG: What AFib Looks Like and What It Means
 @@CATEGORY@@
@@ -109,6 +109,19 @@ Some people feel nothing, and AF is found by chance on a routine EKG or a wearab
 
 Symptoms do not predict stroke risk. People with silent AF carry a similar stroke risk to those who feel it, which is why an ECG finding of AF matters even when you feel well.
 
+## Catching AFib that comes and goes
+
+Paroxysmal AF may last minutes or hours and then stop, so a single 12-lead ECG in clinic can be completely normal. Doctors use longer recordings to catch it:
+
+| Monitor | How long it records | Best for |
+| --- | --- | --- |
+| **12-lead ECG** | About 10 seconds | Confirming AF that is present now |
+| **Holter monitor** | 24 hours to 7 days | Frequent episodes, daily symptoms |
+| **Patch or event recorder** | 1–4 weeks | Episodes every few days or weeks |
+| **Implantable loop recorder** | Up to about 3 years | Rare episodes, or AF suspected after an unexplained stroke |
+
+Monitor reports may mention an "AF burden" — the share of recording time spent in atrial fibrillation. A higher burden often means more symptoms, though stroke prevention decisions still rest mainly on your risk score.
+
 ## Smartwatch AFib alerts
 
 Many watches can record a single-lead ECG and flag "possible atrial fibrillation". These alerts are useful but not definitive. False alarms are common with frequent extra beats, movement and poor contact, and a watch cannot measure your stroke risk. If your watch flags AFib:
@@ -156,7 +169,7 @@ A: AF itself is irregular. A regular rhythm with no P waves suggests something e
 Q: What does "AF with RVR" mean on an ECG?
 A: Atrial fibrillation with a ventricular rate over 100 beats per minute. It often causes symptoms and usually needs treatment to slow the rate.
 @@RELATED@@
-AFib Heart Rate: What Is Normal and When to Worry | https://www.ecgmeans.com/afib-heart-rate/ | NONE
+AFib Heart Rate: What Is Normal and When to Worry | https://www.ecgmeans.com/afib-heart-rate/ | Needs clinician review
 AFib vs VFib: What's the Difference? | https://www.ecgmeans.com/afib-vs-vfib/ | NONE
 AFib with RVR: What It Means on an ECG | https://www.ecgmeans.com/afib-with-rvr/ | Needs clinician review
 Atrial Flutter: What It Means on an ECG | https://www.ecgmeans.com/atrial-flutter/ | Needs clinician review
@@ -164,7 +177,7 @@ Atrial Fibrillation vs Atrial Flutter on an ECG | https://www.ecgmeans.com/afib-
 Sinus Rhythm With PACs: What It Means | https://www.ecgmeans.com/sinus-rhythm-with-pac/ | Usually harmless
 Sinus Tachycardia: What It Means | https://www.ecgmeans.com/sinus-tachycardia/ | Depends on context
 Possible Left Atrial Enlargement: ECG Meaning | https://www.ecgmeans.com/left-atrial-enlargement/ | Needs clinician review
-SVT vs VTach: What's the Difference? | https://www.ecgmeans.com/svt-vs-vtach/ | Seek prompt care
+SVT vs VTach: What's the Difference? | https://www.ecgmeans.com/svt-vs-vtach/ | NONE
 @@ALSO@@
 atrial fibrillation ecg, afib ecg, af ecg, irregularly irregular rhythm, a fib ekg, afib ekg, what does afib look like on ecg, what does afib look like on ekg, atrial fibrillation ecg strip, afib ecg strip, atrial fibrillation ekg, atrial fibrillation on ecg, afib rhythm strip, fibrillatory waves, coarse atrial fibrillation, fine atrial fibrillation, af with rvr ecg
 @@SOURCES@@

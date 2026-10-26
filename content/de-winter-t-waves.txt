@@ -49,10 +49,10 @@ Q: How are de Winter T waves treated?
 A: As a heart attack — with urgent angiography and opening of the blocked artery, usually with a stent.
 @@RELATED@@
 Hyperacute T Waves: What They Mean | https://www.ecgmeans.com/hyperacute-t-waves/ | Seek prompt care
-ST Depression: What It Means on an ECG | https://www.ecgmeans.com/st-depression/ | Needs clinician review
+ST Depression: What It Means on an ECG | https://www.ecgmeans.com/st-depression/ | Depends on context
 ST Elevation: What It Means on an ECG | https://www.ecgmeans.com/st-elevation/ | Seek prompt care
 Wellens Syndrome: What It Means | https://www.ecgmeans.com/wellens-syndrome/ | Seek prompt care
-STEMI vs NSTEMI: What's the Difference? | https://www.ecgmeans.com/stemi-vs-nstemi/ | Seek prompt care
+STEMI vs NSTEMI: What's the Difference? | https://www.ecgmeans.com/stemi-vs-nstemi/ | NONE
 @@ALSO@@
 de winter t waves, de winter pattern, de winter t wave, stemi equivalent
 @@SOURCES@@

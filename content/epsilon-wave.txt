@@ -49,10 +49,10 @@ Q: Is an epsilon wave dangerous by itself?
 A: The wave itself is just a marker, but the underlying condition it suggests can cause dangerous rhythms, so it needs specialist assessment.
 @@RELATED@@
 Right Ventricular Hypertrophy: What It Means | https://www.ecgmeans.com/right-ventricular-hypertrophy/ | Needs clinician review
-T Wave Inversion: What It Means on an ECG | https://www.ecgmeans.com/t-wave-inversion/ | Needs clinician review
+T Wave Inversion: What It Means on an ECG | https://www.ecgmeans.com/t-wave-inversion/ | Depends on context
 Brugada Syndrome: What It Means | https://www.ecgmeans.com/brugada-syndrome/ | Needs clinician review
 Ventricular Tachycardia: What It Means | https://www.ecgmeans.com/ventricular-tachycardia/ | Seek prompt care
-Right Heart Strain: What It Means | https://www.ecgmeans.com/right-heart-strain/ | Needs clinician review
+Right Heart Strain: What It Means | https://www.ecgmeans.com/right-heart-strain/ | Depends on context
 @@ALSO@@
 epsilon wave, epsilon waves, arvc ecg, epsilon wave ecg
 @@SOURCES@@

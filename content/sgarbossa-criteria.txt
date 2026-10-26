@@ -52,10 +52,10 @@ A: A total of 3 or more points is considered positive and is treated as a heart 
 Q: What is the modified Sgarbossa (Smith) criterion?
 A: It replaces the third rule with a proportion: ST elevation that is at least one quarter (25%) of the depth of the preceding S wave.
 @@RELATED@@
-Left Bundle Branch Block (LBBB): What It Means | https://www.ecgmeans.com/left-bundle-branch-block/ | Needs clinician review
-STEMI vs NSTEMI: What's the Difference? | https://www.ecgmeans.com/stemi-vs-nstemi/ | Seek prompt care
+Left Bundle Branch Block (LBBB): What It Means | https://www.ecgmeans.com/left-bundle-branch-block/ | NONE
+STEMI vs NSTEMI: What's the Difference? | https://www.ecgmeans.com/stemi-vs-nstemi/ | NONE
 ST Elevation: What It Means on an ECG | https://www.ecgmeans.com/st-elevation/ | Seek prompt care
-Paced Rhythm: What It Means on an ECG | https://www.ecgmeans.com/paced-rhythm/ | Needs clinician review
+Paced Rhythm: What It Means on an ECG | https://www.ecgmeans.com/paced-rhythm/ | Depends on context
 Wellens Syndrome: What It Means | https://www.ecgmeans.com/wellens-syndrome/ | Seek prompt care
 @@ALSO@@
 sgarbossa criteria, sgarbossa, modified sgarbossa, stemi in lbbb, smith modified sgarbossa

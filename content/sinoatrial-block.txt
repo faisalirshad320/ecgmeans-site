@@ -64,7 +64,7 @@ A: In the common type II form of SA block, the pause is a whole multiple of the 
 Q: What happens next if I have sinoatrial block?
 A: Your doctor will usually review possible reversible causes, such as medicines. Heart rhythm monitoring may be used to see whether your symptoms match the pauses. If pauses cause symptoms and no reversible cause is found, a pacemaker may be considered, as with sick sinus syndrome.
 @@RELATED@@
-Sinus Pause / Arrest: What It Means | https://www.ecgmeans.com/sinus-pause-arrest/ | Needs clinician review
+Sinus Pause / Arrest: What It Means | https://www.ecgmeans.com/sinus-pause-arrest/ | Depends on context
 Sick Sinus Syndrome: What It Means | https://www.ecgmeans.com/sick-sinus-syndrome/ | Needs clinician review
 Sinus Bradycardia: What It Means | https://www.ecgmeans.com/sinus-bradycardia/ | Usually harmless
 First-Degree AV Block: What It Means | https://www.ecgmeans.com/first-degree-av-block/ | Usually harmless

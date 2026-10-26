@@ -146,7 +146,7 @@ A: It is harder, because LBBB already alters the ST segments. Doctors use the Sg
 Right Bundle Branch Block: What It Means | https://www.ecgmeans.com/right-bundle-branch-block/ | Usually harmless
 Left Anterior Fascicular Block: What It Means | https://www.ecgmeans.com/left-anterior-fascicular-block/ | Usually harmless
 Left Axis Deviation: What It Means on an ECG | https://www.ecgmeans.com/left-axis-deviation/ | Usually harmless
-QRS Interval: Normal Range and What a Wide QRS Means | https://www.ecgmeans.com/qrs-interval/ | Depends on context
+QRS Interval: Normal Range and What a Wide QRS Means | https://www.ecgmeans.com/qrs-interval/ | NONE
 Septal Infarct on an ECG: What It Means | https://www.ecgmeans.com/septal-infarct/ | Depends on context
 Sgarbossa Criteria: Spotting a Heart Attack in LBBB | https://www.ecgmeans.com/sgarbossa-criteria/ | Seek prompt care
 @@ALSO@@

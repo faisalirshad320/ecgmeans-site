@@ -66,7 +66,7 @@ A: Usually the finding is just noted and compared with any previous ECG. If ther
 Q: How is incomplete RBBB different from complete RBBB?
 A: Both show the same M-shaped rSR' pattern in lead V1. The difference is the width of the QRS: in incomplete RBBB it is narrower, below the 120 ms or more that defines complete RBBB.
 @@RELATED@@
-Right Bundle Branch Block | https://www.ecgmeans.com/right-bundle-branch-block/ | Depends on context
+Right Bundle Branch Block | https://www.ecgmeans.com/right-bundle-branch-block/ | Usually harmless
 Right Ventricular Hypertrophy | https://www.ecgmeans.com/right-ventricular-hypertrophy/ | Needs clinician review
 Intraventricular Conduction Delay | https://www.ecgmeans.com/intraventricular-conduction-delay/ | Depends on context
 Right Atrial Enlargement: What It Means | https://www.ecgmeans.com/right-atrial-enlargement/ | Needs clinician review

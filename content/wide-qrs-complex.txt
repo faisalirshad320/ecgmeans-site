@@ -76,9 +76,9 @@ A: The commonest cause is bundle branch block, either left or right. Other cause
 Q: What happens after a wide QRS is found?
 A: Your doctor looks at the shape of the QRS and your overall clinical picture to identify the cause. Comparing with an old ECG shows whether the finding is new. A fast wide-complex rhythm is assumed to be ventricular tachycardia until proven otherwise and is assessed urgently.
 @@RELATED@@
-QRS Interval: What It Means | https://www.ecgmeans.com/qrs-interval/ | Depends on context
-Left Bundle Branch Block | https://www.ecgmeans.com/left-bundle-branch-block/ | Needs clinician review
-Right Bundle Branch Block | https://www.ecgmeans.com/right-bundle-branch-block/ | Depends on context
+QRS Interval: What It Means | https://www.ecgmeans.com/qrs-interval/ | NONE
+Left Bundle Branch Block | https://www.ecgmeans.com/left-bundle-branch-block/ | NONE
+Right Bundle Branch Block | https://www.ecgmeans.com/right-bundle-branch-block/ | Usually harmless
 Ventricular Tachycardia: What It Means | https://www.ecgmeans.com/ventricular-tachycardia/ | Seek prompt care
 @@ALSO@@
 wide QRS, broad QRS, broad QRS complex, QRS widening, widened QRS, prolonged QRS duration, QRS 120 ms or more, wide-complex rhythm

@@ -53,7 +53,7 @@ A: QRS width is the main clue. Wide-complex tachycardias are assumed to be VT un
 @@RELATED@@
 Sinus Tachycardia: What It Means | https://www.ecgmeans.com/sinus-tachycardia/ | Depends on context
 Idioventricular Rhythm: What It Means | https://www.ecgmeans.com/idioventricular-rhythm/ | Seek prompt care
-QRS Interval: Normal Range and What a Wide QRS Means | https://www.ecgmeans.com/qrs-interval/ | Depends on context
+QRS Interval: Normal Range and What a Wide QRS Means | https://www.ecgmeans.com/qrs-interval/ | NONE
 PVC vs PAC: What's the Difference? | https://www.ecgmeans.com/pvc-vs-pac/ | Usually harmless
 Bigeminy: What It Means on an ECG | https://www.ecgmeans.com/bigeminy/ | Depends on context
 Atrial Fibrillation: What It Means on an ECG | https://www.ecgmeans.com/atrial-fibrillation/ | Needs clinician review

@@ -89,7 +89,7 @@ A: Under about 460 ms. Women have a slightly longer QTc than men on average.
 Q: Why is my machine QTc different from this calculator?
 A: Machines measure QT automatically and usually apply Bazett. A small difference in where the end of the T wave is placed changes the result, so borderline values are often re-measured by hand.
 @@RELATED@@
-QT and QTc Interval: Normal Range and Prolonged QT | https://www.ecgmeans.com/qt-interval/ | Depends on context
+QT and QTc Interval: Normal Range and Prolonged QT | https://www.ecgmeans.com/qt-interval/ | NONE
 ECG Heart Rate Calculator | https://www.ecgmeans.com/ecg-heart-rate-calculator/ | NONE
 Normal ECG Values | https://www.ecgmeans.com/normal-ecg-values/ | NONE
 U Wave: What It Means on an ECG | https://www.ecgmeans.com/u-wave/ | Depends on context

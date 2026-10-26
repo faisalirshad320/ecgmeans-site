@@ -157,9 +157,9 @@ A: It should not be left untreated. Hours of a fast rate can cause breathlessnes
 Atrial Fibrillation: What It Means on an ECG | https://www.ecgmeans.com/atrial-fibrillation/ | Needs clinician review
 Atrial Flutter: What It Means on an ECG | https://www.ecgmeans.com/atrial-flutter/ | Needs clinician review
 Sinus Tachycardia: What It Means | https://www.ecgmeans.com/sinus-tachycardia/ | Depends on context
-AFib vs Atrial Flutter: What's the Difference? | https://www.ecgmeans.com/afib-vs-aflutter/ | Needs clinician review
+AFib vs Atrial Flutter: What's the Difference? | https://www.ecgmeans.com/afib-vs-aflutter/ | NONE
 Supraventricular Tachycardia (SVT): What It Means | https://www.ecgmeans.com/supraventricular-tachycardia/ | Needs clinician review
-AFib Heart Rate: What Is Too Fast? | https://www.ecgmeans.com/afib-heart-rate/ | NONE
+AFib Heart Rate: What Is Too Fast? | https://www.ecgmeans.com/afib-heart-rate/ | Needs clinician review
 @@ALSO@@
 afib with rvr, atrial fibrillation with rapid ventricular response, af with rvr, rapid afib, afib rvr, rvr afib, atrial fibrillation with rvr, afib with rvr treatment, what is afib with rvr, afib with rapid ventricular response, a fib with rvr, rvr meaning heart, afib rvr ecg, afib with rvr heart rate
 @@SOURCES@@

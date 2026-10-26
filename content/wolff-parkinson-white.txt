@@ -50,7 +50,7 @@ A: Yes — catheter ablation of the extra pathway cures most people and is often
 @@RELATED@@
 Delta Wave: What It Means on an ECG | https://www.ecgmeans.com/delta-wave/ | Needs clinician review
 Short PR Interval: What It Means | https://www.ecgmeans.com/short-pr-interval/ | Depends on context
-Supraventricular Tachycardia (SVT): What It Means | https://www.ecgmeans.com/supraventricular-tachycardia/ | Seek prompt care
+Supraventricular Tachycardia (SVT): What It Means | https://www.ecgmeans.com/supraventricular-tachycardia/ | Needs clinician review
 Lown-Ganong-Levine Syndrome: What It Means | https://www.ecgmeans.com/lown-ganong-levine-syndrome/ | Needs clinician review
 PR Interval: What It Means on an ECG | https://www.ecgmeans.com/pr-interval/ | Depends on context
 @@ALSO@@

@@ -63,8 +63,8 @@ Q: What happens after an inverted P wave is found?
 A: The first checks are whether the leads were placed correctly and what the rest of the heart rhythm looks like. If it reflects a genuine junctional or atrial rhythm, that rhythm and any symptoms you have guide whether anything further is needed.
 @@RELATED@@
 PR Interval: What It Means | https://www.ecgmeans.com/pr-interval/ | Depends on context
-Junctional Rhythm: What It Means | https://www.ecgmeans.com/junctional-rhythm/ | Depends on context
-Ectopic Atrial Rhythm: What It Means | https://www.ecgmeans.com/ectopic-atrial-rhythm/ | Usually harmless
+Junctional Rhythm: What It Means | https://www.ecgmeans.com/junctional-rhythm/ | NONE
+Ectopic Atrial Rhythm: What It Means | https://www.ecgmeans.com/ectopic-atrial-rhythm/ | Depends on context
 Short PR Interval: What It Means | https://www.ecgmeans.com/short-pr-interval/ | Depends on context
 @@ALSO@@
 Inverted P wave, Negative P wave, Inverted P waves in lead II, Inverted P waves in II, III and aVF, Retrograde P wave, Retrograde P waves, Abnormal P wave axis, Non-sinus P wave

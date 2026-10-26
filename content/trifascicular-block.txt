@@ -49,9 +49,9 @@ Q: Does trifascicular block need a pacemaker?
 A: Not automatically. A pacemaker is considered when there are symptoms such as blackouts or when monitoring shows more advanced block.
 @@RELATED@@
 Bifascicular Block: What It Means | https://www.ecgmeans.com/bifascicular-block/ | Needs clinician review
-Right Bundle Branch Block (RBBB): What It Means | https://www.ecgmeans.com/right-bundle-branch-block/ | Needs clinician review
+Right Bundle Branch Block (RBBB): What It Means | https://www.ecgmeans.com/right-bundle-branch-block/ | Usually harmless
 First-Degree AV Block: What It Means | https://www.ecgmeans.com/first-degree-av-block/ | Usually harmless
-Left Anterior Fascicular Block: What It Means | https://www.ecgmeans.com/left-anterior-fascicular-block/ | Needs clinician review
+Left Anterior Fascicular Block: What It Means | https://www.ecgmeans.com/left-anterior-fascicular-block/ | Usually harmless
 Third-Degree AV Block: What It Means | https://www.ecgmeans.com/third-degree-av-block/ | Seek prompt care
 @@ALSO@@
 trifascicular block, trifascicular block ecg, bifascicular block with first degree av block

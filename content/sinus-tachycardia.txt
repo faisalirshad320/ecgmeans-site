@@ -176,16 +176,16 @@ Q: Can dehydration cause sinus tachycardia?
 A: Yes. With less fluid in the circulation, the heart beats faster to keep blood pressure up. The rate usually falls once you are rehydrated.
 @@RELATED@@
 Sinus Rhythm: What It Means on Your ECG | https://www.ecgmeans.com/sinus-rhythm/ | Usually harmless
-SVT vs VTach: What's the Difference? | https://www.ecgmeans.com/svt-vs-vtach/ | Seek prompt care
+SVT vs VTach: What's the Difference? | https://www.ecgmeans.com/svt-vs-vtach/ | NONE
 Sinus Rhythm With PACs: What It Means | https://www.ecgmeans.com/sinus-rhythm-with-pac/ | Usually harmless
 Abnormal ECG: What It Means on Your Report | https://www.ecgmeans.com/abnormal-ecg/ | Depends on context
-Low Voltage QRS: What It Means | https://www.ecgmeans.com/low-voltage-qrs/ | Needs clinician review
+Low Voltage QRS: What It Means | https://www.ecgmeans.com/low-voltage-qrs/ | NONE
 Atrial Fibrillation: What It Means on an ECG | https://www.ecgmeans.com/atrial-fibrillation/ | Needs clinician review
 Atrial Flutter: What It Means on an ECG | https://www.ecgmeans.com/atrial-flutter/ | Needs clinician review
 Atrial Tachycardia: What It Means on an ECG | https://www.ecgmeans.com/atrial-tachycardia/ | Needs clinician review
 Junctional Tachycardia: What It Means | https://www.ecgmeans.com/junctional-tachycardia/ | Needs clinician review
 S1Q3T3: What the Pattern Means on an ECG | https://www.ecgmeans.com/s1q3t3/ | Needs clinician review
-Heart Palpitations With a Normal ECG | https://www.ecgmeans.com/heart-palpitations-normal-ecg/ | NONE
+Heart Palpitations With a Normal ECG | https://www.ecgmeans.com/heart-palpitations-normal-ecg/ | Usually harmless
 @@ALSO@@
 sinus tachycardia ecg, what is sinus tachycardia, inappropriate sinus tachycardia, sinus tachycardia treatment, sinus tachycardia causes, sinus tach, sinus tachycardia ekg, sinus tachycardia meaning, sinus tachycardia heart rate, ist heart condition, sinus tachycardia vs svt, sinus tachycardia and pots, is sinus tachycardia dangerous
 @@SOURCES@@

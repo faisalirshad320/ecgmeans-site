@@ -1,7 +1,7 @@
 @@TITLE@@
 Normal QT Interval: QTc Normal Range for Men and Women
 @@DESC@@
-Normal QT interval and QTc normal range by sex and age, how the QT is measured and corrected for heart rate, what a long or short QTc means, and when to worry.
+Normal QT interval and QTc normal range by sex and age, how the QT is measured and corrected for heart rate, what a long or short QTc means, when to worry.
 @@H1@@
 Normal QT Interval: QT and QTc Normal Range Explained
 @@CATEGORY@@
@@ -89,13 +89,29 @@ A short QTc is much less common. Causes include a high calcium level, digoxin ef
 
 ## Should you worry?
 
-A QTc of 440–480 ms is usually just a reason to review medicines and electrolytes. A QTc over 500 ms, or a family history of sudden death, fainting or seizures, needs prompt assessment. Many QT-prolonging medicines are safe individually but risky in combination.
+A borderline or mildly prolonged QTc (roughly 440–470 ms) is usually a reason to review medicines and electrolytes and repeat the ECG. A QTc over 500 ms, or a family history of sudden death, fainting or seizures, needs prompt assessment. Many QT-prolonging medicines are safe individually but risky in combination.
 
 **Get urgent help** if this finding comes with chest pain or pressure, severe breathlessness, fainting, or a fast heartbeat that will not settle. Those symptoms matter more than any single ECG phrase.
 
 ### Why a long QT matters: torsades de pointes
 
 When recovery of the ventricles is delayed, an early extra beat can land on the vulnerable part of the T wave and set off [torsades de pointes](https://www.ecgmeans.com/torsades-de-pointes/) — a fast ventricular rhythm whose QRS complexes appear to twist around the baseline. It may stop by itself, causing a faint or a seizure-like episode, or it can progress to [ventricular fibrillation](https://www.ecgmeans.com/ventricular-fibrillation/). This is why a very long QTc is taken seriously, and why fainting in someone with a long QT is always an urgent symptom. See also [R on T phenomenon](https://www.ecgmeans.com/r-on-t-phenomenon/).
+
+## Practical tips if your QTc is long
+
+These are general points to discuss with your doctor, not instructions to change treatment:
+
+- **Keep an up-to-date medicine list,** including over-the-counter remedies and supplements, and show it to every prescriber and pharmacist. Some antihistamines, anti-sickness medicines and antibiotics can add to the effect.
+- **Watch for fluid losses.** Vomiting, diarrhoea and some water tablets lower potassium and magnesium, which lengthens the QT. Your doctor may check blood levels when you are unwell.
+- **Report fainting, seizures or palpitations promptly,** especially on starting a new medicine.
+- **Tell your family** if you are diagnosed with congenital long QT syndrome; relatives may be offered an ECG and genetic testing.
+
+## QT interval in special situations
+
+- **Bundle branch block or pacing:** the wide QRS lengthens the QT without any added risk from recovery, so the QTc looks falsely long. Clinicians adjust for this.
+- **Atrial fibrillation:** because each R-R gap differs, the QT changes beat to beat. Several beats are measured and averaged. See [atrial fibrillation on an ECG](https://www.ecgmeans.com/atrial-fibrillation/).
+- **Slow heart rates:** at rates under 60, the uncorrected QT is long and Bazett may under-correct, so the formula choice matters.
+- **Sleep and time of day:** the QTc varies by a few milliseconds through the day, so small differences between two ECGs are not significant.
 
 ## What usually happens next
 
@@ -140,9 +156,9 @@ A: Machines often use Bazett's formula, which overstates QTc at fast heart rates
 @@RELATED@@
 QT Prolongation on an ECG: What It Means | https://www.ecgmeans.com/qt-prolongation/ | Needs clinician review
 QTc Calculator (Corrected QT Interval) | https://www.ecgmeans.com/qtc-calculator/ | NONE
-Torsades de Pointes: What It Means on an ECG | https://www.ecgmeans.com/torsades-de-pointes/ | NONE
+Torsades de Pointes: What It Means on an ECG | https://www.ecgmeans.com/torsades-de-pointes/ | Seek prompt care
 PR Interval: Normal Range and What Short or Long Means | https://www.ecgmeans.com/pr-interval/ | Depends on context
-QRS Interval: Normal Range and What a Wide QRS Means | https://www.ecgmeans.com/qrs-interval/ | Depends on context
+QRS Interval: Normal Range and What a Wide QRS Means | https://www.ecgmeans.com/qrs-interval/ | NONE
 T Wave Inversion: What It Means on an ECG | https://www.ecgmeans.com/t-wave-inversion/ | Depends on context
 Sinus Bradycardia: What It Means | https://www.ecgmeans.com/sinus-bradycardia/ | Usually harmless
 Abnormal ECG: What It Means on Your Report | https://www.ecgmeans.com/abnormal-ecg/ | Depends on context

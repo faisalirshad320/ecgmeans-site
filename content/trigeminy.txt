@@ -61,7 +61,7 @@ A: Adrenaline makes PVCs more frequent, so stress can bring the pattern on in pe
 Bigeminy: What It Means on an ECG | https://www.ecgmeans.com/bigeminy/ | Depends on context
 PVC vs PAC: What's the Difference? | https://www.ecgmeans.com/pvc-vs-pac/ | Usually harmless
 Sinus Rhythm With PACs: What It Means | https://www.ecgmeans.com/sinus-rhythm-with-pac/ | Usually harmless
-SVT vs VTach: What's the Difference? | https://www.ecgmeans.com/svt-vs-vtach/ | Seek prompt care
+SVT vs VTach: What's the Difference? | https://www.ecgmeans.com/svt-vs-vtach/ | NONE
 Abnormal ECG: What It Means on Your Report | https://www.ecgmeans.com/abnormal-ecg/ | Depends on context
 @@ALSO@@
 ventricular trigeminy, trigeminy rhythm, trigeminy ecg, trigeminy pvc

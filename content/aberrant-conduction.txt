@@ -69,9 +69,9 @@ A: They look for features that support aberrancy: a typical bundle-branch-block 
 Q: What happens next if my report mentions aberrancy?
 A: If it appears as occasional wide beats among otherwise normal, narrow beats, it is usually just noted. Your doctor may focus on any underlying rhythm, such as atrial fibrillation or SVT. If there is a fast wide-complex rhythm, it will be assessed promptly and treated cautiously as ventricular tachycardia until proven otherwise.
 @@RELATED@@
-Right Bundle Branch Block | https://www.ecgmeans.com/right-bundle-branch-block/ | Depends on context
+Right Bundle Branch Block | https://www.ecgmeans.com/right-bundle-branch-block/ | Usually harmless
 Wide QRS Complex: What It Means | https://www.ecgmeans.com/wide-qrs-complex/ | Depends on context
-SVT vs VT: How to Tell Them Apart | https://www.ecgmeans.com/svt-vs-vtach/ | Depends on context
+SVT vs VT: How to Tell Them Apart | https://www.ecgmeans.com/svt-vs-vtach/ | NONE
 Supraventricular Tachycardia (SVT) | https://www.ecgmeans.com/supraventricular-tachycardia/ | Needs clinician review
 @@ALSO@@
 aberrancy, aberrant ventricular conduction, aberrantly conducted beat, aberrantly conducted complex, supraventricular beat with aberrancy, SVT with aberrancy, Ashman phenomenon, Ashman beat, rate-related bundle branch block, rate-dependent aberrancy, functional bundle branch block

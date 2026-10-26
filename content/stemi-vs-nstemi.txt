@@ -134,7 +134,7 @@ ST Depression: What It Means | https://www.ecgmeans.com/st-depression/ | Depends
 T Wave Inversion: What It Means | https://www.ecgmeans.com/t-wave-inversion/ | Depends on context
 Anterior Infarct, Age Undetermined | https://www.ecgmeans.com/anterior-infarct-age-undetermined/ | Needs clinician review
 Wellens Syndrome: What It Means | https://www.ecgmeans.com/wellens-syndrome/ | Seek prompt care
-Can an EKG Detect a Heart Attack? | https://www.ecgmeans.com/can-an-ekg-detect-a-heart-attack/ | NONE
+Can an EKG Detect a Heart Attack? | https://www.ecgmeans.com/can-an-ekg-detect-a-heart-attack/ | Seek prompt care
 @@ALSO@@
 STEMI, NSTEMI, ST-elevation myocardial infarction, non-ST-elevation myocardial infarction, ST elevation MI, non-ST elevation MI, acute myocardial infarction, acute MI, heart attack, STEMI vs NSTEMI, nstemi ecg, nstemi ekg, nstemi ecg changes, nstemi ecg findings, nstemi vs stemi ecg, NSTE-ACS, unstable angina, troponin
 @@SOURCES@@

@@ -50,9 +50,9 @@ A: There is no treatment for the pattern itself; care is directed at the underly
 @@RELATED@@
 Pathological Q Waves: What They Mean | https://www.ecgmeans.com/pathological-q-waves/ | Needs clinician review
 Poor R Wave Progression: What It Means | https://www.ecgmeans.com/poor-r-wave-progression/ | Depends on context
-Wide QRS Complex: What It Means | https://www.ecgmeans.com/wide-qrs-complex/ | Needs clinician review
-Low Voltage QRS: What It Means | https://www.ecgmeans.com/low-voltage-qrs/ | Needs clinician review
-Intraventricular Conduction Delay: What It Means | https://www.ecgmeans.com/intraventricular-conduction-delay/ | Needs clinician review
+Wide QRS Complex: What It Means | https://www.ecgmeans.com/wide-qrs-complex/ | Depends on context
+Low Voltage QRS: What It Means | https://www.ecgmeans.com/low-voltage-qrs/ | NONE
+Intraventricular Conduction Delay: What It Means | https://www.ecgmeans.com/intraventricular-conduction-delay/ | Depends on context
 @@ALSO@@
 fragmented qrs, fqrs, fragmented qrs complex, notched qrs
 @@SOURCES@@

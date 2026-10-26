@@ -61,7 +61,7 @@ A: Yes. Extra tissue between the heart and the electrodes weakens the recorded s
 Poor R Wave Progression: What It Means | https://www.ecgmeans.com/poor-r-wave-progression/ | Depends on context
 Abnormal ECG: What It Means on Your Report | https://www.ecgmeans.com/abnormal-ecg/ | Depends on context
 Sinus Tachycardia: What It Means | https://www.ecgmeans.com/sinus-tachycardia/ | Depends on context
-QRS Interval: Normal Range and What a Wide QRS Means | https://www.ecgmeans.com/qrs-interval/ | Depends on context
+QRS Interval: Normal Range and What a Wide QRS Means | https://www.ecgmeans.com/qrs-interval/ | NONE
 Possible Left Atrial Enlargement: ECG Meaning | https://www.ecgmeans.com/left-atrial-enlargement/ | Needs clinician review
 Electrical Alternans: What It Means on an ECG | https://www.ecgmeans.com/electrical-alternans/ | Needs clinician review
 @@ALSO@@
