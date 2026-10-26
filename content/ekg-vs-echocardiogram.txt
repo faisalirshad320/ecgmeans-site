@@ -70,6 +70,26 @@ An echo answers the "structure and pump" questions an EKG cannot:
 - Areas of weak muscle after a heart attack
 - Fluid around the heart (pericardial effusion), congenital defects and clots
 
+## What happens during each test
+
+### Having an EKG
+
+You lie on a couch and expose your chest. A technician sticks 10 electrodes on your chest, arms and legs (on very hairy skin a small area may be shaved). You lie still and breathe normally while the machine records for about 10 seconds. The stickers come off and you can go straight back to normal activities. The printout and computer report are available immediately, although a doctor confirms the final reading. Lead positions are explained on our [12-lead ECG placement](https://www.ecgmeans.com/12-lead-ecg-placement/) page.
+
+### Having an echocardiogram
+
+A standard echo is a transthoracic echocardiogram (TTE). You lie on your left side in a darkened room while a sonographer presses a probe, covered in cool gel, against several points on your chest. You may hear whooshing sounds — that is the Doppler measuring blood flow. You may be asked to hold your breath briefly. Some EKG stickers are often attached so the scan can be timed to your heartbeat. There is nothing to recover from afterwards; a cardiologist reviews the images and writes the report, which may take a few days to reach your doctor.
+
+### Other types of echo
+
+- **Stress echo:** images taken before and after exercise or a medicine that makes the heart work harder, to look for areas with poor blood supply.
+- **Transesophageal echo (TEE):** a thin probe passed down the food pipe under sedation for clearer pictures, often used to look for clots before cardioversion or to examine valves closely.
+- **Bubble (contrast) echo:** a small amount of agitated saline or contrast is injected to look for a hole between the chambers or to sharpen the images.
+
+## Cost and availability
+
+An EKG is one of the cheapest and most widely available tests in medicine — done in most clinics, urgent care centers, ERs and ambulances. An echocardiogram needs specialist equipment and a trained sonographer, so it costs considerably more and is usually booked in advance. Prices vary widely by country, insurer and facility, so check with your provider; our [where to get an EKG](https://www.ecgmeans.com/where-to-get-an-ekg/) page lists common options for the electrical test.
+
 ## When is each test used?
 
 ### Common reasons for each test

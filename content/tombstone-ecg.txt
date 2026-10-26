@@ -89,6 +89,8 @@ After the artery is opened, the ST elevation usually falls over hours to days. F
 
 ## A worked example
 
+*An illustrative case built from typical features — not a real patient.*
+
 > **Paramedic ECG:** *"Massive ST elevation V1–V6, I, aVL with reciprocal ST depression II, III, aVF. Tombstone morphology. STEMI alert."*
 > **Patient:** 61-year-old man, smoker, with 40 minutes of crushing central chest pain, sweating and vomiting.
 

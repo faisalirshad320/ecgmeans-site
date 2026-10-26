@@ -103,6 +103,8 @@ Our page on [palpitations with a normal ECG](https://www.ecgmeans.com/heart-palp
 
 ## A worked example
 
+*An illustrative case built from typical features — not a real patient.*
+
 > **Report line:** *"Sinus rhythm with multifocal PVCs. Otherwise normal ECG."*
 > **Patient:** 58-year-old man with high blood pressure, taking a thiazide diuretic, who noticed skipped beats for two weeks.
 

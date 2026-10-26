@@ -66,6 +66,42 @@ Children have faster normal rates, so a child's sinus rhythm is judged against a
 
 "Sinus rhythm with sinus arrhythmia" (or "normal sinus rhythm with sinus arrhythmia") is one of the most common lines on a healthy young person's ECG. It means every beat still starts in the sinus node with a normal P wave, but the gap between beats changes gently with breathing — shorter when you breathe in, longer when you breathe out. It reflects a healthy, responsive nervous system and needs no treatment. The machine sometimes flags it as "irregular," but a doctor will recognise it at a glance.
 
+## How the heart makes a normal sinus rhythm
+
+It helps to follow one heartbeat from start to finish, because each step produces a part of the ECG:
+
+1. **The sinus node fires.** A small group of pacemaker cells high in the right atrium sends out a signal on its own, roughly 60–100 times a minute at rest. This step is too small to see on the ECG.
+2. **The atria are activated (P wave).** The signal spreads across both upper chambers, which squeeze blood down into the ventricles. Because the signal travels from the top right towards the bottom left, the P wave points upward in leads I and II.
+3. **The AV node pauses the signal (PR segment).** The AV node deliberately holds the signal back for a fraction of a second so the ventricles can fill.
+4. **The ventricles are activated (QRS complex).** The signal races down the bundle of His and the bundle branches, and the ventricles contract to pump blood to the lungs and body.
+5. **The ventricles reset (T wave).** The muscle recharges, ready for the next beat.
+
+When this sequence repeats in the same order, at a steady pace, every time, the result is normal sinus rhythm. If any step happens in the wrong place or at the wrong time, the report will name a different rhythm or add a "with …" finding.
+
+## Normal sinus rhythm in athletes, during sleep and in older people
+
+The 60–100 range is a convention, not a hard biological rule. Many healthy people sit outside it some of the time:
+
+- **Athletes** often have resting rates in the 40s or 50s. The rhythm is still sinus; the report will say sinus bradycardia, and that is usually normal for them.
+- **During sleep** the rate commonly drops below 60 in everyone.
+- **Children** run faster; a 4-year-old's resting rate of 110 can be entirely normal.
+- **Older adults** may have a slightly longer PR interval and fewer breathing-related rate changes, while the rhythm itself remains sinus.
+
+Some cardiologists argue that 50–90 is a better "normal" range for adults at rest. You will see both ranges in textbooks; your report will use the machine's built-in 60–100.
+
+## Normal sinus rhythm vs atrial fibrillation
+
+Because atrial fibrillation (AFib) is the most common rhythm problem in adults, people often want to know how it differs from sinus rhythm.
+
+| | Normal sinus rhythm | [Atrial fibrillation](https://www.ecgmeans.com/atrial-fibrillation/) |
+| --- | --- | --- |
+| **Where the beat starts** | The sinus node | Chaotic signals across both atria |
+| **P waves** | One normal P wave before every QRS | None; a wavy baseline instead |
+| **Spacing of beats** | Regular | Irregularly irregular |
+| **Stroke risk** | Normal | Raised; doctors assess the need for a blood thinner |
+
+If a report says "sinus rhythm" after a previous diagnosis of AFib, it means the heart was back in its normal rhythm at the time of that ECG.
+
 ## Is normal sinus rhythm good?
 
 ### Should you worry?

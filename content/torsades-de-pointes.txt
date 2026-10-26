@@ -98,6 +98,8 @@ For a full explanation of how the interval is measured and what changes it, see 
 
 ## A worked example
 
+*An illustrative case built from typical features — not a real patient.*
+
 > **Monitor alarm:** *"Polymorphic VT, 12 beats, self-terminated."*
 > **Patient:** 72-year-old woman in hospital with pneumonia, taking a diuretic for heart failure, started on an intravenous macrolide antibiotic and an anti-sickness medicine two days earlier.
 
