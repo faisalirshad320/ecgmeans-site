@@ -1,25 +1,89 @@
 @@TITLE@@
-Third Degree (Complete) Heart Block on ECG: What It Means
+Third Degree AV Block: Complete Heart Block ECG & Treatment
 @@DESC@@
-Complete heart block means no signals pass from the atria to the ventricles, which beat on their own escape rhythm. Learn why it usually needs an urgent pacemaker.
+Third degree AV block (complete heart block) means no signals reach the ventricles. How it looks on an ECG, symptoms, causes, and why a pacemaker is needed.
 @@H1@@
-Third Degree (Complete) Heart Block: What It Means
+Third Degree AV Block (Complete Heart Block): What It Means
 @@CATEGORY@@
 Heart Blocks & Conduction | https://www.ecgmeans.com/heart-block-conduction/
 @@QUICK@@
 Seek prompt care
+@@UPDATED@@
+2026-10-26
+@@ANSWER@@
+Third degree AV block, also called complete heart block, means none of the electrical signals from the heart's upper chambers (atria) reach the lower chambers (ventricles). The ventricles keep beating only because a slow back-up "escape" rhythm takes over. On the ECG, P waves and QRS complexes march along independently. It needs urgent care, and most people need a permanent pacemaker.
 @@LEDE@@
 Third degree AV block — complete heart block — means the electrical connection between the upper and lower chambers has failed completely. The atria and ventricles beat independently, and the heart relies on a slow back-up (escape) rhythm to keep going. It is the most serious of the AV blocks and usually needs urgent assessment and a pacemaker.
 @@BODY@@
+Third degree AV block is the medical name for a complete break in the heart's electrical wiring between its upper and lower chambers. You may see it on a report as *third degree AV block*, *3rd degree heart block*, *complete heart block (CHB)* or *complete AV block*. They all mean the same thing. This page explains what the finding means, what complete heart block looks like on an ECG, what causes it, and what treatment — almost always a pacemaker — involves.
+
 ## What "Third degree AV block" means
 
 In a normal heart every impulse from the sinus node passes through the AV node to the ventricles. In complete heart block none of them get through. The atria carry on at their own rate while a back-up pacemaker lower down — in the AV junction or the ventricles — takes over at a much slower rate to keep the heart beating. The two are no longer coordinated, which is described as "AV dissociation".
 
 How dangerous it is depends on where the escape rhythm comes from. A junctional escape (narrow QRS, 40–60 beats/min) is relatively stable; a ventricular escape (wide QRS, 20–40 beats/min) is slow and unreliable and can fail, causing collapse.
 
-## What it looks like on the ECG
+### First, second and third degree heart block compared
+
+"AV block" comes in grades. The higher the number, the more signals are being lost on the way from the atria to the ventricles.
+
+| Type | What happens to the signals | ECG clue | Usual seriousness |
+| --- | --- | --- | --- |
+| [First degree AV block](https://www.ecgmeans.com/first-degree-av-block/) | Every signal gets through, just slowly | PR interval over 200 ms, no dropped beats | Usually harmless |
+| [Second degree type 1 (Wenckebach)](https://www.ecgmeans.com/second-degree-av-block-type-1/) | Signals slow progressively until one is dropped | PR lengthens, then a P wave has no QRS | Often benign |
+| [Second degree type 2 (Mobitz II)](https://www.ecgmeans.com/second-degree-av-block-type-2/) | Some signals are suddenly dropped | Constant PR, then a P wave with no QRS | Serious — usually a pacemaker |
+| **Third degree (complete) AV block** | **No signals get through at all** | **P waves and QRS complexes are completely unrelated** | **Urgent — usually a pacemaker** |
+
+## Complete heart block ECG: what it looks like
 
 Regular P waves and regular QRS complexes that bear no relationship to each other — the PR interval varies randomly because the two are independent. The QRS rate is slow, and the QRS may be narrow (junctional escape) or wide (ventricular escape).
+
+On a 3rd degree heart block ECG, clinicians look for this combination:
+
+1. **P waves at a steady, normal rate** — often 60–100 per minute — "marching through" the strip at regular intervals.
+2. **QRS complexes at a steady but much slower rate**, usually under 50 per minute and often under 40.
+3. **No fixed PR interval.** P waves land before, inside, or after the QRS and T waves at random, because nothing links them.
+4. **More P waves than QRS complexes.** The atrial rate is faster than the ventricular rate.
+5. **A narrow or a wide QRS**, depending on where the escape rhythm is coming from.
+
+A useful way to check a printed strip is to mark the P waves on a piece of paper and slide it along: they keep perfect time, but their distance to each QRS changes every beat. Our guide to [reading an EKG strip](https://www.ecgmeans.com/how-to-read-an-ekg-strip/) and the [ECG rhythm strips](https://www.ecgmeans.com/ecg-rhythm-strips/) page show how this marching method works.
+
+### Narrow vs wide escape rhythm
+
+| Feature | Junctional escape | Ventricular escape |
+| --- | --- | --- |
+| Where the back-up beat starts | AV junction, just below the block | Ventricular muscle, further down |
+| QRS width | Narrow (under 120 ms) | Wide (120 ms or more) |
+| Typical rate | 40–60 beats/min | 20–40 beats/min |
+| Reliability | Relatively stable | Slow, unreliable, can stop |
+| Typical setting | Block at the AV node, e.g. inferior heart attack, medicines | Block lower down, e.g. degenerative disease of the conduction system |
+
+See [junctional escape rhythm](https://www.ecgmeans.com/junctional-escape-rhythm/) and [idioventricular rhythm](https://www.ecgmeans.com/idioventricular-rhythm/) for more on each type of back-up beat.
+
+### Third degree heart block vs look-alikes
+
+Some rhythms are easy to confuse with complete heart block on a single strip.
+
+| Finding | Key difference from third degree AV block |
+| --- | --- |
+| [2:1 AV block](https://www.ecgmeans.com/2-1-av-block/) | Every second P wave conducts with the **same PR interval** each time; in complete block the PR changes every beat |
+| [AV dissociation](https://www.ecgmeans.com/av-dissociation/) from other causes | The ventricular rate is **equal to or faster** than the atrial rate; in complete block the ventricles are slower |
+| Atrial fibrillation with complete heart block | No P waves at all, but the ventricular rhythm becomes **slow and perfectly regular** — a clue that no fibrillation impulses are getting through |
+| [Sinus bradycardia](https://www.ecgmeans.com/sinus-bradycardia/) | Every P wave is followed by a QRS with a normal, fixed PR interval |
+
+## Symptoms of complete heart block
+
+Because the ventricles beat slowly and the chambers are no longer coordinated, less blood is pumped with each minute. Symptoms can include:
+
+- Severe tiredness and weakness
+- Dizziness or light-headedness, especially on standing or exertion
+- Fainting or near-fainting — known as Stokes-Adams attacks when the heart briefly pauses
+- Breathlessness and reduced ability to exercise
+- Chest discomfort
+- Confusion, particularly in older adults
+- A slow pulse, often under 40 beats per minute
+
+Some people, especially those with a stable junctional escape or congenital complete heart block, have few or no symptoms at first. That does not make the rhythm safe: the escape rhythm can slow or stop without warning.
 
 ## Common causes
 
@@ -30,11 +94,42 @@ Regular P waves and regular QRS complexes that bear no relationship to each othe
 - Infections such as Lyme disease, and inflammatory conditions
 - Congenital complete heart block
 
+A few further causes are worth knowing, because some of them are reversible:
+
+- **High blood potassium** — see [hyperkalemia on an ECG](https://www.ecgmeans.com/hyperkalemia-ecg/)
+- **Infiltrative diseases** such as cardiac sarcoidosis or amyloidosis, which are an important cause in younger adults
+- **Congenital heart block in newborns**, which is often linked to maternal antibodies (anti-Ro/SSA) crossing the placenta
+
+Complete heart block after an inferior heart attack often settles on its own within days, because the AV node recovers. Block caused by scarring of the conduction system lower down is usually permanent.
+
 ## Should you worry?
 
 Complete heart block is treated as a medical emergency. It commonly causes severe tiredness, breathlessness, dizziness, fainting (Stokes-Adams attacks) or collapse, and the slow escape rhythm can stop. Most people with it are admitted to hospital, monitored, and fitted with a permanent pacemaker unless a clearly reversible cause (such as a medicine) is found.
 
 **Get urgent help** if this finding comes with chest pain or pressure, severe breathlessness, fainting, or a very slow pulse with dizziness. Call your local emergency number — do not wait.
+
+## Pacemaker for third degree AV block
+
+A pacemaker is the standard treatment. US guidelines from the American College of Cardiology, American Heart Association and Heart Rhythm Society recommend a permanent pacemaker for acquired third degree AV block that is not due to a reversible or physiological cause — **whether or not the person has symptoms**.
+
+### In the emergency department
+
+While the cause is being found, the care team keeps the heart rate safe. Options include:
+
+- **Continuous ECG monitoring** and pads on the chest, ready for pacing
+- **Medicines that speed the heart up.** These often work less well when the escape rhythm is wide, because the block is below the AV node
+- **External (transcutaneous) pacing** through pads on the chest, as a short-term bridge
+- **A temporary pacing wire** passed through a vein into the heart until a permanent device can be fitted
+
+### The permanent pacemaker
+
+A pacemaker is a small device placed under the skin below the collarbone, usually under local anesthetic. One or two thin leads run through a vein to the heart; leadless pacemakers sit inside the heart itself. The device watches every beat and sends a tiny electrical pulse whenever the heart's own rhythm is too slow. After it is fitted, your ECG will show a [paced rhythm](https://www.ecgmeans.com/paced-rhythm/).
+
+Most people go home within a day or so, avoid heavy lifting with the arm on that side for a few weeks, and have regular device checks. Driving rules after a pacemaker vary by country, so ask your team.
+
+## Outlook
+
+Untreated, complete heart block carries a real risk of fainting injuries and sudden death, because the escape rhythm can fail. With a pacemaker the outlook is generally good, and many people find their energy improves quickly. The long-term outlook then depends mainly on any underlying heart disease, such as a previous heart attack or a weak heart muscle.
 
 ## What usually happens next
 
@@ -43,11 +138,15 @@ Complete heart block is treated as a medical emergency. It commonly causes sever
 3. A temporary pacing wire if the heart rate is dangerously slow
 4. A permanent pacemaker in most cases
 
+Alongside this, your team will usually arrange blood tests (potassium, heart enzymes, thyroid function, and sometimes Lyme serology), an [echocardiogram](https://www.ecgmeans.com/ekg-vs-echocardiogram/) to check the heart's structure, and a review of every medicine you take.
+
 ### Questions to ask your doctor
 
 - Is a medicine or a reversible cause responsible?
 - Am I being referred for a pacemaker?
 - What should I do if I feel faint before it is fitted?
+- Is my escape rhythm narrow or wide, and what does that mean for me?
+- What will my activity and driving restrictions be after the pacemaker?
 @@FAQ@@
 Q: Is third degree heart block an emergency?
 A: Yes. The escape rhythm that keeps the heart going is slow and unreliable, so complete heart block usually needs urgent care and a pacemaker.
@@ -55,6 +154,14 @@ Q: What is the difference between second and third degree heart block?
 A: In second degree block some beats still get through; in third degree none do, and the atria and ventricles beat completely independently.
 Q: Can complete heart block be reversed?
 A: Sometimes, if it is caused by a medicine, an electrolyte problem or an infection such as Lyme disease. Most other cases need a permanent pacemaker.
+Q: What heart rate is typical in third degree heart block?
+A: The ventricular rate is usually 40–60 beats per minute with a junctional escape and 20–40 beats per minute with a ventricular escape, while the atria often keep beating at a normal rate.
+Q: Can you live a normal life with complete heart block?
+A: Most people can once a permanent pacemaker is fitted. Activity is usually back to normal within a few weeks, with regular device checks.
+Q: Is third degree heart block the same as cardiac arrest?
+A: No. In complete heart block the heart is still beating, just slowly. It becomes dangerous because the escape rhythm can slow further or stop, which is why monitoring and pacing are arranged quickly.
+Q: Can you have complete heart block without symptoms?
+A: Yes, occasionally, especially with a stable junctional escape or congenital block. Guidelines still recommend a pacemaker for acquired complete heart block without a reversible cause, even without symptoms.
 @@RELATED@@
 Second Degree AV Block Type 2 (Mobitz II): What It Means | https://www.ecgmeans.com/second-degree-av-block-type-2/ | Seek prompt care
 Second Degree AV Block Type 1 (Wenckebach): What It Means | https://www.ecgmeans.com/second-degree-av-block-type-1/ | Depends on context
@@ -63,9 +170,11 @@ Idioventricular Rhythm: What It Means | https://www.ecgmeans.com/idioventricular
 Junctional Rhythm: What It Means | https://www.ecgmeans.com/junctional-rhythm/ | Needs clinician review
 2:1 AV Block: What It Means on an ECG | https://www.ecgmeans.com/2-1-av-block/ | Seek prompt care
 @@ALSO@@
-third degree heart block, complete heart block, 3rd degree av block, complete av block ecg
+third degree heart block, complete heart block, 3rd degree av block, complete av block ecg, complete heart block ecg, 3rd degree heart block ecg, third degree heart block ecg, third degree av block ecg, 3rd degree heart block, complete atrioventricular block, CHB, third degree atrioventricular block
 @@SOURCES@@
 Heart Block | https://my.clevelandclinic.org/health/diseases/17056-heart-block
 AV Block: 3rd Degree (Complete Heart Block) | https://litfl.com/av-block-3rd-degree-complete-heart-block/
 Third-Degree Atrioventricular Block | https://www.ncbi.nlm.nih.gov/books/NBK545199/
+2018 ACC/AHA/HRS Guideline on Bradycardia and Cardiac Conduction Delay: Key Points | https://acc.org/Latest-in-Cardiology/ten-points-to-remember/2018/11/05/15/12/2018-ACC-AHA-HRS-Guideline-on-Bradycardia
+Heart Block | https://www.nhs.uk/conditions/heart-block/
 @@END@@

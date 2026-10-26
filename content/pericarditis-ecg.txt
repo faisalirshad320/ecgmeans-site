@@ -1,25 +1,89 @@
 @@TITLE@@
-Pericarditis on ECG: Widespread ST Elevation Explained
+Pericarditis ECG: 4 Stages, PR Depression & vs STEMI
 @@DESC@@
-Pericarditis causes widespread, concave ST elevation and PR depression on the ECG. Learn how doctors tell it apart from a heart attack and what the stages look like.
+Pericarditis ECG changes: widespread concave ST elevation and PR depression. See the 4 stages, how it differs from STEMI and early repolarization, and what comes next.
 @@H1@@
-Pericarditis on an ECG: What It Shows
+Pericarditis on an ECG: Stages, Signs and How It Differs From a Heart Attack
 @@CATEGORY@@
 ECG Report Phrases | https://www.ecgmeans.com/ecg-report-phrases/
 @@QUICK@@
 Needs clinician review
+@@UPDATED@@
+2026-10-26
+@@ANSWER@@
+A pericarditis ECG classically shows widespread, concave (saucer-shaped) ST elevation across most leads, with PR-segment depression and ST depression with PR elevation in lead aVR. Unlike a heart attack, the changes are not limited to one artery's territory and lack reciprocal ST depression. The pattern evolves through four stages over days to weeks, and is confirmed alongside symptoms, blood tests and an echocardiogram.
 @@LEDE@@
 Pericarditis is inflammation of the sac around the heart. On the ECG it classically produces widespread, saucer-shaped (concave) ST elevation across many leads, together with PR-segment depression. The key task for a clinician is to separate it from a heart attack, which also raises the ST segment but in a different pattern. The ECG is only part of the picture, alongside symptoms and blood tests.
 @@BODY@@
 ## What "pericarditis" means on the ECG
 
-When the lining around the heart is inflamed, the irritation affects the electrical recording from a wide area rather than from one artery's territory. That is why pericarditis causes ST elevation in most leads at once, instead of the grouped, one-territory pattern of a heart attack. PR-segment depression — the short segment just before the QRS dipping down — is a helpful additional sign.
+A pericarditis ECG reflects irritation of the heart's surface rather than a blocked artery. When the lining around the heart is inflamed, the irritation affects the electrical recording from a wide area rather than from one artery's territory. That is why pericarditis causes ST elevation in most leads at once, instead of the grouped, one-territory pattern of a heart attack. PR-segment depression — the short segment just before the QRS dipping down — is a helpful additional sign.
 
 Classic pericarditis evolves through stages over days to weeks: widespread ST elevation and PR depression first, then the ST segments return to normal, then the T waves flatten and invert, then the ECG recovers.
+
+The pericardium is a thin, two-layered sac. The ECG changes come mainly from inflammation of the outer layer of heart muscle just underneath it (the epicardium), which is why doctors sometimes call the condition "myopericarditis" when the muscle is involved too. ECG and EKG are the same test, so "pericarditis EKG" findings are identical.
 
 ## What it looks like on the ECG
 
 Widespread concave ("smiley") ST elevation in most leads, PR-segment depression (and PR elevation in lead aVR), and no reciprocal ST depression of the kind seen in a heart attack. The changes are diffuse rather than confined to one region.
+
+### Pericarditis ECG findings checklist
+
+- **Diffuse ST elevation**, usually concave and modest (often under 5 mm), in many limb and chest leads — commonly I, II, aVL, aVF and V2–V6
+- **PR depression** in the same leads; this is often the earliest and most specific sign
+- **Lead aVR is the mirror:** ST depression and PR elevation there
+- **No reciprocal ST depression** except in aVR and sometimes V1
+- **Sinus tachycardia** is common because of pain and fever
+- **No pathological Q waves** — pericarditis does not cause muscle death
+- **Spodick's sign:** a gentle downward slope of the baseline between the T wave and the next QRS, seen in some patients
+- **Low voltage or electrical alternans** suggest a large fluid collection around the heart (see below)
+
+Not everyone shows the textbook pattern. Many people with confirmed pericarditis have only partial changes, or a normal ECG, so a normal tracing does not rule it out.
+
+## The 4 stages of pericarditis on ECG
+
+The ECG often changes over time, and catching it at a different stage can make it look quite different. Not every patient passes through all four stages.
+
+| Stage | Typical timing | ST segment | PR segment | T wave |
+| --- | --- | --- | --- | --- |
+| **Stage 1** | First hours to days | Widespread concave elevation; depression in aVR | Depressed (elevated in aVR) | Upright |
+| **Stage 2** | Roughly the first week | Returns toward the baseline | May stay depressed | Flattens |
+| **Stage 3** | Second to third week onwards | Back to baseline | Normal | Widespread inversion |
+| **Stage 4** | Weeks to months | Normal | Normal | Returns to normal (inversion can persist in some people) |
+
+Timings are approximate and vary from person to person. Treatment can shorten or blur the stages. Stage 3 T-wave inversion can look similar to other causes of [T wave inversion](https://www.ecgmeans.com/t-wave-inversion/), which is one reason doctors compare with earlier ECGs.
+
+## Pericarditis vs STEMI vs early repolarization
+
+Three things can raise the ST segment in many leads: pericarditis, a heart attack (STEMI) and a harmless normal variant called [early repolarization](https://www.ecgmeans.com/early-repolarization/). Telling them apart is a classic emergency-medicine challenge.
+
+| Feature | Pericarditis | STEMI (heart attack) | Early repolarization |
+| --- | --- | --- | --- |
+| **Distribution of ST elevation** | Widespread, across several territories | Grouped in one coronary artery's territory | Mainly chest leads V2–V5, sometimes inferior |
+| **ST shape** | Concave ("smiley") | Often convex or straight; can be concave early | Concave, often with a notch at the J point |
+| **Reciprocal ST depression** | Only in aVR (and sometimes V1) | Usually present in opposite leads | Absent |
+| **PR depression** | Common | Uncommon | Usually absent |
+| **Q waves** | No | May develop | No |
+| **Change over time** | Evolves over days–weeks | Evolves over hours | Stable over months and years |
+| **Ratio clue in V6** | ST height ÷ T height often above 0.25 | Not used | Often below 0.25 |
+| **Typical person** | Recent viral illness; sharp pain, better leaning forward | Risk factors; pressure-like pain, sweating | Young, fit, often male, no symptoms |
+| **Troponin** | Normal or mildly raised | Raised | Normal |
+
+No single feature is perfect. When there is any doubt, doctors treat the situation as a possible heart attack until proven otherwise, using repeat ECGs, troponin, an echocardiogram and sometimes an angiogram. See [ST elevation](https://www.ecgmeans.com/st-elevation/) and [STEMI vs NSTEMI](https://www.ecgmeans.com/stemi-vs-nstemi/) for more on heart-attack patterns.
+
+## Pericarditis vs myocarditis on the ECG
+
+Pericarditis and myocarditis (inflammation of the heart muscle itself) often occur together, and the two are hard to separate on the ECG alone. Clues that the heart muscle is involved include a clearly raised troponin, new extra beats such as [premature ventricular contractions](https://www.ecgmeans.com/premature-ventricular-contractions/), new conduction problems, or ST changes confined to one region. When both are present, doctors use the term myopericarditis or perimyocarditis, and they may arrange a cardiac MRI. Muscle involvement tends to mean a longer break from strenuous exercise and closer follow-up, so it is worth asking whether your troponin was raised.
+
+## Pericardial effusion and tamponade on the ECG
+
+Inflammation can make fluid collect inside the pericardial sac (a pericardial effusion). A large effusion can give:
+
+- [low voltage QRS](https://www.ecgmeans.com/low-voltage-qrs/) — small complexes in all leads, because fluid dampens the signal
+- [electrical alternans](https://www.ecgmeans.com/electrical-alternans/) — QRS height alternating beat to beat as the heart swings in the fluid
+- a fast heart rate
+
+When the fluid squeezes the heart and stops it filling, this is [cardiac tamponade](https://www.ecgmeans.com/cardiac-tamponade-ecg/), a medical emergency. The ECG cannot measure the fluid; an echocardiogram is the test that does.
 
 ## Common causes
 
@@ -29,11 +93,23 @@ Widespread concave ("smiley") ST elevation in most leads, PR-segment depression 
 - Kidney failure (uraemia)
 - Some medicines, and occasionally cancer or tuberculosis
 
+In many people no specific cause is found, and the condition is labelled "idiopathic", which usually means a presumed viral cause. Bacterial infection, chest radiation and chest injury are less common causes.
+
+## Symptoms that go with pericarditis ECG changes
+
+- Sharp, stabbing chest pain, often worse when breathing in, coughing or lying flat
+- Relief when sitting up and leaning forward
+- Pain that may spread to the shoulder ridge
+- Fever and feeling generally unwell, often after a cold or flu-like illness
+- A scratchy sound heard through a stethoscope (a pericardial friction rub)
+
+Doctors usually diagnose pericarditis when at least two of four features are present: typical chest pain, a friction rub, typical ECG changes, and new or worsening fluid around the heart.
+
 ## Should you worry?
 
 Pericarditis is usually treatable and often settles with anti-inflammatory medicines, but chest pain always needs assessment, because the ECG changes can resemble a heart attack and because a large build-up of fluid around the heart (pericardial effusion or tamponade) can be dangerous. Pericarditis pain is classically sharp, worse lying flat and better sitting forward.
 
-**Get urgent help** if this finding comes with chest pain or pressure, severe breathlessness, fainting, or a fast heartbeat that will not settle. Those symptoms matter more than any single ECG phrase.
+**Get urgent help** if this finding comes with chest pain or pressure, severe breathlessness, fainting, or a fast heartbeat that will not settle. Those symptoms matter more than any single ECG phrase. Call 911 (US), 999 (UK) or 112 (EU) if chest pain is severe or comes with dizziness or collapse.
 
 ## What usually happens next
 
@@ -42,11 +118,15 @@ Pericarditis is usually treatable and often settles with anti-inflammatory medic
 3. Treatment of the cause, usually with anti-inflammatory medicines and colchicine
 4. Monitoring for a pericardial effusion
 
+Most people with uncomplicated pericarditis are treated as outpatients. Doctors commonly advise avoiding strenuous exercise until symptoms and tests have settled; athletes are usually given a longer, specific timeline. About one in five to one in three people have a recurrence, which is one reason colchicine is often added. Your doctor will tell you which medicines and doses suit you.
+
 ### Questions to ask your doctor
 
 - Are you sure this is pericarditis and not a heart attack?
 - Is there any fluid around my heart on the echo?
 - What is causing the inflammation, and how is it treated?
+- When can I return to exercise?
+- What symptoms should make me come back urgently?
 @@FAQ@@
 Q: How do doctors tell pericarditis from a heart attack on an ECG?
 A: Pericarditis causes widespread concave ST elevation with PR depression and no reciprocal changes; a heart attack causes ST elevation in one artery's leads, often with reciprocal depression elsewhere. Symptoms and troponin help confirm.
@@ -54,16 +134,27 @@ Q: Is pericarditis serious?
 A: It is usually treatable, but it needs assessment because it mimics a heart attack and can be complicated by fluid around the heart.
 Q: What does PR depression mean?
 A: A downward shift of the short segment before the QRS; it is a supportive sign of pericarditis.
+Q: Can you have pericarditis with a normal ECG?
+A: Yes. Many people with pericarditis do not show the classic pattern, so diagnosis also relies on symptoms, examination, blood tests and an echocardiogram.
+Q: How long do ECG changes last in pericarditis?
+A: They typically evolve over days to weeks, through four stages. T-wave inversion can sometimes persist for weeks or longer after the illness settles.
+Q: What is Spodick's sign?
+A: A subtle downward slope of the baseline between the T wave and the next QRS complex. It is seen in some people with pericarditis and supports the diagnosis.
+Q: What does lead aVR show in pericarditis?
+A: Usually the mirror image of the other leads: PR-segment elevation and ST depression.
 @@RELATED@@
 ST Elevation: What It Means on an ECG | https://www.ecgmeans.com/st-elevation/ | Seek prompt care
 Early Repolarization on an ECG: What It Means | https://www.ecgmeans.com/early-repolarization/ | Usually harmless
 T Wave Inversion: What It Means on an ECG | https://www.ecgmeans.com/t-wave-inversion/ | Depends on context
 Abnormal ECG: What It Means on Your Report | https://www.ecgmeans.com/abnormal-ecg/ | Depends on context
 Low Voltage QRS: What It Means | https://www.ecgmeans.com/low-voltage-qrs/ | Needs clinician review
+Electrical Alternans: What It Means | https://www.ecgmeans.com/electrical-alternans/ | Needs clinician review
 @@ALSO@@
-pericarditis ecg, pericarditis ekg, pericarditis st elevation, pr depression pericarditis
+pericarditis ecg, pericarditis ekg, pericarditis st elevation, pr depression pericarditis, pericarditis ecg changes, pericarditis ecg stages, acute pericarditis ecg, pericarditis vs stemi, pericarditis vs early repolarization, diffuse st elevation, spodick sign, pericarditis ecg findings, myopericarditis ecg
 @@SOURCES@@
 Pericarditis | https://my.clevelandclinic.org/health/diseases/17353-pericarditis
 Pericarditis | https://litfl.com/pericarditis-ecg-library/
 Acute Pericarditis | https://www.ncbi.nlm.nih.gov/books/NBK431080/
+Benign Early Repolarisation | https://litfl.com/benign-early-repolarisation-ecg-library/
+2015 ESC Guidelines for the diagnosis and management of pericardial diseases | https://pubmed.ncbi.nlm.nih.gov/26320112/
 @@END@@

@@ -1,25 +1,80 @@
 @@TITLE@@
-Junctional Rhythm on ECG: Meaning, Rates & Causes
+Junctional Rhythm ECG: Types, Rates, Causes & Is It Serious?
 @@DESC@@
-In a junctional rhythm the AV junction takes over as pacemaker at 40–60 bpm. Learn how it is recognised, why it happens, and when it needs treatment.
+Junctional rhythm on an ECG: the AV junction paces the heart at 40–60 bpm. Learn the ECG criteria, escape vs accelerated vs tachycardia, causes and treatment.
 @@H1@@
-Junctional Rhythm: What It Means
+Junctional Rhythm on an ECG: What It Means, Types and Rates
 @@CATEGORY@@
 Heart Rhythms | https://www.ecgmeans.com/heart-rhythms/
 @@QUICK@@
 NONE
+@@UPDATED@@
+2026-10-26
+@@ANSWER@@
+A junctional rhythm on an ECG means the heartbeat is being started by the AV junction instead of the sinus node. It shows regular, narrow QRS complexes with absent or upside-down P waves. At 40–60 bpm it is a protective junctional escape rhythm; 60–100 bpm is accelerated junctional rhythm and above 100 bpm is junctional tachycardia. It is often harmless during sleep, but needs explaining if sustained.
 @@LEDE@@
 A junctional rhythm means the heartbeat is being started by the AV junction — the relay point between the upper and lower chambers — instead of the usual sinus node. It typically runs at 40–60 beats per minute with a normal narrow QRS but no normal P wave in front. It is a back-up rhythm that appears when the sinus node slows or is blocked.
 @@BODY@@
 ## What "Junctional rhythm" means
 
-The heart has a hierarchy of pacemakers. The sinus node leads at 60–100; if it fails or slows enough, the AV junction takes over at its own built-in rate of 40–60. This is called a junctional escape rhythm and is protective. The names change with the rate: below 40 is junctional bradycardia, 60–100 is accelerated junctional rhythm, above 100 is junctional tachycardia.
+A junctional rhythm ECG shows the heart being paced from the middle of its wiring rather than from the top. The heart has a hierarchy of pacemakers. The sinus node leads at 60–100; if it fails or slows enough, the AV junction takes over at its own built-in rate of 40–60. This is called a junctional escape rhythm and is protective. The names change with the rate: below 40 is junctional bradycardia, 60–100 is accelerated junctional rhythm, above 100 is junctional tachycardia.
 
 Because the impulse starts in the middle of the heart, it reaches the atria backwards. The P wave is therefore hidden in the QRS, or appears upside-down just before or after it.
+
+The "AV junction" is the area made up of the AV node and the bundle of His, the short cable that carries signals from the atria (upper chambers) into the ventricles (lower chambers). Cells here can fire on their own, which is what makes them a useful spare pacemaker. If both the sinus node and the junction fail, the ventricles can still produce a much slower, wide-complex [idioventricular rhythm](https://www.ecgmeans.com/idioventricular-rhythm/) at about 20–40 bpm — which is why the junction is such a valuable second line of defence.
+
+ECG and EKG are the same test; EKG is simply the older, German-derived spelling that is still common in the United States.
 
 ## What it looks like on the ECG
 
 Regular narrow QRS complexes at 40–60 per minute with absent P waves, or inverted P waves in lead II immediately before or after the QRS.
+
+### Junctional rhythm ECG criteria, step by step
+
+If you are learning to read a rhythm strip, these are the features that point to a junctional origin:
+
+1. **Rhythm:** regular, with an even R-to-R spacing.
+2. **QRS width:** narrow, usually under 120 ms (three small boxes), because the ventricles are still activated through the normal wiring. A wide QRS is possible if there is also a [bundle branch block](https://www.ecgmeans.com/heart-block-conduction/).
+3. **P waves:** one of three patterns —
+   - no visible P wave (hidden inside the QRS),
+   - an inverted P wave just **before** the QRS with a **short PR interval** (usually under 120 ms), or
+   - an inverted P wave just **after** the QRS, sitting in the ST segment.
+4. **P wave direction:** inverted in the inferior leads (II, III, aVF) and upright in aVR — the reverse of normal, because the atria are activated from the bottom up.
+5. **Rate:** used to name the rhythm (see the table below).
+
+A sinus rhythm, by contrast, has an upright P wave before every QRS in lead II with a normal PR interval of 120–200 ms. If you see upside-down P waves with a short PR, compare it with an [inverted P wave](https://www.ecgmeans.com/inverted-p-wave/) or an [ectopic atrial rhythm](https://www.ecgmeans.com/ectopic-atrial-rhythm/), which can look similar.
+
+## Types of junctional rhythm by heart rate
+
+The same junctional pacemaker produces different named rhythms depending on how fast it fires. The rate is the main thing that separates them.
+
+| Type | Rate | What it usually means | Typical significance |
+| --- | --- | --- | --- |
+| [Junctional bradycardia](https://www.ecgmeans.com/junctional-bradycardia/) | Below 40 bpm | Junction firing slower than its normal escape rate | Can cause tiredness or dizziness; needs review |
+| [Junctional escape rhythm](https://www.ecgmeans.com/junctional-escape-rhythm/) | 40–60 bpm | A protective back-up because the sinus node has slowed or is blocked | Often harmless (sleep, athletes); otherwise find the cause |
+| [Accelerated junctional rhythm](https://www.ecgmeans.com/accelerated-junctional-rhythm/) | 60–100 bpm | The junction is "irritable" and firing faster than its natural rate, overtaking the sinus node | Points to a trigger such as digoxin, recent heart surgery, inflammation or ischemia |
+| [Junctional tachycardia](https://www.ecgmeans.com/junctional-tachycardia/) | Above 100 bpm | The junction is firing abnormally fast | Needs clinician review; more common after heart surgery in children and with digoxin toxicity |
+
+A single early beat from the junction, rather than a sustained rhythm, is called a [premature junctional contraction](https://www.ecgmeans.com/premature-junctional-contraction/) and is usually harmless.
+
+### Accelerated junctional rhythm on an ECG
+
+An accelerated junctional rhythm ECG looks like a junctional escape rhythm — narrow QRS complexes with hidden or inverted P waves — but the rate is 60–100 bpm. Because that is a "normal" heart rate, it is easy to miss; the clue is the absent or inverted P wave. The difference matters because an escape rhythm is a sensible back-up, whereas an accelerated rhythm suggests the junction itself has been stirred up. Classic triggers are digoxin toxicity, the first days after heart surgery, myocarditis, low potassium and an inferior heart attack.
+
+### Junctional rhythm vs sinus rhythm vs atrial fibrillation
+
+| Feature | Sinus rhythm | Junctional rhythm | Atrial fibrillation |
+| --- | --- | --- | --- |
+| P waves | Upright in lead II before every QRS | Absent, or inverted just before/after the QRS | None; a wavy, irregular baseline |
+| PR interval | 120–200 ms | Short (under 120 ms) if a P wave is visible before the QRS | Not measurable |
+| Rhythm | Regular | Regular | Irregularly irregular |
+| QRS | Narrow | Narrow | Narrow |
+
+If the rhythm is irregular with no P waves, it is more likely to be [atrial fibrillation](https://www.ecgmeans.com/atrial-fibrillation/) than a junctional rhythm.
+
+### Junctional rhythm vs complete heart block
+
+In [third degree (complete) heart block](https://www.ecgmeans.com/third-degree-av-block/), no signals pass from the atria to the ventricles, and a junctional escape rhythm often keeps the ventricles beating. The difference on the strip is that in complete heart block the P waves are still there, upright and marching at their own faster rate, completely unrelated to the QRS complexes. In a simple junctional rhythm, the P waves are missing or inverted and tied to each QRS. This distinction matters, because complete heart block usually needs a pacemaker, while many junctional rhythms do not. When the atria and ventricles beat independently at similar rates without a full block, the report may say [AV dissociation](https://www.ecgmeans.com/av-dissociation/) instead.
 
 ## Common causes
 
@@ -31,11 +86,32 @@ Regular narrow QRS complexes at 40–60 per minute with absent P waves, or inver
 - Myocarditis, Lyme disease
 - High potassium
 
+Other contributors include other heart-rate-slowing medicines such as some antiarrhythmics, an underactive thyroid, low oxygen levels (for example in sleep apnea), and an increase in vagal tone from vomiting or straining. In [sick sinus syndrome](https://www.ecgmeans.com/sick-sinus-syndrome/), junctional rhythm often alternates with [sinus bradycardia](https://www.ecgmeans.com/sinus-bradycardia/) and pauses.
+
+## Symptoms of a junctional rhythm
+
+Many people feel nothing at all, especially when the rhythm appears briefly at night. When symptoms do occur, they come from the slower rate or from the loss of the atria's contribution to filling the ventricles:
+
+- tiredness or reduced exercise tolerance
+- light-headedness or dizziness
+- breathlessness on exertion
+- a "pounding" sensation in the neck — this can happen when the atria contract against closed valves because they are activated at the same moment as the ventricles
+- fainting or near-fainting (less common, and always worth reporting)
+
 ## Should you worry?
 
 Brief junctional rhythm in a fit young person asleep is normal. A sustained junctional rhythm in someone who is awake deserves an explanation, especially with dizziness, fatigue or fainting, because it implies the sinus node is not doing its job.
 
 **Get urgent help** if this finding comes with chest pain or pressure, severe breathlessness, fainting, or a fast heartbeat that will not settle. Those symptoms matter more than any single ECG phrase.
+
+## How junctional rhythm is treated
+
+The rhythm itself is rarely the target. The focus is on why the junction has taken over:
+
+- **Reversible causes first.** Your doctor may adjust heart-rate-slowing medicines, check for digoxin toxicity, and correct potassium or thyroid problems.
+- **Observation.** Junctional rhythm that appears only during sleep or in athletes usually needs no treatment.
+- **Urgent care for unstable patients.** If the heart rate is slow and the person is faint, confused or has low blood pressure, hospital teams follow standard bradycardia protocols, which may include medicines or temporary pacing.
+- **Pacemaker.** A permanent pacemaker is considered when the rhythm is persistent, causes symptoms and has no reversible cause — most often as part of sick sinus syndrome.
 
 ## What usually happens next
 
@@ -44,11 +120,15 @@ Brief junctional rhythm in a fit young person asleep is normal. A sustained junc
 3. Holter monitoring to see how often it occurs
 4. Treating the cause; a pacemaker only for persistent, symptomatic cases
 
+Some people will also have an echocardiogram to check the heart's structure, and a repeat ECG once any medicine changes have taken effect. If you have a printed report, our guide on [how to read an ECG report](https://www.ecgmeans.com/how-to-read-ecg-report/) explains the other lines you may see.
+
 ### Questions to ask your doctor
 
 - Why has my sinus node been overtaken?
 - Could my medicines be responsible?
 - Do I need a heart monitor?
+- Is this an escape rhythm, or is it accelerated?
+- What symptoms should make me seek help before my next appointment?
 @@FAQ@@
 Q: Is junctional rhythm life-threatening?
 A: Usually not. It is a safety mechanism, though the reason it appeared may need attention.
@@ -56,6 +136,12 @@ Q: Can junctional rhythm be normal?
 A: Yes, in athletes and during sleep.
 Q: How is it treated?
 A: By dealing with the cause. The rhythm itself is rarely the target of treatment.
+Q: What is the rate of a junctional rhythm?
+A: The AV junction's built-in rate is 40–60 bpm (junctional escape rhythm). Below 40 it is called junctional bradycardia, 60–100 accelerated junctional rhythm, and above 100 junctional tachycardia.
+Q: Why are P waves inverted or missing in junctional rhythm?
+A: The impulse starts in the middle of the heart and travels backwards up into the atria, so the P wave points the opposite way in lead II or is hidden inside the QRS.
+Q: Is junctional rhythm the same as heart block?
+A: No. Junctional rhythm describes where the heartbeat starts. It can, however, appear as an escape rhythm in complete heart block, when the junction takes over below the blocked AV node.
 @@RELATED@@
 Accelerated Junctional Rhythm: What It Means | https://www.ecgmeans.com/accelerated-junctional-rhythm/ | Needs clinician review
 Idioventricular Rhythm: What It Means | https://www.ecgmeans.com/idioventricular-rhythm/ | Seek prompt care
@@ -64,10 +150,12 @@ Short PR Interval: What It Means | https://www.ecgmeans.com/short-pr-interval/ |
 Sinus Rhythm With 1st Degree AV Block: What It Means | https://www.ecgmeans.com/first-degree-av-block/ | Usually harmless
 Sinus Pause and Sinus Arrest: What They Mean | https://www.ecgmeans.com/sinus-pause-arrest/ | Depends on context
 Junctional Tachycardia: What It Means | https://www.ecgmeans.com/junctional-tachycardia/ | Needs clinician review
+Junctional Escape Rhythm on ECG: What It Means | https://www.ecgmeans.com/junctional-escape-rhythm/ | Depends on context
 @@ALSO@@
-junctional rhythm ecg, junctional escape rhythm, junctional bradycardia
+junctional rhythm ecg, junctional escape rhythm, junctional bradycardia, junctional rhythm ekg, junctional rhythm strip, accelerated junctional rhythm ecg, accelerated junctional rhythm, junctional tachycardia, nodal rhythm, av junctional rhythm, junctional rhythm rate, junctional rhythm criteria, inverted p wave junctional rhythm
 @@SOURCES@@
 Junctional Rhythm | https://my.clevelandclinic.org/health/diseases/23206-junctional-rhythm
 Junctional Rhythm | https://www.ncbi.nlm.nih.gov/books/NBK507715/
 Junctional Escape Rhythm | https://litfl.com/junctional-escape-rhythm-ecg-library/
+Accelerated Junctional Rhythm (AJR) | https://litfl.com/accelerated-junctional-rhythm-ajr/
 @@END@@

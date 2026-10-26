@@ -1,0 +1,159 @@
+@@TITLE@@
+Cardiac Tamponade ECG: Low Voltage, Alternans & Tachycardia
+@@DESC@@
+Cardiac tamponade on an ECG shows sinus tachycardia, low voltage QRS and electrical alternans. What the triad means, Beck's triad, and why it is an emergency.
+@@H1@@
+Cardiac Tamponade on an ECG: The Signs and Why It Is an Emergency
+@@CATEGORY@@
+ECG Report Phrases | https://www.ecgmeans.com/ecg-report-phrases/
+@@QUICK@@
+Seek prompt care
+@@UPDATED@@
+2026-10-26
+@@ANSWER@@
+Cardiac tamponade on an ECG classically shows three signs: sinus tachycardia (a fast heart rate), low voltage QRS complexes (small beats on every lead), and electrical alternans (beats that alternate in height). These suggest a large fluid collection squeezing the heart. The ECG can only raise suspicion; an echocardiogram confirms tamponade, and treatment, usually draining the fluid, is an emergency.
+@@LEDE@@
+The heart sits inside a thin, two-layered sac called the pericardium. Normally there is only a small amount of lubricating fluid between the layers. When fluid, blood or pus builds up faster than the sac can stretch, the pressure squeezes the heart so it cannot fill properly, and blood pressure falls. That is cardiac tamponade. The ECG cannot see fluid directly, but it can show patterns that make a doctor think of it straight away. If a report mentions "low voltage with electrical alternans," or "consider pericardial effusion," this page explains why it matters and what happens next.
+@@BODY@@
+## What is cardiac tamponade?
+
+Cardiac tamponade (also called pericardial tamponade) is pressure on the heart caused by fluid trapped in the pericardial sac. The fluid itself is called a pericardial effusion. An effusion becomes *tamponade* when the pressure is high enough to stop the heart chambers filling between beats. Less filling means less blood pumped out with each beat, so the heart speeds up to compensate, and eventually blood pressure drops.
+
+How much fluid it takes depends mostly on **speed**:
+
+- **Fast accumulation** — for example bleeding after chest trauma, a heart procedure or a ruptured heart wall after a heart attack — can cause tamponade with as little as 100–200 mL, because the sac has no time to stretch.
+- **Slow accumulation** — for example from cancer, kidney failure or an underactive thyroid — can reach a liter or more before pressure rises, because the sac stretches gradually.
+
+Untreated, tamponade can progress to shock and cardiac arrest. Treated quickly, most people recover well, depending on the underlying cause.
+
+## Cardiac tamponade ECG findings
+
+The classic cardiac tamponade ECG shows a triad. None of the three is specific on its own, but together in an unwell patient they point strongly toward a large effusion with tamponade.
+
+| ECG sign | What it looks like | Why it happens | How reliable |
+| --- | --- | --- | --- |
+| **Sinus tachycardia** | Normal rhythm, rate above 100 bpm | The heart speeds up because each beat pumps less blood | The most common finding, but very nonspecific. See [sinus tachycardia](https://www.ecgmeans.com/sinus-tachycardia/) |
+| **Low voltage QRS** | Small QRS complexes: under 5 mm in all limb leads and/or under 10 mm in all chest leads | Fluid around the heart dampens the electrical signal reaching the skin. See [low voltage QRS](https://www.ecgmeans.com/low-voltage-qrs/) | Common with large effusions, but also seen with obesity, emphysema and other conditions |
+| **Electrical alternans** | QRS height (and sometimes axis) alternates beat to beat: tall, short, tall, short | The heart swings back and forth inside a large fluid-filled sac. See [electrical alternans](https://www.ecgmeans.com/electrical-alternans/) | The most specific of the three, but present in only a minority of patients |
+
+### Electrical alternans: the most telling sign
+
+Electrical alternans is the finding most closely associated with tamponade. With each beat, the heart rocks toward and then away from the chest electrodes, so one QRS looks tall and the next looks short. It is usually easiest to see in the chest leads, especially V2–V4. When alternans involves the P wave and T wave as well as the QRS ("total alternans"), it is even more suggestive of a large effusion.
+
+Electrical alternans is not unique to tamponade — it can occur with some fast heart rhythms such as [supraventricular tachycardia](https://www.ecgmeans.com/supraventricular-tachycardia/) and with severe heart muscle disease — but in a patient with low voltage, a fast rate and low blood pressure, it is a red flag.
+
+### Other ECG clues
+
+- **PR depression and widespread ST elevation** may be present if the effusion is caused by [pericarditis](https://www.ecgmeans.com/pericarditis-ecg/), or inflammation of the sac.
+- **A drop in voltage compared with a previous ECG** can be more useful than any single measurement. Someone whose QRS complexes have shrunk over weeks may have a growing effusion.
+- **Pulseless electrical activity (PEA).** In late tamponade the ECG may still show organized beats while no pulse can be felt, because the heart cannot fill. See [pulseless electrical activity](https://www.ecgmeans.com/pulseless-electrical-activity/).
+
+### Can the ECG be normal in tamponade?
+
+Yes. The ECG is neither sensitive nor specific for tamponade. Many patients with tamponade do not show the full triad, and a fast rate with small complexes has many other explanations. That is why the ECG is a prompt to look further, never the final answer.
+
+## Beck's triad and other bedside signs
+
+Doctors combine the ECG with physical signs. The classic description, **Beck's triad**, is:
+
+1. **Low blood pressure** (hypotension)
+2. **Swollen neck veins** (raised jugular venous pressure), because blood backs up into the veins
+3. **Muffled or distant heart sounds**, because fluid dampens them
+
+All three together are seen in only a minority of cases, especially when fluid builds slowly, but each is a useful clue.
+
+Another important sign is **pulsus paradoxus**: an exaggerated drop in systolic blood pressure (more than 10 mmHg) when breathing in. It happens because the heart's chambers are competing for very limited space inside the tight sac.
+
+## Symptoms of cardiac tamponade
+
+- Shortness of breath, especially lying flat, and fast breathing
+- Chest discomfort or pressure, sometimes eased by sitting forward
+- Lightheadedness, fainting or near-fainting
+- A racing heartbeat
+- Restlessness, anxiety, confusion or drowsiness
+- Cold, pale or clammy skin
+- Swelling of the legs or abdomen (with slower-developing effusions)
+
+**Get urgent help** if you have severe breathlessness, chest pain, fainting, confusion, or cold clammy skin, especially after recent chest injury, heart surgery, a cardiac procedure, or if you have known pericardial fluid or cancer. Call 911 (US), 999 (UK) or 112 (EU). Cardiac tamponade is a medical emergency.
+
+## What causes cardiac tamponade?
+
+| Cause | Typical speed | Notes |
+| --- | --- | --- |
+| **Chest trauma** (stab wound, car accident) | Fast | Blood in the sac; a leading cause in younger people |
+| **After heart surgery, pacemaker or ablation procedures** | Fast or within days | Bleeding into the sac is a known complication |
+| **Heart attack complications** | Fast | Rare rupture of the heart wall |
+| **Aortic dissection** | Fast | A tear in the aorta bleeding back into the pericardium |
+| **Cancer** (lung, breast, lymphoma and others) | Slow | One of the commonest causes of large effusions |
+| **Pericarditis** (viral, idiopathic, tuberculosis, bacterial) | Slow or moderate | Tuberculosis is an important cause in many parts of the world |
+| **Kidney failure** (uremia) | Slow | Waste products irritate the pericardium |
+| **Autoimmune disease** (lupus, rheumatoid arthritis) | Slow | Inflammatory effusion |
+| **Severe underactive thyroid** | Slow | Large effusions with few symptoms |
+| **Some medicines and radiation therapy** | Slow | Less common causes |
+
+## How cardiac tamponade is diagnosed
+
+1. **Echocardiogram (heart ultrasound).** This is the key test. It shows the fluid directly and whether it is compressing the heart — for example, the right atrium or right ventricle collapsing as it tries to fill, and a swollen inferior vena cava that does not narrow with breathing. In emergencies a bedside ultrasound gives an answer in minutes. See [EKG vs echocardiogram](https://www.ecgmeans.com/ekg-vs-echocardiogram/).
+2. **ECG.** Supports suspicion with the triad above and helps rule out other causes such as a heart attack.
+3. **Chest X-ray.** A large effusion can make the heart shadow look enlarged and rounded ("water-bottle" shape), but the X-ray can be normal when fluid builds quickly.
+4. **CT or MRI.** Useful in stable patients to look at the fluid, the sac and possible causes such as cancer.
+5. **Blood tests and fluid analysis.** Kidney function, thyroid function, infection and inflammation markers, and analysis of fluid removed, to find the cause.
+
+## Treatment: draining the fluid
+
+Tamponade is treated by removing the fluid to relieve the pressure:
+
+- **Pericardiocentesis.** A needle is passed under the breastbone or between the ribs into the pericardial sac, usually guided by ultrasound, and the fluid is drained. A thin tube may be left in place for a day or two.
+- **Surgical drainage.** Used for clotted blood, after trauma or heart surgery, or when fluid keeps returning. A surgeon may create a small opening in the sac (a pericardial window) so fluid can drain away permanently.
+- **Support while waiting.** Intravenous fluids may help maintain filling pressure briefly. Breathing support with a ventilator can make tamponade worse, so teams take care with this.
+- **Treating the cause.** For example, anti-inflammatory treatment for pericarditis, tuberculosis therapy, cancer treatment or dialysis.
+
+After drainage, blood pressure and heart rate often improve almost immediately, and the ECG voltage and alternans may normalize as the fluid is removed.
+
+## What usually happens next
+
+If your ECG report raised the possibility of a pericardial effusion or tamponade:
+
+1. **Urgent clinical assessment** — blood pressure, heart rate, neck veins, breathing and heart sounds.
+2. **An echocardiogram** the same day, often immediately, to confirm or exclude fluid.
+3. **If there is tamponade**, drainage in hospital, followed by tests on the fluid to find the cause.
+4. **If there is an effusion without tamponade**, close monitoring with repeat echocardiograms and treatment of the cause.
+5. **Follow-up** with repeat ultrasound to check that fluid does not return.
+
+### Questions to ask your doctor
+
+- Does my echocardiogram show fluid around my heart, and how much?
+- Is the fluid affecting how my heart fills?
+- What do you think caused it, and what tests will find out?
+- Will I need the fluid drained, and what are the risks of the procedure?
+- What symptoms mean I should come back immediately?
+@@FAQ@@
+Q: What are the ECG signs of cardiac tamponade?
+A: The classic triad is sinus tachycardia, low voltage QRS complexes and electrical alternans. These raise suspicion, but an echocardiogram is needed to confirm tamponade.
+Q: Can an ECG diagnose cardiac tamponade?
+A: No. The ECG can suggest a large pericardial effusion, but it can be normal or nonspecific in tamponade. Diagnosis is made with an echocardiogram together with the clinical picture.
+Q: What is the difference between pericardial effusion and cardiac tamponade?
+A: A pericardial effusion is fluid around the heart. Tamponade is when that fluid is under enough pressure to stop the heart filling properly, which lowers blood pressure and is an emergency.
+Q: Why does cardiac tamponade cause low voltage on an ECG?
+A: Fluid around the heart acts like insulation, weakening the electrical signal reaching the skin electrodes, so the QRS complexes look small in every lead.
+Q: Is electrical alternans always tamponade?
+A: No. It is most strongly linked to a large effusion, but it can also occur with some fast rhythms and severe heart muscle disease. In an unwell patient with low voltage, tamponade is checked first.
+Q: Is cardiac tamponade survivable?
+A: Yes, when it is recognized and drained promptly. Long-term outlook depends mainly on the underlying cause, such as infection, cancer or trauma.
+Q: What is pulsus paradoxus?
+A: An abnormal fall in systolic blood pressure of more than 10 mmHg when breathing in. It is a classic bedside sign of tamponade.
+@@RELATED@@
+Low Voltage QRS on ECG: Meaning, Causes & Next Steps | https://www.ecgmeans.com/low-voltage-qrs/ | NONE
+Electrical Alternans on ECG: Causes and Meaning | https://www.ecgmeans.com/electrical-alternans/ | Needs clinician review
+Pericarditis on ECG: Widespread ST Elevation Explained | https://www.ecgmeans.com/pericarditis-ecg/ | Needs clinician review
+Sinus Tachycardia on ECG: Meaning & Causes | https://www.ecgmeans.com/sinus-tachycardia/ | Depends on context
+Pulmonary Embolism on an ECG: What It Shows | https://www.ecgmeans.com/pulmonary-embolism-ecg/ | Seek prompt care
+EKG vs Echocardiogram | https://www.ecgmeans.com/ekg-vs-echocardiogram/ | NONE
+@@ALSO@@
+cardiac tamponade ecg, cardiac tamponade ekg, pericardial tamponade ecg, tamponade ecg findings, pericardial effusion ecg, electrical alternans tamponade, low voltage ecg tamponade, beck's triad, ecg triad tamponade, pulsus paradoxus, pericardiocentesis, massive pericardial effusion ecg
+@@SOURCES@@
+Cardiac Tamponade (StatPearls) | https://www.ncbi.nlm.nih.gov/books/NBK431090/
+ECG Findings in Massive Pericardial Effusion | https://litfl.com/ecg-findings-in-massive-pericardial-effusion/
+Low QRS Voltage | https://litfl.com/low-qrs-voltage-ecg-library/
+Cardiac Tamponade: Symptoms & Causes | https://my.clevelandclinic.org/health/diseases/21906-cardiac-tamponade
+@@END@@

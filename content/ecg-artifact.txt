@@ -1,0 +1,155 @@
+@@TITLE@@
+Artifact on ECG: What It Means & Why Reports Mention It
+@@DESC@@
+Artifact on an ECG is electrical "noise" from movement, tremor or equipment, not the heart. Learn the types, how it can mimic VT or AFib, and what to do next.
+@@H1@@
+Artifact on an ECG: What It Means When Your Report Mentions It
+@@CATEGORY@@
+ECG Report Phrases | https://www.ecgmeans.com/ecg-report-phrases/
+@@QUICK@@
+Usually harmless
+@@UPDATED@@
+2026-10-26
+@@ANSWER@@
+Artifact on an ECG is any squiggle, spike or wobble on the tracing that does not come from the heart's own electrical activity. It is usually caused by muscle tremor, shivering, movement, a loose electrode, nearby electrical equipment or swapped leads. Artifact is not a heart problem, but it can hide or imitate real rhythms, so a clean repeat ECG is often recommended.
+@@LEDE@@
+An ECG records tiny electrical signals, measured in thousandths of a volt, through stickers on your skin. Anything else that produces electricity or disturbs those stickers can show up on the paper too. When the report says "artifact present," "baseline artifact," "somatic tremor" or "technically limited study," it is telling you the recording quality was not perfect. That matters for two reasons: noise can look alarmingly like a dangerous rhythm, and it can hide small real findings. This page explains each type of artifact, how doctors tell it apart from true arrhythmias, and what usually happens next.
+@@BODY@@
+## What is artifact on an ECG?
+
+Artifact on an ECG (also spelled "artefact," and the same thing on an EKG, since ECG and EKG are two names for the same test) means electrical signals on the tracing that did not come from the heart. The ECG machine cannot tell where a voltage came from. It simply draws whatever reaches the electrodes. Skeletal muscle, breathing, a cable rubbing on clothing, or a mains-powered device in the room all produce electrical activity that can be recorded alongside the heartbeat.
+
+The heart's own signal is still there underneath. Artifact sits on top of it, like static over a radio station. Sometimes the station is still easy to hear; sometimes the static drowns it out.
+
+Common wording you might see on a report:
+
+- "Artifact present" or "baseline artifact"
+- "Somatic tremor artifact" or "muscle artifact"
+- "60 Hz interference" (in the US) or "50 Hz interference" (UK, Europe, much of Asia)
+- "Wandering baseline" or "baseline drift"
+- "Technically limited study," "suboptimal tracing" or "poor quality ECG"
+- "Possible lead reversal" or "consider lead misplacement"
+
+None of these describe a disease. They describe the recording.
+
+## Types of ECG artifact
+
+| Type | What causes it | What it looks like on the tracing | How it is fixed |
+| --- | --- | --- | --- |
+| **Somatic (muscle) tremor** | Tremor from Parkinson's disease or essential tremor, anxiety, cold, tensing muscles | Fine or coarse irregular jitter of the baseline; Parkinson's tremor can be rhythmic at about 4–6 per second | Relax, rest limbs on the bed, move electrodes from the limbs to the upper arms and thighs or torso |
+| **Shivering** | Cold room, fever with rigors, low body temperature | Coarse, irregular, high-frequency noise in many leads | Warm the patient, then repeat |
+| **50/60 Hz AC interference** | Mains electricity from nearby equipment, poor grounding, damaged cables | Thick, very regular fuzzy line made of tiny evenly spaced spikes (50 or 60 per second) | Unplug nearby devices, check cables, use the machine's filter |
+| **Wandering baseline** | Breathing, body movement, sweat or lotion under electrodes | The whole line slowly drifts up and down. See [wandering baseline on an ECG](https://www.ecgmeans.com/wandering-baseline-ecg/) | Clean and dry skin, fresh electrodes, steady breathing |
+| **Loose or dried electrode** | Electrode gel dried out, hair, poor skin contact, cable tugging | Sudden flat line, big jumps, or noise confined to one or two leads | Replace the electrode, prepare the skin |
+| **Lead reversal** | Two cables connected to the wrong limbs or chest positions | Not noise, but a misleading pattern: for example lead I upside down with an unexpected axis | Reconnect correctly and repeat; see [12-lead ECG placement](https://www.ecgmeans.com/12-lead-ecg-placement/) |
+| **Pacemaker spikes** | A real pacemaker, or the machine mistaking noise for pacing | Sharp narrow vertical lines just before P waves or QRS complexes | Not an error if you have a pacemaker; see [paced rhythm](https://www.ecgmeans.com/paced-rhythm/) |
+| **Movement and devices** | Talking, coughing, scratching, brushing teeth, CPR, infusion pumps | Bursts of large irregular deflections | Hold still and repeat |
+
+### Somatic tremor artifact
+
+"Somatic tremor ECG" is one of the most searched forms of this phrase. *Somatic* simply means "of the body" — in this case, the skeletal muscles. Every muscle contraction makes electricity. When muscles in the arms or legs shake, that electricity reaches the limb electrodes and shows up as jitter.
+
+People with **Parkinson's disease** often have a resting tremor of about 4 to 6 beats per second. On an ECG this can produce regular little waves that look strikingly like the "sawtooth" of [atrial flutter](https://www.ecgmeans.com/atrial-flutter/). Essential tremor, an overactive thyroid, caffeine, some medicines, anxiety and simply feeling cold can all do the same thing.
+
+A useful clue is that limb tremor shows most in the leads that use the shaking limb. If the right arm is trembling, leads I, II and aVR are affected while lead III (left arm to left leg) may look clean. Real heart rhythms show up in every lead, because they come from the heart, not from a limb.
+
+### 50 Hz and 60 Hz electrical interference
+
+Mains electricity alternates at 60 cycles per second in North America and 50 cycles per second in most other countries. If the ECG picks it up, the line becomes thick and fuzzy with tiny, perfectly regular spikes. This is easy to recognize because nothing in the body is that regular. Modern machines have a filter that removes most of it.
+
+### Lead reversal
+
+Lead reversal is a different kind of artifact. The signal is clean, but the cables are on the wrong limbs, so the machine labels the views incorrectly. The commonest is swapping the left and right arm cables, which turns lead I upside down and can make the report suggest [right axis deviation](https://www.ecgmeans.com/right-axis-deviation/), a "lateral" abnormality, or even dextrocardia (a heart on the right side). Swapped chest leads can produce odd [poor R wave progression](https://www.ecgmeans.com/poor-r-wave-progression/). The fix is simply to reconnect correctly and record again.
+
+## How artifact can mimic VT or atrial fibrillation
+
+This is the reason artifact matters. Bursts of noise can look like serious arrhythmias, and there are published cases of patients being sent for urgent treatment when the "arrhythmia" was actually brushing teeth, shivering, or Parkinsonian tremor.
+
+| Artifact can look like | Why | Clues it is artifact |
+| --- | --- | --- |
+| [Ventricular tachycardia](https://www.ecgmeans.com/ventricular-tachycardia/) | A burst of movement produces wide, fast, irregular deflections | Normal QRS complexes can be seen "marching through" the noise at the usual rate; the patient felt nothing; the pulse stayed steady |
+| [Ventricular fibrillation](https://www.ecgmeans.com/ventricular-fibrillation/) | Chaotic noise across the screen | The person is awake and talking. True VF causes collapse within seconds |
+| [Atrial fibrillation](https://www.ecgmeans.com/atrial-fibrillation/) | Tremor erases the P waves and adds a jittery baseline | The QRS complexes are still perfectly regular; P waves reappear when the tremor settles |
+| [Atrial flutter](https://www.ecgmeans.com/atrial-flutter/) | Rhythmic Parkinson's tremor creates regular little waves | The "flutter waves" are not linked to the QRS and vary between leads |
+| Asystole (flat line) | An electrode has come off | The patient is fine; other leads show normal beats |
+
+Clinicians use a simple rule: **treat the patient, not the monitor.** If someone looks well, is alert, and has a steady pulse, a dramatic-looking strip is checked for artifact before anything else. The reverse also applies: if someone has collapsed, is not breathing normally, or has no pulse, staff act immediately rather than assuming the tracing is noise.
+
+## Why ECG reports say "artifact present" or "technically limited study"
+
+Computer interpretation software measures waves and intervals to the millisecond. Noise makes those measurements unreliable, so the software flags it. A cardiologist or doctor overreading the tracing may add "technically limited" to say, in effect, "I could read the main rhythm, but small findings may have been missed or exaggerated."
+
+Artifact can cause both false alarms and missed findings:
+
+- **False findings:** a wavy baseline can make the ST segment look raised or depressed; tremor can cause an automated read of "atrial fibrillation"; lead reversal can trigger "possible lateral infarct" or "abnormal axis." These may also be why a report says [abnormal ECG](https://www.ecgmeans.com/abnormal-ecg/) when the heart is normal.
+- **Missed findings:** small P waves, subtle ST changes or a short PR interval can be hidden under noise.
+
+That is why the comment is useful. It tells your doctor how much weight to give the automated statements printed above it.
+
+## Is artifact on an ECG dangerous?
+
+No. Artifact itself is harmless. It is a recording problem, not a heart problem, and it cannot damage your heart.
+
+What it can do is make an ECG harder to read. If the original reason for the test was a symptom such as palpitations or chest pain, a noisy tracing may not answer the question, so a repeat is sensible. Occasionally, the tremor or shivering behind the artifact is itself worth attention — for example, a new tremor, a fever with rigors, or a low body temperature.
+
+**Get urgent help** if you have chest pain or pressure, fainting, severe breathlessness, or a racing heartbeat that will not settle, whatever your ECG report says. Call 911 (US), 999 (UK) or 112 (EU). Those symptoms matter far more than a comment about recording quality.
+
+## How to reduce artifact during your ECG
+
+Most artifact is preventable. If you are having an ECG, these steps help the technician get a clean trace:
+
+1. **Get warm first.** Ask for a blanket if the room is cold; shivering is a common cause.
+2. **Lie still and relax your arms and legs.** Let your limbs rest on the bed rather than holding them up.
+3. **Do not talk during the 10-second recording.** Breathe normally and quietly.
+4. **Skip body lotion or oil on the chest and limbs** on the day of the test, as it stops electrodes sticking.
+5. **Mention a tremor.** If you have Parkinson's disease or another tremor, the technician can place limb electrodes on the upper arms and thighs, or the torso, where shaking is smaller.
+6. **Remove or move metal and electronics** if asked, and keep your phone away from the cables.
+7. **Allow chest hair to be clipped** if electrodes will not stick.
+
+## What usually happens next
+
+1. **Your doctor reviews the tracing by eye.** Often the underlying rhythm is clear despite the noise, and the comment needs no action.
+2. **A repeat ECG** is arranged if the artifact hid an important area, or if the computer reported a rhythm problem that could have been noise.
+3. **Comparison with an older ECG** helps confirm whether any flagged change is real.
+4. **Longer monitoring**, such as a Holter or patch monitor, may be used if you have symptoms that a short ECG did not explain. These also produce artifact during activity, and the analyst marks it as such.
+5. **Attention to the cause of a tremor**, if it is new or troublesome, may be suggested separately.
+
+### Questions to ask your doctor
+
+- Could the artifact have caused any of the other statements on my report?
+- Was the underlying rhythm normal despite the noise?
+- Do I need a repeat ECG, and is there anything I should do differently next time?
+- If my report mentioned lead reversal, does the corrected ECG look normal?
+- If my tremor was the cause, is it worth getting the tremor checked?
+
+For a wider walk-through of every line on your printout, see [how to read your ECG report](https://www.ecgmeans.com/how-to-read-ecg-report/).
+@@FAQ@@
+Q: What does "artifact present" mean on an EKG?
+A: It means part of the tracing contains electrical noise that did not come from the heart, such as muscle tremor, movement or electrical interference. It describes recording quality, not a heart condition.
+Q: What is somatic tremor on an ECG?
+A: Somatic tremor artifact is jitter on the tracing caused by shaking skeletal muscles, for example from Parkinson's disease, essential tremor, cold or anxiety. It can mimic atrial fibrillation or flutter but is harmless.
+Q: Can artifact look like a heart attack on an ECG?
+A: It can. A drifting baseline can make the ST segment appear raised or lowered, and swapped leads can suggest an old infarct. Doctors check for artifact and usually repeat the ECG before drawing conclusions.
+Q: What does "technically limited study" mean?
+A: It means the quality of the recording was not ideal, so some measurements or subtle findings may be unreliable. The main rhythm is often still readable.
+Q: Can a pacemaker cause artifact on an ECG?
+A: A pacemaker produces small sharp spikes, which are real pacing signals rather than noise. Some machines enhance them, and occasionally noise is mislabeled as pacing, which a doctor can recognize.
+Q: Does my phone or watch cause ECG artifact?
+A: Rarely with modern machines, but nearby electrical equipment, poor grounding and cable movement can add interference. Technicians may ask you to move devices away from the cables.
+Q: Should I repeat my ECG if it showed artifact?
+A: Often yes, particularly if the noise affected an important area or the report flagged a rhythm problem. Your doctor will decide based on why the test was done.
+@@RELATED@@
+Wandering Baseline on an ECG: What It Means | https://www.ecgmeans.com/wandering-baseline-ecg/ | Usually harmless
+Ventricular Tachycardia (VT) on an ECG: What It Means | https://www.ecgmeans.com/ventricular-tachycardia/ | Seek prompt care
+Atrial Fibrillation on ECG: What It Means & When to Worry | https://www.ecgmeans.com/atrial-fibrillation/ | Needs clinician review
+Paced Rhythm on an ECG: What It Means | https://www.ecgmeans.com/paced-rhythm/ | Depends on context
+Abnormal ECG (EKG): What It Means & When to Worry | https://www.ecgmeans.com/abnormal-ecg/ | Depends on context
+How to Read Your ECG Report: A Plain-English Guide | https://www.ecgmeans.com/how-to-read-ecg-report/ | Usually harmless
+@@ALSO@@
+artifact ecg, artifact on ekg, ecg artefact, what is artifact on ecg, somatic tremor ecg, somatic tremor artifact, muscle tremor artifact ecg, 60 hz interference ecg, 50 hz interference ecg, ac interference ecg, baseline artifact, technically limited ecg, lead reversal ecg, parkinson tremor ecg, ecg noise, artifact mimicking vt
+@@SOURCES@@
+ECG Motion Artefacts | https://litfl.com/ecg-motion-artefacts-ecg-library/
+ECG Limb Lead Reversal | https://litfl.com/ecg-limb-lead-reversal-ecg-library/
+Electrocardiography pitfalls and artifacts: the 10 commandments | https://pubmed.ncbi.nlm.nih.gov/19182282/
+Electrocardiographic artifact | https://pubmed.ncbi.nlm.nih.gov/10691510
+@@END@@

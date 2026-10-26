@@ -565,10 +565,158 @@ def fig(slug):
         m = M(qrs=[(0.5, 0.035, 0.012), (-0.35, 0.065, 0.011), (0.12, 0.12, 0.013)], j=0.1, t=(-0.12, 0.33, 0.055, 0.045))
         s = sinus(Strip(lead="V1"), hr=70, morph=m); s.labels.append((0.35 + 60/70 + 0.12, 0.5, "epsilon"))
         return [s]
+    # ---- added 2026-10-26 ----
+    if slug in ("ventricular-tachycardia",):
+        s = Strip(top=1.7, bottom=1.2); t = 0.3
+        vt = M(qrs=[(1.1, 0.07, 0.03), (-0.6, 0.15, 0.03)], j=0.19, t=(-0.2, 0.25, 0.04, 0.03))
+        while t < s.dur - 0.25:
+            s.q.append((t, vt)); t += 60 / 170
+        return [s]
+    if slug == "supraventricular-tachycardia":
+        s = Strip(); t = 0.3
+        while t < s.dur - 0.2:
+            s.q.append((t, M(t=(0.22, 0.2, 0.035, 0.03)))); t += 60 / 175
+        return [s]
+    if slug == "avnrt":
+        s = Strip(lead="V1"); t = 0.3
+        m = M(qrs=[(0.25, 0.025, 0.01), (-0.75, 0.055, 0.012), (0.22, 0.1, 0.009)], t=(0.15, 0.2, 0.035, 0.03))
+        while t < s.dur - 0.2:
+            s.q.append((t, m)); t += 60 / 180
+        s.labels.append((0.3 + 2 * 60 / 180 + 0.1, 0.42, "pseudo r'"))
+        return [s]
+    if slug == "ventricular-fibrillation":
+        s = Strip(top=1.4, bottom=1.2)
+        ph = [R.uniform(0, 6.28) for _ in range(4)]
+        s.base = lambda x: (0.55 + 0.25 * math.sin(2*math.pi*0.4*x + ph[3])) * (0.6 * math.sin(2*math.pi*4.9*x + ph[0]) + 0.3 * math.sin(2*math.pi*7.3*x + ph[1]) + 0.2 * math.sin(2*math.pi*3.1*x + ph[2]))
+        return [s]
+    if slug == "afib-vs-vfib":
+        a = Strip(dur=6.0, lead="AFib"); t = 0.3
+        while t < a.dur - 0.25:
+            a.q.append((t, M(t=(0.22, 0.27, 0.05, 0.04)))); t += R.uniform(0.45, 1.0)
+        ph = [R.uniform(0, 6.28) for _ in range(4)]
+        a.base = lambda x: 0.035 * math.sin(2*math.pi*6.3*x+ph[0]) + 0.025*math.sin(2*math.pi*8.1*x+ph[1])
+        b = Strip(dur=6.0, lead="VFib", top=1.3, bottom=1.2)
+        b.base = lambda x: (0.55 + 0.25 * math.sin(2*math.pi*0.4*x + ph[3])) * (0.6 * math.sin(2*math.pi*4.9*x + ph[0]) + 0.3 * math.sin(2*math.pi*7.3*x + ph[1]) + 0.2 * math.sin(2*math.pi*3.1*x + ph[2]))
+        return [a, b]
+    if slug == "torsades-de-pointes":
+        s = Strip(dur=7.0, top=1.9, bottom=1.9)
+        def tdp(x):
+            env = 0.25 + 1.25 * abs(math.sin(2 * math.pi * x / 3.2))
+            return env * math.sin(2 * math.pi * 3.9 * x)
+        s.base = tdp
+        return [s]
+    if slug == "asystole":
+        s = Strip(top=1.0, bottom=0.8)
+        ph = R.uniform(0, 6.28)
+        s.base = lambda x: 0.03 * math.sin(2 * math.pi * 0.35 * x + ph) + 0.008 * math.sin(2 * math.pi * 9 * x)
+        s.labels.append((3.0, 0.45, "flat line — confirm in a second lead"))
+        return [s]
+    if slug == "pulseless-electrical-activity":
+        s = Strip(); t = 0.5
+        m = M(qrs=wide(N["qrs"], 1.3), j=0.12, t=(0.18, 0.33, 0.06, 0.05))
+        while t < s.dur - 0.3:
+            s.p.append((t - 0.18, "small")); s.q.append((t, m)); t += 60 / 58
+        s.labels.append((3.0, 1.35, "organised rhythm, but no pulse"))
+        return [s]
+    if slug == "premature-ventricular-contractions":
+        s = Strip(dur=7.0)
+        for t in [0.35, 1.17, 1.99]:
+            s.p.append((t - 0.16, "normal")); s.q.append((t, N))
+        s.q.append((2.6, PVC)); s.labels.append((2.67, 1.45, "PVC"))
+        for t in [3.66, 4.48, 5.3, 6.12]:
+            s.p.append((t - 0.16, "normal")); s.q.append((t, N))
+        return [s]
+    if slug == "multifocal-pvcs":
+        s = Strip(dur=7.0)
+        PVC2 = M(qrs=[(-1.05, 0.07, 0.030), (0.3, 0.14, 0.022)], j=0.17, t=(0.42, 0.36, 0.060, 0.050))
+        for t in [0.35, 1.17]:
+            s.p.append((t - 0.16, "normal")); s.q.append((t, N))
+        s.q.append((1.78, PVC)); s.labels.append((1.85, 1.45, "PVC 1"))
+        for t in [2.84, 3.66]:
+            s.p.append((t - 0.16, "normal")); s.q.append((t, N))
+        s.q.append((4.27, PVC2)); s.labels.append((4.34, 0.75, "PVC 2"))
+        for t in [5.33, 6.15]:
+            s.p.append((t - 0.16, "normal")); s.q.append((t, N))
+        return [s]
+    if slug == "tombstone-ecg":
+        m = M(qrs=[(0.3, 0.03, 0.01), (-0.15, 0.06, 0.01)], st=0.75, st_shape="convex", t=(0.55, 0.28, 0.08, 0.06))
+        s = sinus(Strip(lead="V2", top=2.1, bottom=0.7), hr=88, morph=m)
+        return [s]
+    if slug == "can-an-ekg-detect-a-heart-attack":
+        stemi = M(qrs=[(0.5, 0.035, 0.01), (-0.35, 0.065, 0.011)], st=0.42, st_shape="flat", t=(0.45, 0.29, 0.07, 0.045))
+        return [panel([("Normal", one_beat(N, lead="Normal", dur=1.8)), ("ST elevation", one_beat(stemi, lead="ST elevation", dur=1.8))])]
+    if slug == "digoxin-effect-ecg":
+        m = M(st=-0.3, st_shape="concave", t=(0.08, 0.25, 0.04, 0.03))
+        s = sinus(Strip(lead="V5"), hr=72, morph=m)
+        s.labels.append((0.35 + 60/72 + 0.2, -0.75, "scooped ST"))
+        return [s]
+    if slug == "cardiac-tamponade-ecg":
+        s = Strip(top=1.0, bottom=0.8); t = 0.3; k = 0
+        while t < s.dur - 0.25:
+            amp = 0.5 if k % 2 == 0 else 0.26
+            s.p.append((t - 0.13, "small")); s.q.append((t, M(qrs=[(-0.03, 0.012, 0.007), (amp, 0.038, 0.01), (-0.08, 0.066, 0.01)], t=(0.1, 0.24, 0.045, 0.035))))
+            t += 60 / 118; k += 1
+        return [s]
+    if slug == "ecg-artifact":
+        s = sinus(Strip(), hr=74)
+        def tremor(x):
+            burst = sig((x - 2.0) / 0.05) * sig((4.4 - x) / 0.05)
+            return burst * (0.12 * math.sin(2*math.pi*23*x) + 0.08 * math.sin(2*math.pi*37*x + 1.3) + 0.06 * math.sin(2*math.pi*11*x))
+        s.base = tremor
+        s.labels.append((3.2, 1.35, "muscle-tremor artifact"))
+        return [s]
+    if slug == "p-wave":
+        s = one_beat(dur=1.9, at=0.6); s.labels.append((0.49, 0.32, "P"))
+        s.brackets.append((0.40, 0.52, -0.5, "P under 120 ms"))
+        return [s]
+    if slug == "afib-heart-rate":
+        s = Strip(); t = 0.3
+        while t < s.dur - 0.25:
+            s.q.append((t, M(t=(0.2, 0.25, 0.05, 0.04)))); t += R.uniform(0.36, 0.7)
+        ph = [R.uniform(0, 6.28) for _ in range(2)]
+        s.base = lambda x: 0.035 * math.sin(2*math.pi*6.3*x+ph[0]) + 0.025*math.sin(2*math.pi*8.1*x+ph[1])
+        return [s]
+    if slug == "hyperkalemia-ecg":
+        m = M(qrs=wide(N["qrs"], 1.45), j=0.13, t=(0.9, 0.29, 0.035, 0.03))
+        return [sinus(Strip(lead="V3"), hr=70, morph=m, pkind="small")]
+    if slug in ("ecg-vs-ekg", "what-can-an-ekg-detect", "does-an-ekg-show-blockage", "where-to-get-an-ekg",
+                "eeg-vs-ekg", "how-to-read-an-ekg-strip", "ecg-interpretation-cheat-sheet"):
+        s = one_beat(dur=1.9, top=1.4, bottom=1.5, at=0.6)
+        s.labels += [(0.49, 0.3, "P"), (0.638, 1.12, "R"), (0.57, -0.28, "Q"), (0.7, -0.38, "S"), (0.9, 0.45, "T")]
+        s.brackets += [(0.44, 0.60, -0.62, "PR"), (0.6, 1.0, -1.05, "QT")]
+        return [s]
+    if slug == "heart-palpitations-normal-ecg":
+        return [sinus(Strip(), hr=78)]
     return None
 
 # alt text / caption (what the drawing shows)
 DESCR = {
+ "ventricular-tachycardia": "a fast, regular wide-complex rhythm at about 170 beats per minute (monomorphic ventricular tachycardia)",
+ "supraventricular-tachycardia": "a fast, regular narrow-complex rhythm at about 175 beats per minute with no visible P waves",
+ "avnrt": "a regular narrow-complex tachycardia at about 180 beats per minute in lead V1 with a small pseudo r' wave at the end of each QRS",
+ "ventricular-fibrillation": "chaotic, irregular waves of varying height with no recognisable QRS complexes (ventricular fibrillation)",
+ "afib-vs-vfib": "atrial fibrillation (top: irregular narrow QRS complexes, no P waves) compared with ventricular fibrillation (bottom: chaotic waves, no QRS)",
+ "torsades-de-pointes": "a very fast polymorphic ventricular tachycardia whose QRS amplitude swells and shrinks, appearing to twist around the baseline",
+ "asystole": "an almost flat line with no P waves or QRS complexes (asystole)",
+ "pulseless-electrical-activity": "an organised but slow rhythm with QRS complexes — on a patient who has no pulse (pulseless electrical activity)",
+ "premature-ventricular-contractions": "sinus rhythm interrupted by one early, wide, oddly shaped beat (a PVC) followed by a pause",
+ "multifocal-pvcs": "sinus rhythm with two premature ventricular beats of different shapes, one pointing up and one pointing down (multifocal PVCs)",
+ "tombstone-ecg": "lead V2 with massive convex ST elevation that merges with the T wave into a tombstone shape",
+ "can-an-ekg-detect-a-heart-attack": "a normal heartbeat (left) compared with a beat showing ST elevation, the classic sign of a STEMI heart attack (right)",
+ "digoxin-effect-ecg": "lead V5 with scooped, sagging ST depression (the reverse-tick digoxin effect) and a short QT interval",
+ "cardiac-tamponade-ecg": "a fast rhythm with small QRS complexes whose height alternates from beat to beat (low voltage with electrical alternans)",
+ "ecg-artifact": "sinus rhythm with a burst of fine, irregular muscle-tremor artifact on the baseline",
+ "p-wave": "one heartbeat with the P wave labelled and its duration (under 120 ms) marked",
+ "afib-heart-rate": "atrial fibrillation with an irregular ventricular rate of roughly 110 to 160 beats per minute",
+ "hyperkalemia-ecg": "lead V3 with tall, narrow, peaked T waves, small P waves and a widened QRS, as seen with high potassium",
+ "ecg-vs-ekg": "one normal heartbeat labelled P, Q, R, S and T with the PR and QT intervals marked",
+ "what-can-an-ekg-detect": "one normal heartbeat labelled P, Q, R, S and T with the PR and QT intervals marked",
+ "does-an-ekg-show-blockage": "one normal heartbeat labelled P, Q, R, S and T with the PR and QT intervals marked",
+ "where-to-get-an-ekg": "one normal heartbeat labelled P, Q, R, S and T with the PR and QT intervals marked",
+ "eeg-vs-ekg": "one normal heartbeat labelled P, Q, R, S and T with the PR and QT intervals marked",
+ "how-to-read-an-ekg-strip": "one normal heartbeat labelled P, Q, R, S and T with the PR and QT intervals marked",
+ "ecg-interpretation-cheat-sheet": "one normal heartbeat labelled P, Q, R, S and T with the PR and QT intervals marked",
+ "heart-palpitations-normal-ecg": "a normal sinus rhythm at about 78 beats per minute — what many people with palpitations see on their resting ECG",
  "afib-with-rvr": "an irregularly irregular rhythm at about 140 beats per minute with no P waves — atrial fibrillation with a rapid ventricular response",
  "ventricular-bigeminy": "a normal beat alternating one-for-one with a wide premature ventricular beat (PVC)",
  "ventricular-trigeminy": "two normal beats followed by a wide premature ventricular beat (PVC), repeating",

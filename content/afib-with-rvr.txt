@@ -1,23 +1,66 @@
 @@TITLE@@
-AFib with RVR: What It Means on an ECG
+AFib With RVR: What It Means, ECG Signs & Treatment
 @@DESC@@
-AFib with RVR means atrial fibrillation with a rapid ventricular response — an irregular, fast heartbeat. Learn what it means, causes and treatment.
+AFib with RVR is atrial fibrillation with a rapid ventricular response — a fast, irregular heartbeat. What AFib RVR means, ECG signs, causes, treatment and when to worry.
 @@H1@@
-AFib with RVR: What It Means on an ECG
+AFib With RVR: What It Means on an ECG and How It Is Treated
 @@CATEGORY@@
 Heart Rhythms | https://www.ecgmeans.com/heart-rhythms/
 @@QUICK@@
 Needs clinician review
+@@UPDATED@@
+2026-10-26
+@@ANSWER@@
+AFib with RVR means atrial fibrillation with a rapid ventricular response: the upper chambers are quivering chaotically and the lower chambers are beating fast and irregularly, usually over 100–110 beats per minute. It is common and treatable but needs prompt medical assessment. Treatment slows the heart rate, deals with any trigger, and assesses stroke risk.
 @@LEDE@@
 AFib with RVR means atrial fibrillation with a rapid ventricular response — the heart is in atrial fibrillation and the ventricles are being driven unusually fast, usually over 100 beats per minute. On the ECG it looks irregularly irregular, with no clear P waves and closely spaced, normal-shaped QRS complexes. It is common and treatable, but a fast rate needs assessment.
 @@BODY@@
+## What is AFib with RVR?
+
+AFib with RVR (also written AF with RVR, AFib RVR or "RVR AFib") is not a separate disease from [atrial fibrillation](https://www.ecgmeans.com/atrial-fibrillation/). It describes atrial fibrillation at a moment when the heart rate is too fast. The same person can have AFib with a controlled rate one day and AFib with RVR the next — after an infection, a missed tablet or a heavy night of drinking.
+
 ## What "AFib with RVR" means
 
 In atrial fibrillation the upper chambers (atria) quiver rather than beat in an organised way, firing hundreds of disorganised impulses each minute. The AV node acts as a gatekeeper and only lets some through. When it lets a lot through, the ventricles — and your pulse — beat quickly: this is the "rapid ventricular response" (RVR). A rate above about 100–110 beats per minute is usually what earns the "RVR" label, and it is often 120–170.
 
-## What it looks like on the ECG
+| Term on your report | Ventricular rate | What it usually means |
+| --- | --- | --- |
+| **AFib with slow ventricular response** | Below 60 | Often over-treated rate, conduction disease or medicines; may need review |
+| **AFib with controlled ventricular response** | About 60–100 (up to about 110 at rest) | The rate is where doctors usually aim |
+| **AFib with RVR** | Over about 100–110 | The rate is too fast and needs slowing |
+
+For more on target numbers, see our page on [AFib heart rate](https://www.ecgmeans.com/afib-heart-rate/).
+
+## What does AFib with RVR look like on an ECG?
 
 The rhythm is irregularly irregular (no repeating pattern to the spacing), there are no normal P waves, and the baseline shows fine or coarse fibrillatory waves. The QRS complexes keep their normal narrow shape but are closely and unevenly spaced because the rate is fast.
+
+A quick checklist for students and nurses:
+
+1. **Rate:** count the QRS complexes in a 10-second strip and multiply by 6. Over about 100–110 means RVR.
+2. **Rhythm:** irregularly irregular — no two gaps the same.
+3. **P waves:** absent; the baseline wobbles instead.
+4. **QRS:** usually narrow. A wide QRS can mean a bundle branch block, or — rarely and importantly — AFib conducting down an accessory pathway, which needs urgent specialist care.
+
+At very fast rates the irregularity can be hard to see and AFib with RVR can be mistaken for [SVT](https://www.ecgmeans.com/supraventricular-tachycardia/) or [sinus tachycardia](https://www.ecgmeans.com/sinus-tachycardia/). Measuring several gaps with calipers or a ruler usually shows the irregularity.
+
+| Fast rhythm | Regular? | P waves | Typical rate |
+| --- | --- | --- | --- |
+| **AFib with RVR** | No — irregularly irregular | None; fibrillatory baseline | 110–170 |
+| **[Atrial flutter](https://www.ecgmeans.com/atrial-flutter/) with 2:1 block** | Usually regular | Sawtooth flutter waves | About 150 |
+| **SVT** | Regular | Often hidden | 150–250 |
+| **Sinus tachycardia** | Regular | Normal | 100–150 |
+
+## Symptoms of AFib with RVR
+
+Some people feel nothing, but most notice something:
+
+- A racing, fluttering or pounding heartbeat
+- Breathlessness, especially on exertion or lying flat
+- Tiredness, weakness or reduced exercise ability
+- Light-headedness or dizziness
+- Chest discomfort
+- Anxiety, or passing urine more often during an episode
 
 ## Common causes and triggers
 
@@ -28,11 +71,35 @@ The rhythm is irregularly irregular (no repeating pattern to the spacing), there
 - Heart failure, heart attack, or a pulmonary embolism
 - Physical or emotional stress and after surgery
 
-## Should you worry?
+In hospital, AFib with RVR is often a sign of another illness — the fast rate is partly the body's response to that illness. Treating the underlying problem (for example sepsis or blood loss) is then as important as slowing the heart.
+
+## Is AFib with RVR dangerous?
+
+### Should you worry?
 
 A fast rate in AFib is not usually an immediate emergency, but it should always be assessed. A persistently fast heart can cause breathlessness and, over weeks, weaken the heart muscle (a "tachycardia-induced cardiomyopathy"). AFib of any rate also raises the risk of stroke, so your doctor will look at both the rate and your stroke risk.
 
+AFib with RVR is different from ventricular fibrillation, which is a cardiac arrest rhythm — see [AFib vs VFib](https://www.ecgmeans.com/afib-vs-vfib/) if the similar names are confusing.
+
 **Get urgent help** if AFib with a fast rate comes with chest pain or pressure, severe breathlessness, fainting or near-fainting, or you feel very unwell. Those symptoms matter more than the number on the monitor.
+
+## AFib with RVR treatment
+
+Treatment depends on how unwell you are, how long the AFib has been present, and what triggered it. This is an overview, not advice on any individual medicine or dose — those decisions belong to your care team.
+
+| Situation | What doctors usually do |
+| --- | --- |
+| **Unstable** (very low blood pressure, chest pain, signs of shock or heart failure) | Urgent electrical cardioversion — a controlled shock under sedation to reset the rhythm |
+| **Stable, fast rate** | Rate-control medicine, usually a beta-blocker or a rate-limiting calcium-channel blocker; digoxin or amiodarone in some situations (for example with heart failure or low blood pressure) |
+| **Stable, AFib that started under 48 hours ago** (or after proper anticoagulation or a scan) | Doctors may discuss restoring normal rhythm with medicine or planned cardioversion |
+| **Triggered by another illness** | Treat the trigger — fluids, antibiotics, thyroid treatment, stopping alcohol |
+| **Longer term** | Rate or rhythm control, stroke-risk assessment for a blood thinner, and sometimes catheter ablation |
+
+A few principles worth knowing:
+
+- **Rate control** slows the ventricles but leaves the atria in AFib. **Rhythm control** tries to restore normal rhythm.
+- **Cardioversion and stroke risk:** if AFib has lasted longer than about 48 hours or the duration is unknown, doctors usually give a blood thinner for several weeks first, or check for clots with a transesophageal echo, because restoring rhythm can dislodge a clot.
+- **Calcium-channel blockers** are generally avoided in people with significant heart failure with a weak pump, and some rate-slowing medicines are avoided when AFib is conducting through an accessory pathway (WPW).
 
 ## What usually happens next
 
@@ -41,11 +108,15 @@ A fast rate in AFib is not usually an immediate emergency, but it should always 
 3. A stroke-risk assessment (CHA₂DS₂-VASc) and a discussion about a blood thinner
 4. Treating the trigger — infection, thyroid problems or fluid balance — and considering rhythm control if symptoms persist
 
+An echocardiogram is commonly arranged to check the heart's structure and pumping, and a Holter monitor may be used later to check that the rate is controlled through the day.
+
 ### Questions to ask your doctor
 
 - Is my heart rate the main problem, or the AFib itself?
 - Do I need a blood thinner to lower my stroke risk?
 - What triggered this episode, and how do we prevent the next one?
+- Is rate control or rhythm control better for me?
+- What heart rate should I aim for, and when should I come back?
 @@FAQ@@
 Q: Is AFib with RVR an emergency?
 A: Not usually on its own, but it needs prompt assessment. It becomes an emergency if it causes chest pain, severe breathlessness, fainting or low blood pressure.
@@ -53,16 +124,25 @@ Q: What heart rate counts as RVR?
 A: Generally a ventricular rate above about 100–110 beats per minute in atrial fibrillation; it is often 120–170.
 Q: How is AFib with RVR treated?
 A: Usually by slowing the rate with medication such as a beta-blocker or calcium-channel blocker, treating the underlying trigger, and assessing stroke risk for possible anticoagulation.
+Q: What does RVR stand for?
+A: Rapid ventricular response. It means the ventricles, the heart's main pumping chambers, are responding to the chaotic atrial signals by beating fast.
+Q: Can AFib with RVR go away on its own?
+A: Sometimes. Episodes triggered by alcohol, infection or dehydration may settle as the trigger resolves, but a fast rate should still be checked rather than waited out at home.
+Q: How long can you stay in AFib with RVR?
+A: It should not be left untreated. Hours of a fast rate can cause breathlessness and low blood pressure, and weeks of it can weaken the heart muscle, so prompt rate control matters.
 @@RELATED@@
 Atrial Fibrillation: What It Means on an ECG | https://www.ecgmeans.com/atrial-fibrillation/ | Needs clinician review
 Atrial Flutter: What It Means on an ECG | https://www.ecgmeans.com/atrial-flutter/ | Needs clinician review
 Sinus Tachycardia: What It Means | https://www.ecgmeans.com/sinus-tachycardia/ | Depends on context
 AFib vs Atrial Flutter: What's the Difference? | https://www.ecgmeans.com/afib-vs-aflutter/ | Needs clinician review
 Supraventricular Tachycardia (SVT): What It Means | https://www.ecgmeans.com/supraventricular-tachycardia/ | Seek prompt care
+AFib Heart Rate: What Is Too Fast? | https://www.ecgmeans.com/afib-heart-rate/ | NONE
 @@ALSO@@
-afib with rvr, atrial fibrillation with rapid ventricular response, af with rvr, rapid afib
+afib with rvr, atrial fibrillation with rapid ventricular response, af with rvr, rapid afib, afib rvr, rvr afib, atrial fibrillation with rvr, afib with rvr treatment, what is afib with rvr, afib with rapid ventricular response, a fib with rvr, rvr meaning heart, afib rvr ecg, afib with rvr heart rate
 @@SOURCES@@
 Atrial Fibrillation (AFib) | https://my.clevelandclinic.org/health/diseases/16765-atrial-fibrillation-afib
 Atrial Fibrillation | https://litfl.com/atrial-fibrillation-ecg-library/
 Atrial Fibrillation with Rapid Ventricular Response | https://www.ncbi.nlm.nih.gov/books/NBK556109/
+2023 ACC/AHA/ACCP/HRS Guideline for the Diagnosis and Management of Atrial Fibrillation | https://www.ahajournals.org/doi/10.1161/CIR.0000000000001193
+Atrial fibrillation: Diagnosis and treatment | https://www.mayoclinic.org/diseases-conditions/atrial-fibrillation/diagnosis-treatment/drc-20350630
 @@END@@

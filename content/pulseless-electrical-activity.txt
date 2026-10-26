@@ -1,0 +1,150 @@
+@@TITLE@@
+Pulseless Electrical Activity (PEA): What It Looks Like on ECG
+@@DESC@@
+What does PEA look like on an ECG? Pulseless electrical activity shows an organized rhythm but no pulse. Causes (Hs and Ts), how it's treated, and the outlook.
+@@H1@@
+Pulseless Electrical Activity (PEA): What It Looks Like on an ECG
+@@CATEGORY@@
+Heart Rhythms | https://www.ecgmeans.com/heart-rhythms/
+@@QUICK@@
+Seek prompt care
+@@UPDATED@@
+2026-10-26
+@@ANSWER@@
+Pulseless electrical activity (PEA) is a type of cardiac arrest in which the ECG shows an organized rhythm — it can look almost normal — but the heart produces no pulse. On the monitor you may see regular QRS complexes, often slow or wide. PEA is not shockable. Treatment is CPR, epinephrine and rapidly finding and fixing the cause, such as blood loss, low oxygen or a blood clot.
+@@LEDE@@
+PEA is the cardiac arrest rhythm that most confuses people, because the monitor appears to be working. There are spikes and complexes marching across the screen — yet the person is unconscious and has no pulse. The heart's electrical system is still firing, but the muscle is not producing enough pumping to create a pulse. Understanding that gap between electrical activity and mechanical pumping explains why PEA cannot be shocked, why finding the cause matters so much, and why its outlook varies so widely from one person to the next.
+@@BODY@@
+## What is pulseless electrical activity?
+
+Every normal heartbeat has two parts: an **electrical** signal (what the ECG records) and a **mechanical** squeeze (what produces a pulse). In pulseless electrical activity, those two have come apart. The ECG shows an organized rhythm that would normally produce a pulse, but there is no detectable pulse and the person is in cardiac arrest.
+
+An older name for PEA is **electromechanical dissociation (EMD)**, which describes the problem well: electricity without effective mechanics.
+
+PEA is one of the four cardiac arrest rhythms, with [ventricular fibrillation](https://www.ecgmeans.com/ventricular-fibrillation/), pulseless [ventricular tachycardia](https://www.ecgmeans.com/ventricular-tachycardia/) and [asystole](https://www.ecgmeans.com/asystole/). According to Cleveland Clinic, it accounts for roughly a fifth of out-of-hospital cardiac deaths and is an even more common first rhythm in hospital arrests.
+
+## What does PEA look like on an ECG?
+
+There is no single "PEA rhythm." PEA is defined by the **absence of a pulse**, not by a particular shape on the screen. Any organized rhythm other than VF or VT can be PEA if the person has no pulse. Examples:
+
+- **A rhythm that looks like normal sinus rhythm** — regular P waves and narrow QRS complexes
+- **[Sinus tachycardia](https://www.ecgmeans.com/sinus-tachycardia/)** — fast and narrow, typical when the heart is empty from blood loss or blocked by a clot
+- **Sinus or junctional bradycardia** — slow and narrow
+- **A slow, wide-complex [idioventricular rhythm](https://www.ecgmeans.com/idioventricular-rhythm/)** — often from severe metabolic problems
+- **Agonal rhythm** — very slow, wide, irregular complexes in a dying heart, often just before asystole
+
+The practical rule taught in resuscitation courses: **if the monitor shows an organized rhythm, check the pulse.** No pulse means PEA, however good the rhythm looks.
+
+## Narrow vs wide PEA: a clue to the cause
+
+Clinicians often look at the QRS width during PEA because it hints at what has gone wrong.
+
+| PEA pattern | QRS width | Usually suggests | Examples |
+| --- | --- | --- | --- |
+| **Narrow-complex PEA** | Under 120 ms, often fast | A mechanical problem stopping the heart from filling or emptying | Cardiac tamponade, tension pneumothorax, massive pulmonary embolism, severe blood loss |
+| **Wide-complex PEA** | 120 ms or more, often slow | A metabolic or muscle problem affecting the heart cells themselves | Very high potassium, sodium-channel-blocker overdose, severe acidosis, massive heart attack |
+
+This is a rule of thumb, not a diagnosis — but it helps teams focus their search in the first few minutes.
+
+## What causes PEA? The Hs and Ts
+
+Nearly every case of PEA has a cause, and many of them can be reversed if found quickly. Resuscitation teams work through a checklist known as the **Hs and Ts**:
+
+| Cause | What is happening | Clues | How it is treated |
+| --- | --- | --- | --- |
+| **Hypovolemia** | Not enough blood to pump (bleeding, severe dehydration) | Trauma, bleeding, fast narrow PEA | Fluids, blood, stop the bleeding |
+| **Hypoxia** | Lack of oxygen | Choking, drowning, respiratory failure | Airway and oxygen |
+| **Hydrogen ions (acidosis)** | Blood too acidic for the heart to work | Kidney failure, diabetic ketoacidosis, long arrest | Ventilation, sometimes bicarbonate |
+| **Hypo-/hyperkalemia** | Potassium too low or too high | Kidney disease, dialysis, wide slow complexes ([hyperkalemia](https://www.ecgmeans.com/hyperkalemia-ecg/)) | Correct potassium; calcium for high potassium |
+| **Hypothermia** | Body temperature too low | Cold exposure, drowning | Active rewarming |
+| **Tension pneumothorax** | Air under pressure collapses a lung and squeezes the heart | Trauma, ventilated patient, absent breath sounds | Needle or finger decompression |
+| **Tamponade (cardiac)** | Fluid around the heart prevents filling | Recent heart surgery, cancer, trauma; see [cardiac tamponade](https://www.ecgmeans.com/cardiac-tamponade-ecg/) | Draining the fluid (pericardiocentesis) |
+| **Toxins** | Overdose of drugs affecting the heart | Beta-blockers, calcium channel blockers, tricyclic antidepressants | Specific antidotes and supportive care |
+| **Thrombosis, pulmonary** | A large clot blocks blood leaving the right heart | Recent surgery, immobility, leg swelling; see [pulmonary embolism](https://www.ecgmeans.com/pulmonary-embolism-ecg/) | Clot-dissolving medicine |
+| **Thrombosis, coronary** | Heart attack severely damaging the pump | Chest pain before collapse, [ST elevation](https://www.ecgmeans.com/st-elevation/) | Emergency coronary treatment |
+
+Bedside ultrasound has become a key tool: it can show fluid around the heart, an enlarged right ventricle from a clot, an empty heart from blood loss, or whether the heart is moving at all.
+
+## PEA vs asystole vs "pseudo-PEA"
+
+| | True PEA | Pseudo-PEA | Asystole |
+| --- | --- | --- | --- |
+| ECG | Organized rhythm | Organized rhythm | Flat line |
+| Pulse | None | None that can be felt | None |
+| Heart movement on ultrasound | None | Weak but present | None |
+| What it means | Cardiac arrest | Profound shock with a very low blood pressure | Cardiac arrest |
+| Outlook | Poor to moderate, depends on cause | Better if the cause is treated fast | Worst |
+
+**Pseudo-PEA** is a state in which the heart is still squeezing weakly, but the blood pressure is too low for a pulse to be felt. Ultrasound, an arterial line or carbon dioxide levels in breath can reveal it. It is still an emergency, but it often responds better to treating the cause.
+
+## Is PEA shockable?
+
+No. Like asystole, PEA is a **non-shockable rhythm**. The electrical system is already producing organized signals; the problem is that the heart is not pumping. A shock does not fix an empty heart, a clot or fluid around the heart.
+
+## How PEA is treated
+
+Treatment follows the advanced life support cardiac arrest algorithm for non-shockable rhythms:
+
+1. **High-quality CPR straight away**, with minimal pauses — about 100–120 compressions a minute
+2. **Epinephrine (adrenaline) as soon as possible**, then repeated every few minutes while CPR continues, as supported by the 2020 American Heart Association guidelines
+3. **Airway management and oxygen**
+4. **Rhythm and pulse checks about every 2 minutes** — if the rhythm becomes VF or VT, a shock is given
+5. **Find and treat the cause** using the Hs and Ts, history, blood tests and bedside ultrasound
+
+The cause-specific treatment is often what makes the difference. Releasing a tension pneumothorax, draining a tamponade or giving blood after major bleeding can restore a pulse within minutes in the right patient.
+
+**Get urgent help:** if someone collapses and is unresponsive and not breathing normally, call 911 (999 in the UK, 112 in Europe), start hands-only CPR and use an AED if available. You do not need to know the rhythm — the AED will analyze it and tell you what to do.
+
+## Can people survive PEA?
+
+Yes, but outcomes vary widely. Survival depends on how quickly CPR starts, whether the arrest was witnessed, and above all on the cause. PEA from a quickly reversible problem — such as low oxygen in a hospital patient, or a tension pneumothorax — has a much better outlook than PEA after a long, unwitnessed collapse or a massive heart attack. Overall survival is lower than for shockable rhythms but higher than for asystole.
+
+People who survive are cared for in intensive care, where the focus is protecting the brain, supporting blood pressure and treating whatever caused the arrest.
+
+## What usually happens next
+
+After a return of circulation:
+
+1. **ICU care** with breathing support, blood pressure support and temperature management
+2. **A 12-lead ECG** to look for a heart attack, and emergency coronary angiography if one is suspected
+3. **Imaging** — echocardiography, chest X-ray, CT scans for clots or bleeding
+4. **Blood tests** for potassium, acid levels, drugs and heart damage markers
+5. **Treatment of the cause** and, over the following days, assessment of brain recovery
+
+### Questions to ask your doctor
+
+- What do you think caused the cardiac arrest?
+- Was it true PEA, or was the heart still moving weakly?
+- Has the cause been treated, and could it happen again?
+- How will you assess brain recovery, and when will we know more?
+- Will any long-term heart treatment or device be needed?
+@@FAQ@@
+Q: What does PEA stand for in cardiology?
+A: Pulseless electrical activity — an organized rhythm on the ECG with no pulse. It is a form of cardiac arrest.
+Q: Can PEA look like normal sinus rhythm?
+A: Yes. The monitor can show what looks like a normal rhythm, but if there is no pulse it is PEA. That is why a pulse check is essential whenever an organized rhythm appears during resuscitation.
+Q: Why is PEA not shockable?
+A: The heart's electrical system is already organized. The problem is mechanical — the heart is not filling or pumping — so a shock cannot fix it.
+Q: What is the most common cause of PEA?
+A: Common causes include low oxygen, severe blood loss, massive heart attack, large pulmonary embolism and high potassium. The checklist of Hs and Ts covers the main reversible causes.
+Q: What is the difference between PEA and asystole?
+A: PEA shows organized electrical activity without a pulse. Asystole is a flat line with no electrical activity. Both are treated with CPR and epinephrine, and asystole generally has a worse outlook.
+Q: What is electromechanical dissociation?
+A: It is the older name for PEA, describing electrical activity that is no longer linked to effective mechanical pumping.
+Q: Can PEA turn into asystole?
+A: Yes. If the cause is not reversed, PEA often slows and widens into an agonal rhythm and then asystole.
+@@RELATED@@
+Asystole on an ECG: What a Flatline Means | https://www.ecgmeans.com/asystole/ | Seek prompt care
+Ventricular Fibrillation (VF) on an ECG: What It Means | https://www.ecgmeans.com/ventricular-fibrillation/ | Seek prompt care
+Idioventricular Rhythm & AIVR: ECG Meaning Explained | https://www.ecgmeans.com/idioventricular-rhythm/ | Seek prompt care
+Hyperkalaemia on an ECG: What It Means | https://www.ecgmeans.com/hyperkalemia-ecg/ | Needs clinician review
+Pulmonary Embolism on an ECG: What It Shows | https://www.ecgmeans.com/pulmonary-embolism-ecg/ | Seek prompt care
+Electrical Alternans on ECG: Causes and Meaning | https://www.ecgmeans.com/electrical-alternans/ | Needs clinician review
+@@ALSO@@
+what does pea look like on ecg, pulseless electrical activity, pea ecg, pea rhythm, pea cardiac arrest, pulseless electrical activity ecg, electromechanical dissociation, emd, pea hs and ts, pea causes, is pea shockable, pseudo pea, narrow complex pea, wide complex pea, pea vs asystole
+@@SOURCES@@
+Pulseless Electrical Activity (StatPearls) | https://www.statpearls.com/point-of-care/28073
+Pulseless Electrical Activity — LITFL | https://litfl.com/pulseless-electrical-activity/
+Pulseless Electrical Activity (PEA): Causes and Treatment (Cleveland Clinic) | https://my.clevelandclinic.org/health/symptoms/23213-pulseless-electrical-activity
+Part 3: Adult Basic and Advanced Life Support — 2020 AHA Guidelines | https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-basic-and-advanced-life-support
+@@END@@

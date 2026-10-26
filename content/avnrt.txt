@@ -1,0 +1,160 @@
+@@TITLE@@
+AVNRT ECG: Signs, Causes & Treatment of the Commonest SVT
+@@DESC@@
+AVNRT is the most common type of SVT. What it looks like on an ECG (pseudo-r' in V1), why it happens, vagal maneuvers, adenosine, ablation and how it differs from AVRT/WPW.
+@@H1@@
+AVNRT on an ECG: What AV Nodal Re-entrant Tachycardia Means
+@@CATEGORY@@
+Heart Rhythms | https://www.ecgmeans.com/heart-rhythms/
+@@QUICK@@
+Needs clinician review
+@@UPDATED@@
+2026-10-26
+@@ANSWER@@
+AVNRT (atrioventricular nodal re-entrant tachycardia) is the most common type of supraventricular tachycardia. An electrical circuit inside or next to the AV node makes the heart suddenly race at about 140–250 beats per minute. On the ECG it shows a regular, narrow-complex tachycardia, often with a small pseudo-r' wave in lead V1. It is rarely dangerous and is usually curable with catheter ablation.
+@@LEDE@@
+People with AVNRT often describe the same story: the heart suddenly switches into a fast, pounding beat, sometimes with a flutter in the neck, and then — minutes or hours later — it stops just as suddenly. Between episodes the ECG is usually completely normal, which can make diagnosis frustrating. This page explains what is happening electrically, the specific clues clinicians look for on an AVNRT ECG, how it differs from the other common SVT (AVRT, including Wolff-Parkinson-White), and the treatments, from simple vagal maneuvers you can learn to a procedure that cures most people.
+@@BODY@@
+## What is AVNRT?
+
+AVNRT stands for **atrioventricular nodal re-entrant tachycardia** (also written AV nodal reentry tachycardia). It is a type of [supraventricular tachycardia (SVT)](https://www.ecgmeans.com/supraventricular-tachycardia/) — a fast rhythm that starts above the ventricles — and it is the most common type, accounting for roughly half or more of regular SVTs seen in clinics. It is more common in women and often first appears in young adulthood or middle age, though it can start at any age.
+
+### How the short circuit works
+
+The AV node is the electrical "gatekeeper" between the upper chambers (atria) and lower chambers (ventricles). In people with AVNRT, the AV node area has **two pathways** instead of one:
+
+- A **fast pathway** that conducts quickly but takes longer to recover
+- A **slow pathway** that conducts slowly but recovers quickly
+
+Normally this "dual AV node physiology" causes no problems. But a well-timed early beat can find the fast pathway still recovering, travel down the slow pathway instead, and then loop back up the now-recovered fast pathway. The signal keeps circling — a re-entry circuit — and each lap sends a beat to the ventricles and back to the atria at the same time. The result is a sudden, regular, fast heartbeat.
+
+| Type | Circuit direction | Share of cases | ECG clue |
+| --- | --- | --- | --- |
+| **Typical (slow–fast)** | Down slow pathway, up fast pathway | About 85–90% | P wave hidden in or just at the end of the QRS (pseudo-r' / pseudo-S) |
+| **Atypical (fast–slow or slow–slow)** | Reversed or both slow | About 10–15% | Inverted P wave visible later, after the QRS — can look like atrial tachycardia |
+
+## What AVNRT looks like on the ECG
+
+During an episode, the typical AVNRT ECG shows:
+
+- **A regular, narrow-complex tachycardia** — the QRS is usually under 120 ms because the ventricles are activated normally
+- **Rate of about 140–250 beats per minute**, often 160–200
+- **No clearly visible P waves before the QRS.** In typical AVNRT the atria and ventricles are activated almost at the same moment, so the P wave is buried in the QRS or appears just after it
+- **Pseudo-r' in lead V1** — a small extra upward notch at the end of the QRS that is not there on the normal ECG. It is really the retrograde P wave
+- **Pseudo-S waves in the inferior leads (II, III, aVF)** — a small extra downward deflection at the end of the QRS, again the inverted P wave
+- **Very short RP interval** (from QRS to the P wave), typically under about 70 ms
+- **Abrupt start and stop**, often triggered by an early beat
+
+Other features you may see on the report include **ST depression** during the fast rate (common in any SVT and usually not a sign of a blocked artery) and **QRS alternans** (slight beat-to-beat changes in QRS height).
+
+The most useful trick for clinicians is comparison: lay the tachycardia ECG beside the normal-rhythm ECG. A pseudo-r' that disappears when the rhythm returns to normal strongly supports AVNRT.
+
+Between episodes, the ECG is normal. There is no delta wave, unlike [Wolff-Parkinson-White](https://www.ecgmeans.com/wolff-parkinson-white/).
+
+## AVNRT vs AVRT (and WPW)
+
+The other common re-entry SVT is **AVRT** — atrioventricular re-entrant tachycardia — which uses an extra electrical connection (accessory pathway) outside the AV node. When that pathway shows on the resting ECG as a [delta wave](https://www.ecgmeans.com/delta-wave/), the condition is called Wolff-Parkinson-White (WPW).
+
+| Feature | AVNRT | AVRT (including WPW) |
+| --- | --- | --- |
+| Where the circuit is | Within or next to the AV node | Uses an accessory pathway between atria and ventricles |
+| Resting ECG | Normal | Often normal; delta wave and short PR in WPW |
+| P wave during tachycardia | Hidden in or just after QRS (pseudo-r' in V1) | Visible after the QRS, usually in the ST segment |
+| RP interval | Very short (under ~70 ms) | Longer (usually over ~70 ms) |
+| Typical patients | More often women, any age | Often younger, including children |
+| Sudden death risk | Extremely low | Low, but WPW with atrial fibrillation can be dangerous |
+| Ablation target | Slow pathway near the AV node | The accessory pathway |
+| Ablation success | About 95% or higher | About 95% for most pathways |
+
+For a broader comparison with dangerous fast rhythms, see [SVT vs VTach](https://www.ecgmeans.com/svt-vs-vtach/). Other narrow-complex tachycardias that can look similar include [sinus tachycardia](https://www.ecgmeans.com/sinus-tachycardia/), [atrial flutter](https://www.ecgmeans.com/atrial-flutter/) with 2:1 conduction and [atrial tachycardia](https://www.ecgmeans.com/atrial-tachycardia/).
+
+## Symptoms of AVNRT
+
+- **Sudden pounding or racing heartbeat** that starts and stops abruptly
+- **Pulsing in the neck** — sometimes called the "frog sign," caused by the atria contracting against closed valves
+- **Light-headedness or dizziness**
+- **Shortness of breath** or chest discomfort
+- **Needing to urinate** during or after an episode
+- **Tiredness** after a long episode
+
+Episodes can last from seconds to hours. Triggers include caffeine, alcohol, stress, lack of sleep, exercise and bending or sudden movements, but many episodes have no obvious trigger.
+
+## Is AVNRT dangerous?
+
+For most people, no. AVNRT is uncomfortable and frightening but rarely life-threatening in a structurally normal heart. However:
+
+- Very fast or long episodes can cause fainting or low blood pressure
+- In people with coronary artery disease, the fast rate can bring on chest pain
+- Very prolonged, frequent episodes over a long time can occasionally weaken the heart muscle (tachycardia-induced cardiomyopathy), which usually recovers once the rhythm is controlled
+
+**Get urgent help:** call 911 (999 in the UK, 112 in Europe) or go to the emergency department if a fast heartbeat comes with chest pain, fainting, severe breathlessness or confusion, or if an episode will not stop. A fast heartbeat with a wide QRS on any ECG is treated as potentially dangerous until proven otherwise.
+
+## How AVNRT is treated
+
+### Stopping an episode
+
+1. **Vagal maneuvers.** These stimulate the vagus nerve, which slows conduction through the AV node and can break the circuit. The **modified Valsalva maneuver** is the most effective: strain against a closed airway (for example blowing into a 10 mL syringe hard enough to move the plunger) for about 15 seconds while sitting up, then immediately lie flat while someone lifts your legs to about 45 degrees for 15 seconds. In the REVERT trial (The Lancet, 2015), this worked in 43% of emergency patients, compared with 17% for the standard Valsalva. Ask your doctor to show you how to do it safely.
+2. **Adenosine.** If vagal maneuvers fail, IV adenosine given in hospital briefly blocks the AV node. It works in most cases of AVNRT and can cause a few seconds of chest tightness, flushing or a sense of doom that passes quickly.
+3. **Other medicines.** IV calcium channel blockers (verapamil, diltiazem) or beta-blockers are alternatives.
+4. **Electrical cardioversion.** Rarely needed — only if the person is unstable or medicines fail.
+
+### Preventing episodes
+
+- **Do nothing** if episodes are rare, brief and easily stopped with vagal maneuvers
+- **"Pill-in-the-pocket"** — a medicine taken only when an episode occurs, for selected people
+- **Daily medicines** — beta-blockers or calcium channel blockers; sometimes other antiarrhythmics
+- **Catheter ablation** — the definitive treatment
+
+### Catheter ablation for AVNRT
+
+During an electrophysiology (EP) study, thin wires are passed through a vein in the groin to the heart. The doctor confirms the diagnosis by triggering the tachycardia and then targets the **slow pathway** with heat (radiofrequency) or freezing (cryoablation).
+
+- **Success rate:** about 95% or higher
+- **Main risk:** damaging the normal AV conduction, which may require a permanent pacemaker. This is uncommon — typically quoted at under 1% in experienced centers
+- **Recovery:** most people go home the same day or the next morning and return to normal activities within days
+
+Current guidelines regard ablation as a first-line option for people with recurrent symptomatic AVNRT who prefer not to take long-term medicines.
+
+## What usually happens next
+
+1. **Capture the rhythm.** If you have not had an ECG during an episode, your doctor may arrange a Holter or event monitor, or suggest a smartwatch or handheld ECG to record one
+2. **Baseline tests** — a resting 12-lead ECG, thyroid function and sometimes an echocardiogram
+3. **Learn vagal maneuvers** to stop episodes at home
+4. **Discuss treatment options** — observation, medicines or referral to an electrophysiologist for ablation
+
+### Questions to ask your doctor
+
+- Do my ECGs show AVNRT, AVRT or another SVT, and how sure are we?
+- Can you teach me the modified Valsalva maneuver?
+- When should I go to the emergency department during an episode?
+- Am I a good candidate for ablation, and what is the pacemaker risk at this center?
+- Are there triggers I should avoid?
+@@FAQ@@
+Q: What does AVNRT stand for?
+A: Atrioventricular nodal re-entrant tachycardia. It is a fast heart rhythm caused by an electrical loop within or next to the AV node.
+Q: Is AVNRT the same as SVT?
+A: AVNRT is one type of SVT — the most common one. SVT is the umbrella term for fast rhythms that start above the ventricles.
+Q: What is the pseudo-r' wave in AVNRT?
+A: It is a small extra upward notch at the end of the QRS in lead V1 during the tachycardia. It is the P wave being produced backward from the AV node, and it disappears when the rhythm returns to normal.
+Q: Can AVNRT be cured?
+A: Yes, in most people. Catheter ablation of the slow pathway succeeds in about 95% or more of cases, with a small risk of needing a pacemaker.
+Q: Can AVNRT kill you?
+A: Death from AVNRT is extremely rare in a structurally normal heart. Episodes that cause fainting or chest pain still need urgent care.
+Q: What triggers AVNRT episodes?
+A: Common triggers include caffeine, alcohol, stress, poor sleep, exercise and sudden changes of posture, but many episodes have no clear trigger.
+Q: What does adenosine feel like?
+A: It often causes a few seconds of chest pressure, flushing, breathlessness or a feeling of dread. These effects pass within seconds.
+@@RELATED@@
+Supraventricular Tachycardia (SVT): What It Means | https://www.ecgmeans.com/supraventricular-tachycardia/ | Needs clinician review
+Wolff-Parkinson-White (WPW) on an ECG | https://www.ecgmeans.com/wolff-parkinson-white/ | Needs clinician review
+SVT vs VTach (Ventricular Tachycardia): Key Differences | https://www.ecgmeans.com/svt-vs-vtach/ | NONE
+Atrial Tachycardia on ECG: Meaning, Causes & Treatment | https://www.ecgmeans.com/atrial-tachycardia/ | Needs clinician review
+Junctional Tachycardia on ECG: Meaning & Causes | https://www.ecgmeans.com/junctional-tachycardia/ | Needs clinician review
+Sinus Tachycardia on ECG: Meaning & Causes | https://www.ecgmeans.com/sinus-tachycardia/ | Depends on context
+@@ALSO@@
+avnrt, avnrt ecg, av nodal reentrant tachycardia, atrioventricular nodal reentry tachycardia, av nodal reentry tachycardia, avnrt ekg, typical avnrt, atypical avnrt, slow fast avnrt, pseudo r prime v1, avnrt vs avrt, avnrt treatment, avnrt ablation, dual av nodal physiology, frog sign svt
+@@SOURCES@@
+Atrioventricular Nodal Reentry Tachycardia (StatPearls) | https://www.statpearls.com/point-of-care/17974
+AV-Nodal Reentrant Tachycardia (AVNRT) (Cleveland Clinic) | https://my.clevelandclinic.org/health/diseases/22923-avnrt
+Postural modification to the standard Valsalva manoeuvre for emergency treatment of supraventricular tachycardias (REVERT) — The Lancet, 2015 | https://pubmed.ncbi.nlm.nih.gov/26314489/
+@@END@@

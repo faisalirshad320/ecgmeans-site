@@ -1,0 +1,168 @@
+@@TITLE@@
+What Can an EKG Detect? Heart Failure, Rhythm & Its Limits
+@@DESC@@
+What can an EKG detect? A clear table of what it finds well, what it only hints at (like heart failure and valve disease), and what it cannot show at all.
+@@H1@@
+What Can an EKG Detect? What It Finds, What It Hints At, and What It Misses
+@@CATEGORY@@
+ECG Basics | https://www.ecgmeans.com/ecg-basics/
+@@QUICK@@
+NONE
+@@UPDATED@@
+2026-10-26
+@@ANSWER@@
+An EKG can detect problems with the heart's rhythm and electrical system, such as atrial fibrillation, heart block and abnormal heart rates, plus many current and past heart attacks. It can hint at heart failure, thickened heart muscle and electrolyte problems, but cannot confirm them. It cannot show artery blockages at rest, valve disease, blood pressure or cholesterol.
+@@LEDE@@
+An EKG is often the first heart test people have, and it is easy to assume it checks everything. It does not. It is a ten-second recording of the heart's electrical signals, which makes it excellent at some jobs and blind to others. Knowing the difference helps you understand your result, ask the right follow-up questions, and avoid both false worry and false reassurance. This page sorts what an EKG can detect into three groups — detects well, detects partly, and cannot detect — and explains where heart failure fits.
+@@BODY@@
+## What can an EKG detect?
+
+An EKG (also written ECG; the two names mean the same test) uses ten small stickers on the chest, arms and legs to record the electrical signals that trigger each heartbeat. The machine shows those signals as twelve "leads", each a different electrical view of the heart.
+
+Because it records electricity, an EKG is best at problems that change the heart's electrical behavior: its rhythm, its rate, and how signals travel through its wiring. It is less direct for problems with the heart's structure or pumping, and it cannot see the blood vessels at all.
+
+## The summary table
+
+| Condition or question | Can an EKG detect it? | Notes |
+| --- | --- | --- |
+| **Heart rate** (too fast or too slow) | **Well** | Measured directly |
+| **Atrial fibrillation and flutter** | **Well**, if present during the recording | Intermittent episodes can be missed |
+| **Other arrhythmias** (SVT, VT, extra beats) | **Well**, if present during the recording | A Holter or event monitor catches episodes that come and go |
+| **Heart block and bundle branch block** | **Well** | The EKG is the main test for conduction problems |
+| **STEMI heart attack** | **Well** | The EKG is the key test |
+| **NSTEMI heart attack** | **Partly** | May be subtle or normal; troponin blood test needed |
+| **Past (old) heart attack** | **Partly** | Q waves can suggest it; false alarms are common |
+| **Long QT and other inherited electrical conditions** | **Well to partly** | Brugada and WPW patterns can be intermittent |
+| **Thickened heart muscle** (LVH) | **Partly** | EKG voltage criteria miss many cases; echo is better |
+| **Enlarged heart chambers** | **Partly** | Echo is more accurate |
+| **Heart failure** | **Partly** | Suggests it, cannot confirm it |
+| **Electrolyte problems** (potassium, calcium) | **Partly** | Very high potassium may show peaked T waves; blood test confirms |
+| **Pericarditis** | **Partly** | Typical pattern in some, not all |
+| **Pulmonary embolism** | **Poorly** | Changes are nonspecific; CT scan needed |
+| **Coronary artery blockages** (stable) | **Usually not** at rest | Stress tests or CT angiography are used |
+| **Valve disease** | **No** | Needs echocardiogram |
+| **Blood pressure** | **No** | Needs a blood pressure cuff |
+| **Cholesterol** | **No** | Needs a blood test |
+| **Future heart attack risk** | **No** (not on its own) | Risk is estimated from age, BP, cholesterol, diabetes, smoking |
+| **Stroke risk** | **Indirectly** | Atrial fibrillation raises stroke risk |
+
+## What an EKG detects well
+
+### Heart rhythm problems
+
+This is the EKG's main strength. It shows whether each heartbeat starts in the normal place (the sinus node) and how regular the rhythm is. It reliably identifies:
+
+- [Atrial fibrillation](https://www.ecgmeans.com/atrial-fibrillation/) and [atrial flutter](https://www.ecgmeans.com/atrial-flutter/)
+- [Supraventricular tachycardia](https://www.ecgmeans.com/supraventricular-tachycardia/)
+- Extra beats such as [PVCs](https://www.ecgmeans.com/premature-ventricular-contractions/) and PACs
+- [Sinus bradycardia](https://www.ecgmeans.com/sinus-bradycardia/) and [sinus tachycardia](https://www.ecgmeans.com/sinus-tachycardia/)
+- Dangerous rhythms such as ventricular tachycardia
+
+The catch: it only sees the rhythm during the recording. If your symptoms come and go, the rhythm causing them may not be there on the day of the test.
+
+### Conduction problems ("heart block")
+
+The EKG measures how long electrical signals take to travel through the heart. That makes it the main test for [first degree AV block](https://www.ecgmeans.com/first-degree-av-block/), higher degrees of heart block, and bundle branch blocks.
+
+### Heart attacks, especially STEMI
+
+A heart attack caused by a fully blocked artery usually shows clear ST elevation. The EKG is the test that triggers emergency treatment. Smaller heart attacks are harder to see. See [can an EKG detect a heart attack?](https://www.ecgmeans.com/can-an-ekg-detect-a-heart-attack/)
+
+### QT and inherited electrical conditions
+
+The EKG measures the QT interval, which matters for some medicines and inherited conditions. It can also show Wolff-Parkinson-White and Brugada patterns, though some of these come and go.
+
+## What an EKG detects only partly
+
+### Can an EKG detect heart failure?
+
+Not on its own. Heart failure means the heart is not pumping or filling as well as the body needs. That is a problem of mechanical function, and an EKG measures electricity.
+
+What an EKG can do is give strong hints:
+
+- **A completely normal EKG makes heart failure less likely**, especially the type with a weak pump (reduced ejection fraction). This is useful for ruling it out.
+- **Abnormal findings can point toward it**, such as signs of a past heart attack, left bundle branch block, thick heart muscle, atrial fibrillation, or low voltage.
+
+To diagnose heart failure, doctors use:
+
+1. **A BNP or NT-proBNP blood test** — a hormone released when the heart is under strain
+2. **An echocardiogram** — an ultrasound that measures the heart's size, pumping strength (ejection fraction) and valves
+3. **Your symptoms and examination** — breathlessness, swollen ankles, tiredness, fluid in the lungs
+
+So if you are asking "does an EKG show heart failure?", the best answer is that it can raise the question or make it less likely, but an echo and blood test answer it. See [EKG vs echocardiogram](https://www.ecgmeans.com/ekg-vs-echocardiogram/).
+
+### Thickened or enlarged heart
+
+High-voltage QRS complexes can suggest [left ventricular hypertrophy](https://www.ecgmeans.com/left-ventricular-hypertrophy/), and P wave shapes can suggest an enlarged atrium. But the EKG misses many people who have these changes and flags some who do not, especially thin young adults. An echocardiogram is more accurate.
+
+### Electrolyte imbalances
+
+High potassium can cause tall, peaked T waves and, if severe, dangerous rhythm changes. Low potassium can flatten T waves and add U waves. These patterns are helpful clues, but a blood test gives the actual level. See [hyperkalemia on ECG](https://www.ecgmeans.com/hyperkalemia-ecg/).
+
+## What an EKG cannot detect
+
+- **Stable artery blockages.** A narrowed coronary artery usually leaves a normal EKG at rest. See [does an EKG show blockage?](https://www.ecgmeans.com/does-an-ekg-show-blockage/)
+- **Valve disease.** Leaky or narrowed valves are heard with a stethoscope and confirmed by echocardiogram.
+- **Blood pressure and cholesterol.** These need a cuff and a blood test.
+- **Your future risk on its own.** A normal EKG does not guarantee you will not have a heart attack.
+- **Problems that only appear with exertion.** A stress test is used for that.
+- **Rhythms that come and go.** A longer monitor is needed.
+
+For more on this, see [if your ECG is normal, is your heart OK?](https://www.ecgmeans.com/if-ecg-is-normal-is-my-heart-ok/)
+
+## Other heart tests that fill the gaps
+
+| If the question is… | The test usually used |
+| --- | --- |
+| Is my heart pumping well? Do I have heart failure? | Echocardiogram, BNP blood test |
+| Are my valves working? | Echocardiogram |
+| Are my arteries narrowed? | Stress test, coronary CT angiogram, catheter angiogram |
+| What is causing palpitations that come and go? | Holter monitor, event monitor or patch monitor |
+| Am I having a heart attack now? | EKG plus repeat troponin blood tests |
+| What is my long-term risk? | Blood pressure, cholesterol, blood sugar; sometimes a calcium score |
+
+**Get urgent help:** No test result should delay care when you have symptoms. Call 911 (999 in the UK, 112 in Europe) for chest pain or pressure, severe breathlessness, fainting, or a fast heartbeat that will not settle.
+
+## What usually happens next
+
+1. **Your doctor reads the EKG alongside your symptoms.** The same tracing means different things in a person with chest pain and a person having a routine check.
+2. **A normal EKG with no symptoms** usually needs nothing further.
+3. **An abnormal or borderline EKG** may lead to a repeat EKG, blood tests or an echocardiogram.
+4. **Symptoms that the EKG cannot explain** may lead to a monitor, stress test or imaging.
+
+### Questions to ask your doctor
+
+- What was my EKG ordered to look for?
+- Does my result answer that question, or do I need another test?
+- Could an echocardiogram or BNP test help check for heart failure?
+- Would a longer heart monitor catch symptoms that come and go?
+@@FAQ@@
+Q: What will an EKG show?
+A: Your heart rate, rhythm, how electrical signals travel through the heart, and signs of current or past heart muscle injury. It may also hint at thickened muscle or electrolyte problems.
+Q: Does an EKG show heart failure?
+A: Not directly. It can suggest heart failure or make it less likely, but diagnosis needs an echocardiogram and a BNP or NT-proBNP blood test.
+Q: Can an EKG detect a heart valve problem?
+A: No. Valve problems are found with a stethoscope and confirmed with an echocardiogram.
+Q: Can an EKG detect anxiety?
+A: No. Anxiety may speed up the heart rate or cause minor nonspecific T wave changes, but there is no EKG pattern that diagnoses anxiety.
+Q: Can an EKG detect a stroke?
+A: No. It cannot see the brain. It can find atrial fibrillation, which is a common cause of stroke, and a stroke can sometimes cause EKG changes.
+Q: Can an EKG detect lung problems?
+A: Only indirectly. Lung disease or a blood clot in the lungs may strain the right side of the heart and change the EKG, but chest X-ray or CT is needed.
+Q: Is an EKG enough for a heart checkup?
+A: For many people without symptoms, an EKG plus blood pressure and blood tests gives a reasonable picture. If you have symptoms, more tests may be needed.
+@@RELATED@@
+What Is an EKG (ECG)? What It Shows, Cost & How Long It Takes | https://www.ecgmeans.com/what-is-an-ekg/ | Usually harmless
+If Your ECG Is Normal, Is Your Heart OK? What It Can Miss | https://www.ecgmeans.com/if-ecg-is-normal-is-my-heart-ok/ | Usually harmless
+EKG vs Echocardiogram: Differences, Uses & Which You Need | https://www.ecgmeans.com/ekg-vs-echocardiogram/ | NONE
+Can an EKG Detect a Heart Attack? | https://www.ecgmeans.com/can-an-ekg-detect-a-heart-attack/ | Seek prompt care
+Does an EKG Show Blockage? | https://www.ecgmeans.com/does-an-ekg-show-blockage/ | Depends on context
+Abnormal ECG (EKG): What It Means & When to Worry | https://www.ecgmeans.com/abnormal-ecg/ | Depends on context
+@@ALSO@@
+what can an ekg detect, what can ekg detect, what can a ekg detect, what will an ekg show, can an ekg detect heart failure, can ekg detect heart failure, does an ekg show heart failure, what does an ekg show, what does an ecg detect, ecg limitations, can an ekg detect valve problems, what can an ecg diagnose
+@@SOURCES@@
+Electrocardiogram (ECG or EKG) (Mayo Clinic) | https://www.mayoclinic.org/tests-procedures/ekg/about/pac-20384983
+Electrocardiogram (MedlinePlus) | https://medlineplus.gov/lab-tests/electrocardiogram/
+Heart Failure: Diagnosis and Treatment (Mayo Clinic) | https://www.mayoclinic.org/diseases-conditions/heart-failure/diagnosis-treatment/drc-20373148
+Coronary Heart Disease: Diagnosis (NHLBI, NIH) | https://www.nhlbi.nih.gov/health/coronary-heart-disease/diagnosis
+@@END@@

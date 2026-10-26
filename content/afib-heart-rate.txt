@@ -1,0 +1,159 @@
+@@TITLE@@
+What Is a Dangerous Heart Rate With AFib? Safe Ranges Explained
+@@DESC@@
+What is a dangerous heart rate with AFib? Learn target AFib heart rate ranges, when a fast (RVR) or slow rate is an emergency, and how to measure your pulse in AFib accurately.
+@@H1@@
+What Is a Dangerous Heart Rate With AFib?
+@@CATEGORY@@
+Heart Rhythms | https://www.ecgmeans.com/heart-rhythms/
+@@QUICK@@
+Needs clinician review
+@@UPDATED@@
+2026-10-26
+@@ANSWER@@
+A dangerous heart rate with AFib is generally a resting rate persistently above about 110 bpm, and especially over 150 bpm, or any fast rate that comes with chest pain, fainting or severe breathlessness. A rate below about 40–50 bpm with dizziness or long pauses can also be dangerous. Most people with AFib aim for a resting rate under about 100–110 bpm.
+@@LEDE@@
+In atrial fibrillation (AFib), the upper chambers quiver instead of beating in rhythm, and the heart rate depends on how many of those chaotic signals get through to the lower chambers. That rate can run fast, normal or slow, and it changes from minute to minute. If you have AFib, or you have just seen a high number on a smartwatch, you will want to know which numbers are safe, which mean calling your doctor, and which mean calling an ambulance. This page sets out the heart rate bands, what current guidelines aim for, and how to measure your pulse properly when the rhythm is irregular.
+@@BODY@@
+## What is a dangerous heart rate with AFib?
+
+There is no single number that is dangerous for everyone. Danger depends on **how fast**, **for how long**, and **how you feel**. As a working guide:
+
+- **Resting rate over about 110 bpm that will not settle:** contact your doctor or care team the same day.
+- **Resting rate over about 150 bpm**, or any fast rate with **chest pain, fainting, near-fainting, severe breathlessness or confusion:** this is an emergency. Call 911 (US), 999 (UK) or 112 (EU).
+- **Rate below about 40–50 bpm** with dizziness, fainting, unusual tiredness or breathlessness: get urgent medical advice. Pauses of several seconds on a monitor need prompt review.
+
+A fast rate is risky because when the ventricles beat too quickly, they do not have time to fill properly. Blood pressure can fall, the heart muscle can become short of oxygen, and over weeks a persistently fast rate can weaken the heart (**tachycardia-induced cardiomyopathy**).
+
+## AFib heart rate bands: what each range means
+
+| Resting heart rate in AFib | What it usually means | What to do |
+| --- | --- | --- |
+| **Under 40 bpm** | Very slow. May mean too much rate-slowing medicine, or conduction disease | Urgent advice the same day; emergency if fainting or very unwell |
+| **40–59 bpm** | Slow. Can be fine during sleep or in fit people; may cause tiredness or dizziness | Tell your doctor, especially if you have symptoms or medicines were recently changed |
+| **60–80 bpm** | Well controlled; the "strict" range | Usual follow-up |
+| **80–110 bpm** | Acceptable for many people ("lenient" control) if they feel well and their heart pumps normally | Usual follow-up; tell your doctor if symptoms bother you |
+| **110–150 bpm** | Fast. AFib with rapid ventricular response (RVR) | Contact your doctor or care team the same day; seek care sooner if it does not settle within an hour or two, or you feel unwell |
+| **Over 150 bpm** | Very fast | **Emergency care**, even if you feel mostly OK |
+| **Any rate + chest pain, fainting, severe breathlessness, confusion, stroke signs** | Possible instability, heart attack or stroke | **Call emergency services now** |
+
+These bands are a general guide, not personal advice. Your cardiologist may set different targets for you, and their advice comes first.
+
+## AFib heart rate targets: lenient vs strict control
+
+Doctors manage AFib with either **rate control** (keeping the rate in a safe range while the rhythm stays irregular) or **rhythm control** (trying to restore and keep normal sinus rhythm). Many people have both.
+
+For rate control, the key trial is **RACE II** (New England Journal of Medicine, 2010). It compared:
+
+- **Lenient control:** resting heart rate under 110 bpm
+- **Strict control:** resting heart rate under 80 bpm, and under 110 bpm during moderate exercise
+
+In people with permanent AFib, lenient control was **no worse** for major outcomes and was easier to achieve, with fewer medicine changes and clinic visits.
+
+Current guidance reflects this. The 2023 ACC/AHA/ACCP/HRS AFib guideline and the 2024 European (ESC) guideline both accept a resting target of **under about 100–110 bpm** as a reasonable starting point. They advise a **stricter target** for people who still have symptoms, or whose heart function is reduced or may be suffering from the fast rate. Your doctor chooses the target based on your symptoms, heart function and other conditions.
+
+## What is AFib with RVR?
+
+**RVR (rapid ventricular response)** means AFib with a ventricular rate over 100 bpm. It is common when AFib first starts, during an infection, dehydration, heavy alcohol use, an overactive thyroid, after surgery, or when medicines are missed.
+
+On an ECG, RVR shows as an **irregularly irregular, fast, usually narrow-QRS rhythm with no P waves**. See [AFib with RVR](https://www.ecgmeans.com/afib-with-rvr/) for the full picture. RVR can cause palpitations, breathlessness, chest tightness, dizziness and fatigue. A rate that stays high needs medical treatment, and also a search for whatever triggered it.
+
+## Slow AFib: when the rate is too low
+
+Sometimes AFib runs slowly, below 50 or 60 bpm. Common reasons:
+
+- **Rate-control medicines** (such as beta-blockers, certain calcium channel blockers or digoxin), particularly after a dose change. Do not stop or change these yourself. Call your doctor.
+- **Conduction system disease** in older people, sometimes as part of [sick sinus syndrome](https://www.ecgmeans.com/sick-sinus-syndrome/) ("tachy-brady syndrome", where fast AFib alternates with slow rates or pauses).
+- **High potassium** or an underactive thyroid.
+
+**Pauses** of 3 seconds or longer while awake, or symptoms such as fainting, may mean a pacemaker is needed. Slow AFib with a *regular* rhythm can be a sign of complete heart block and needs prompt assessment.
+
+## How to measure your heart rate in AFib
+
+AFib makes pulse readings tricky, because some beats are too weak to reach your wrist.
+
+1. **Rest for 5 minutes**, sitting down.
+2. **Count for a full 60 seconds.** Counting for 15 seconds and multiplying by 4 is unreliable when beats are irregular.
+3. **Count at the chest if you can** (the **apical** rate, listening with a stethoscope or feeling the heartbeat). This is more accurate than the wrist.
+4. **Pulse deficit:** the apical rate is often higher than the wrist (radial) rate in AFib, because some early beats pump too little blood to be felt. A large gap suggests the rate is fast and poorly controlled.
+5. **Write it down** with the time, how you felt, and any triggers (alcohol, caffeine, poor sleep, illness).
+
+### Smartwatches and home blood pressure monitors
+
+- **Smartwatches** use optical sensors that can **undercount or overcount** during irregular, fast rhythms. Their single-lead ECG feature is better for confirming AFib than for precise rate counting.
+- **Automatic blood pressure monitors** may show an error, or an inaccurate rate, in AFib.
+- If a device reading does not match how you feel, count your pulse yourself or get a proper ECG.
+
+A 12-lead ECG is the reference standard. On a strip, count the QRS complexes in 6 seconds and multiply by 10. Our [ECG heart rate calculator](https://www.ecgmeans.com/ecg-heart-rate-calculator/) explains this method.
+
+## Is a heart rate of 120 or 130 dangerous with AFib?
+
+A resting rate of 120–130 bpm is **too fast to leave untreated**, but it is not usually an emergency if you feel well. Contact your doctor or AFib clinic the same day. They may adjust treatment or check for a trigger. If it comes with chest pain, fainting, severe breathlessness or confusion, or climbs above about 150 bpm, treat it as an emergency.
+
+During **exercise**, AFib rates rise more steeply than in sinus rhythm. A short burst to 130–150 bpm during exertion that settles quickly with rest is different from the same rate at rest. Ask your doctor what is acceptable for you during activity.
+
+## Is an AFib heart rate of 100 normal?
+
+A resting rate around 100 bpm is at the upper edge of acceptable. Many people feel fine at this rate, and lenient targets allow up to about 110 bpm. If you have symptoms, a weak heart, or your rate is drifting upward over days, your doctor may aim lower.
+
+## Get urgent help: AFib emergency warning signs
+
+**Get urgent help** and call 911 (US), 999 (UK) or 112 (EU) if you have AFib and:
+
+- chest pain, pressure or tightness
+- fainting or nearly fainting
+- severe breathlessness, or breathlessness when lying flat
+- confusion, or very cold, clammy skin
+- a resting heart rate over about 150 bpm
+- **stroke signs:** face drooping, arm weakness, speech difficulty (**BE FAST**: balance, eyes, face, arm, speech, time to call)
+- heavy bleeding while on a blood thinner
+
+Stroke prevention is the other half of AFib care. Even a well-controlled heart rate does not remove stroke risk, which is why many people with AFib are offered anticoagulants. See [atrial fibrillation](https://www.ecgmeans.com/atrial-fibrillation/).
+
+## What usually happens next
+
+1. **ECG to confirm AFib** and measure the true ventricular rate.
+2. **Look for triggers**: infection, thyroid, anemia, dehydration, alcohol, sleep apnea, missed medicines.
+3. **Rate control** with medicines, adjusted to your target; or **rhythm control** (cardioversion, antiarrhythmic drugs or catheter ablation) in suitable people.
+4. **Stroke risk assessment** (often using the CHA₂DS₂-VASc score) and a discussion about blood thinners.
+5. **Monitoring** with a Holter or patch to check the rate over 24 hours or longer, including during activity and sleep.
+6. **Echocardiogram** to check heart pumping function and valves.
+
+### Questions to ask your doctor
+
+- What resting heart rate should I aim for, and what rate should make me call you?
+- What rate is acceptable when I exercise?
+- How should I measure my heart rate, and can I trust my watch?
+- Is rhythm control (cardioversion or ablation) an option for me?
+- What is my stroke risk, and do I need a blood thinner?
+@@FAQ@@
+Q: What is a normal heart rate for someone with AFib?
+A: For most people, a resting rate of about 60–100 bpm is ideal, and up to about 110 bpm is often acceptable if they feel well and their heart pumps normally.
+Q: What heart rate with AFib should send me to the ER?
+A: A resting rate above about 150 bpm, or any rate with chest pain, fainting, severe breathlessness, confusion or stroke signs. Call 911, 999 or 112.
+Q: Can AFib cause a low heart rate?
+A: Yes. AFib can run slowly because of rate-control medicines or disease in the heart's conduction system. A rate under about 40–50 bpm with dizziness or fainting needs urgent advice.
+Q: Why is my wrist pulse lower than my heart rate at the chest?
+A: In AFib some beats come so early that they push out too little blood to be felt at the wrist. This gap is called a pulse deficit.
+Q: Is AFib with a normal heart rate still dangerous?
+A: The rate may be safe, but AFib still raises stroke risk, so anticoagulation and follow-up remain important even when the rate is controlled.
+Q: How quickly should a fast AFib rate come down?
+A: If a resting rate above 110 bpm does not settle within an hour or two, contact your care team. Seek emergency care at once for symptoms or rates above 150 bpm.
+Q: What is a dangerous heart rate with AFib during exercise?
+A: AFib rates rise faster with activity. RACE II used under 110 bpm during moderate exercise as a strict target. Ask your doctor for a personal limit, and stop if you feel faint or have chest pain.
+@@RELATED@@
+Atrial Fibrillation on ECG: What It Means | https://www.ecgmeans.com/atrial-fibrillation/ | Needs clinician review
+AFib with RVR: What It Means on an ECG | https://www.ecgmeans.com/afib-with-rvr/ | Needs clinician review
+AFib vs VFib: Key Differences | https://www.ecgmeans.com/afib-vs-vfib/ | NONE
+Atrial Fibrillation vs Atrial Flutter | https://www.ecgmeans.com/afib-vs-aflutter/ | NONE
+Sinus Tachycardia: What It Means | https://www.ecgmeans.com/sinus-tachycardia/ | Depends on context
+Sick Sinus Syndrome on an ECG | https://www.ecgmeans.com/sick-sinus-syndrome/ | Needs clinician review
+@@ALSO@@
+what is a dangerous heart rate with afib, afib heart rate, afib heart rate range, afib heart rate too high, afib heart rate too low, afib with rvr heart rate, normal heart rate with afib, target heart rate afib, rate control afib target, lenient rate control, afib pulse deficit, afib heart rate 150, afib heart rate 120, afib smartwatch heart rate
+@@SOURCES@@
+Atrial Fibrillation with Rapid Ventricular Response (RVR) | https://my.clevelandclinic.org/health/diseases/24578-atrial-fibrillation-with-rvr
+Lenient versus Strict Rate Control in Patients with Atrial Fibrillation (RACE II, NEJM 2010) | https://pubmed.ncbi.nlm.nih.gov/20231232/
+2023 ACC/AHA/ACCP/HRS Guideline for the Diagnosis and Management of Atrial Fibrillation | https://www.ahajournals.org/doi/10.1161/CIR.0000000000001193
+Atrial Fibrillation (StatPearls) | https://www.ncbi.nlm.nih.gov/books/NBK526072/
+Atrial Fibrillation: Symptoms (NHS) | https://www.nhs.uk/conditions/atrial-fibrillation/symptoms/
+@@END@@

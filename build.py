@@ -32,6 +32,7 @@ import markdown as mdlib
 import sys as _sys
 _sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import ecg_svg
+import leads_svg
 INDEXNOW_KEY = "7f3c9a1e5d2b48c6a0e4f1b9d8c27e53"
 
 HUBS = [
@@ -239,7 +240,14 @@ PAGE_UPDATED = {}   # slug -> per-page UPDATED date (falls back to MODIFIED)
 ABOUT_NAME = {"what-is-an-ekg": "Electrocardiogram (ECG/EKG)", "how-to-read-ecg-report": "Electrocardiogram (ECG/EKG)",
   "if-ecg-is-normal-is-my-heart-ok": "Electrocardiogram (ECG/EKG)", "ekg-vs-echocardiogram": "Electrocardiogram vs echocardiogram",
   "qtc-calculator": "Corrected QT interval (QTc)", "ecg-heart-rate-calculator": "Heart rate on the electrocardiogram",
-  "ecg-axis-calculator": "QRS axis", "normal-ecg-values": "Normal electrocardiogram values"}
+  "ecg-axis-calculator": "QRS axis", "normal-ecg-values": "Normal electrocardiogram values",
+  "12-lead-ecg-placement": "12-lead electrocardiogram electrode placement", "5-lead-ecg-placement": "5-lead ECG electrode placement",
+  "3-lead-ecg-placement": "3-lead ECG electrode placement", "ecg-vs-ekg": "Electrocardiogram (ECG/EKG)",
+  "eeg-vs-ekg": "Electroencephalogram vs electrocardiogram", "can-an-ekg-detect-a-heart-attack": "Myocardial infarction on the electrocardiogram",
+  "does-an-ekg-show-blockage": "Coronary artery disease and the electrocardiogram", "what-can-an-ekg-detect": "Electrocardiogram (ECG/EKG)",
+  "where-to-get-an-ekg": "Electrocardiogram (ECG/EKG)", "how-to-read-an-ekg-strip": "Electrocardiogram interpretation",
+  "ecg-interpretation-cheat-sheet": "Electrocardiogram interpretation", "ecg-rhythm-strips": "Cardiac arrhythmias on the electrocardiogram",
+  "ekg-practice-strips": "Electrocardiogram rhythm recognition"}
 
 def write_page(rel_path, html_text):
     d = os.path.join(OUT, rel_path.strip("/"))
@@ -308,6 +316,9 @@ def render_content(s):
     trail = [("Home", "/"), (hub_label, f"/{hub}/" if hub else "/"), (h1_crumb(h1), None)]
 
     body_html, heads = render_md(body_md)
+    if "LEAD-DIAGRAM" in body_html:
+        fig_lead = leads_svg.figure_html(s)
+        body_html = re.sub(r'(<p>)?\s*(<!--LEAD-DIAGRAM-->|&lt;!--LEAD-DIAGRAM--&gt;)\s*(</p>)?', lambda m: fig_lead, body_html)
     tool_html = f.get("TOOL", "").strip()
 
     # schematic ECG illustration
@@ -587,6 +598,24 @@ def build_sitemaps(all_urls):
     open(os.path.join(OUT, "sitemap.xml"), "w").write(urlset(all_urls))
 
 # ---------- MAIN ----------
+def build_quiz_strips():
+    """Unlabelled, anonymised strips for the practice quiz (labels would give the answer away)."""
+    import hashlib
+    t = pages.get("ekg-practice-strips", {}).get("TOOL", "")
+    slugs = re.findall(r'"s": "([a-z0-9-]+)"', t)
+    if not slugs:
+        return
+    d = os.path.join(OUT, "assets", "ecg", "quiz"); os.makedirs(d, exist_ok=True)
+    for sl in slugs:
+        rows = ecg_svg.fig(sl)
+        if not rows:
+            continue
+        for r in rows:
+            for st in ([r] if isinstance(r, ecg_svg.Strip) else [x[1] for x in r[1]]):
+                st.labels = []; st.brackets = []
+        svg = ecg_svg.render(rows, "EKG practice strip")
+        open(os.path.join(d, hashlib.md5(("q-" + sl).encode()).hexdigest()[:10] + ".svg"), "w", encoding="utf-8").write(svg)
+
 def main():
     if os.path.isdir(OUT):
         shutil.rmtree(OUT)
@@ -604,6 +633,7 @@ def main():
         write_page(s, render_policy(s))
         all_urls.append((f"{HOST}/{s}/", "yearly", "0.3"))
 
+    build_quiz_strips()
     build_sitemaps(all_urls)
     open(os.path.join(ROOT, "og_pages.json"), "w").write(json.dumps(OG_PAGES))
     write_support_files()
@@ -644,7 +674,9 @@ RewriteCond %{{THE_REQUEST}} \\s/(.*/)?index\\.html[\\s?] [NC]
 RewriteRule ^(.*/)?index\\.html$ /%1 [R=301,L]
 # Block source dirs and generator files
 RewriteRule ^(content|scripts|src|node_modules|\\.github|\\.git)(/|$) - [F,L]
-RewriteRule ^(build|make_assets|ecg_svg)\\.py$ - [F,L]
+RewriteRule ^(build|make_assets|ecg_svg|leads_svg)\\.py$ - [F,L]
+# Legacy URL Google indexed with spaces
+RewriteRule ^ECG\\sReport\\sPhrases/?$ /ecg-report-phrases/ [R=301,L,NC]
 RewriteRule ^(README\\.md|package\\.json|\\.gitignore)$ - [F,L]
 
 AddType application/manifest+json .webmanifest
