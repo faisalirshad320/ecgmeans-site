@@ -86,6 +86,26 @@ A 5-lead system is designed for **continuous monitoring**, not full diagnosis. C
 
 Current American Heart Association monitoring standards note that **V1 is commonly the preferred lead for arrhythmia monitoring in adults**. V1 shows P waves fairly clearly and helps tell a [ventricular tachycardia](https://www.ecgmeans.com/ventricular-tachycardia/) from a [supraventricular tachycardia](https://www.ecgmeans.com/supraventricular-tachycardia/) conducted with a bundle branch pattern. A common monitor display is **lead II plus V1**: lead II for P waves and rate, V1 for QRS shape.
 
+## Common 5-lead placement mistakes
+
+Most monitoring problems come down to a handful of avoidable errors:
+
+- **Swapping the arm electrodes.** If white and black are reversed, lead I turns upside down and the displayed rhythm may look unfamiliar. Check that white is on the patient's right.
+- **Mixing color systems.** A nurse trained on IEC cables may put red on the right shoulder out of habit. On an AHA cable that puts the left-leg electrode on the right arm, which inverts lead II.
+- **Placing the lower electrodes too high.** Green and red should sit below the heart, on the lower ribs or abdomen. If they creep up onto the chest, the triangle around the heart shrinks and the complexes get smaller.
+- **Chest electrode drifting off V1.** If the brown electrode ends up a rib space too high or too far left, the QRS shape changes and comparisons over time become unreliable. Mark the position with a skin pen if your policy allows.
+- **Electrodes over large muscles.** The pectoral muscles and the upper abdomen tense with movement and breathing, adding noise.
+
+## Special situations
+
+**Surgery and procedures.** Keep electrodes away from the operative field and the planned site of defibrillator pads. Surgical teams sometimes move the chest electrode to V5, which is better at picking up ST changes from the lateral wall during anesthesia.
+
+**Women.** Place the chest electrode on the chest wall at the landmark, not on breast tissue. The upper electrodes sit below the collarbones, above the breast.
+
+**Children.** The same layout applies, using smaller pediatric electrodes. In children, lead II is commonly chosen as the main monitoring lead.
+
+**Burns, wounds and dressings.** Use the nearest intact skin and keep the four limb electrodes as symmetrical as possible. Document any change from the standard layout so the next shift places them the same way.
+
 ## Limitations of a 5-lead ECG
 
 - **It is not a 12-lead ECG.** With only one chest lead and torso-mounted limb electrodes, it can miss or mislabel ST changes. If a monitored patient develops chest pain, a full 12-lead ECG should be recorded.

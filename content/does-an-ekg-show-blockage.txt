@@ -75,6 +75,19 @@ Yes — this is where the EKG is most powerful. When an artery closes completely
 
 Partial blockages during a heart attack (NSTEMI) can be harder to see. For details, see [can an EKG detect a heart attack?](https://www.ecgmeans.com/can-an-ekg-detect-a-heart-attack/)
 
+## Symptoms that suggest a blockage
+
+Because the resting EKG is often normal, symptoms are usually the better guide. Narrowed coronary arteries commonly cause **angina**: a pressure, tightness, heaviness or burning in the chest that comes on with exertion, cold weather, a heavy meal or emotional stress, and eases within minutes of rest. It can spread to the arm, neck, jaw or back.
+
+Other possible signs include:
+
+- Breathlessness on exertion that is new or getting worse
+- Unusual tiredness with activity, especially in women and older adults
+- Discomfort felt only in the jaw, arm, back or upper stomach
+- Symptoms that come on at lower and lower levels of effort
+
+People with diabetes may have few or no symptoms. If you notice any of these, tell your doctor even if a recent EKG was normal. Chest pain at rest, or pain that is new and lasts more than a few minutes, is an emergency.
+
 ## Will an EKG show blockage if I have no symptoms?
 
 Usually not. Routine EKGs in people without symptoms rarely find coronary artery disease, and the US Preventive Services Task Force advises against routine EKG screening for low-risk adults who feel well. For people without symptoms, doctors more often estimate risk from age, blood pressure, cholesterol, diabetes and smoking. A coronary calcium score may help in some people whose risk is borderline.

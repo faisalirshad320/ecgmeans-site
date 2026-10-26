@@ -1,7 +1,7 @@
 @@TITLE@@
 Torsades de Pointes ECG: Twisting Polymorphic VT Explained
 @@DESC@@
-Torsades de pointes is a polymorphic ventricular tachycardia with twisting QRS on the ECG, linked to long QT. Causes, triggers, magnesium treatment and prevention.
+Torsades de pointes is a polymorphic ventricular tachycardia with twisting QRS on the ECG, tied to long QT. Causes, magnesium treatment and prevention.
 @@H1@@
 Torsades de Pointes: The "Twisting" Polymorphic VT on an ECG
 @@CATEGORY@@

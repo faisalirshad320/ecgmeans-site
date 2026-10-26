@@ -1,0 +1,182 @@
+@@TITLE@@
+AFib vs VFib: Key Differences, ECG Signs & Which Is Deadly
+@@DESC@@
+AFib vs VFib: atrial vs ventricular fibrillation compared — ECG signs, symptoms, pulse and consciousness, and why VFib needs CPR and defibrillation at once.
+@@H1@@
+AFib vs VFib: What Is the Difference?
+@@CATEGORY@@
+Comparisons | https://www.ecgmeans.com/ecg-comparisons/
+@@QUICK@@
+NONE
+@@UPDATED@@
+2026-10-26
+@@ANSWER@@
+AFib vs VFib comes down to which chambers are quivering. In atrial fibrillation (AFib), the upper chambers fibrillate but the ventricles keep pumping, so the person is usually awake with an irregular pulse. In ventricular fibrillation (VFib), the lower chambers quiver, no blood is pumped, and the person collapses without a pulse. VFib is cardiac arrest and needs CPR and defibrillation immediately.
+@@LEDE@@
+AFib and VFib sound almost identical, and both mean "fibrillation", a chaotic quivering of heart muscle. Where that quivering happens changes everything. AFib is a common, long-term rhythm problem that millions of people live with. VFib is a medical emergency that causes death within minutes unless someone starts CPR and uses a defibrillator. This page compares the two side by side: what happens in the heart, what each looks like on an ECG, how they feel, how they are treated, and whether one can lead to the other.
+@@BODY@@
+## AFib vs VFib at a glance
+
+| Feature | AFib (atrial fibrillation) | VFib (ventricular fibrillation) |
+| --- | --- | --- |
+| Chambers affected | Atria (upper chambers) | Ventricles (lower, main pumping chambers) |
+| Does the heart still pump? | Yes. Ventricles still contract, though irregularly | No. Effectively no blood flow |
+| Consciousness | Usually awake and talking | Collapses within seconds |
+| Pulse | Present, irregular; may be fast | **None** |
+| Breathing | Normal (may be breathless) | Stops, or only gasping |
+| ECG | Irregularly irregular narrow QRS, no P waves | Chaotic waves; no recognizable QRS |
+| Urgency | Needs medical care; emergency only with severe symptoms | **Cardiac arrest: call 911/999/112, CPR, defibrillate now** |
+| Main long-term risk | Stroke, heart failure | Death within minutes if untreated |
+| How common | Very common, especially over 65 | Less common; the main rhythm in sudden cardiac arrest |
+| Typical treatment | Rate or rhythm control, blood thinners, ablation | CPR, defibrillation (AED); then ICD for many survivors |
+
+## What is the difference between AFib and VFib?
+
+The heart has two upper chambers (atria) and two lower chambers (ventricles). Normally a single signal from the sinus node makes the atria contract and then the ventricles, in an orderly sequence.
+
+**In AFib**, the atria receive hundreds of disorganized signals a minute and quiver instead of squeezing. The **AV node** acts as a gatekeeper: it lets only some of those signals through to the ventricles. The ventricles therefore keep beating, irregularly and often fast, and they keep pumping blood. You lose the small "top-up" from the atria, which can cause tiredness or breathlessness, but circulation continues.
+
+**In VFib**, the chaos is in the ventricles themselves. The muscle fibres twitch out of sync, so the ventricles cannot squeeze. Blood pressure falls to almost zero and the brain loses its blood supply within seconds. That is **sudden cardiac arrest**. The difference in where the quivering happens explains why the symptoms, the urgency and the treatment of the two rhythms are so different.
+
+Put simply, AFib is a problem with the heart's rhythm, and VFib is a heart that has stopped pumping.
+
+## How AFib and VFib look on an ECG
+
+### Atrial fibrillation ECG
+
+- **Irregularly irregular** rhythm: R-to-R distances vary with no pattern
+- **No distinct P waves**; a fine or coarse wavy baseline (fibrillatory "f" waves)
+- **Narrow QRS complexes** (under 120 ms), unless there is also a bundle branch block
+- Ventricular rate anywhere from slow to over 150 bpm. Over 100 is called [AFib with RVR](https://www.ecgmeans.com/afib-with-rvr/)
+
+### Ventricular fibrillation ECG
+
+- **Chaotic, irregular deflections** that vary in shape, height and timing
+- **No identifiable P waves, QRS complexes or T waves**
+- Rate cannot be measured
+- **Coarse VF** has larger waves. **Fine VF** has small waves and can be mistaken for [asystole](https://www.ecgmeans.com/asystole/) (a flat line)
+
+| ECG feature | AFib | VFib |
+| --- | --- | --- |
+| P waves | Absent (f waves instead) | Absent |
+| QRS complexes | Present, usually narrow | Absent; no organized complexes |
+| Rhythm | Irregularly irregular | Completely chaotic |
+| Measurable rate | Yes | No |
+| Can the patient be talking? | Yes | No. If they are talking, it is not VF (check the leads for artifact) |
+
+**A practical tip:** a loose electrode, shivering or tooth-brushing can make a monitor show a VF-like trace in someone who is perfectly well. Always look at the person. A conscious, talking patient is not in VF. See [ECG artifact](https://www.ecgmeans.com/ecg-artifact/).
+
+## Symptoms: how AFib and VFib feel
+
+**AFib** can cause:
+
+- palpitations: a fluttering, racing or thumping heartbeat
+- breathlessness, especially on exertion
+- tiredness and reduced exercise tolerance
+- lightheadedness
+- chest discomfort
+- no symptoms at all. Many people find out from a routine ECG or a smartwatch alert
+
+**VFib** causes:
+
+- sudden collapse, sometimes after a few seconds of palpitations or chest pain
+- no pulse
+- no normal breathing (there may be gasping, called agonal breaths, which is **not** normal breathing)
+- unresponsiveness
+
+## Treatment: AFib vs VFib
+
+### VFib treatment: CPR and defibrillation immediately
+
+VFib is treated by **anyone nearby**, not only by doctors:
+
+1. **Call 911 (US), 999 (UK) or 112 (EU)** and send someone for an AED (automated external defibrillator).
+2. **Start chest compressions** at once: hard and fast in the center of the chest, about 100–120 per minute.
+3. **Use the AED** as soon as it arrives. It analyses the rhythm and tells you when to shock.
+4. Continue CPR between shocks until paramedics take over.
+
+Every minute without CPR and defibrillation sharply reduces the chance of survival. Survivors are usually investigated for the cause (often a heart attack or heart muscle disease), and many receive an **ICD** (implantable cardioverter-defibrillator), which shocks the heart automatically if VF returns. More detail: [ventricular fibrillation](https://www.ecgmeans.com/ventricular-fibrillation/).
+
+### AFib treatment
+
+AFib treatment is planned, not usually immediate, and has three goals:
+
+- **Prevent stroke.** Blood clots can form in the quivering atria. Many people are offered an anticoagulant based on their stroke-risk score.
+- **Control the rate.** Medicines keep the ventricular rate in a safe range. See [what is a dangerous heart rate with AFib](https://www.ecgmeans.com/afib-heart-rate/).
+- **Control the rhythm** in suitable people, using electrical cardioversion, antiarrhythmic medicines or catheter ablation.
+
+Lifestyle factors matter too: blood pressure, weight, alcohol, sleep apnea and exercise all affect how often AFib occurs. More detail: [atrial fibrillation](https://www.ecgmeans.com/atrial-fibrillation/).
+
+Note that defibrillation for VF and **cardioversion** for AFib are not the same. Cardioversion uses a lower-energy shock **synchronized** to the QRS, usually under sedation, in a planned procedure.
+
+## Which is more dangerous, AFib or VFib?
+
+**VFib**, without question. It is fatal within minutes if not treated.
+
+AFib is rarely immediately life-threatening, but it is not harmless. Over time it increases the risk of:
+
+- **stroke** (roughly five times higher overall than in people without AFib, depending on age and other conditions)
+- **heart failure**, particularly if the rate stays fast
+- reduced quality of life from symptoms
+
+## Causes and risk factors: AFib vs VFib
+
+The two rhythms share some risk factors, but their usual triggers are different.
+
+| | AFib | VFib |
+| --- | --- | --- |
+| Most common setting | Older age, high blood pressure, heart valve disease, heart failure | Heart attack or blocked coronary arteries |
+| Other heart causes | Overactive thyroid, sleep apnea, obesity, heart surgery | Cardiomyopathy, scar from an old heart attack, inherited channel disorders (long QT, Brugada syndrome) |
+| Triggers | Alcohol (including binge drinking), infection, dehydration, stimulants | Very low or high potassium, some drugs that prolong QT, electric shock, chest blow (commotio cordis) |
+| Warning rhythms | Often none; may follow frequent PACs | Ventricular tachycardia, [torsades de pointes](https://www.ecgmeans.com/torsades-de-pointes/), R-on-T PVCs |
+
+In practice, a person with AFib usually has a long-term condition that is managed in clinic. A person in VF has usually had a sudden event, most often a heart attack, and needs emergency care first and investigation afterwards.
+
+## Can AFib turn into VFib?
+
+Usually no. They start in different chambers, and the AV node normally protects the ventricles from the atrial chaos.
+
+The important exception is **AFib with Wolff-Parkinson-White (WPW) syndrome**. In WPW an extra electrical pathway can bypass the AV node, letting very fast atrial signals reach the ventricles directly. This can cause extremely fast, wide, irregular rates that may degenerate into VF. See [Wolff-Parkinson-White](https://www.ecgmeans.com/wolff-parkinson-white/). Very fast AFib in a heart already damaged by a heart attack or heart failure also carries more risk, and so do some medicines that prolong the QT interval.
+
+## AFib vs VFib vs VTach
+
+People often confuse three rhythms:
+
+| Rhythm | Where | Pulse? | Typical ECG |
+| --- | --- | --- | --- |
+| AFib | Atria | Yes | Irregular narrow QRS, no P waves |
+| [VTach](https://www.ecgmeans.com/ventricular-tachycardia/) | Ventricles | Sometimes | Fast, regular, wide QRS |
+| VFib | Ventricles | No | Chaotic, no QRS |
+
+Ventricular tachycardia can degenerate into VF, which is why sustained VT is treated urgently.
+
+**Get urgent help:** if someone collapses and is not breathing normally, call 911 (US), 999 (UK) or 112 (EU), start CPR and use an AED. If you have AFib with chest pain, fainting, severe breathlessness or stroke signs, call emergency services.
+@@FAQ@@
+Q: Is AFib or VFib worse?
+A: VFib is far more dangerous. It is cardiac arrest and is fatal within minutes without CPR and defibrillation. AFib is usually a long-term condition, though it raises stroke risk.
+Q: Can you survive ventricular fibrillation?
+A: Yes, if CPR starts immediately and a defibrillator is used quickly. Survival falls with every minute of delay, which is why public AEDs and bystander CPR save lives.
+Q: Do you shock AFib?
+A: Sometimes, with a planned, synchronized, lower-energy shock called cardioversion, usually under sedation. This is different from the emergency unsynchronized defibrillation used for VF.
+Q: Can you live a normal life with AFib?
+A: Many people do, with treatment to prevent stroke and control the heart rate or rhythm, plus attention to blood pressure, weight, alcohol and sleep.
+Q: What does the "fib" in AFib and VFib mean?
+A: Fibrillation: rapid, disorganized quivering of heart muscle fibres instead of a coordinated contraction.
+Q: Does an AED work for AFib?
+A: An AED is designed to detect and shock VF and pulseless fast VT in someone in cardiac arrest. It should only be used on a person who is unresponsive and not breathing normally.
+@@RELATED@@
+Ventricular Fibrillation (VF) on an ECG | https://www.ecgmeans.com/ventricular-fibrillation/ | Seek prompt care
+Atrial Fibrillation on ECG: What It Means | https://www.ecgmeans.com/atrial-fibrillation/ | Needs clinician review
+What Is a Dangerous Heart Rate With AFib? | https://www.ecgmeans.com/afib-heart-rate/ | Needs clinician review
+Ventricular Tachycardia (VT) on an ECG | https://www.ecgmeans.com/ventricular-tachycardia/ | Seek prompt care
+Atrial Fibrillation vs Atrial Flutter | https://www.ecgmeans.com/afib-vs-aflutter/ | NONE
+SVT vs VTach: Key Differences | https://www.ecgmeans.com/svt-vs-vtach/ | NONE
+@@ALSO@@
+afib vs vfib, vfib vs afib, atrial fibrillation vs ventricular fibrillation, ventricular fibrillation vs atrial fibrillation, a fib vs v fib, difference between afib and vfib, afib vs vfib ecg, afib vs vfib treatment, is vfib worse than afib, can afib turn into vfib, vf vs af
+@@SOURCES@@
+Ventricular Fibrillation (StatPearls) | https://www.ncbi.nlm.nih.gov/books/NBK537120/
+Atrial Fibrillation (StatPearls) | https://www.ncbi.nlm.nih.gov/books/NBK526072/
+Ventricular Fibrillation (American Heart Association) | https://www.heart.org/en/health-topics/arrhythmia/about-arrhythmia/ventricular-fibrillation
+Ventricular Fibrillation (VF) | https://litfl.com/ventricular-fibrillation-vf-ecg-library/
+Ventricular Fibrillation (Cleveland Clinic) | https://my.clevelandclinic.org/health/diseases/21878-ventricular-fibrillation
+@@END@@

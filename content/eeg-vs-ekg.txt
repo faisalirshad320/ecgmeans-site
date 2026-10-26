@@ -1,0 +1,157 @@
+@@TITLE@@
+EEG vs EKG: Brain Test vs Heart Test — Key Differences
+@@DESC@@
+EEG vs EKG compared: an EEG records brain waves, an EKG records the heart's electrical activity. Electrodes, test time, what each finds, and how to prepare.
+@@H1@@
+EEG vs EKG: What Is the Difference Between These Two Tests?
+@@CATEGORY@@
+Comparisons | https://www.ecgmeans.com/ecg-comparisons/
+@@QUICK@@
+NONE
+@@UPDATED@@
+2026-10-26
+@@ANSWER@@
+EEG vs EKG: an EEG (electroencephalogram) records electrical activity in the brain using small electrodes on the scalp, and is mainly used to investigate seizures and epilepsy. An EKG (electrocardiogram, also called ECG) records the heart's electrical activity using sticky pads on the chest and limbs, and checks heart rhythm and signs of heart damage. Both are painless and send no electricity into the body.
+@@LEDE@@
+EEG and EKG sound alike, use similar-looking wires and both produce wavy lines on a screen, so it is easy to mix them up — even hospital staff sometimes do, which is one reason Americans favor "EKG" over "ECG". But they look at completely different organs and answer different questions. Sometimes they are done together, for example when someone has fainted and doctors need to know whether the cause was the heart or the brain. This page compares the two tests side by side: what each measures, how long each takes, how to prepare, and what each can and cannot diagnose.
+@@BODY@@
+## EEG vs EKG: the key difference
+
+The main EEG vs EKG difference is the organ being studied. Both tests record electrical signals through the skin, but:
+
+- An **EEG** (electroencephalogram) records **brain waves** — the electrical activity of millions of nerve cells in the brain.
+- An **EKG** (electrocardiogram, also written [ECG](https://www.ecgmeans.com/ecg-vs-ekg/)) records the **heart's electrical activity** — the signals that trigger each heartbeat.
+
+Neither test puts electricity into your body. The electrodes only listen.
+
+## EEG vs EKG comparison table
+
+| Feature | EEG | EKG / ECG |
+| --- | --- | --- |
+| Full name | Electroencephalogram | Electrocardiogram |
+| Organ | Brain | Heart |
+| What it records | Brain waves (very small signals, microvolts) | Heart's electrical cycle (larger signals, millivolts) |
+| Electrodes | About 20–25 small disks on the scalp, held with paste or a cap | 10 sticky pads for a 12-lead test: 4 on limbs, 6 on chest |
+| Recording time | Routine test about 20–40 minutes; longer for sleep, video or ambulatory EEG | About 10 seconds for a resting 12-lead |
+| Total appointment | About 1–1.5 hours for a routine EEG including setup | About 5–10 minutes |
+| Preparation | Clean, dry hair with no conditioner or styling products; may need reduced sleep; may avoid caffeine | Usually none; avoid body lotion on the chest |
+| Main uses | Seizures, epilepsy, unexplained blackouts, encephalitis, sleep disorders, coma assessment | Heart rhythm problems, heart attack signs, conduction delays, palpitations, chest pain, pre-op checks |
+| Interpreted by | Neurologist or clinical neurophysiologist | Cardiologist, emergency or primary care doctor |
+| Pain or risk | Painless; flashing lights may rarely trigger a seizure in people with epilepsy (staff are prepared) | Painless; mild skin irritation from pads at most |
+
+## What is an EEG?
+
+An EEG measures the electrical activity of the outer layer of the brain (the cortex). Brain cells communicate with tiny electrical pulses, and large groups of them firing together create rhythmic patterns — "brain waves" — that change with alertness, sleep and disease.
+
+During a **routine EEG**:
+
+1. A technologist measures your head and marks electrode positions (a standard pattern called the 10–20 system).
+2. About 20–25 small metal disks are attached to the scalp with paste, or a fitted cap is used.
+3. You lie or sit still with your eyes closed for most of the recording.
+4. You may be asked to breathe deeply and quickly for a few minutes (hyperventilation) and to look at a flashing light (photic stimulation). These can bring out abnormal patterns.
+5. The paste is cleaned off. You may need to wash your hair at home.
+
+Other types include **sleep-deprived EEG** (you stay up late or all night beforehand), **ambulatory EEG** (a portable recorder worn at home for one to several days), and **video EEG** (recording brain waves and video together, often in hospital, to capture events as they happen).
+
+### What an EEG can diagnose
+
+- **Epilepsy and seizures** — the main reason it is done; it can help identify the seizure type
+- **Unexplained blackouts or "funny turns"** — helping separate seizures from other causes
+- **Encephalitis and encephalopathy** (brain inflammation or dysfunction from illness, toxins or liver/kidney failure)
+- **Sleep disorders**, as part of a sleep study
+- **Coma depth and brain function** in intensive care
+- **Monitoring during some brain surgeries**
+
+An EEG does not measure intelligence or read thoughts. A normal EEG also does not completely exclude epilepsy, because abnormal activity may not appear during a short test.
+
+## What is an EKG?
+
+An [EKG](https://www.ecgmeans.com/what-is-an-ekg/) records each heartbeat's electrical journey: the P wave (upper chambers), the QRS complex (lower chambers) and the T wave (reset). For a standard 12-lead EKG, ten electrodes are placed on the arms, legs and chest at set positions — see [12 lead ECG placement](https://www.ecgmeans.com/12-lead-ecg-placement/).
+
+You lie still for about 10 seconds while the machine records. Nothing special is needed beforehand, though it helps to avoid oily lotions on the chest and wear a top that is easy to remove.
+
+### What an EKG can diagnose
+
+- **Rhythm problems** such as [atrial fibrillation](https://www.ecgmeans.com/atrial-fibrillation/), [SVT](https://www.ecgmeans.com/supraventricular-tachycardia/), slow heart rates and extra beats
+- **Heart attack** — current or previous — and reduced blood supply; see [can an EKG detect a heart attack?](https://www.ecgmeans.com/can-an-ekg-detect-a-heart-attack/)
+- **Conduction problems** such as heart block and bundle branch block
+- **Thickened heart muscle** or chamber strain
+- **Electrolyte and drug effects**, including a long [QT interval](https://www.ecgmeans.com/qt-interval/)
+
+An EKG does not show the heart's structure or valves — that needs an [echocardiogram](https://www.ecgmeans.com/ekg-vs-echocardiogram/). For a broader list, see [what an EKG can detect](https://www.ecgmeans.com/what-can-an-ekg-detect/).
+
+## How the waves look different
+
+Both tests produce wavy lines, but the patterns are very different.
+
+| | EEG waves | EKG waves |
+| --- | --- | --- |
+| Named waves | Alpha, beta, theta and delta rhythms (by frequency) | P wave, QRS complex, T wave (by part of the heartbeat) |
+| Pattern | Continuous, many channels at once, changes with alertness and sleep | Repeats with every heartbeat, about 60–100 times a minute at rest |
+| Signal size | Microvolts — about a thousand times smaller than heart signals | Millivolts |
+| Abnormal example | Spikes and sharp waves suggesting a seizure tendency | Irregular rhythm, wide QRS, ST elevation |
+
+Because brain signals are so tiny, an EEG is easily disturbed by blinking, chewing and muscle tension — which is why you are asked to relax and keep still. The heart's own signal can even appear as a small regular blip on the EEG, which is one reason EEG labs record a heart channel alongside the brain channels.
+
+## Similarities between EEG and EKG
+
+- Both are **non-invasive** and painless.
+- Both use **surface electrodes** and record **voltage over time**.
+- Both can be done as a **short test** or as **long-term ambulatory monitoring** at home.
+- Neither test uses radiation or needles.
+- Both are interpreted by specialists, and in both cases a normal short recording does not exclude an intermittent problem — longer monitoring may be needed.
+
+## Why might you need both an EEG and an EKG?
+
+The commonest reason is **fainting or a sudden collapse**. Losing consciousness can come from the heart (a rhythm problem cutting off blood flow to the brain) or from the brain (a seizure). The two can even look similar to bystanders: a faint caused by a heart rhythm problem can produce brief jerking movements that resemble a seizure.
+
+Doctors therefore often start with an EKG — because heart causes can be dangerous and the test is quick — and add an EEG if the story suggests a seizure. Some people also wear a longer heart monitor such as a Holter or event monitor. Video EEG units also record a single EKG channel alongside the brain waves, so that heart rhythm can be checked at the same moment as brain activity.
+
+## How to prepare: EEG vs EKG
+
+| Step | EEG | EKG |
+| --- | --- | --- |
+| Hair | Wash the night before; no conditioner, oils, sprays or gels | No requirement |
+| Skin | No requirement | Avoid lotion or oil on chest; chest hair may be clipped |
+| Sleep | You may be asked to sleep less or not at all the night before | No requirement |
+| Caffeine | Often asked to avoid for several hours beforehand | No requirement for a resting EKG |
+| Food | Usually eat normally (low blood sugar can affect results) | Eat normally |
+| Medicines | Take as usual unless told otherwise — never stop seizure medicines on your own | Take as usual unless told otherwise |
+| Clothing | Button-front top; hair down, no clips or extensions where possible | Easy-to-remove top; avoid tights so ankle electrodes can attach |
+| Afterward | Arrange a lift home if sleep-deprived or sedated | Return to normal activities straight away |
+
+## Results: who reads them and how fast
+
+EKG results are often available immediately — the machine prints an automated interpretation, which a clinician then checks. Our guide on [how to read an ECG report](https://www.ecgmeans.com/how-to-read-ecg-report/) explains the common phrases. EEG recordings are longer and more complex, and a specialist reviews the whole tracing, so results usually take a few days.
+
+**Get urgent help** — call 911 (US), 999 (UK) or 112 (Europe) — for a seizure lasting more than five minutes, repeated seizures without waking in between, a first-ever seizure, chest pain, fainting during exercise, or a racing heartbeat with dizziness. These need emergency assessment, not an outpatient test.
+@@FAQ@@
+Q: Is an EEG the same as an EKG?
+A: No. An EEG records brain waves using scalp electrodes, while an EKG records the heart's electrical activity using chest and limb electrodes.
+Q: Which takes longer, an EEG or an EKG?
+A: An EEG. A routine EEG records for about 20–40 minutes plus setup time, while a resting EKG records for about 10 seconds.
+Q: Does an EEG or EKG hurt?
+A: Neither test hurts or sends electricity into your body. The EEG paste may feel cold and sticky, and removing EKG pads can tug on hair.
+Q: Can an EKG detect seizures?
+A: No. An EKG checks the heart, though it can find heart rhythm problems that cause fainting that may look like a seizure.
+Q: Can an EEG detect heart problems?
+A: Not directly. Many EEG systems record one heart channel for reference, but a proper EKG is needed to assess the heart.
+Q: Why do doctors order both an EEG and an EKG?
+A: Usually after a blackout, to work out whether it came from the brain (a seizure) or the heart (a rhythm problem).
+Q: What does the E in EEG and EKG stand for?
+A: Electro. EEG is electroencephalogram (electrical brain recording) and EKG is electrocardiogram (electrical heart recording, from the German spelling).
+@@RELATED@@
+ECG vs EKG: What's the Difference? | https://www.ecgmeans.com/ecg-vs-ekg/ | NONE
+What Is an EKG (ECG)? A Plain-English Guide | https://www.ecgmeans.com/what-is-an-ekg/ | Usually harmless
+EKG vs Echocardiogram: What's the Difference? | https://www.ecgmeans.com/ekg-vs-echocardiogram/ | NONE
+How to Read Your ECG Report: A Plain-English Guide | https://www.ecgmeans.com/how-to-read-ecg-report/ | Usually harmless
+12 Lead ECG Placement: Where Every Electrode Goes and Why | https://www.ecgmeans.com/12-lead-ecg-placement/ | NONE
+@@ALSO@@
+eeg vs ekg, ekg vs eeg, eeg vs ecg, ecg vs eeg, difference between eeg and ekg, eeg and ekg difference, electroencephalogram vs electrocardiogram, is eeg the same as ekg, eeg test, brain wave test vs heart test
+@@SOURCES@@
+EEG (electroencephalogram) – Mayo Clinic | https://www.mayoclinic.org/tests-procedures/eeg/about/pac-20393875
+Electroencephalogram (EEG) – Cleveland Clinic | https://my.clevelandclinic.org/health/diagnostics/9656-electroencephalogram-eeg
+EEG – MedlinePlus Medical Encyclopedia | https://medlineplus.gov/ency/article/003931.htm
+Electrocardiogram (ECG or EKG) – Mayo Clinic | https://www.mayoclinic.org/tests-procedures/ekg/about/pac-20384983
+Electrocardiogram (EKG/ECG) – Cleveland Clinic | https://my.clevelandclinic.org/health/diagnostics/16953-electrocardiogram-ekg
+@@END@@

@@ -1,7 +1,7 @@
 @@TITLE@@
 ECG vs EKG: Is There a Difference? (Same Test, Two Names)
 @@DESC@@
-ECG vs EKG: they are the same heart test. Why EKG has a K, what EKG stands for, what the test shows, its types, and how it differs from an EEG and an echocardiogram.
+ECG vs EKG: they are the same heart test. Why EKG has a K, what EKG stands for, what it shows, its types, and how it differs from an EEG and an echo.
 @@H1@@
 ECG vs EKG: What's the Difference?
 @@CATEGORY@@
@@ -104,6 +104,25 @@ Whether it is called an ECG or an EKG, the experience is the same:
 5. The electrodes are peeled off. The whole visit usually takes 5–10 minutes.
 
 It is painless, uses no needles and no radiation, and sends no electricity into your body — it only listens. Results are often available straight away, though a doctor should confirm the machine's printed interpretation. Our guide on [how to read an ECG report](https://www.ecgmeans.com/how-to-read-ecg-report/) explains the numbers and phrases you may see, and [normal ECG values](https://www.ecgmeans.com/normal-ecg-values/) lists the usual ranges.
+
+## Other names you may hear
+
+Besides ECG and EKG, you may see or hear:
+
+- **Electrocardiograph** — strictly, the machine that records the test, though people use it for the test too.
+- **"Cardiogram" or "heart tracing"** — informal names, often used by older patients and in the UK.
+- **12-lead** — shorthand used by paramedics and nurses for the standard resting ECG.
+- **Rhythm strip** — a longer printout of one or two leads, used to look closely at the rhythm. See [ECG rhythm strips](https://www.ecgmeans.com/ecg-rhythm-strips/).
+- **Telemetry** — continuous ECG monitoring in hospital, often with a 5-lead system.
+
+In German-speaking countries the test is called EKG; in French-speaking ones it is often written ECG (électrocardiogramme). Spanish uses ECG or EKG depending on the country.
+
+## Common myths about ECG vs EKG
+
+- **"An EKG is more detailed than an ECG."** False. They are the same test. Detail depends on the number of leads and how long the recording lasts.
+- **"An ECG gives you an electric shock."** False. The machine only records; no current is sent into the body.
+- **"A normal EKG means my arteries are clear."** Not necessarily. A resting ECG can be normal even when an artery is narrowed, because it only shows problems that affect the heart's electrical signals at that moment.
+- **"Smartwatch EKGs are the same as hospital ECGs."** No — a watch records one lead; a hospital ECG records twelve.
 
 ## Does it matter which term your doctor uses?
 

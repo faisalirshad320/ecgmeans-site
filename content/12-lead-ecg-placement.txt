@@ -1,7 +1,7 @@
 @@TITLE@@
 12 Lead ECG Placement: V1–V6 & Limb Lead Positions Guide
 @@DESC@@
-12 lead ECG placement step by step: limb electrodes, exact V1–V6 landmarks, placement in women, posterior V7–V9 and V4R, and how misplaced leads change the tracing.
+12 lead ECG placement step by step: limb electrodes, exact V1–V6 landmarks, women, posterior V7–V9, V4R, and how misplaced leads change the tracing.
 @@H1@@
 12 Lead ECG Placement: Where Every Electrode Goes and Why
 @@CATEGORY@@

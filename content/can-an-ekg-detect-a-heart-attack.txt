@@ -1,7 +1,7 @@
 @@TITLE@@
 Can an EKG Detect a Heart Attack? What It Shows & Misses
 @@DESC@@
-Can an EKG detect a heart attack? Often, but not always. What a heart attack looks like on an EKG, STEMI vs NSTEMI, old heart attacks, and why troponin matters.
+Can an EKG detect a heart attack? Often, not always. What a heart attack looks like on an EKG, STEMI vs NSTEMI, old heart attacks, and why troponin matters.
 @@H1@@
 Can an EKG Detect a Heart Attack? What It Shows and What It Can Miss
 @@CATEGORY@@
@@ -13,7 +13,7 @@ Seek prompt care
 @@ANSWER@@
 An EKG can detect many heart attacks, especially the large type called STEMI, which shows clear ST elevation. But it can miss others. Many NSTEMI heart attacks cause only subtle changes or a normal-looking EKG, so doctors also use repeat EKGs and troponin blood tests. A normal EKG does not rule out a heart attack. If you have chest pain, call 911 first.
 @@LEDE@@
-If you are reading this because you have chest pain right now, stop and call 911 (or 999 in the UK, 112 in Europe). Do not wait to get an EKG first. For everyone else, the question is a fair one. The EKG is the first test done for a suspected heart attack, and it is very good at spotting some of them. It is also known to miss others. This page explains what a heart attack looks like on an EKG, why the test can look normal during a real heart attack, how doctors close that gap, and what it means when an EKG shows a heart attack from the past.
+If you are reading this because you have chest pain right now, stop and call 911 (or 999 in the UK, 112 in Europe). Do not wait to get an EKG first. Otherwise, it is a fair question. The EKG is the first test done for a suspected heart attack, and it is very good at spotting some of them. It is also known to miss others. This page explains what a heart attack looks like on an EKG, why the test can look normal during a real heart attack, how doctors close that gap, and what it means when an EKG shows a heart attack from the past.
 @@BODY@@
 ## Can an EKG detect a heart attack?
 

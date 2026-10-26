@@ -1,7 +1,7 @@
 @@TITLE@@
 3 Lead ECG Placement: Positions, Colors & Einthoven Triangle
 @@DESC@@
-3 lead ECG placement explained: where the three electrodes go, AHA and IEC colors, why lead II is used for rhythm monitoring, 4-lead setups, and the limits of 3-lead ECG.
+3 lead ECG placement explained: where the three electrodes go, AHA and IEC colors, why lead II is used for monitoring, 4-lead setups, and key limits.
 @@H1@@
 3 Lead ECG Placement and the Einthoven Triangle
 @@CATEGORY@@
@@ -101,6 +101,18 @@ A 3-lead ECG is a rhythm tool. Its limits matter:
 - **It cannot reliably tell apart some wide-complex rhythms**, such as [ventricular tachycardia](https://www.ecgmeans.com/ventricular-tachycardia/) versus [SVT](https://www.ecgmeans.com/supraventricular-tachycardia/) with aberrant conduction. A chest lead such as V1 helps, which is why hospitals prefer 5-lead monitoring for adults.
 - **Torso placement changes wave shapes**, so measurements of intervals and voltages on a 3-lead monitor are not interchangeable with those on a formal ECG.
 - **Artifact is common.** Shivering, coughing, loose pads and movement can mimic dangerous rhythms. Always check the patient, not just the screen. See [ECG artifact](https://www.ecgmeans.com/ecg-artifact/).
+
+## Common 3-lead placement mistakes
+
+- **Arm electrodes reversed.** White and black swapped turns lead I upside down and makes lead II look like lead III. If the P waves in lead II suddenly look inverted, check the cables first.
+- **Mixed color systems.** Red means left leg on an AHA cable but right arm on an IEC cable. Read the printed label.
+- **Lower electrode too high.** If the red (LL) electrode is placed on the upper chest instead of below the ribs, lead II becomes small and the rate counter may miss beats.
+- **Electrodes too close together.** A small triangle gives small complexes. Spread the electrodes toward the shoulders and lower ribs.
+- **Loose or dried-out electrodes.** A "leads off" alarm or a flat line in one lead usually means poor contact, not a stopped heart. Check the patient first, then the pads.
+
+## Modified chest lead 1 (MCL1) with three electrodes
+
+When a chest-type view is needed but only a 3-lead cable is available, some units use a **modified chest lead 1 (MCL1)**. The left-arm electrode stays below the left collarbone, the left-leg electrode is moved to the V1 position (4th intercostal space, right sternal border), and the monitor is set to lead III. The result resembles V1 and shows the QRS shape better, which helps when looking at wide-complex beats. It is a workaround; a 5-lead system with a true chest electrode is preferred when available.
 
 ## Where 3-lead monitoring is used
 

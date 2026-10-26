@@ -52,10 +52,10 @@ Because it records electricity, an EKG is best at problems that change the heart
 
 This is the EKG's main strength. It shows whether each heartbeat starts in the normal place (the sinus node) and how regular the rhythm is. It reliably identifies:
 
-- [Atrial fibrillation](https://www.ecgmeans.com/atrial-fibrillation/) and [atrial flutter](https://www.ecgmeans.com/atrial-flutter/)
+- [Atrial fibrillation](https://www.ecgmeans.com/atrial-fibrillation/) and atrial flutter
 - [Supraventricular tachycardia](https://www.ecgmeans.com/supraventricular-tachycardia/)
 - Extra beats such as [PVCs](https://www.ecgmeans.com/premature-ventricular-contractions/) and PACs
-- [Sinus bradycardia](https://www.ecgmeans.com/sinus-bradycardia/) and [sinus tachycardia](https://www.ecgmeans.com/sinus-tachycardia/)
+- Sinus bradycardia and [sinus tachycardia](https://www.ecgmeans.com/sinus-tachycardia/)
 - Dangerous rhythms such as ventricular tachycardia
 
 The catch: it only sees the rhythm during the recording. If your symptoms come and go, the rhythm causing them may not be there on the day of the test.
@@ -109,6 +109,17 @@ High potassium can cause tall, peaked T waves and, if severe, dangerous rhythm c
 - **Rhythms that come and go.** A longer monitor is needed.
 
 For more on this, see [if your ECG is normal, is your heart OK?](https://www.ecgmeans.com/if-ecg-is-normal-is-my-heart-ok/)
+
+## Why the same EKG can mean different things
+
+An EKG result is never read in isolation. The software prints a list of statements, but a clinician decides what they mean for you, using:
+
+- **Your symptoms.** Mild ST changes in someone with chest pain get a very different response from the same changes in someone having a routine check.
+- **Your age and build.** Young, fit adults often have high voltages, slow heart rates and early repolarization that would look unusual in an older person but are normal for them.
+- **Older EKGs.** A finding that has been there unchanged for ten years is far less concerning than a new one.
+- **Medicines and blood results.** Some drugs lengthen the QT interval or change T waves, and potassium levels affect the tracing.
+
+This is why a computer reading of "abnormal ECG" is common and often turns out to be harmless. See [abnormal ECG](https://www.ecgmeans.com/abnormal-ecg/) for the usual reasons.
 
 ## Other heart tests that fill the gaps
 

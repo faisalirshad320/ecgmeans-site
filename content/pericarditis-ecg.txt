@@ -1,7 +1,7 @@
 @@TITLE@@
 Pericarditis ECG: 4 Stages, PR Depression & vs STEMI
 @@DESC@@
-Pericarditis ECG changes: widespread concave ST elevation and PR depression. See the 4 stages, how it differs from STEMI and early repolarization, and what comes next.
+Pericarditis ECG: widespread concave ST elevation and PR depression. See the 4 stages and how it differs from STEMI and early repolarization on the EKG.
 @@H1@@
 Pericarditis on an ECG: Stages, Signs and How It Differs From a Heart Attack
 @@CATEGORY@@
@@ -84,6 +84,10 @@ Inflammation can make fluid collect inside the pericardial sac (a pericardial ef
 - a fast heart rate
 
 When the fluid squeezes the heart and stops it filling, this is [cardiac tamponade](https://www.ecgmeans.com/cardiac-tamponade-ecg/), a medical emergency. The ECG cannot measure the fluid; an echocardiogram is the test that does.
+
+## How long pericarditis ECG changes take to resolve
+
+Most people with acute pericarditis feel better within one to three weeks once treatment starts, and the ECG usually normalizes over the following weeks. Lingering T-wave inversion on a later ECG does not by itself mean the inflammation is still active; doctors judge that from symptoms and blood markers such as CRP. If you need an ECG for another reason in the months afterwards, mention the pericarditis so that leftover changes are not mistaken for something new.
 
 ## Common causes
 

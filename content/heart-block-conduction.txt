@@ -1,9 +1,9 @@
 @@TITLE@@
-Heart Blocks & Conduction Explained | ECG Means
+Types of Heart Block: AV, Bundle Branch & Fascicular Blocks
 @@DESC@@
-First, second and third degree AV block, left and right bundle branch block, and fascicular block — which are harmless and which are not.
+Types of heart block explained: first, second and third degree AV block, bundle branch and fascicular blocks, with ECG signs and which ones are serious.
 @@H1@@
-AV Blocks and Bundle Branch Blocks
+Types of Heart Block: AV Blocks and Bundle Branch Blocks
 @@LEDE@@
 First, second and third degree AV block, left and right bundle branch block, and fascicular block — which are harmless and which are not.
 @@BODY@@
@@ -12,4 +12,66 @@ First, second and third degree AV block, left and right bundle branch block, and
 "Block" on an ECG report means a delay or interruption in how the electrical signal travels, not a blocked artery. AV blocks affect the junction between the upper and lower chambers; their degree (first, second or third) describes how many signals get through. Bundle branch and fascicular blocks affect the wiring inside the ventricles and change the shape and width of the QRS complex.
 
 Some of these findings are common and usually harmless, such as first degree AV block or right bundle branch block in a healthy person. Others, such as Mobitz II or complete heart block, can cause dizziness or fainting and often need a pacemaker. Each page below says which group a finding belongs to and what usually happens next.
+
+## Types of heart block
+
+There are two main families of heart block, named after where the signal is held up:
+
+- **AV blocks** happen at the AV node or just below it, between the atria and the ventricles. They are graded first, second (Mobitz I, Mobitz II and 2:1) and third degree, according to how many signals get through.
+- **Bundle branch and fascicular blocks** happen further down, in the cables that spread the signal through the ventricles. They widen or reshape the QRS complex but do not, on their own, stop beats from getting through.
+
+The table compares every type of heart block covered on this site. "Usually serious?" is a general guide only — the person's symptoms, age, medicines and other heart conditions always change the picture.
+
+| Type of block | What happens | ECG sign | Usually serious? | Read more |
+| --- | --- | --- | --- | --- |
+| **First degree AV block** | Every signal gets through, but slowly | PR interval longer than 200 ms, every P followed by a QRS | Usually not | [First degree AV block](https://www.ecgmeans.com/first-degree-av-block/) |
+| **Second degree, Mobitz I (Wenckebach)** | The AV node tires a little more with each beat until one signal is dropped | PR gets progressively longer, then a P wave has no QRS; the cycle repeats | Often not, especially in athletes and at night | [Mobitz type I](https://www.ecgmeans.com/second-degree-av-block-type-1/) |
+| **Second degree, Mobitz II** | Signals are suddenly dropped without warning, usually below the AV node | Constant PR interval, then a P wave with no QRS | Yes — can progress to complete block; usually needs a pacemaker | [Mobitz type II](https://www.ecgmeans.com/second-degree-av-block-type-2/) |
+| **2:1 AV block** | Every second signal is blocked | Two P waves for every QRS; cannot be classed as Mobitz I or II from one strip | Needs prompt assessment | [2:1 AV block](https://www.ecgmeans.com/2-1-av-block/) |
+| **Third degree (complete) heart block** | No signals pass from atria to ventricles; a slow back-up pacemaker takes over | P waves and QRS complexes march independently; slow ventricular rate | Yes — usually needs a pacemaker | [Third degree AV block](https://www.ecgmeans.com/third-degree-av-block/) |
+| **Right bundle branch block (RBBB)** | The right ventricle is activated late | QRS 120 ms or more, rSR' ("rabbit ears") in V1, wide S wave in V6 | Usually not, if the heart is otherwise normal | [RBBB](https://www.ecgmeans.com/right-bundle-branch-block/) |
+| **Left bundle branch block (LBBB)** | The left ventricle is activated late | QRS 120 ms or more, broad notched R in V6, deep S in V1 | Often linked to heart disease; needs an echocardiogram. New LBBB with chest pain is an emergency | [LBBB](https://www.ecgmeans.com/left-bundle-branch-block/) |
+| **Left anterior fascicular block (LAFB)** | The front branch of the left bundle is blocked | Marked left axis deviation (about −45° or beyond), narrow QRS | Usually not on its own | [LAFB](https://www.ecgmeans.com/left-anterior-fascicular-block/) |
+| **Left posterior fascicular block (LPFB)** | The back branch of the left bundle is blocked | Right axis deviation with no other explanation, narrow QRS | Uncommon; needs clinician review | [LPFB](https://www.ecgmeans.com/left-posterior-fascicular-block/) |
+| **Bifascicular block** | Two of the three ventricular cables are blocked, most often RBBB plus LAFB | RBBB pattern with left (or right) axis deviation | Needs review; a pacemaker only if symptoms or higher-grade block | [Bifascicular block](https://www.ecgmeans.com/bifascicular-block/) |
+| **Trifascicular block** | Disease affects all three cables; the term is often used for bifascicular block plus first degree AV block | Bifascicular pattern with a long PR interval | Needs review; fainting raises concern for intermittent complete block | [Trifascicular block](https://www.ecgmeans.com/trifascicular-block/) |
+
+A related but different finding is [sinoatrial block](https://www.ecgmeans.com/sinoatrial-block/), where the signal is held up as it leaves the sinus node, before it reaches the AV node.
+
+## Degrees of AV block, from mild to severe
+
+It helps to picture the AV node as a gate between the upper and lower chambers:
+
+1. **First degree** — the gate opens slowly, but every signal passes.
+2. **Second degree** — the gate sometimes stays shut. In Mobitz I it closes after a predictable warning (the PR lengthening); in Mobitz II it closes without warning.
+3. **Third degree** — the gate is shut completely. The ventricles rely on a slower back-up pacemaker in the junction or the ventricles themselves, such as a [junctional escape rhythm](https://www.ecgmeans.com/junctional-escape-rhythm/).
+
+The higher the degree, and the lower in the conduction system the block sits, the more likely it is to cause symptoms and to need a pacemaker. For a side-by-side look at the two bundle branch patterns, see [LBBB vs RBBB](https://www.ecgmeans.com/lbbb-vs-rbbb/).
+
+## Common causes of heart block
+
+- Age-related scarring of the conduction system (the most common cause in older adults)
+- Heart attack, especially an inferior heart attack for AV block
+- Heart-rate-slowing medicines such as beta-blockers, some calcium-channel blockers and digoxin
+- High vagal tone in athletes and during sleep (usually first degree or Mobitz I)
+- High potassium levels
+- Heart valve disease and valve procedures
+- Inflammatory and infectious conditions such as myocarditis and Lyme disease
+- Congenital heart block, present from birth
+
+## Symptoms and when to get help
+
+Many blocks — especially first degree AV block, Mobitz I, RBBB and LAFB — cause no symptoms and are found by chance. Higher-grade blocks can slow the heart enough to cause tiredness, breathlessness, light-headedness or fainting.
+
+**Get urgent help** if a heart block finding comes with fainting, near-fainting, chest pain, severe breathlessness or confusion, or if the pulse is very slow and you feel unwell. Call 911 (US), 999 (UK) or 112 (EU).
+
+## What usually happens next
+
+1. Comparison with earlier ECGs to see whether the block is new
+2. Medication review and blood tests, including potassium and thyroid
+3. An echocardiogram if a bundle branch block or higher-grade AV block is found
+4. Ambulatory monitoring (Holter or patch) if symptoms come and go
+5. A pacemaker for Mobitz II, complete heart block, or other blocks that cause symptoms without a reversible cause
+
+Choose the specific finding from your report in the list below for a full explanation, including what it looks like, what causes it and the questions to ask your doctor.
 @@END@@

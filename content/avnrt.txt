@@ -1,7 +1,7 @@
 @@TITLE@@
 AVNRT ECG: Signs, Causes & Treatment of the Commonest SVT
 @@DESC@@
-AVNRT is the most common type of SVT. What it looks like on an ECG (pseudo-r' in V1), why it happens, vagal maneuvers, adenosine, ablation and how it differs from AVRT/WPW.
+AVNRT is the most common SVT. How it looks on an ECG (pseudo-r' in V1), why it happens, vagal maneuvers, adenosine, ablation, and how it differs from AVRT.
 @@H1@@
 AVNRT on an ECG: What AV Nodal Re-entrant Tachycardia Means
 @@CATEGORY@@

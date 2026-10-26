@@ -1,7 +1,7 @@
 @@TITLE@@
 What Does the P Wave Represent? ECG P Wave Explained
 @@DESC@@
-What does the P wave represent on an ECG? Atrial depolarization. Learn normal P wave values, abnormal shapes (P mitrale, P pulmonale, inverted, absent) and what they mean.
+What does the P wave represent on an ECG? Atrial depolarization. Normal P wave values, plus what P mitrale, P pulmonale, inverted or absent P waves mean.
 @@H1@@
 What Does the P Wave Represent on an ECG?
 @@CATEGORY@@
@@ -90,6 +90,20 @@ If some P waves are not followed by a QRS, the signal is being blocked between t
 | Early P wave with no QRS after it | Blocked (non-conducted) PAC, which is usually harmless |
 
 Mobitz II and complete heart block can cause fainting and usually need prompt specialist care, sometimes a pacemaker.
+
+## Normal P wave variations that are not a problem
+
+Not every unusual-looking P wave is abnormal. Several harmless things change its shape:
+
+- **Heart rate.** At faster rates the P wave can grow slightly taller and may run into the end of the previous T wave, which makes it hard to see.
+- **Breathing.** The heart's position shifts as you breathe in and out, so P wave height can vary a little from beat to beat, especially in lead III.
+- **Body build.** In tall, thin people the heart hangs more vertically, and P waves in the inferior leads can look taller without any atrial enlargement.
+- **Lead placement.** Swapping the left and right arm electrodes turns the P wave upside down in lead I. That is a recording error, not heart disease, and repeating the ECG with correct placement fixes it.
+- **Low atrial rhythm in young people.** A slightly different P wave axis is common in children and fit young adults and usually comes and goes.
+
+## How doctors measure the P wave
+
+The P wave is measured in the lead where it is clearest, usually **lead II** for height and duration and **V1** for the two-part (biphasic) shape. Duration runs from where the P wave leaves the baseline to where it returns. Height runs from the baseline to the peak. In V1, a deep, wide final negative part (at least 1 small box deep and 1 small box wide) suggests left atrial enlargement. A tall first positive part (over 1.5 mm) suggests right atrial enlargement.
 
 ## Is an abnormal P wave serious?
 

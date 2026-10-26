@@ -1,16 +1,24 @@
 @@TITLE@@
-Supraventricular Tachycardia (SVT): What It Means
+SVT on ECG: What Supraventricular Tachycardia Looks Like
 @@DESC@@
-SVT on an ECG means a fast, regular heart rhythm starting above the ventricles. It's rarely dangerous in a healthy heart but needs a doctor's review.
+SVT on an ECG is a fast, regular, narrow-QRS rhythm at 150–250 bpm. What SVT looks like on an ECG strip, AVNRT vs AVRT vs atrial tachycardia, and what happens next.
 @@H1@@
-Supraventricular Tachycardia on an ECG: What It Means
+SVT on an ECG: What Supraventricular Tachycardia Looks Like and Means
 @@CATEGORY@@
 Heart Rhythms | https://www.ecgmeans.com/heart-rhythms/
 @@QUICK@@
 Needs clinician review
+@@UPDATED@@
+2026-10-26
+@@ANSWER@@
+On an ECG, SVT (supraventricular tachycardia) usually looks like a fast, perfectly regular rhythm at about 150–250 beats per minute with narrow QRS complexes and P waves that are hidden or hard to see. It starts and stops suddenly. SVT is rarely dangerous in an otherwise healthy heart, but it needs a doctor's review, and urgent help if it causes chest pain or fainting.
 @@LEDE@@
 Supraventricular tachycardia (SVT) is a fast heart rhythm that starts at or above the AV node, in the upper chambers or the junction, rather than in the lower chambers (the ventricles). It usually begins and ends suddenly. SVT can feel unpleasant, but it is rarely dangerous in an otherwise healthy heart, and recurrent episodes can very often be cured. Because it can sometimes need urgent treatment, a doctor should review it.
 @@BODY@@
+## SVT ECG at a glance
+
+If you have been handed an SVT ECG strip — or "SVT" appears on your report — the short version is: the heart was racing, perfectly evenly, using its normal wiring to the ventricles but driven from above. The ECG is the test that makes the diagnosis, and a tracing captured during an episode is the single most useful thing your doctor can have. (ECG and EKG are the same test, so "SVT on EKG" means the same thing.)
+
 ## What "Supraventricular tachycardia" means
 
 "Supraventricular" means "above the ventricles", and "tachycardia" means a fast heart rate. Supraventricular tachycardia (SVT) is a fast heart rhythm that starts at or above the AV node, the electrical relay station between the upper and lower chambers of the heart. It begins in the atria (the upper chambers) or the junction, not in the ventricles.
@@ -22,7 +30,11 @@ The two commonest types are:
 
 A typical feature of SVT is that it **begins and ends abruptly**. People often say it feels like a switch has been flicked on, and later flicked off.
 
-## What it looks like on the ECG
+Strictly, "supraventricular tachycardia" is an umbrella term that also includes sinus tachycardia, atrial flutter and atrial fibrillation. In everyday use, though — and on most ECG reports — "SVT" means the sudden-onset, regular re-entry rhythms described on this page (sometimes called paroxysmal SVT, or PSVT).
+
+## What does SVT look like on an ECG?
+
+### What it looks like on the ECG
 
 On an ECG, SVT usually appears as a **regular, narrow-QRS tachycardia**. In plain terms:
 
@@ -32,6 +44,41 @@ On an ECG, SVT usually appears as a **regular, narrow-QRS tachycardia**. In plai
 - **Sudden onset and offset:** when an episode is captured from start to finish, it starts and stops suddenly.
 
 Sometimes SVT can look **wide** on the ECG. This happens if the person already has a bundle branch block, or if one develops because of the fast rate (called aberrancy). Doctors take wide-complex fast rhythms very seriously, as explained below.
+
+### Reading an SVT ECG strip step by step
+
+1. **Rate:** count the QRS complexes in a 6-second strip and multiply by 10. SVT is usually 150–250.
+2. **Regularity:** measure the gaps between R waves. In SVT they are virtually identical.
+3. **QRS width:** under 3 small boxes (120 ms) is narrow.
+4. **P waves:** look just after the QRS, in the ST segment, and in lead V1 and the inferior leads (II, III, aVF) for small notches that are really hidden P waves.
+5. **Compare with a tracing in normal rhythm:** a [delta wave](https://www.ecgmeans.com/delta-wave/) on the normal-rhythm ECG points to an accessory pathway (AVRT).
+
+For more practice, see our [ECG rhythm strips](https://www.ecgmeans.com/ecg-rhythm-strips/) guide.
+
+## Types of SVT on the ECG: AVNRT, AVRT and atrial tachycardia
+
+| Feature | [AVNRT](https://www.ecgmeans.com/avnrt/) | AVRT (accessory pathway) | [Atrial tachycardia](https://www.ecgmeans.com/atrial-tachycardia/) |
+| --- | --- | --- | --- |
+| **How common** | The most common type in adults | Common in younger people and children | Less common |
+| **Circuit or source** | Re-entry loop in and around the AV node | Loop down the AV node and back up an accessory pathway (or the reverse) | A single irritable spot in the atria firing fast |
+| **Rate** | Usually 140–280 | Usually 150–250 | Usually 100–250 |
+| **Where the P wave sits** | Hidden in the QRS, or just at its end (a "pseudo-R′" in V1 or a "pseudo-S" in II, III, aVF) | Visible just after the QRS, in the ST segment | Before the QRS, with an abnormal shape |
+| **Normal-rhythm ECG** | Usually normal | May show a short PR and delta wave (WPW) | Usually normal |
+| **Effect of adenosine or vagal manoeuvres** | Usually stops it | Usually stops it | Often slows the ventricles briefly and reveals the P waves, but may not stop it |
+
+There are also rarer forms, such as junctional tachycardia. For students, the position of the P wave relative to the QRS (the "RP interval") is the classic clue to which type you are looking at.
+
+## SVT vs sinus tachycardia and other fast rhythms
+
+| Rhythm | Onset | Typical rate | Regular? | P waves |
+| --- | --- | --- | --- | --- |
+| **SVT** | Sudden | 150–250 | Yes | Hidden or just after the QRS |
+| **[Sinus tachycardia](https://www.ecgmeans.com/sinus-tachycardia/)** | Gradual | 100–150 | Yes | Normal, before each QRS |
+| **[Atrial flutter](https://www.ecgmeans.com/atrial-flutter/) with 2:1 block** | Sudden | About 150 | Usually | Sawtooth flutter waves |
+| **[AFib with RVR](https://www.ecgmeans.com/afib-with-rvr/)** | Sudden or gradual | 110–170 | No | None |
+| **[Ventricular tachycardia](https://www.ecgmeans.com/ventricular-tachycardia/)** | Sudden | 120–250 | Usually | Dissociated; wide QRS |
+
+The key safety rule for clinicians is in the last row: see [SVT vs VT](https://www.ecgmeans.com/svt-vs-vtach/) for how wide-complex rhythms are approached.
 
 ## Common causes
 
@@ -45,6 +92,8 @@ Sometimes SVT can look **wide** on the ECG. This happens if the person already h
 Needs clinician review
 
 SVT is often uncomfortable. It can cause palpitations, a pounding feeling in the neck, breathlessness or light-headedness, but it is rarely dangerous in an otherwise healthy heart. **Get urgent help** if a fast heartbeat comes with chest pain, severe breathlessness or fainting, or if it does not stop. Any **wide-complex** fast rhythm is treated as ventricular tachycardia until proven otherwise, so your doctor will check your ECG carefully.
+
+If your episodes come and go and have never been caught on an ECG, see [heart palpitations with a normal ECG](https://www.ecgmeans.com/heart-palpitations-normal-ecg/) for how doctors capture them.
 
 ## What usually happens next
 
@@ -66,6 +115,13 @@ Your doctor will look at your ECG and symptoms to confirm SVT and work out which
 - Cutting back on known triggers may help. These include caffeine, alcohol, stress, lack of sleep and stimulant medicines.
 
 If you have been told you have SVT, it helps to note when episodes happen, how long they last and what you were doing at the time. This information is useful for your doctor.
+
+### Questions to ask your doctor
+
+- Which type of SVT does my ECG suggest?
+- Is there any sign of an accessory pathway (WPW) on my normal ECG?
+- Which vagal manoeuvre should I use, and when should I go to hospital?
+- Am I a candidate for catheter ablation?
 @@FAQ@@
 Q: What does supraventricular tachycardia mean on my ECG?
 A: It means your heart was beating fast with a rhythm that starts at or above the AV node, in the upper chambers or the junction, rather than in the ventricles. On the ECG it usually looks like a regular, narrow-QRS rhythm, typically at 150-250 bpm. It usually starts and stops suddenly.
@@ -77,15 +133,23 @@ Q: How is an SVT episode stopped?
 A: Vagal manoeuvres, such as bearing down or the modified Valsalva manoeuvre, can stop an episode. If that does not work, a medicine called adenosine can be given in hospital. Seek urgent help if an episode does not stop or causes worrying symptoms.
 Q: Can SVT be prevented or cured?
 A: Avoiding known triggers such as caffeine, alcohol, stress, lack of sleep and stimulant medicines may help reduce episodes. If SVT keeps coming back, catheter ablation is a very effective cure. Your doctor may also arrange an echocardiogram and thyroid tests to look for contributing causes.
+Q: Can an ECG show SVT if I am not having an episode?
+A: Usually not. Between episodes the ECG is often normal, although it can show clues such as a delta wave. A Holter, event monitor or smartwatch recording during symptoms is often needed.
+Q: What heart rate is SVT on an ECG?
+A: Typically 150–250 beats per minute, sometimes a little lower or higher. A regular rate around 150 should also make doctors consider atrial flutter.
 @@RELATED@@
 SVT vs VT: How to Tell Them Apart | https://www.ecgmeans.com/svt-vs-vtach/ | Depends on context
 Atrial Tachycardia: What It Means | https://www.ecgmeans.com/atrial-tachycardia/ | Needs clinician review
 Delta Wave (WPW): What It Means | https://www.ecgmeans.com/delta-wave/ | Needs clinician review
 Sinus Tachycardia: What It Means | https://www.ecgmeans.com/sinus-tachycardia/ | Depends on context
+AVNRT: What It Means on an ECG | https://www.ecgmeans.com/avnrt/ | NONE
+Wolff-Parkinson-White Syndrome on an ECG | https://www.ecgmeans.com/wolff-parkinson-white/ | Needs clinician review
 @@ALSO@@
-SVT, supraventricular tachycardia, paroxysmal supraventricular tachycardia, PSVT, narrow complex tachycardia, regular narrow-QRS tachycardia, AVNRT, AV nodal re-entrant tachycardia, AVRT, atrioventricular re-entrant tachycardia
+SVT, supraventricular tachycardia, paroxysmal supraventricular tachycardia, PSVT, narrow complex tachycardia, regular narrow-QRS tachycardia, AVNRT, AV nodal re-entrant tachycardia, AVRT, atrioventricular re-entrant tachycardia, svt ecg, svt on ecg, svt on ekg, svt ecg strip, what does svt look like on ecg, svt ekg, supraventricular tachycardia ecg
 @@SOURCES@@
 Supraventricular Tachycardia (SVT) | https://my.clevelandclinic.org/health/diseases/21844-supraventricular-tachycardia-svt
 SVT Overview | https://litfl.com/supraventricular-tachycardia-svt-ecg-library/
 Paroxysmal Supraventricular Tachycardia | https://www.ncbi.nlm.nih.gov/books/NBK544349/
+Supraventricular tachycardia: Symptoms and causes | https://www.mayoclinic.org/diseases-conditions/supraventricular-tachycardia/symptoms-causes/syc-20355243
+Tachycardia: Fast Heart Rate | https://www.heart.org/en/health-topics/arrhythmia/about-arrhythmia/tachycardia--fast-heart-rate
 @@END@@

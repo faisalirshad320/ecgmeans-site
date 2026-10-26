@@ -1,7 +1,7 @@
 @@TITLE@@
 How Much Does an EKG Cost? Where to Get One & Urgent Care
 @@DESC@@
-How much does an EKG cost with or without insurance, does urgent care do EKGs, and where can you get one? Typical US price ranges, Medicare coverage and what to expect.
+How much does an EKG cost with or without insurance? Does urgent care do EKGs? Where to get one, typical US price ranges, Medicare coverage, what to expect.
 @@H1@@
 Where to Get an EKG and How Much It Costs
 @@CATEGORY@@
@@ -11,7 +11,7 @@ NONE
 @@UPDATED@@
 2026-10-26
 @@ANSWER@@
-How much an EKG costs in the US depends on where you get it. A standard 12-lead EKG often runs about $40 to $150 self-pay at hospitals and clinics, while an urgent care visit that includes an EKG often costs more because the visit fee is added — one large chain lists $175. With insurance you usually pay a copay or coinsurance. Medicare Part B covers medically needed EKGs at 20% after the deductible.
+How much an EKG costs in the US depends on where you get it. A standard 12-lead EKG often costs about $40 to $150 self-pay at clinics and hospitals; urgent care adds a visit fee. With insurance you usually pay a copay or coinsurance. Medicare Part B covers medically needed EKGs at 20% after the deductible. Prices vary widely.
 @@LEDE@@
 An EKG is one of the quickest and cheapest heart tests there is, but finding where to get one, and what you will pay, is not always obvious. Prices vary a lot between a doctor's office, an urgent care center, a hospital outpatient department and an emergency room. This page covers where you can get an EKG, whether urgent care does them, what it typically costs with and without insurance, how long it takes, what to wear, and when you should skip all of that and call 911.
 @@BODY@@
@@ -23,7 +23,7 @@ Everything else on this page is for non-emergency EKGs: routine checks, pre-surg
 
 ## Where can I get an EKG?
 
-An EKG (also called an ECG; they are the same test) needs a 12-lead machine, a trained person to place the stickers, and a clinician to read the result. Here are the usual options in the US.
+An EKG (also called an ECG; they are the same test) needs a 12-lead machine, a trained person to place the stickers, and a clinician to read the result. Here are the usual options in the US. If you are not sure whether you need one, see [what is an EKG?](https://www.ecgmeans.com/what-is-an-ekg/) and [what can an EKG detect?](https://www.ecgmeans.com/what-can-an-ekg-detect/)
 
 | Place | Do they do EKGs? | Best for | Things to know |
 | --- | --- | --- | --- |
@@ -44,7 +44,7 @@ Urgent care is **not** the right place for chest pain that could be a heart atta
 
 ### What about smartwatch EKGs?
 
-Some smartwatches and handheld devices record a single-lead EKG. They are useful for capturing a rhythm, such as [atrial fibrillation](https://www.ecgmeans.com/atrial-fibrillation/), while symptoms are happening. But one lead is not twelve. A smartwatch cannot detect most heart attacks, cannot measure all intervals reliably, and can mislabel normal rhythms. Treat it as a helpful clue to show your doctor, not as a full test.
+Some smartwatches and handheld devices record a single-lead EKG. They are useful for capturing a rhythm during [heart palpitations](https://www.ecgmeans.com/heart-palpitations-normal-ecg/), such as [atrial fibrillation](https://www.ecgmeans.com/atrial-fibrillation/), while symptoms are happening. But one lead is not twelve. A smartwatch cannot detect most heart attacks, cannot measure all intervals reliably, and can mislabel normal rhythms. Treat it as a helpful clue to show your doctor, not as a full test.
 
 ## How much does an EKG cost?
 
@@ -110,7 +110,7 @@ Usually, yes. Most clinics and insurers require an order from a clinician, thoug
 
 1. **Normal EKG:** usually no further action, unless symptoms suggest a problem the EKG cannot see.
 2. **Minor or borderline finding:** often a repeat EKG or a comparison with an older one.
-3. **Abnormal finding or ongoing symptoms:** your doctor may order blood tests, an echocardiogram, a heart monitor or a stress test.
+3. **Abnormal finding or ongoing symptoms:** your doctor may order blood tests, an [echocardiogram](https://www.ecgmeans.com/ekg-vs-echocardiogram/), a heart monitor or a stress test.
 
 ### Questions to ask your doctor
 

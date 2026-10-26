@@ -1,7 +1,7 @@
 @@TITLE@@
 Asystole ECG: What a Flatline Means & How It's Treated
 @@DESC@@
-Asystole on an ECG is a flatline with no electrical activity — cardiac arrest. How it's confirmed, why it isn't shocked, how CPR and epinephrine work, and outlook.
+Asystole on an ECG is a flatline with no electrical activity: cardiac arrest. How it's confirmed, why it isn't shocked, CPR and epinephrine, and outlook.
 @@H1@@
 Asystole on an ECG: What a Flatline Means
 @@CATEGORY@@
