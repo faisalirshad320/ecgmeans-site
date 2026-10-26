@@ -73,6 +73,28 @@ An "irregular EKG" usually refers to the rhythm part of this list — often harm
 | Incomplete right bundle branch block | Pathological Q waves ("possible old infarct") | Markedly prolonged QT (over 500 ms) |
 | Mild axis deviation, occasional PACs or PVCs | Persistent ST–T changes | Wide-complex fast rhythm |
 
+## How to read your abnormal ECG report, line by line
+
+A typical printout has three parts. Working through them in order usually turns "abnormal" into something specific.
+
+1. **The numbers at the top.** Heart rate, PR, QRS, QT/QTc and axis. Compare them with the normal ranges: rate 60–100, PR 120–200 ms, QRS under 120 ms, QTc up to about 450 ms in men and about 460–470 ms in women.
+2. **The finding lines.** Each line is one statement from the software, such as "sinus bradycardia," "left axis deviation" or "nonspecific T wave abnormality." These are what you should look up — each one has a page on this site.
+3. **The verdict.** "Abnormal ECG" sits at the bottom and simply repeats the most important finding's category.
+
+Watch for words that soften the statement. "Possible," "consider," "cannot rule out" and "age undetermined" all mean the software is unsure; a [septal infarct, age undetermined](https://www.ecgmeans.com/septal-infarct/), for example, is very often a lead-placement effect rather than a real old heart attack.
+
+## Abnormal ECG results by situation
+
+The same word carries different weight depending on why the ECG was taken:
+
+| Situation | What "abnormal" most often turns out to be | Typical next step |
+| --- | --- | --- |
+| **Routine physical or work medical** | A variant: slow rate, axis shift, early repolarization, incomplete RBBB | Doctor's review; often nothing more |
+| **Pre-operative check** | Long-standing finding such as LVH, an old bundle branch block or AFib | Comparison with old ECGs; sometimes an echo before surgery |
+| **Palpitations** | Extra beats, sinus tachycardia, or a normal rhythm between episodes | Holter or event monitor |
+| **Chest pain in the ER** | Anything from a variant to a heart attack | Repeat ECGs and troponin blood tests — same day |
+| **Fainting** | Slow rhythm, heart block, long QT, WPW or Brugada pattern | Prompt cardiology assessment |
+
 ## Can anxiety or stress cause an abnormal EKG?
 
 Yes. Anxiety and stress raise adrenaline, which speeds the heart into [sinus tachycardia](https://www.ecgmeans.com/sinus-tachycardia/), and fast breathing can flatten T waves for a few minutes. Shivering or tensing muscles adds electrical noise that the machine may misread. These are real changes on the tracing but they are not signs of heart disease, and a repeat ECG when you are calm often looks normal. If you feel anxious during the recording, it is fine to tell the technician and ask to rest for a few minutes first.

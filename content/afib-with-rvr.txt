@@ -101,6 +101,29 @@ A few principles worth knowing:
 - **Cardioversion and stroke risk:** if AFib has lasted longer than about 48 hours or the duration is unknown, doctors usually give a blood thinner for several weeks first, or check for clots with a transesophageal echo, because restoring rhythm can dislodge a clot.
 - **Calcium-channel blockers** are generally avoided in people with significant heart failure with a weak pump, and some rate-slowing medicines are avoided when AFib is conducting through an accessory pathway (WPW).
 
+## Rate control vs rhythm control
+
+These two phrases come up in almost every conversation about AFib with RVR.
+
+| | Rate control | Rhythm control |
+| --- | --- | --- |
+| **Goal** | Slow the ventricles to a comfortable rate while AFib continues | Restore and keep normal sinus rhythm |
+| **How** | Rate-slowing medicines | Cardioversion, antiarrhythmic medicines, catheter ablation |
+| **Often chosen when** | Older age, few symptoms, long-standing AFib | Troublesome symptoms, younger age, recent-onset AFib, heart failure made worse by AFib |
+| **Stroke prevention** | Still needed if stroke risk is raised | Still needed if stroke risk is raised, even if rhythm returns to normal |
+
+The last row surprises many people: getting back into normal rhythm does not by itself remove the need for a blood thinner, because AFib can return without symptoms. Your doctor uses your stroke-risk score, not your current rhythm, to make that decision.
+
+## Living with AFib after an episode of RVR
+
+Many people have one episode of AFib with RVR and then do well for long periods. Things that commonly help reduce further episodes include:
+
+- **Taking rate or rhythm medicines exactly as prescribed** — missed doses are a common trigger
+- **Cutting down on alcohol**, which has a strong link with AFib episodes
+- **Treating sleep apnea**, high blood pressure and diabetes, and losing weight if advised
+- **Staying hydrated** and getting prompt treatment for infections
+- **Knowing your pulse** — many people use a home blood pressure monitor or smartwatch to check their rate, and agree with their doctor what number should prompt a call
+
 ## What usually happens next
 
 1. A 12-lead ECG to confirm the rhythm and rate, and blood tests including thyroid function
