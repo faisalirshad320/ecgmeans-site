@@ -1,7 +1,7 @@
 @@TITLE@@
 Echocardiogram vs EKG: Are They the Same? Key Differences
 @@DESC@@
-Echocardiogram vs EKG: an EKG records the heart's electrical activity; an echo is an ultrasound of its structure. Is an echo the same as an EKG? What each shows.
+Echocardiogram vs EKG: an EKG records the heart's electrical signals; an echo is an ultrasound of structure. Is an echo the same as an EKG? Key differences.
 @@H1@@
 Echocardiogram vs EKG: What's the Difference and Do You Need Both?
 @@CATEGORY@@
@@ -27,7 +27,7 @@ One more source of confusion: ECG and EKG are the same test. EKG comes from the 
 
 The EKG is quick, cheap and excellent for rhythm problems, conduction blocks and an acute heart attack. It is poor at judging chamber size or pump strength, and a normal EKG does not rule out structural heart disease.
 
-The echocardiogram takes 20–45 minutes, uses no radiation, and directly measures how well the heart pumps and whether valves leak or narrow. It cannot capture an intermittent rhythm problem. Many of the "possible" statements on an EKG report — possible left atrial enlargement, possible LVH, septal infarct — are confirmed or dismissed by an echo.
+The echocardiogram takes about 30–60 minutes, uses no radiation, and directly measures how well the heart pumps and whether valves leak or narrow. It cannot capture an intermittent rhythm problem. Many of the "possible" statements on an EKG report — possible left atrial enlargement, possible LVH, septal infarct — are confirmed or dismissed by an echo.
 
 Timings vary between hospitals and with the type of echo; some departments book up to an hour for a standard scan, and a transesophageal echo takes longer.
 
@@ -36,7 +36,7 @@ Timings vary between hospitals and with the type of echo; some departments book 
 | | EKG (ECG) | Echocardiogram (echo) |
 | --- | --- | --- |
 | **What it is** | A recording of the heart's electrical signals | An ultrasound scan of the heart |
-| **How it is done** | 10–12 stickers on the chest, arms and legs; you lie still | A gel-covered probe moved over the chest; you lie on your left side |
+| **How it is done** | 10 stickers (electrodes) on the chest, arms and legs; you lie still | A gel-covered probe moved over the chest; you lie on your left side |
 | **How long it takes** | A few minutes; the recording itself is about 10 seconds | Usually under an hour (often 20–45 minutes) |
 | **What you get** | A tracing of waves (P, QRS, T) with an automated report | Moving images of the heart with measurements and colour Doppler |
 | **Best at showing** | Heart rate and rhythm, conduction blocks, signs of a heart attack, electrolyte effects, QT | Pumping strength (ejection fraction), chamber size, wall thickness, valves, fluid around the heart |

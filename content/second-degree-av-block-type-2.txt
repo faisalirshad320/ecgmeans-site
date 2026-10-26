@@ -1,7 +1,7 @@
 @@TITLE@@
 Second Degree AV Block Type 2 (Mobitz II): ECG & Pacemaker
 @@DESC@@
-Second degree AV block type 2 (Mobitz type 2) drops beats suddenly with a constant PR. ECG signs, how it differs from type 1, symptoms, and why a pacemaker helps.
+Second degree AV block type 2 (Mobitz type 2) drops beats suddenly with a constant PR. ECG signs, type 1 vs type 2, symptoms, and why a pacemaker helps.
 @@H1@@
 Second Degree AV Block Type 2 (Mobitz II): What It Means
 @@CATEGORY@@
@@ -57,6 +57,17 @@ This is the comparison that matters most, because the two types carry very diffe
 
 Read more on [second degree AV block type 1 (Wenckebach)](https://www.ecgmeans.com/second-degree-av-block-type-1/) and [2:1 AV block](https://www.ecgmeans.com/2-1-av-block/), the pattern that can be either type.
 
+## How doctors confirm Mobitz type 2
+
+Because dropped beats can be intermittent, a single ten-second ECG may not catch them. Doctors use:
+
+1. **A longer rhythm strip or continuous bedside monitoring** to watch several dropped beats and confirm the PR interval stays constant.
+2. **A Holter monitor or patch** worn for one or more days, if the person is stable and symptoms come and go.
+3. **Comparison with older ECGs**, to see whether a bundle branch block or a long PR interval was already present.
+4. **An electrophysiology (EP) study** occasionally, where thin wires inside the heart measure exactly where the block sits. This is mainly used when 2:1 block cannot be classified any other way.
+
+A quick bedside clue: if the heart rate rises with exercise or atropine and the block *worsens*, the problem is likely below the AV node (more like type 2). If the block *improves*, it is more likely in the AV node (more like type 1).
+
 ## Symptoms of 2nd degree heart block type 2
 
 Some people have no symptoms and the rhythm is found on a routine ECG. Others notice:
@@ -93,6 +104,21 @@ US guidelines from the American College of Cardiology, American Heart Associatio
 While waiting for a pacemaker, the team may keep you on a heart monitor and have external pacing pads ready. Medicines that speed the AV node, such as atropine, often help little in Mobitz II, because the block is below the node.
 
 A pacemaker is fitted under the skin below the collarbone, usually under local anesthetic, and most people go home within a day or so. Afterwards your ECG will show a [paced rhythm](https://www.ecgmeans.com/paced-rhythm/) whenever the device is working.
+
+## Mobitz type 2 during a heart attack
+
+Mobitz II can appear during an anterior heart attack, when the blocked artery also supplies the bundle branches. In that setting it is a sign of extensive damage, and patients are monitored closely with pacing available. Unlike the block that sometimes follows an inferior heart attack, conduction damage from an anterior heart attack is less likely to recover, so a permanent pacemaker is often still needed once the acute illness settles.
+
+## Life after a pacemaker for Mobitz II
+
+| Question | Typical answer |
+| --- | --- |
+| How long is the hospital stay? | Often one night, sometimes same-day |
+| When can I use my arm normally? | Most people avoid heavy lifting and raising the arm above shoulder height on that side for a few weeks |
+| Will I feel the pacemaker working? | Usually not |
+| How often are checks needed? | A check soon after fitting, then regularly — often yearly, with remote monitoring in many clinics |
+| Can I use a phone or microwave? | Yes; keep mobile phones about 15 cm (6 inches) from the device and follow the specific advice you are given |
+| What is the outlook? | Once paced, the risk from the block itself is largely removed; outlook then depends on any underlying heart disease |
 
 ## What usually happens next
 

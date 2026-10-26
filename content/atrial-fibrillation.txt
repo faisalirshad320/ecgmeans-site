@@ -1,17 +1,23 @@
 @@TITLE@@
-Atrial Fibrillation on ECG: What It Means & When to Worry
+Atrial Fibrillation ECG: What AFib Looks Like on an EKG Strip
 @@DESC@@
-Atrial fibrillation is an irregular heart rhythm with no clear P waves on the ECG. Learn how it is recognised, why it raises stroke risk, and how it is treated.
+Atrial fibrillation ECG explained: what AFib looks like on an EKG strip, the key criteria (no P waves, irregular RR), rate types, look-alikes, and when to worry.
 @@H1@@
-Atrial Fibrillation: What It Means on an ECG
+Atrial Fibrillation ECG: What AFib Looks Like and What It Means
 @@CATEGORY@@
 Heart Rhythms | https://www.ecgmeans.com/heart-rhythms/
 @@QUICK@@
 Needs clinician review
+@@UPDATED@@
+2026-10-26
+@@ANSWER@@
+An atrial fibrillation ECG shows an irregularly irregular rhythm: the gaps between heartbeats vary with no pattern, there are no normal P waves, and the baseline has small wavy fibrillatory waves instead. The QRS complexes are usually narrow. AFib is rarely an immediate emergency, but it raises stroke risk, so it always needs review by a clinician.
 @@LEDE@@
 Atrial fibrillation (AF or AFib) is the most common sustained abnormal heart rhythm. The upper chambers quiver instead of beating in an organised way, so the pulse becomes irregular and often fast. On the ECG there are no normal P waves and the QRS complexes are irregularly spaced. It is rarely immediately life-threatening, but it raises the risk of stroke and needs proper assessment.
 @@BODY@@
 ## What "Atrial fibrillation" means
+
+The **atrial fibrillation ECG** is one of the most recognisable tracings in medicine, and one of the most searched — often by people whose smartwatch has just flagged "possible AFib". ECG and EKG are the same test; both terms are used here.
 
 Normally each beat starts in the sinus node and the atria contract together. In atrial fibrillation many disorganised electrical wavelets fire in the atria at once, so they quiver rather than contract. The AV node lets through only some of these impulses, at random, which is why the ventricles — and the pulse — are irregular.
 
@@ -20,6 +26,45 @@ Because the atria are not emptying properly, blood can pool and form clots, whic
 ## What it looks like on the ECG
 
 An irregularly irregular rhythm with no visible P waves; instead the baseline shows fine or coarse fibrillatory waves. The QRS complexes are normal in shape but unevenly spaced. The rate is often fast ("AF with rapid ventricular response").
+
+## What does AFib look like on an ECG? The key criteria
+
+Three features together make the diagnosis. If you remember nothing else, remember these:
+
+| ECG feature | In atrial fibrillation | In normal sinus rhythm |
+| --- | --- | --- |
+| **Rhythm (R-R intervals)** | Irregularly irregular — every gap different, no repeating pattern | Regular, gaps nearly equal |
+| **P waves** | Absent; no consistent P wave before each QRS | One upright P wave before every QRS in lead II |
+| **Baseline** | Wavy fibrillatory (f) waves, fine or coarse, or almost flat | Flat between beats |
+| **Atrial activity rate** | Very fast and chaotic — roughly 350–600 per minute | 60–100 per minute |
+| **QRS width** | Usually narrow (under 120 ms) | Narrow (under 120 ms) |
+| **Ventricular rate** | Anything from slow to very fast; often 100–160 bpm untreated | 60–100 bpm at rest |
+
+**Fine vs coarse AF.** Fibrillatory waves under about 0.5 mm tall are called fine; larger ones are coarse. Coarse f waves can look a little like P waves or flutter waves. Fine AF can look like a nearly flat baseline. Neither type changes the treatment much.
+
+**Narrow QRS, unless something else is going on.** The QRS stays narrow because the ventricles are still activated through the normal pathway. It becomes wide if there is also a [bundle branch block](https://www.ecgmeans.com/lbbb-vs-rbbb/), rate-related aberrancy (see [Ashman phenomenon](https://www.ecgmeans.com/ashman-phenomenon/)), a pacemaker, or an accessory pathway as in [Wolff-Parkinson-White](https://www.ecgmeans.com/wolff-parkinson-white/). Fast, wide and irregular AF in someone with WPW is an emergency.
+
+## Atrial fibrillation ECG strip: how to recognise it step by step
+
+On a rhythm strip (usually lead II), work through these steps:
+
+1. **Check regularity.** Mark the tops of three or four R waves on the edge of a sheet of paper and slide it along the strip. In AFib the marks never line up again.
+2. **Look for P waves.** Is there a clear, identical P wave before every QRS? In AFib there is not.
+3. **Look at the baseline.** Fine squiggles or coarse undulations between the beats, rather than a flat line, support AFib.
+4. **Measure the QRS width.** Narrow is typical. If wide, think of bundle branch block, aberrancy or pre-excitation.
+5. **Calculate the rate.** Because the rhythm is irregular, count the QRS complexes in a 6-second strip and multiply by 10. Our [ECG heart rate calculator](https://www.ecgmeans.com/ecg-heart-rate-calculator/) explains this method, and [AFib heart rate](https://www.ecgmeans.com/afib-heart-rate/) covers what the numbers mean.
+
+For diagnosis, guidelines accept AF captured on a standard 12-lead ECG, or on a single-lead strip (including some wearable devices) lasting at least 30 seconds, once reviewed by a clinician.
+
+## AFib rate types on the EKG
+
+Reports often add a rate description:
+
+| Report wording | Ventricular rate | What it usually means |
+| --- | --- | --- |
+| **AF with rapid ventricular response (RVR)** | Over 100 bpm | Untreated or under-treated AF, or a trigger such as infection, dehydration or thyroid overactivity. See [AFib with RVR](https://www.ecgmeans.com/afib-with-rvr/) |
+| **AF with controlled ventricular response** | About 60–100 bpm | Rate is well controlled, naturally or with medicine |
+| **AF with slow ventricular response** | Under 60 bpm | Rate-slowing medicines, or disease of the AV node; needs review if there is dizziness |
 
 ## Common causes
 
@@ -30,11 +75,47 @@ An irregularly irregular rhythm with no visible P waves; instead the baseline sh
 - Alcohol, caffeine and poor sleep (including sleep apnoea)
 - Chest infections, pulmonary embolism and after surgery
 
+Obesity, diabetes, chronic kidney disease and endurance sport over many years are also linked to AF. Often more than one factor is present.
+
+## What can look like AFib on an ECG?
+
+Several rhythms can be mistaken for atrial fibrillation, by people and by software:
+
+| Look-alike | How it differs from AFib |
+| --- | --- |
+| [Atrial flutter](https://www.ecgmeans.com/atrial-flutter/) with variable block | Sawtooth flutter waves; the R-R gaps are multiples of each other rather than completely random. See [AFib vs atrial flutter](https://www.ecgmeans.com/afib-vs-aflutter/) |
+| [Multifocal atrial tachycardia](https://www.ecgmeans.com/multifocal-atrial-tachycardia/) | Irregular, but with distinct P waves of at least three different shapes |
+| Sinus rhythm with frequent PACs | Underlying regular rhythm interrupted by early beats, each with a P wave. See [sinus rhythm with PACs](https://www.ecgmeans.com/sinus-rhythm-with-pac/) |
+| [Sinus arrhythmia](https://www.ecgmeans.com/sinus-arrhythmia/) | Normal P waves before every QRS; the rate rises and falls with breathing |
+| [ECG artifact](https://www.ecgmeans.com/ecg-artifact/) | Tremor or movement makes the baseline wavy, but the QRS complexes stay regular |
+
+It is also worth separating AFib from ventricular fibrillation, which is a very different and immediately life-threatening rhythm. See [AFib vs VFib](https://www.ecgmeans.com/afib-vs-vfib/).
+
 ## Should you worry?
 
 AF itself is seldom an emergency, but it should always be assessed because of the stroke risk and because a persistently fast rate can weaken the heart. Your doctor will estimate your stroke risk and usually discuss a blood thinner. Seek emergency care if AF comes with chest pain, severe breathlessness, fainting or signs of a stroke (face drooping, arm weakness, speech difficulty).
 
 **Get urgent help** if this finding comes with chest pain or pressure, severe breathlessness, fainting, or a fast heartbeat that will not settle. Those symptoms matter more than any single ECG phrase.
+
+## AFib symptoms
+
+Some people feel nothing, and AF is found by chance on a routine EKG or a wearable. Others notice:
+
+- A fluttering, racing or pounding heartbeat, sometimes described as "a bag of worms" in the chest
+- An irregular pulse at the wrist
+- Breathlessness, especially on exertion
+- Tiredness and reduced exercise tolerance
+- Light-headedness
+
+Symptoms do not predict stroke risk. People with silent AF carry a similar stroke risk to those who feel it, which is why an ECG finding of AF matters even when you feel well.
+
+## Smartwatch AFib alerts
+
+Many watches can record a single-lead ECG and flag "possible atrial fibrillation". These alerts are useful but not definitive. False alarms are common with frequent extra beats, movement and poor contact, and a watch cannot measure your stroke risk. If your watch flags AFib:
+
+- Save or export the tracing to show your doctor.
+- Arrange a 12-lead ECG, especially if the alert repeats.
+- Seek urgent care if the alert comes with chest pain, breathlessness, fainting or stroke signs.
 
 ## What usually happens next
 
@@ -43,11 +124,22 @@ AF itself is seldom an emergency, but it should always be assessed because of th
 3. A stroke-risk assessment (CHA2DS2-VASc) and a discussion about anticoagulation
 4. Rate control, rhythm control (medication or ablation) and treating the underlying cause
 
+Treatment is a shared decision. Your doctor will also look at blood pressure, weight, alcohol, sleep apnoea and activity, because addressing these lowers the chance of AF coming back.
+
 ### Questions to ask your doctor
 
 - What is my stroke risk, and do I need a blood thinner?
 - Should we control the rate, the rhythm, or both?
 - Is there an underlying cause such as thyroid disease or sleep apnoea?
+- Is my AF paroxysmal, persistent or permanent?
+- What heart rate should I aim for at rest?
+
+## A worked example
+
+> **Report line:** *"Atrial fibrillation with rapid ventricular response, rate 128. Nonspecific ST abnormality. Abnormal ECG."*
+> **Patient:** 68-year-old with high blood pressure, two days of palpitations and breathlessness on stairs. Smartwatch had flagged "AFib" twice.
+
+The strip showed irregularly irregular narrow QRS complexes, no P waves and a fine wavy baseline — classic AFib. The ST change was a rate effect. Blood tests showed normal thyroid function. Her CHA2DS2-VASc score (age and high blood pressure) meant a blood thinner was recommended, and a rate-slowing medicine brought her resting rate down. An echocardiogram showed a mildly enlarged left atrium. She was referred to discuss rhythm control at a later date.
 @@FAQ@@
 Q: Is atrial fibrillation dangerous?
 A: It is rarely immediately life-threatening, but untreated it raises the risk of stroke and can weaken the heart, so it needs proper assessment and treatment.
@@ -55,16 +147,30 @@ Q: How is atrial fibrillation recognised on an ECG?
 A: By an irregularly irregular rhythm with no normal P waves and unevenly spaced, normal-shaped QRS complexes.
 Q: Can atrial fibrillation be cured?
 A: It can often be controlled well, and in selected people catheter ablation can restore and maintain normal rhythm, but it tends to recur, so follow-up matters.
+Q: Can AFib show on an EKG if it comes and goes?
+A: Only if it is happening during the recording. Paroxysmal AF is often missed on a single ECG, which is why a Holter monitor, event recorder or wearable may be used.
+Q: Can a normal ECG rule out AFib?
+A: It rules out AF at that moment, not between episodes. If symptoms come and go, longer monitoring is usually needed.
+Q: Can atrial fibrillation be regular on an ECG?
+A: AF itself is irregular. A regular rhythm with no P waves suggests something else, such as atrial flutter with fixed block, or AF with complete heart block, and needs a clinician's review.
+Q: What does "AF with RVR" mean on an ECG?
+A: Atrial fibrillation with a ventricular rate over 100 beats per minute. It often causes symptoms and usually needs treatment to slow the rate.
 @@RELATED@@
-Sinus Rhythm With PACs: What It Means | https://www.ecgmeans.com/sinus-rhythm-with-pac/ | Usually harmless
+AFib Heart Rate: What Is Normal and When to Worry | https://www.ecgmeans.com/afib-heart-rate/ | NONE
+AFib vs VFib: What's the Difference? | https://www.ecgmeans.com/afib-vs-vfib/ | NONE
+AFib with RVR: What It Means on an ECG | https://www.ecgmeans.com/afib-with-rvr/ | Needs clinician review
 Atrial Flutter: What It Means on an ECG | https://www.ecgmeans.com/atrial-flutter/ | Needs clinician review
+Atrial Fibrillation vs Atrial Flutter on an ECG | https://www.ecgmeans.com/afib-vs-aflutter/ | NONE
+Sinus Rhythm With PACs: What It Means | https://www.ecgmeans.com/sinus-rhythm-with-pac/ | Usually harmless
 Sinus Tachycardia: What It Means | https://www.ecgmeans.com/sinus-tachycardia/ | Depends on context
 Possible Left Atrial Enlargement: ECG Meaning | https://www.ecgmeans.com/left-atrial-enlargement/ | Needs clinician review
 SVT vs VTach: What's the Difference? | https://www.ecgmeans.com/svt-vs-vtach/ | Seek prompt care
 @@ALSO@@
-atrial fibrillation ecg, afib ecg, af ecg, irregularly irregular rhythm
+atrial fibrillation ecg, afib ecg, af ecg, irregularly irregular rhythm, a fib ekg, afib ekg, what does afib look like on ecg, what does afib look like on ekg, atrial fibrillation ecg strip, afib ecg strip, atrial fibrillation ekg, atrial fibrillation on ecg, afib rhythm strip, fibrillatory waves, coarse atrial fibrillation, fine atrial fibrillation, af with rvr ecg
 @@SOURCES@@
 Atrial Fibrillation (AFib) | https://my.clevelandclinic.org/health/diseases/16765-atrial-fibrillation-afib
 Atrial Fibrillation | https://litfl.com/atrial-fibrillation-ecg-library/
 What is Atrial Fibrillation (AFib or AF)? | https://www.heart.org/en/health-topics/atrial-fibrillation/what-is-atrial-fibrillation-afib-or-af
+Atrial fibrillation | https://www.nhs.uk/conditions/atrial-fibrillation/
+2023 ACC/AHA/ACCP/HRS Guideline for the Diagnosis and Management of Atrial Fibrillation (Circulation) | https://pubmed.ncbi.nlm.nih.gov/38033089/
 @@END@@

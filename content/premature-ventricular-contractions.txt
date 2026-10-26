@@ -1,7 +1,7 @@
 @@TITLE@@
 PVCs (Heart): What a PVC Means & Are PVCs Dangerous?
 @@DESC@@
-PVCs are early extra heartbeats from the heart's lower chambers. What a PVC looks like on an ECG, are PVCs dangerous, what PVC burden % means, and when to get checked.
+PVCs are early extra heartbeats from the lower chambers. What a PVC looks like on an ECG, are PVCs dangerous, what PVC burden % means, and when to get help.
 @@H1@@
 PVCs of the Heart (Premature Ventricular Contractions): What They Mean
 @@CATEGORY@@
@@ -80,8 +80,6 @@ If you are unsure whether an early beat came from the upper or lower chambers, s
 Other triggers include dehydration, poor sleep, decongestants and stimulant medicines, and recreational stimulants. Heart conditions linked to frequent PVCs include a previous heart attack, cardiomyopathy, heart valve disease and high blood pressure with a thickened heart muscle ([left ventricular hypertrophy](https://www.ecgmeans.com/left-ventricular-hypertrophy/)).
 
 ## Are PVCs dangerous?
-
-Usually harmless
 
 Occasional PVCs are harmless and extremely common, and most people who notice them feel only a skipped beat or a thump. They warrant more attention when they are very frequent, come in runs, are multifocal, or occur alongside fainting, chest pain or known heart disease. If any of those apply to you, talk to your doctor so they can decide whether further checks are needed.
 

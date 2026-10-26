@@ -1,7 +1,7 @@
 @@TITLE@@
 AFib With RVR: What It Means, ECG Signs & Treatment
 @@DESC@@
-AFib with RVR is atrial fibrillation with a rapid ventricular response — a fast, irregular heartbeat. What AFib RVR means, ECG signs, causes, treatment and when to worry.
+AFib with RVR is atrial fibrillation with a rapid ventricular response, a fast irregular heartbeat. What AFib RVR means, ECG signs, causes and treatment.
 @@H1@@
 AFib With RVR: What It Means on an ECG and How It Is Treated
 @@CATEGORY@@
@@ -158,7 +158,7 @@ Atrial Fibrillation: What It Means on an ECG | https://www.ecgmeans.com/atrial-f
 Atrial Flutter: What It Means on an ECG | https://www.ecgmeans.com/atrial-flutter/ | Needs clinician review
 Sinus Tachycardia: What It Means | https://www.ecgmeans.com/sinus-tachycardia/ | Depends on context
 AFib vs Atrial Flutter: What's the Difference? | https://www.ecgmeans.com/afib-vs-aflutter/ | Needs clinician review
-Supraventricular Tachycardia (SVT): What It Means | https://www.ecgmeans.com/supraventricular-tachycardia/ | Seek prompt care
+Supraventricular Tachycardia (SVT): What It Means | https://www.ecgmeans.com/supraventricular-tachycardia/ | Needs clinician review
 AFib Heart Rate: What Is Too Fast? | https://www.ecgmeans.com/afib-heart-rate/ | NONE
 @@ALSO@@
 afib with rvr, atrial fibrillation with rapid ventricular response, af with rvr, rapid afib, afib rvr, rvr afib, atrial fibrillation with rvr, afib with rvr treatment, what is afib with rvr, afib with rapid ventricular response, a fib with rvr, rvr meaning heart, afib rvr ecg, afib with rvr heart rate

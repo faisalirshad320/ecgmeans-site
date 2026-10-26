@@ -1,7 +1,7 @@
 @@TITLE@@
 What Is an EKG & How Long Does an EKG Take? Plain Guide
 @@DESC@@
-What an EKG is, what it measures and how long an EKG takes — usually 5–10 minutes. How it is performed, what to wear, when results come back, and what EKG stands for.
+What an EKG is, what it measures and how long an EKG takes (usually 5–10 minutes). How it is done, what to wear, when results come, and what EKG stands for.
 @@H1@@
 What Is an EKG (ECG), and How Long Does an EKG Take?
 @@CATEGORY@@
@@ -131,7 +131,7 @@ A: The recording takes about ten seconds. With attaching and removing the electr
 Q: Does an EKG hurt?
 A: No. The electrodes only stick to the skin and listen; there are no needles and no electric shock. Removing the sticky pads may tug at hair slightly.
 Q: How much does an EKG cost?
-A: It varies widely by country and setting, from little or nothing where care is publicly funded to roughly US$50–150 for a standard resting EKG in the United States without insurance. A cardiologist's interpretation may be billed separately.
+A: It varies widely by country and setting, from little or nothing where care is publicly funded to a typical self-pay price of roughly $40–$150 for the test itself in the United States, based on published price-transparency data. Visit fees and a cardiologist's interpretation may be billed separately — see where to get an EKG and what it costs.
 Q: Is an EKG the same as an ECG?
 A: Yes — identical test, two spellings.
 Q: Do I need to do anything to prepare for an EKG?

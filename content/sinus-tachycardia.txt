@@ -1,7 +1,7 @@
 @@TITLE@@
 Sinus Tachycardia: Meaning, Causes, Treatment & When to Worry
 @@DESC@@
-Sinus tachycardia is a normal rhythm above 100 bpm, usually the heart responding to something. Causes, treatment, inappropriate sinus tachycardia and when to worry.
+Sinus tachycardia is a normal rhythm over 100 bpm, usually the heart responding to something. Causes, treatment, inappropriate sinus tachycardia and POTS.
 @@H1@@
 Sinus Tachycardia: What It Means, Causes and Treatment
 @@CATEGORY@@
@@ -114,8 +114,6 @@ Some people have features of both. A tilt-table test or a simple stand-up test h
 ## Is sinus tachycardia dangerous?
 
 ### Should you worry?
-
-Depends on context
 
 Most cases settle once the trigger goes. Seek prompt care if a fast heart rate comes with chest pain, breathlessness, fainting, or a one-sided swollen leg, or if it starts and stops abruptly (which suggests a different rhythm, SVT).
 

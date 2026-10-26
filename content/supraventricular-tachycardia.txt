@@ -1,7 +1,7 @@
 @@TITLE@@
 SVT on ECG: What Supraventricular Tachycardia Looks Like
 @@DESC@@
-SVT on an ECG is a fast, regular, narrow-QRS rhythm at 150–250 bpm. What SVT looks like on an ECG strip, AVNRT vs AVRT vs atrial tachycardia, and what happens next.
+SVT on an ECG is a fast, regular, narrow-QRS rhythm at 150–250 bpm. What SVT looks like on an ECG strip, AVNRT vs AVRT vs atrial tachycardia, and next steps.
 @@H1@@
 SVT on an ECG: What Supraventricular Tachycardia Looks Like and Means
 @@CATEGORY@@
@@ -80,6 +80,18 @@ There are also rarer forms, such as junctional tachycardia. For students, the po
 
 The key safety rule for clinicians is in the last row: see [SVT vs VT](https://www.ecgmeans.com/svt-vs-vtach/) for how wide-complex rhythms are approached.
 
+## Symptoms of SVT
+
+During an episode people commonly notice:
+
+- A sudden, rapid, regular pounding in the chest
+- A pulsing or "frog-like" flapping feeling in the neck (especially with AVNRT)
+- Breathlessness or chest tightness
+- Light-headedness, and occasionally fainting
+- Needing to pass urine afterwards
+
+Episodes can last seconds, minutes or hours, and some people go months between them. Many first notice SVT on a smartwatch reading a very high, steady heart rate.
+
 ## Common causes
 
 - A re-entry circuit at the AV node (AVNRT). This is the most common cause.
@@ -87,9 +99,21 @@ The key safety rule for clinicians is in the last row: see [SVT vs VT](https://w
 - Atrial tachycardia, coming from an ectopic (extra) focus of electrical activity in the atria.
 - Triggers that can set off episodes, including caffeine, alcohol, stress, lack of sleep, stimulant medicines and an overactive thyroid.
 
-## Should you worry?
+## How doctors catch SVT on an ECG
 
-Needs clinician review
+Because SVT comes and goes, the hardest part is often recording it. Options include:
+
+| Method | How long it records | Best for |
+| --- | --- | --- |
+| **12-lead ECG in clinic or ER** | About 10 seconds | Episodes that last long enough to get to a doctor |
+| **Holter monitor** | 24 hours to about 2 weeks | Daily or near-daily episodes |
+| **Event monitor or patch** | Up to about 30 days | Episodes every few weeks |
+| **Implantable loop recorder** | Up to several years | Rare episodes, especially with fainting |
+| **Smartwatch or phone ECG** | 30 seconds when you trigger it | Capturing an episode at home to show your doctor |
+
+A single-lead watch tracing can strongly suggest SVT, but doctors usually confirm the type with a 12-lead ECG or an electrophysiology study before ablation.
+
+## Should you worry?
 
 SVT is often uncomfortable. It can cause palpitations, a pounding feeling in the neck, breathlessness or light-headedness, but it is rarely dangerous in an otherwise healthy heart. **Get urgent help** if a fast heartbeat comes with chest pain, severe breathlessness or fainting, or if it does not stop. Any **wide-complex** fast rhythm is treated as ventricular tachycardia until proven otherwise, so your doctor will check your ECG carefully.
 

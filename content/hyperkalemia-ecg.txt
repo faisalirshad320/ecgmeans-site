@@ -1,13 +1,13 @@
 @@TITLE@@
 Hyperkalemia ECG Changes: Peaked T Waves to Sine Wave
 @@DESC@@
-Hyperkalemia ECG changes in order: peaked T waves, flat P waves, wide QRS and the sine wave ECG. A potassium-level table, why the ECG can mislead, and urgent steps.
+Hyperkalemia ECG changes in order: peaked T waves, flat P waves, wide QRS, sine wave ECG. Potassium-level table, why the ECG can mislead, and urgent steps.
 @@H1@@
 Hyperkalemia on an ECG: What the Changes Mean
 @@CATEGORY@@
 ECG Report Phrases | https://www.ecgmeans.com/ecg-report-phrases/
 @@QUICK@@
-Needs clinician review
+Seek prompt care
 @@UPDATED@@
 2026-10-26
 @@ANSWER@@
@@ -109,8 +109,6 @@ Mild hyperkalemia often causes no symptoms at all, which is why it is commonly f
 - Fainting
 
 ## Should you worry?
-
-Needs clinician review
 
 Hyperkalemia with ECG changes is a medical emergency, because high potassium can cause dangerous heart rhythms and cardiac arrest. ECG changes are a sign that the heart is already being affected, so treatment should not wait. The good news is that this is a well-recognised problem with established, effective treatments, and your team will act quickly once it is suspected.
 

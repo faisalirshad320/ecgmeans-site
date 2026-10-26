@@ -1,7 +1,7 @@
 @@TITLE@@
 Normal Sinus Rhythm on ECG: Meaning, Criteria & Rate
 @@DESC@@
-Normal sinus rhythm is the heart's healthy rhythm at 60–100 bpm. What sinus rhythm means on an ECG, the NSR criteria, and what "with" findings on your report mean.
+Normal sinus rhythm is the heart's healthy rhythm at 60–100 bpm. What sinus rhythm means on an ECG, the NSR criteria, and what added report words mean.
 @@H1@@
 Normal Sinus Rhythm: What Sinus Rhythm Means on Your ECG
 @@CATEGORY@@
@@ -105,8 +105,6 @@ If a report says "sinus rhythm" after a previous diagnosis of AFib, it means the
 ## Is normal sinus rhythm good?
 
 ### Should you worry?
-
-Usually harmless
 
 None. It is the result you want. Note that sinus rhythm describes only the rhythm; other lines on the report describe wave shapes and intervals.
 

@@ -1,7 +1,7 @@
 @@TITLE@@
 Normal EKG Results: Normal ECG Values Chart & Intervals
 @@DESC@@
-Normal EKG results explained: what a normal EKG looks like, a normal ECG values chart for heart rate, PR, QRS, QT/QTc and axis, and what an out-of-range value means.
+Normal EKG results explained: what a normal EKG looks like, a normal ECG values chart (rate, PR, QRS, QTc, axis) and what out-of-range values mean.
 @@H1@@
 Normal EKG Results: Normal ECG Values and Intervals (Adults)
 @@CATEGORY@@
@@ -72,6 +72,25 @@ A quick heart-rate trick: count the large boxes between two R waves and divide 3
 - **R-wave progression:** R waves grow from V1 to about V4–V5, with the switch from mainly negative to mainly positive (the transition) around V3–V4. See [poor R wave progression](/poor-r-wave-progression/).
 - **ST thresholds:** small amounts of J-point elevation are normal. Under the Fourth Universal Definition of Myocardial Infarction, new ST elevation at the J point in two or more neighbouring (contiguous) leads is significant at 1 mm in most leads; in V2–V3 the threshold is 2 mm in men aged 40 or over, 2.5 mm in men under 40 and 1.5 mm in women. New horizontal or downsloping ST depression of 0.5 mm or more in two contiguous leads is also significant.
 - **T waves** may be inverted in lead III and V1 in healthy adults, and in V1–V3 in children and some young adults.
+
+## Normal waves, one by one
+
+| Wave or segment | Normal appearance in adults | Common report terms when it is not |
+| --- | --- | --- |
+| P wave | Upright in leads I and II, under 120 ms wide and under 2.5 mm tall; one before each QRS | [Inverted P wave](https://www.ecgmeans.com/inverted-p-wave/), [P mitrale](https://www.ecgmeans.com/p-mitrale/), [P pulmonale](https://www.ecgmeans.com/p-pulmonale/) |
+| QRS complex | Narrow and sharp; R waves grow taller from V1 across to V5 | [Wide QRS complex](https://www.ecgmeans.com/wide-qrs-complex/), [low voltage QRS](https://www.ecgmeans.com/low-voltage-qrs/) |
+| ST segment | Flat, at the level of the baseline | ST elevation, ST depression |
+| T wave | Smooth and upright in most leads, same direction as the QRS | [T wave inversion](https://www.ecgmeans.com/t-wave-inversion/), [biphasic T wave](https://www.ecgmeans.com/biphasic-t-wave/) |
+| U wave | Small or absent; if seen, follows the T wave in the same direction | [U wave](https://www.ecgmeans.com/u-wave/) |
+
+## How to check your own EKG results
+
+1. **Find the rhythm line.** "Sinus rhythm" or "normal sinus rhythm" is the normal starting point.
+2. **Check the heart rate.** Between 60 and 100 bpm is the standard normal range.
+3. **Compare each interval** (PR, QRS, QT/QTc) with the chart above.
+4. **Look at the axis.** Between −30° and +90° is normal.
+5. **Read the interpretation lines.** Phrases such as "normal ECG" or "within normal limits" mean nothing abnormal was flagged. Anything else can be looked up on this site.
+6. **Remember the machine is a first pass.** A clinician confirms every reading, and a computer statement is sometimes revised.
 
 ## Normal variants that are not abnormal
 

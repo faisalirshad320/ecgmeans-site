@@ -94,6 +94,9 @@ def render_md(text):
     # urgent callout
     body = body.replace("<p><strong>Get urgent help</strong>",
                         '<p class="callout callout-urgent"><strong>Get urgent help</strong>')
+    # a paragraph that is only a verdict renders as a badge
+    for v, cls in VERDICTS.items():
+        body = body.replace(f"<p>{v}</p>", f'<p class="verdict-inline"><span class="verdict verdict-{cls}">{v}</span></p>')
     # collect H2 headings for TOC
     heads = re.findall(r'<h2 id="([^"]+)">(.*?)</h2>', body)
     return body, heads
