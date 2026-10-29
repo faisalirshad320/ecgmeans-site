@@ -82,7 +82,7 @@ A "lateral infarct" on an ECG report means the software saw a pattern — usuall
 ### Left Axis Deviation: What It Means on an ECG
 URL: https://www.ecgmeans.com/left-axis-deviation/
 Verdict/quick answer: Usually harmless
-Left axis deviation means the average direction of electrical flow through your ventricles points further up and to the left than usual — between −30° and −90°, where normal is −30° to +90°. It is a measurement rather than a disease, and as an isolated finding it usually needs no action.
+"Left axis deviation" (sometimes abbreviated LAD — not to be confused with the left anterior descending artery) is a common line on ECG (EKG) reports, particularly in middle-aged and older adults. It describes the direction of the heart's electrical signal, worked out from the limb leads. This page explains how the axis is measured, what pushes it leftward, which combinations make doctors look further, and what usually happens next.
 
 ### Left Ventricular Hypertrophy (LVH): What It Means on an ECG
 URL: https://www.ecgmeans.com/left-ventricular-hypertrophy/
@@ -118,10 +118,10 @@ URL: https://www.ecgmeans.com/pericarditis-ecg/
 Verdict/quick answer: Needs clinician review
 Pericarditis is inflammation of the sac around the heart. On the ECG it classically produces widespread, saucer-shaped (concave) ST elevation across many leads, together with PR-segment depression. The key task for a clinician is to separate it from a heart attack, which also raises the ST segment but in a different pattern. The ECG is only part of the picture, alongside symptoms and blood tests.
 
-### Poor R Wave Progression: What It Means
+### Poor R Wave Progression: What It Means on an ECG
 URL: https://www.ecgmeans.com/poor-r-wave-progression/
 Verdict/quick answer: Depends on context
-"Poor R wave progression" means the upward R wave does not get taller as it should from chest lead V1 to V4 — typically the R wave in V3 is 3 mm or less. It can be a trace left by an old heart attack on the front of the heart, but far more often it reflects electrode position, body build or a normal variant.
+"Poor R wave progression" is a common computer-generated line on ECG (EKG) reports, sometimes followed by "consider anterior infarct." That second phrase is what worries people, but most people with this finding have not had a heart attack. This page explains how R waves normally behave across the chest leads, what makes them grow too slowly, how doctors tell a harmless pattern from a meaningful one, and which tests usually settle the question.
 
 ### Possible Left Atrial Enlargement: ECG Meaning
 URL: https://www.ecgmeans.com/left-atrial-enlargement/
@@ -328,10 +328,10 @@ URL: https://www.ecgmeans.com/sick-sinus-syndrome/
 Verdict/quick answer: Needs clinician review
 Sick sinus syndrome (also called sinus node dysfunction) means your heart's natural pacemaker, the sinus node, no longer reliably sets a normal rate. This can show up as a heart rate that stays too slow, pauses between beats, or fast rhythms that alternate with slow ones. It is not an emergency unless there is collapse, but it does need a clinician's review. It matters most when it causes symptoms such as dizziness or fainting.
 
-### Sinus Bradycardia: What It Means
+### Sinus Bradycardia: What It Means on Your ECG
 URL: https://www.ecgmeans.com/sinus-bradycardia/
 Verdict/quick answer: Usually harmless
-Sinus bradycardia is a normal heart rhythm at a rate below 60 beats per minute. The beat starts in the right place and travels the normal route; it is simply slow. It is normal during sleep and in physically fit people, and is only a problem if the rate is too slow to meet your body's needs.
+Sinus bradycardia is a normal heart rhythm at a rate below 60 beats per minute. The beat starts in the right place and travels the normal route; it is simply slow. It is normal during sleep and in physically fit people, and is only a problem if the rate is too slow to meet your body's needs. This page explains what the phrase means on an ECG (EKG) report, the common and less common causes, how doctors decide whether a slow pulse matters, and what happens next.
 
 ### Sinus Pause and Sinus Arrest: What They Mean
 URL: https://www.ecgmeans.com/sinus-pause-arrest/
@@ -341,12 +341,12 @@ A sinus pause (or sinus arrest) is a gap in which the heart's natural pacemaker,
 ### Sinus Rhythm With PACs: What It Means
 URL: https://www.ecgmeans.com/sinus-rhythm-with-pac/
 Verdict/quick answer: Usually harmless
-"Sinus rhythm with PACs" means your underlying rhythm is normal, with occasional early beats arising from the upper chambers (premature atrial complexes, also called contractions). Almost everyone has some. They may be felt as a skipped beat or flutter and are harmless in the great majority of people.
+"Sinus rhythm with PACs" means your underlying rhythm is normal, with occasional early beats arising from the upper chambers (premature atrial complexes, also called contractions). Almost everyone has some. They may be felt as a skipped beat or flutter and are harmless in the great majority of people. This page explains how PACs look on an ECG (EKG), what triggers them, when frequent PACs deserve follow-up, and how they differ from PVCs and other early beats.
 
 ### Sinus Rhythm With Sinus Arrhythmia: What It Means
 URL: https://www.ecgmeans.com/sinus-arrhythmia/
 Verdict/quick answer: Usually harmless
-Sinus arrhythmia is a normal, harmless variation in which the heart speeds up slightly as you breathe in and slows as you breathe out. Despite the word "arrhythmia", it is not a rhythm disorder. It is most obvious in children, young adults and fit people, and indicates a healthy, responsive nervous system.
+Sinus arrhythmia is a normal, harmless variation in which the heart speeds up slightly as you breathe in and slows as you breathe out. Despite the word "arrhythmia", it is not a rhythm disorder. It is most obvious in children, young adults and fit people, and indicates a healthy, responsive nervous system. This page explains what the phrase means on your ECG (EKG) report, how it is measured, the rare situations where it deserves a second look, and how it differs from rhythms that do matter.
 
 ### Sinus Tachycardia: What It Means, Causes and Treatment
 URL: https://www.ecgmeans.com/sinus-tachycardia/
@@ -393,10 +393,10 @@ URL: https://www.ecgmeans.com/ventricular-trigeminy/
 Verdict/quick answer: Depends on context
 Ventricular trigeminy means the ECG shows a repeating pattern of two normal beats followed by a premature ventricular contraction (PVC) — an early, wide beat from the ventricles. Like bigeminy, it is often harmless, especially in a normal heart, but a doctor should check how frequent the PVCs are and whether the heart is otherwise healthy.
 
-### Wandering Atrial Pacemaker: What It Means
+### Wandering Atrial Pacemaker: What It Means on an ECG
 URL: https://www.ecgmeans.com/wandering-atrial-pacemaker/
 Verdict/quick answer: Usually harmless
-A wandering atrial pacemaker means the spot that starts each heartbeat drifts between the sinus node and other sites in the atria, so the P waves change shape from beat to beat. The heart rate stays normal (under 100). It is usually a benign finding related to normal changes in vagal tone, and is common in the young, the old and athletes.
+A wandering atrial pacemaker means the spot that starts each heartbeat drifts between the sinus node and other sites in the atria, so the P waves change shape from beat to beat. The heart rate stays normal (under 100). It is usually a benign finding related to normal changes in vagal tone, and is common in the young, the old and athletes. This page explains how a wandering atrial pacemaker looks on an ECG (EKG), what causes it, when it points to something else, and how it differs from multifocal atrial tachycardia and atrial fibrillation.
 
 ### What Is a Dangerous Heart Rate With AFib?
 URL: https://www.ecgmeans.com/afib-heart-rate/
@@ -413,7 +413,7 @@ In 2:1 AV block, exactly every other impulse from the upper chambers is blocked,
 ### Bifascicular Block: What It Means on an ECG
 URL: https://www.ecgmeans.com/bifascicular-block/
 Verdict/quick answer: Needs clinician review
-Bifascicular block means two of the three main conduction branches that carry the electrical signal to the ventricles are blocked. The usual combination is a right bundle branch block plus one of the two left-sided fascicles. On its own it often causes no symptoms, but it reflects disease in the heart's wiring and sometimes needs monitoring.
+Bifascicular block is a phrase that understandably worries people, because it sounds like the heart is "two-thirds blocked." In reality, the signal still reaches the ventricles normally through the remaining branch, and many people with bifascicular block on an ECG (EKG) never develop problems. This page explains which patterns count as bifascicular block, what causes it, how doctors judge the risk of it progressing to complete heart block, and when a pacemaker is — and is not — recommended.
 
 ### Incomplete Left Bundle Branch Block: What It Means
 URL: https://www.ecgmeans.com/incomplete-left-bundle-branch-block/
@@ -434,10 +434,10 @@ An intraventricular conduction delay (IVCD) means the impulse takes longer than 
 URL: https://www.ecgmeans.com/left-bundle-branch-block/
 Left bundle branch block (LBBB) means the electrical impulse cannot travel down the left branch of the heart's wiring, so the left ventricle is activated late and indirectly. On the ECG the QRS becomes wide (120 ms or more) with a characteristic shape. Unlike its right-sided counterpart, LBBB is usually associated with underlying heart disease and prompts an echocardiogram.
 
-### Left Anterior Fascicular Block: What It Means
+### Left Anterior Fascicular Block (LAFB): What It Means on an ECG
 URL: https://www.ecgmeans.com/left-anterior-fascicular-block/
 Verdict/quick answer: Usually harmless
-Left anterior fascicular block (LAFB, or left anterior hemiblock) means one of the two small branches of the left bundle — the anterior fascicle — is delayed. The result is a marked leftward shift of the QRS axis with only slight widening of the QRS. It is a common finding, particularly with age, and on its own is generally harmless.
+Left anterior fascicular block (LAFB) — often printed as "left anterior hemiblock" — is one of the most common conduction findings on an adult ECG (EKG). It changes the direction of the heart's electrical signal rather than how well the heart pumps. This page explains what LAFB looks like, why it happens, when doctors pay closer attention (mainly when it is combined with another block or with symptoms), and which tests, if any, usually follow.
 
 ### Left Posterior Fascicular Block: What It Means
 URL: https://www.ecgmeans.com/left-posterior-fascicular-block/
@@ -449,10 +449,10 @@ URL: https://www.ecgmeans.com/lown-ganong-levine-syndrome/
 Verdict/quick answer: Needs clinician review
 Lown-Ganong-Levine (LGL) syndrome is an old term for a short PR interval on the ECG together with a normal, narrow QRS (no delta wave) and episodes of fast heartbeat. It is a form of suspected pre-excitation. The concept is debated today, but if your report mentions it, the key issue is the fast-heartbeat episodes, which deserve assessment.
 
-### Right Bundle Branch Block: What It Means
+### Right Bundle Branch Block (RBBB): What It Means on an ECG
 URL: https://www.ecgmeans.com/right-bundle-branch-block/
 Verdict/quick answer: Usually harmless
-Right bundle branch block (RBBB) means the impulse is delayed in the right branch of the heart's wiring, so the right ventricle is activated a little late. The QRS widens and takes on an "M-shaped" rSR' pattern in lead V1. Incomplete RBBB (QRS 110–119 ms) is a common normal variant, particularly in young people; complete RBBB is usually harmless too but is worth checking once.
+Right bundle branch block (RBBB) is one of the most common phrases on an adult ECG (EKG) report. It describes a delay in the right side of the heart's electrical wiring, not a blocked artery. Incomplete RBBB (QRS 110–119 ms) is a common normal variant, especially in young people and athletes; complete RBBB is also often harmless but is worth checking once. This page explains what the pattern looks like, what causes it, when it matters, and which tests usually follow.
 
 ### Second Degree AV Block Type 1 (Mobitz I / Wenckebach): What It Means
 URL: https://www.ecgmeans.com/second-degree-av-block-type-1/
@@ -698,7 +698,7 @@ An ECG report has three parts: a block of measurements (rate, PR, QRS, QT/QTc, a
 ### If My ECG Is Normal, Is My Heart OK?
 URL: https://www.ecgmeans.com/if-ecg-is-normal-is-my-heart-ok/
 Verdict/quick answer: Usually harmless
-A normal ECG is reassuring: it makes an acute heart attack, a serious rhythm disturbance during the recording, and significant conduction disease unlikely. But it is a ten-second electrical snapshot. It cannot see blocked arteries that are not currently causing damage, mild valve disease, or a rhythm problem that comes and goes. Whether your heart is OK depends on what question is being asked.
+A normal ECG is reassuring: it makes an acute heart attack, a serious rhythm disturbance during the recording, and significant conduction disease unlikely. But it is a ten-second electrical snapshot. It cannot see blocked arteries that are not currently causing damage, mild valve disease, or a rhythm problem that comes and goes. Whether your heart is OK depends on what question is being asked. This page explains what a normal ECG (EKG) does and does not tell you, which symptoms mean the assessment should continue, and which tests answer the questions an ECG cannot.
 
 ### Wandering Baseline on an ECG: What It Means
 URL: https://www.ecgmeans.com/wandering-baseline-ecg/
