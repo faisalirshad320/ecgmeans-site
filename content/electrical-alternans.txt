@@ -1,69 +1,176 @@
 @@TITLE@@
-Electrical Alternans on ECG: Causes and Meaning
+Electrical Alternans on ECG: Meaning, Causes & When to Worry
 @@DESC@@
-Electrical alternans is a beat-to-beat change in the height of the QRS. Its classic cause is a large fluid collection around the heart. Learn when it is urgent.
+Electrical alternans is a beat-to-beat change in QRS height on an ECG. Learn why fluid around the heart is the classic cause and when it is urgent.
 @@H1@@
 Electrical Alternans: What It Means on an ECG
 @@CATEGORY@@
 Intervals & Waves | https://www.ecgmeans.com/ecg-intervals-waves/
 @@QUICK@@
 Needs clinician review
+@@UPDATED@@
+2026-10-29
+@@ANSWER@@
+Electrical alternans means the QRS complexes on an ECG alternate in height from one beat to the next: tall, short, tall, short. The classic cause is a large pericardial effusion (fluid around the heart), where the heart swings in the fluid with each beat, and it can be a warning sign of cardiac tamponade. It is also seen with very fast heart rhythms. New electrical alternans needs prompt medical assessment, usually with an echocardiogram.
 @@LEDE@@
 Electrical alternans means the height of the QRS complexes changes from one beat to the next in a regular alternating pattern. Its best-known cause is a large collection of fluid around the heart (a pericardial effusion), in which the heart swings within the fluid so that each beat is recorded from a slightly different position. It can also occur with very fast rhythms. New electrical alternans deserves prompt assessment.
 @@BODY@@
-## What "Electrical alternans" means
+## What "electrical alternans" means
 
 When a lot of fluid builds up in the sac around the heart, the heart can literally swing back and forth within it with each beat. Because the heart's position relative to the electrodes changes beat to beat, the recorded QRS alternates in height. Combined with low voltage and a fast heart rate, this is a classic clue to a large effusion and to cardiac tamponade, a dangerous build-up that stops the heart filling properly.
 
 Electrical alternans is also seen in some very fast rhythms (such as certain SVTs), where it reflects the electrical behaviour rather than fluid.
 
-## What it looks like on the ECG
+Your ECG or EKG report may say **"electrical alternans"**, **"QRS alternans"** or **"alternating QRS amplitude"**. ECG and EKG mean the same test. The word "alternans" simply means alternating: every other beat looks different in a regular, predictable way.
+
+Electrical alternans is a *sign*, not a diagnosis. What matters is why it is there, and that depends heavily on the heart rate, the rest of the ECG and how you feel.
+
+## What electrical alternans looks like on the ECG
 
 QRS complexes that alternate in height from beat to beat in a regular pattern. In a large pericardial effusion this is often combined with overall low voltage and a fast heart rate.
 
-## Common causes
+| Feature | What doctors look for |
+| --- | --- |
+| Pattern | Every other QRS is taller, then shorter — an ABAB pattern |
+| Where it shows | Often clearest in the chest leads (V2–V4), but can appear in many leads |
+| Rhythm | The beats themselves are regular; only their size changes |
+| Heart rate | Usually fast — sinus tachycardia in effusion, or a fast SVT |
+| Overall voltage | Often low in a large effusion (limb-lead QRS under 5 mm or chest-lead QRS under 10 mm) |
+| Total alternans | P wave, QRS and T wave all alternating — strongly suggests a large effusion with tamponade |
+
+### The classic tamponade triad on the ECG
+
+Doctors are particularly alert when three findings appear together:
+
+1. [Sinus tachycardia](https://www.ecgmeans.com/sinus-tachycardia/) — the heart speeding up to keep blood pressure up
+2. [Low voltage QRS](https://www.ecgmeans.com/low-voltage-qrs/) — the fluid dampening the signal
+3. Electrical alternans — the heart swinging in the fluid
+
+Electrical alternans is not present in everyone with tamponade; only a minority show it. But when it appears with low voltage and a fast heart rate, it strongly points to a large effusion. See [cardiac tamponade on the ECG](https://www.ecgmeans.com/cardiac-tamponade-ecg/) for the full picture.
+
+## Electrical alternans causes
+
+**Common causes:**
 
 - Large pericardial effusion and cardiac tamponade (the classic cause)
-- Very fast supraventricular tachycardias
+- Very fast supraventricular tachycardias, such as AVRT and [AVNRT](https://www.ecgmeans.com/avnrt/)
+
+**Less common causes:**
+
 - Severe heart muscle disease
 - Occasionally with severe ischaemia
+- Fast ventricular tachycardia
+- "Pseudo-alternans" from deep breathing, movement or a loose electrode — see [ECG artifact](https://www.ecgmeans.com/ecg-artifact/)
 
-## Should you worry?
+**Why fluid builds up around the heart** (the conditions behind a large effusion):
+
+- Inflammation of the pericardium — see [pericarditis on the ECG](https://www.ecgmeans.com/pericarditis-ecg/) — from viruses, tuberculosis or autoimmune disease
+- Cancer spreading to the pericardium (for example lung or breast cancer, lymphoma)
+- Kidney failure
+- An underactive thyroid
+- After heart surgery, catheter procedures or chest injury
+- Bleeding into the pericardium, for example from an aortic dissection
+
+## Is electrical alternans dangerous?
 
 Needs clinician review
 
 New electrical alternans, especially with breathlessness, a fast heart rate, low blood pressure or light-headedness, can indicate a large pericardial effusion or tamponade and needs urgent assessment with an echocardiogram. In the setting of a fast rhythm it is assessed as part of that rhythm.
 
+How doctors decide how urgent it is:
+
+| Situation | Likely meaning | Usual urgency |
+| --- | --- | --- |
+| Alternans during a fast SVT that has now stopped, normal ECG afterwards | Rate-related, not fluid | Routine review of the SVT |
+| Alternans with sinus tachycardia and low voltage | Large effusion until proven otherwise | Same-day echocardiogram |
+| Alternans with low blood pressure, raised neck veins or breathlessness | Possible tamponade | Emergency |
+| Alternans that disappears when electrodes are reattached | Artifact | None |
+| Known effusion, alternans newly appearing | Effusion growing or swinging more | Prompt review |
+
+Cardiac tamponade is a medical emergency because the fluid squeezes the heart so it cannot fill. Untreated, blood pressure can collapse, and in the most severe cases the heart's electrical activity continues without an effective pulse ([pulseless electrical activity](https://www.ecgmeans.com/pulseless-electrical-activity/)). It is very treatable when caught.
+
+## Symptoms to watch for
+
+- Breathlessness, especially when lying flat
+- A fast heartbeat
+- Chest pain or pressure, often eased by sitting forward if pericarditis is the cause
+- Light-headedness, fainting or near-fainting
+- Swollen neck veins or ankle swelling
+- Cold, clammy skin or confusion (signs that blood pressure is falling)
+
+Some people with a slowly growing effusion feel surprisingly well until the fluid reaches a critical amount. That is why the ECG finding is taken seriously even if symptoms are mild.
+
+## Tests that usually come next
+
+1. **Urgent echocardiogram** — the key test. It shows whether there is fluid, how much, and whether it is compressing the heart chambers. See [EKG vs echocardiogram](https://www.ecgmeans.com/ekg-vs-echocardiogram/).
+2. **Blood pressure and pulse checks**, including whether blood pressure drops noticeably on breathing in (pulsus paradoxus).
+3. **Repeat 12-lead ECG** to confirm the pattern and the rhythm.
+4. **Blood tests** for kidney function, thyroid function, inflammation markers and troponin.
+5. **Chest X-ray or CT** to look for an enlarged heart outline, lung or chest problems, or cancer.
+6. **Analysis of drained fluid**, if it is removed, to find the cause (infection, cancer, blood).
+
+## Treatment
+
+Treatment depends on the cause:
+
+- **Cardiac tamponade:** the fluid is drained, usually with a needle under ultrasound guidance (pericardiocentesis) or sometimes surgically. Relief is often immediate, and the alternans usually disappears once the fluid is removed.
+- **Large effusion without tamponade:** close monitoring and treating the cause; drainage may still be needed.
+- **Pericarditis:** anti-inflammatory medicines such as NSAIDs and colchicine, as directed by your doctor.
+- **Recurring effusions:** sometimes a surgical "window" in the pericardium so fluid can drain.
+- **Fast SVT:** stopping the tachycardia (vagal manoeuvres, adenosine, medicines or cardioversion) usually makes the alternans vanish; longer-term treatment targets the SVT itself.
+
+## Special groups
+
+- **People with cancer:** a new fast heart rate, breathlessness or low-voltage ECG with alternans is a reason for an urgent echocardiogram, since effusions related to cancer can build up quietly.
+- **After heart surgery:** effusions are common in the days to weeks after surgery and are monitored routinely.
+- **People on dialysis or with kidney failure:** effusion is a recognised complication and is checked for when the ECG changes.
+- **Pregnancy:** a small amount of pericardial fluid can be normal in pregnancy, but electrical alternans is not a normal finding and needs assessment.
+- **Children:** effusions are less common but follow the same principles; an echocardiogram is the key test.
+
+## How it differs from look-alike findings
+
+- **[Ventricular bigeminy](https://www.ecgmeans.com/ventricular-bigeminy/) and atrial bigeminy:** every other beat looks different, but those beats are also *early*. In electrical alternans the timing stays perfectly regular.
+- **Respiratory variation and [wandering baseline](https://www.ecgmeans.com/wandering-baseline-ecg/):** QRS height can drift with breathing, but it changes gradually over several beats rather than flipping every beat.
+- **T-wave alternans:** a beat-to-beat change in the T wave rather than the QRS. Visible T-wave alternans can occur with a very long QT interval and is a warning sign for dangerous rhythms; it is assessed differently.
+- **[Low voltage QRS](https://www.ecgmeans.com/low-voltage-qrs/) alone:** small complexes of steady height, without the alternating pattern.
+
 **Get urgent help** if this finding comes with chest pain or pressure, severe breathlessness, fainting, or a fast heartbeat that will not settle. Call your local emergency number if you feel faint or severely breathless.
-
-## What usually happens next
-
-1. An urgent echocardiogram to look for fluid around the heart
-2. Assessment of blood pressure and the rhythm
-3. Drainage of the fluid if tamponade is present
-4. Treatment of the underlying cause
 
 ### Questions to ask your doctor
 
 - Is there fluid around my heart?
 - Do I need an urgent echocardiogram?
 - Is my blood pressure affected?
+- Could this be related to a fast rhythm rather than fluid?
+- What is causing the fluid, and will it need draining?
+- What symptoms should make me come back straight away?
 @@FAQ@@
+Q: What does electrical alternans mean on an ECG?
+A: It means the QRS complexes alternate between taller and shorter on every other beat. The classic cause is a large pericardial effusion, but it can also appear during very fast heart rhythms.
 Q: Is electrical alternans dangerous?
 A: It can be, because its classic cause is a large pericardial effusion that may progress to tamponade. New electrical alternans needs prompt assessment.
 Q: What causes electrical alternans?
 A: Most classically a large collection of fluid around the heart; also some very fast rhythms and severe heart muscle disease.
 Q: How is it confirmed?
 A: With an echocardiogram, which shows the fluid and how it is affecting the heart.
+Q: Is electrical alternans always a sign of cardiac tamponade?
+A: No. It is also seen with fast SVTs and can be mimicked by artifact. However, alternans together with a fast heart rate and low voltage strongly suggests a large effusion and needs an urgent echocardiogram.
+Q: Does electrical alternans go away?
+A: Yes, once the cause is treated. It usually disappears after fluid around the heart is drained or when a fast rhythm is stopped.
+Q: What is total electrical alternans?
+A: It is when the P wave, QRS and T wave all alternate together. It is highly suggestive of a large pericardial effusion with tamponade.
 @@RELATED@@
+Cardiac Tamponade on an ECG | https://www.ecgmeans.com/cardiac-tamponade-ecg/ | Seek prompt care
 Low Voltage QRS: What It Means | https://www.ecgmeans.com/low-voltage-qrs/ | NONE
 Pericarditis on an ECG: What It Shows | https://www.ecgmeans.com/pericarditis-ecg/ | Needs clinician review
 Sinus Tachycardia: What It Means | https://www.ecgmeans.com/sinus-tachycardia/ | Depends on context
-SVT vs VTach: What's the Difference? | https://www.ecgmeans.com/svt-vs-vtach/ | NONE
+Supraventricular Tachycardia (SVT): What It Means | https://www.ecgmeans.com/supraventricular-tachycardia/ | Needs clinician review
+EKG vs Echocardiogram: What's the Difference? | https://www.ecgmeans.com/ekg-vs-echocardiogram/ | NONE
 Abnormal ECG: What It Means on Your Report | https://www.ecgmeans.com/abnormal-ecg/ | Depends on context
 @@ALSO@@
-electrical alternans, electrical alternans ecg, electrical alternans tamponade, qrs alternans
+electrical alternans, electrical alternans ecg, electrical alternans ekg, qrs alternans, total electrical alternans, electrical alternans tamponade, electrical alternans pericardial effusion, what does electrical alternans mean, is electrical alternans dangerous, electrical alternans causes, electrical alternans svt
 @@SOURCES@@
 Cardiac Tamponade (StatPearls) | https://www.ncbi.nlm.nih.gov/books/NBK431090/
 ECG Findings in Massive Pericardial Effusion (LITFL) | https://litfl.com/ecg-findings-in-massive-pericardial-effusion/
+Electrical Alternans — StatPearls | https://www.statpearls.com/ArticleLibrary/viewarticle/20966
 @@END@@

@@ -1,63 +1,156 @@
 @@TITLE@@
-Sinus Arrhythmia on ECG: Is It Normal?
+Sinus Arrhythmia on ECG: Meaning, Causes & Is It Normal?
 @@DESC@@
-Despite the alarming name, sinus arrhythmia is a normal variation of heart rate with breathing. Here's why it happens and why it is a sign of a healthy heart.
+Sinus arrhythmia on an ECG or EKG is usually a normal speeding and slowing of the heart with breathing. What it means, ECG criteria, and when it needs a look.
 @@H1@@
 Sinus Rhythm With Sinus Arrhythmia: What It Means
 @@CATEGORY@@
 Heart Rhythms | https://www.ecgmeans.com/heart-rhythms/
 @@QUICK@@
 Usually harmless
+@@UPDATED@@
+2026-10-29
+@@ANSWER@@
+Sinus arrhythmia means your heartbeat starts normally in the sinus node but the gap between beats varies, usually speeding up as you breathe in and slowing as you breathe out. On an ECG every beat looks normal; only the spacing changes. It is very common in children, young adults and fit people, is a sign of healthy nerve control of the heart, and needs no treatment.
 @@LEDE@@
-Sinus arrhythmia is a normal, harmless variation in which the heart speeds up slightly as you breathe in and slows as you breathe out. Despite the word "arrhythmia", it is not a rhythm disorder. It is most obvious in children, young adults and fit people, and indicates a healthy, responsive nervous system.
+Sinus arrhythmia is a normal, harmless variation in which the heart speeds up slightly as you breathe in and slows as you breathe out. Despite the word "arrhythmia", it is not a rhythm disorder. It is most obvious in children, young adults and fit people, and indicates a healthy, responsive nervous system. This page explains what the phrase means on your ECG (EKG) report, how it is measured, the rare situations where it deserves a second look, and how it differs from rhythms that do matter.
 @@BODY@@
-## What "Sinus rhythm with sinus arrhythmia" means
+## What "sinus rhythm with sinus arrhythmia" means
 
-Breathing changes the pressure in the chest and the activity of the vagus nerve, which in turn nudges the sinus node faster and slower. The software measures the spacing between beats, and if the longest and shortest intervals differ by more than about 120 ms (or 10%) it prints sinus arrhythmia. "Marked" just means the variation is larger.
+Every normal heartbeat starts in the **sinus node**, a small cluster of pacemaker cells in the right atrium. "Sinus rhythm" on your report means that is happening. "Sinus arrhythmia" adds that the sinus node is not firing at a perfectly even pace — the beats are slightly closer together at some moments and further apart at others.
 
-The variation fades with age and in conditions such as diabetes that affect the autonomic nerves — so having it is, if anything, a good sign.
+Breathing changes the pressure in the chest and the activity of the vagus nerve, which in turn nudges the sinus node faster and slower. As you breathe in, vagal braking eases and the rate rises; as you breathe out, vagal tone returns and the rate falls. This is called **respiratory sinus arrhythmia**, and it is by far the most common type.
 
-## What it looks like on the ECG
+The ECG machine measures the spacing between beats, and if the longest and shortest intervals differ by more than about 120 ms (0.12 seconds) — some programs use a percentage, such as about 10% — it prints "sinus arrhythmia". "Marked sinus arrhythmia" just means the variation is larger. It does not mean something is wrong.
+
+The variation fades with age and in conditions such as diabetes that affect the autonomic nerves — so having it is, if anything, a good sign. ECG and EKG are the same test; both spellings appear on reports.
+
+## What sinus arrhythmia looks like on the ECG
 
 Every beat is normal, but the gaps between them lengthen and shorten in a repeating wave that follows the breathing cycle.
 
-## Common causes
+| Feature | Sinus arrhythmia | Why it matters |
+| --- | --- | --- |
+| P waves | Present before every QRS, same shape throughout | Confirms every beat starts in the sinus node |
+| PR interval | Normal and constant (120–200 ms) | Rules out heart block patterns |
+| QRS complex | Normal and narrow (under 120 ms) | Normal conduction through the ventricles |
+| Beat-to-beat spacing (P–P or R–R) | Varies by more than about 120 ms | This variation is the finding itself |
+| Pattern | Gradual speeding and slowing, often in time with breathing | Distinguishes it from random irregularity |
+| Heart rate | Usually 60–100 bpm, sometimes dipping lower on breathing out | Often seen alongside [sinus bradycardia](https://www.ecgmeans.com/sinus-bradycardia/) |
 
-- Normal breathing (respiratory sinus arrhythmia)
-- Youth and physical fitness
-- Deep or slow breathing during the recording
+The key point is that the **P waves look identical**. If the P-wave shape changes from beat to beat, the reader starts thinking about a different rhythm, such as a [wandering atrial pacemaker](https://www.ecgmeans.com/wandering-atrial-pacemaker/).
 
-## Should you worry?
+## Types and causes
 
-Usually harmless
+### Respiratory (phasic) sinus arrhythmia — the common, normal type
 
-None. No restriction, treatment or follow-up is needed.
+- Normal breathing, especially slow or deep breaths during the recording
+- Youth — it is the rule rather than the exception in children and teenagers
+- Physical fitness and high vagal tone, as in athletes
+- Rest, relaxation and sleep
 
-**Get urgent help** if this finding comes with chest pain or pressure, severe breathlessness, fainting, or a fast heartbeat that will not settle. Those symptoms matter more than any single ECG phrase.
+### Non-respiratory sinus arrhythmia — less common
 
-## What usually happens next
+Here the variation does not follow breathing. It can still occur in healthy people, but it is more often linked to an underlying condition, so doctors look at the wider picture:
 
-1. Nothing
+- Older age with degeneration of the sinus node, sometimes part of [sick sinus syndrome](https://www.ecgmeans.com/sick-sinus-syndrome/)
+- Underlying heart disease
+- Digoxin effect or excess (see [digoxin effect on ECG](https://www.ecgmeans.com/digoxin-effect-ecg/))
+- Raised pressure inside the skull after a head injury or bleed (rare, in very ill patients)
 
-### Questions to ask your doctor
+A specific form called **ventriculophasic sinus arrhythmia** is seen in complete heart block ([third-degree AV block](https://www.ecgmeans.com/third-degree-av-block/)): P waves that fall between QRS complexes come slightly faster than those that do not. In that setting the heart block is the important finding, not the sinus arrhythmia.
+
+## Is sinus arrhythmia dangerous?
+
+Respiratory sinus arrhythmia is not dangerous. It does not damage the heart, does not turn into atrial fibrillation, and does not raise the risk of a heart attack or stroke. No restriction, treatment or follow-up is needed for it.
+
+Doctors take a second look only when:
+
+- The variation is **not linked to breathing** and the person is older or has heart disease
+- There are **long pauses** (gaps of several seconds) or very slow rates
+- The person has **symptoms** such as fainting, near-fainting or marked tiredness
+- Other abnormalities appear on the same ECG
+
+In those situations the question becomes whether the sinus node itself is unhealthy, not whether sinus arrhythmia is harmful.
+
+## Symptoms
+
+Most people feel nothing. A few notice their pulse speeding and slowing when they take it while breathing deeply, which is normal. Sinus arrhythmia does not cause chest pain, breathlessness or fainting; if you have those, they need assessment in their own right, whatever the ECG says. Our page on [heart palpitations with a normal ECG](https://www.ecgmeans.com/heart-palpitations-normal-ecg/) covers what to do when you feel symptoms the tracing did not capture.
+
+## What tests come next?
+
+For typical respiratory sinus arrhythmia in a well person: none. When the pattern is non-respiratory or comes with symptoms, a clinician may consider:
+
+1. **A repeat rhythm strip with breath-holding** — if the variation largely disappears when you hold your breath, it is respiratory and benign.
+2. **A Holter or patch monitor** (24 hours to 2 weeks) to look for pauses or slow rates during symptoms.
+3. **Medication review**, particularly digoxin and other heart-slowing drugs.
+4. **Blood tests** such as thyroid function and electrolytes if other findings suggest them.
+
+## Treatment
+
+Respiratory sinus arrhythmia needs no treatment and should not be "fixed". When sinus arrhythmia is part of another problem — sinus node disease causing symptomatic pauses, or drug toxicity — the underlying cause is what gets treated.
+
+## Special groups
+
+- **Children and teenagers:** very pronounced sinus arrhythmia is normal and expected. School and sports ECGs frequently show it.
+- **Athletes:** high vagal tone makes both sinus arrhythmia and slow heart rates common; they are signs of conditioning.
+- **Pregnancy:** sinus arrhythmia can be present and is harmless; resting heart rate normally rises during pregnancy.
+- **Older adults:** the normal breathing-related variation tends to shrink with age. New, non-respiratory irregularity in an older person, especially with dizziness, is more likely to be reviewed.
+
+## How it differs from look-alike findings
+
+| Finding | P waves | Pattern of irregularity | Usual significance |
+| --- | --- | --- | --- |
+| Sinus arrhythmia | Present, all the same shape | Gradual, cyclical, follows breathing | Normal |
+| [Atrial fibrillation](https://www.ecgmeans.com/atrial-fibrillation/) | Absent; wavy baseline | Irregularly irregular, no pattern | Needs clinician review |
+| [Sinus rhythm with PACs](https://www.ecgmeans.com/sinus-rhythm-with-pac/) | Early beat has a differently shaped P wave | Sudden early beat, then a pause | Usually harmless |
+| [Atrial bigeminy](https://www.ecgmeans.com/atrial-bigeminy/) | Every second P wave early and different | Paired beats, short–long rhythm | Usually harmless |
+| [Sinoatrial block](https://www.ecgmeans.com/sinoatrial-block/) | Normal, but a whole beat drops out | Pause that is a multiple of the normal gap | Depends on symptoms |
+| [Sinus pause or arrest](https://www.ecgmeans.com/sinus-pause-arrest/) | Normal, then a sudden long gap | Abrupt pause, not gradual | Depends on length and symptoms |
+| Wandering atrial pacemaker | Three or more different P-wave shapes | Mildly irregular | Usually harmless |
+
+Because sinus arrhythmia is irregular, some smartwatches flag it as "possible AFib". A 12-lead ECG showing normal, identical P waves before each beat settles the question.
+
+## Get urgent help
+
+**Get urgent help** if this finding comes with chest pain or pressure, severe breathlessness, fainting, or a fast heartbeat that will not settle. Those symptoms matter more than any single ECG phrase. Call your local emergency number (911 in the US, 999 in the UK, 112 in Europe).
+
+## Questions to ask your doctor
 
 - Is there anything else on my ECG besides sinus arrhythmia?
+- Is my sinus arrhythmia linked to breathing (respiratory), or not?
+- Were there any pauses or very slow rates on the tracing?
+- Could any of my medicines be affecting my heart rate?
+- If my smartwatch flags an irregular rhythm, how do I tell this apart from atrial fibrillation?
 @@FAQ@@
+Q: What does sinus arrhythmia mean on an ECG?
+A: It means the heartbeat starts normally in the sinus node, but the time between beats varies, usually rising and falling with breathing. Every beat looks normal; only the spacing changes.
 Q: Is sinus arrhythmia an irregular heartbeat?
 A: Technically the spacing varies, but it is a normal physiological variation and not what doctors mean by an irregular heartbeat such as atrial fibrillation.
-Q: Is it normal in children?
-A: Yes. It is the rule rather than the exception in children and teenagers.
-Q: Does it need treatment?
-A: No.
+Q: Is sinus arrhythmia dangerous?
+A: The common breathing-related type is not dangerous and does not lead to atrial fibrillation, heart attack or stroke. Non-breathing-related sinus arrhythmia with pauses or symptoms, usually in older people, may need further review.
+Q: Is sinus arrhythmia normal in children?
+A: Yes. It is the rule rather than the exception in children and teenagers, and is often very marked.
+Q: What is marked sinus arrhythmia?
+A: It means the difference between the shortest and longest beat-to-beat gaps is larger than usual. In a healthy young person it is still a normal finding.
+Q: Does sinus arrhythmia need treatment?
+A: No. Respiratory sinus arrhythmia needs no treatment, restrictions or follow-up. If it is part of another problem such as sinus node disease or drug toxicity, that cause is treated instead.
+Q: Can deep breathing cause sinus arrhythmia on an ECG?
+A: Yes. Slow, deep breathing during the recording makes the normal variation more obvious, which is why it often appears on resting ECGs in relaxed, healthy people.
+Q: Can a smartwatch confuse sinus arrhythmia with AFib?
+A: Occasionally. A 12-lead ECG showing identical P waves before every beat confirms sinus arrhythmia rather than atrial fibrillation.
 @@RELATED@@
-Sinus Rhythm: What It Means on Your ECG | https://www.ecgmeans.com/sinus-rhythm/ | Usually harmless
-Sinus Bradycardia: What It Means | https://www.ecgmeans.com/sinus-bradycardia/ | Usually harmless
+Normal Sinus Rhythm: What Sinus Rhythm Means on Your ECG | https://www.ecgmeans.com/sinus-rhythm/ | Usually harmless
+Sinus Bradycardia: What It Means on Your ECG | https://www.ecgmeans.com/sinus-bradycardia/ | Usually harmless
 Sinus Rhythm With PACs: What It Means | https://www.ecgmeans.com/sinus-rhythm-with-pac/ | Usually harmless
-Early Repolarization on an ECG: What It Means | https://www.ecgmeans.com/early-repolarization/ | Usually harmless
-Borderline ECG: What It Means | https://www.ecgmeans.com/borderline-ecg/ | Usually harmless
+Wandering Atrial Pacemaker: What It Means on an ECG | https://www.ecgmeans.com/wandering-atrial-pacemaker/ | Usually harmless
+Sinoatrial (SA) Block on an ECG: What It Means | https://www.ecgmeans.com/sinoatrial-block/ | Depends on context
+Atrial Fibrillation ECG: What AFib Looks Like and What It Means | https://www.ecgmeans.com/atrial-fibrillation/ | Needs clinician review
+Borderline ECG: What It Means and When to Worry | https://www.ecgmeans.com/borderline-ecg/ | Usually harmless
 @@ALSO@@
-sinus arrhythmia, what is sinus arrhythmia, respiratory sinus arrhythmia, marked sinus arrhythmia
+sinus arrhythmia, sinus arrhythmia ecg, sinus arrhythmia ekg, what is sinus arrhythmia, what does sinus arrhythmia mean, sinus rhythm with sinus arrhythmia, respiratory sinus arrhythmia, marked sinus arrhythmia, is sinus arrhythmia dangerous, sinus arrhythmia causes, sinus arrhythmia in children, sinus arrhythmia treatment, non-respiratory sinus arrhythmia
 @@SOURCES@@
-Sinus Arrhythmia | https://my.clevelandclinic.org/health/diseases/21666-sinus-arrhythmia
-Sinus Arrhythmia | https://www.ncbi.nlm.nih.gov/books/NBK537011/
+Sinus Arrhythmia — Cleveland Clinic | https://my.clevelandclinic.org/health/diseases/21666-sinus-arrhythmia
+Sinus Arrhythmia — StatPearls (NCBI Bookshelf) | https://www.ncbi.nlm.nih.gov/books/NBK537011/
+Sinus Arrhythmia — LITFL ECG Library | https://litfl.com/sinus-arrhythmia-ecg-library/
 @@END@@

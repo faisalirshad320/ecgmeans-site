@@ -61,6 +61,7 @@ Junctional Escape Rhythm: What It Means | https://www.ecgmeans.com/junctional-es
 Sinus Bradycardia: What It Means | https://www.ecgmeans.com/sinus-bradycardia/ | Usually harmless
 Sick Sinus Syndrome: What It Means | https://www.ecgmeans.com/sick-sinus-syndrome/ | Needs clinician review
 Accelerated Junctional Rhythm: What It Means | https://www.ecgmeans.com/accelerated-junctional-rhythm/ | Needs clinician review
+Sinoatrial (SA) Block on an ECG: What It Means | https://www.ecgmeans.com/sinoatrial-block/ | Depends on context
 @@ALSO@@
 junctional bradycardia, slow junctional rhythm, junctional escape bradycardia
 @@SOURCES@@

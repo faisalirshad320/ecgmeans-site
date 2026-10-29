@@ -74,6 +74,6 @@ Right Atrial Enlargement: What It Means | https://www.ecgmeans.com/right-atrial-
 Incomplete RBBB, IRBBB, Partial right bundle branch block, Incomplete right bundle branch block pattern, rSR' pattern in V1, RSR' in V1, Incomplete RBBB pattern
 @@SOURCES@@
 Right Bundle Branch Block | https://litfl.com/right-bundle-branch-block-rbbb-ecg-library/
-Bundle Branch Block | https://www.ncbi.nlm.nih.gov/books/NBK507872/
+Right Bundle Branch Block — StatPearls (NCBI Bookshelf) | https://www.ncbi.nlm.nih.gov/books/NBK507872/
 Bundle Branch Block | https://my.clevelandclinic.org/health/diseases/17818-bundle-branch-block
 @@END@@

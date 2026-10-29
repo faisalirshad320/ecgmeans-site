@@ -1,5 +1,5 @@
 @@TITLE@@
-EKG Interpretation Cheat Sheet: Normal Values, Rhythms & STEMI
+EKG Interpretation Cheat Sheet: Normal Values & Rhythms
 @@DESC@@
 EKG interpretation cheat sheet: normal values, rate table, rhythm and heart block recognition, axis rules, STEMI territories, electrolytes and mnemonics.
 @@H1@@

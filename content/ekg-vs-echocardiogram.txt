@@ -154,6 +154,7 @@ Low Voltage QRS: What It Means | https://www.ecgmeans.com/low-voltage-qrs/ | NON
 Sinus Rhythm: What It Means on Your ECG | https://www.ecgmeans.com/sinus-rhythm/ | Usually harmless
 ECG vs EKG: Is There a Difference? | https://www.ecgmeans.com/ecg-vs-ekg/ | NONE
 What Can an EKG Detect? | https://www.ecgmeans.com/what-can-an-ekg-detect/ | NONE
+EEG vs EKG: What Is the Difference Between These Two Tests? | https://www.ecgmeans.com/eeg-vs-ekg/ | NONE
 @@ALSO@@
 ekg vs echocardiogram, ekg vs echo, echo vs ekg, difference between ecg and echocardiogram, echocardiogram vs ekg, is an echocardiogram the same as an ekg, is an ekg the same as an echocardiogram, echocardiogram vs electrocardiogram, ekg vs. echocardiogram, ecg vs echo, echocardiogram vs ecg, difference between ekg and echo, echo and ekg difference
 @@SOURCES@@

@@ -4,8 +4,30 @@ Contact ECG Means: Corrections and Suggestions
 Contact ECG Means to report a correction, suggest an ECG report phrase we should explain, or ask about the site. We cannot interpret individual ECGs.
 @@H1@@
 Contact
+@@UPDATED@@
+2026-10-29
 @@LEDE@@
 Found a phrase on your report that is not covered, or spotted something that needs correcting? Email hello@ecgmeans.com.
 @@BODY@@
-Please do not send your ECG for interpretation. We are unable to give individual medical advice; your clinician is the right person to ask.
+## How to reach us
+
+Email **hello@ecgmeans.com**. We read every message and aim to reply within a few working days.
+
+## What we can help with
+
+- **Corrections.** If a page contains an error, an out-of-date threshold or a broken link, send the page address and what you think is wrong. Confirmed corrections are made promptly, and the page's review date is updated so you can see when it changed.
+- **Missing phrases.** If your ECG report contains wording we have not explained yet, send us the exact phrase as printed (please remove your name, date of birth and any hospital numbers). New phrases are prioritised by how often readers ask for them.
+- **Feedback on clarity.** If something on a page was confusing, tell us which part. Our aim is that anyone can understand their report after one read.
+- **Calculators and tools.** Report a calculator result that looks wrong, together with the numbers you entered.
+- **Permissions and press.** Ask before reusing our illustrations; schematic ECG drawings may be licensed for educational use.
+
+## What we cannot do
+
+Please do not send your ECG, test results or symptoms for interpretation. We are unable to give individual medical advice, and an email is not a safe way to assess a heart problem. Your own clinician — the person who ordered the test — has your history and the full tracing, and is the right person to ask.
+
+**If you have chest pain, severe breathlessness, fainting or a racing heartbeat that will not settle, call your local emergency number now.** Do not wait for a reply from us.
+
+## Editorial standards
+
+Every page is written and medically reviewed by Dr. Faisal Irshad, MBBS (PMDC 54440-S). Read more about how pages are researched and reviewed on our [About & editorial policy](https://www.ecgmeans.com/about/) page, and see the [medical disclaimer](https://www.ecgmeans.com/disclaimer/) and [privacy policy](https://www.ecgmeans.com/privacy/).
 @@END@@

@@ -138,6 +138,7 @@ def head(title, desc, canonical, og_type, extra_nodes, robots="index,follow,max-
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
+<script>(function(l){{if(l.hostname==='ecgmeans.com'||/\\/index\\.html$/.test(l.pathname)){{l.replace('https://www.ecgmeans.com'+l.pathname.replace(/index\\.html$/,'')+l.search+l.hash)}}}})(location)</script>
 <title>{esc(title)}</title>
 <meta name="description" content="{esc(desc)}">
 <link rel="canonical" href="{canonical}">
@@ -179,7 +180,8 @@ def header_html():
 </nav>
 </div></header>'''
 
-def footer_html():
+def footer_html(updated=None):
+    updated = updated or MODIFIED
     return f'''<footer class="site-foot"><div class="wrap">
 <p class="foot-brand"><strong>{SITE}</strong> — {TAGLINE}<br>Reviewed by {esc(REVIEWER)}, {REVIEWER_SUFFIX} · {REVIEWER_TITLE} · {PMDC}</p>
 <nav class="foot-links" aria-label="Footer">
@@ -189,7 +191,7 @@ def footer_html():
 <a href="/contact/">Contact</a>
 </nav>
 <p class="foot-note">ECG Means provides general educational information about electrocardiogram findings. It is not medical advice and cannot interpret your individual ECG. Always discuss your results with the clinician who ordered the test. If you have chest pain, severe breathlessness or fainting, seek emergency care.</p>
-<p class="copyright">© 2026 ECG Means. Last reviewed {MODIFIED}.</p>
+<p class="copyright">© 2026 ECG Means. Last reviewed {updated}.</p>
 </div></footer>
 </body>
 </html>'''
@@ -239,6 +241,7 @@ def verdict_badge(quick):
 
 SVG_IMAGES = {}
 OG_PAGES = []
+HOME_UPDATED = MODIFIED
 PAGE_UPDATED = {}   # slug -> per-page UPDATED date (falls back to MODIFIED)
 ABOUT_NAME = {"what-is-an-ekg": "Electrocardiogram (ECG/EKG)", "how-to-read-ecg-report": "Electrocardiogram (ECG/EKG)",
   "if-ecg-is-normal-is-my-heart-ok": "Electrocardiogram (ECG/EKG)", "ekg-vs-echocardiogram": "Electrocardiogram vs echocardiogram",
@@ -446,7 +449,7 @@ def render_content(s):
 
     OG_PAGES.append((s, h1))
     return head(title, desc, canonical, "article", nodes, og_image=f"{HOST}/assets/og/{s}.png") + header_html() + \
-        f'<main id="main" class="wrap narrow">{article}</main>' + footer_html()
+        f'<main id="main" class="wrap narrow">{article}</main>' + footer_html(updated)
 
 def h1_crumb(h1):
     # short label for breadcrumb/about
@@ -463,6 +466,8 @@ def render_hub(s):
     lede = f.get("LEDE", "").strip()
     canonical = f"{HOST}/{s}/"
     label = HUB_LABEL[s]
+    updated = f.get("UPDATED", "").strip() or MODIFIED
+    PAGE_UPDATED[s] = updated
     members = hub_members.get(s, [])
     cards = "\n".join(page_card(m) for m in members)
     # other hubs nav
@@ -478,7 +483,7 @@ def render_hub(s):
         "name": title, "description": desc, "url": canonical, "inLanguage": "en",
         "isPartOf": {"@id": HOST + "/#website"},
         "about": {"@type": "MedicalTest", "name": "Electrocardiogram (ECG/EKG)"}, "publisher": {"@id": HOST + "/#org"},
-        "dateModified": MODIFIED, "mainEntity": item_list,
+        "dateModified": updated, "mainEntity": item_list,
     }
     nodes = [collection, breadcrumb_jsonld(trail)]
     hub_body, _ = render_md(f.get("BODY", ""))
@@ -487,7 +492,7 @@ def render_hub(s):
 <article>
 <h1>{esc(h1)}</h1>
 <p class="lede">{esc(lede)}</p>
-{byline()}
+{byline(updated)}
 {ad_unit()}
 <ul class="cards">
 {cards}
@@ -499,7 +504,7 @@ def render_hub(s):
 </article>'''
     OG_PAGES.append((s, h1))
     return head(title, desc, canonical, "website", nodes, og_image=f"{HOST}/assets/og/{s}.png") + header_html() + \
-        f'<main id="main" class="wrap">{main}</main>' + footer_html()
+        f'<main id="main" class="wrap">{main}</main>' + footer_html(updated)
 
 # ---------- render policy ----------
 def render_policy(s):
@@ -510,14 +515,16 @@ def render_policy(s):
     lede = f.get("LEDE", "").strip()
     body_html, _ = render_md(f.get("BODY", ""))
     canonical = f"{HOST}/{s}/"
+    updated = f.get("UPDATED", "").strip() or MODIFIED
+    PAGE_UPDATED[s] = updated
     trail = [("Home", "/"), (h1, None)]
     wp = {"@type": "WebPage", "@id": canonical + "#webpage", "name": title,
           "description": desc, "url": canonical, "inLanguage": "en",
-          "isPartOf": {"@id": HOST + "/#website"}, "dateModified": MODIFIED}
+          "isPartOf": {"@id": HOST + "/#website"}, "dateModified": updated}
     if s == "about":
         wp = {"@type": "AboutPage", "@id": canonical + "#webpage", "name": title,
               "description": desc, "url": canonical, "inLanguage": "en",
-              "isPartOf": {"@id": HOST + "/#website"}, "dateModified": MODIFIED,
+              "isPartOf": {"@id": HOST + "/#website"}, "dateModified": updated,
               "mainEntity": {"@id": HOST + "/#author"}}
     nodes = [wp, breadcrumb_jsonld(trail)]
     main = f'''{breadcrumbs_html(trail)}
@@ -529,7 +536,7 @@ def render_policy(s):
 </div>
 </article>'''
     return head(title, desc, canonical, "website", nodes) + header_html() + \
-        f'<main id="main" class="wrap narrow">{main}</main>' + footer_html()
+        f'<main id="main" class="wrap narrow">{main}</main>' + footer_html(updated)
 
 # ---------- render home ----------
 def render_home():
@@ -556,7 +563,7 @@ def render_home():
     azlist = "\n".join(page_card(s) for s in az)
     nodes = [{"@type": "WebPage", "@id": canonical + "#webpage", "name": title,
               "description": desc, "url": canonical, "isPartOf": {"@id": HOST + "/#website"},
-              "inLanguage": "en", "dateModified": MODIFIED}]
+              "inLanguage": "en", "dateModified": HOME_UPDATED}]
     search = f'''<div class="hero">
 <h1>{esc(h1)}</h1>
 <p class="lede">{esc(lede)}</p>
@@ -583,7 +590,7 @@ q&&q.addEventListener('input',function(){{
 }});
 </script>'''
     return head(title, desc, canonical, "website", nodes) + header_html() + \
-        f'<main id="main" class="wrap">{main}</main>' + footer_html()
+        f'<main id="main" class="wrap">{main}</main>' + footer_html(HOME_UPDATED)
 
 # ---------- sitemaps ----------
 def build_sitemaps(all_urls):
@@ -595,10 +602,42 @@ def build_sitemaps(all_urls):
         return ""
     def urlset(entries):
         rows = "\n".join(
-            f'<url><loc>{u}</loc><lastmod>{PAGE_UPDATED.get(u.replace(HOST, "").strip("/"), MODIFIED)}</lastmod><changefreq>{cf}</changefreq><priority>{pr}</priority>{img(u)}</url>'
+            f'<url><loc>{u}</loc><lastmod>{PAGE_UPDATED.get(u.replace(HOST, "").strip("/") or "index", MODIFIED)}</lastmod><changefreq>{cf}</changefreq><priority>{pr}</priority>{img(u)}</url>'
             for u, cf, pr in entries)
         return f'<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">\n{rows}\n</urlset>\n'
     open(os.path.join(OUT, "sitemap.xml"), "w").write(urlset(all_urls))
+
+# ---------- image dimension post-pass ----------
+def fix_img_dims():
+    """Give every <img> pointing at a local SVG explicit width/height (prevents layout shift)."""
+    cache = {}
+    def dims(src):
+        if src not in cache:
+            fp = os.path.join(OUT, src.lstrip("/"))
+            m = None
+            if os.path.exists(fp):
+                m = re.search(r'<svg[^>]*?width="(\d+)"[^>]*?height="(\d+)"', open(fp, encoding="utf-8").read(2000))
+            cache[src] = m.groups() if m else None
+        return cache[src]
+    def fix(m):
+        tag = m.group(0)
+        if " width=" in tag:
+            return tag
+        src = re.search(r'src="([^"]*)"', tag).group(1)
+        d = dims(src) if src.endswith(".svg") else None
+        if not d and 'id="qz-img"' in tag:
+            d = ("600", "126")
+        if not d:
+            return tag
+        return tag.replace("<img ", f'<img width="{d[0]}" height="{d[1]}" ', 1)
+    for dp, _, fns in os.walk(OUT):
+        for fn in fns:
+            if fn.endswith(".html"):
+                fp = os.path.join(dp, fn)
+                t = open(fp, encoding="utf-8").read()
+                t2 = re.sub(r'<img\b[^>]*>', fix, t)
+                if t2 != t:
+                    open(fp, "w", encoding="utf-8").write(t2)
 
 # ---------- MAIN ----------
 def build_quiz_strips():
@@ -624,8 +663,8 @@ def main():
         shutil.rmtree(OUT)
     os.makedirs(OUT)
 
+    global HOME_UPDATED
     all_urls = [(HOST + "/", "weekly", "1.0")]
-    write_page("", render_home())
     for s in HUB_SLUGS:
         write_page(s, render_hub(s))
         all_urls.append((f"{HOST}/{s}/", "weekly", "0.8"))
@@ -636,6 +675,10 @@ def main():
         write_page(s, render_policy(s))
         all_urls.append((f"{HOST}/{s}/", "yearly", "0.3"))
 
+    HOME_UPDATED = max(PAGE_UPDATED.values())
+    PAGE_UPDATED["index"] = HOME_UPDATED
+    write_page("", render_home())
+    fix_img_dims()
     build_quiz_strips()
     build_sitemaps(all_urls)
     open(os.path.join(ROOT, "og_pages.json"), "w").write(json.dumps(OG_PAGES))

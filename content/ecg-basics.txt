@@ -1,9 +1,11 @@
 @@TITLE@@
-ECG Basics Explained | ECG Means
+ECG Basics: How to Read Your EKG Report | ECG Means
 @@DESC@@
-How to read the report in your hand, what a normal ECG can and cannot tell you, and the questions worth asking.
+ECG basics for patients: what an EKG is, how leads are placed, how to read your ECG report, what a normal ECG can and cannot rule out, and what to ask.
 @@H1@@
 ECG Basics for Patients
+@@UPDATED@@
+2026-10-29
 @@LEDE@@
 How to read the report in your hand, what a normal ECG can and cannot tell you, and the questions worth asking.
 @@BODY@@
@@ -11,5 +13,44 @@ How to read the report in your hand, what a normal ECG can and cannot tell you, 
 
 An electrocardiogram (ECG or EKG) records the heart's electrical activity through stickers on the skin in about ten seconds. The printout shows twelve views of the same heartbeats, a set of measurements in milliseconds, and an automated interpretation, which is often the part that worries people.
 
-The guides below explain what the test does, how to read each section of the report, and what a normal ECG can and cannot rule out. Once you know the layout, you can look up any specific phrase in the [report phrases](/ecg-report-phrases/) section or check the numbers against the [normal ECG values chart](/normal-ecg-values/).
+The guides below explain what the test does, how to read each section of the report, and what a normal ECG can and cannot rule out. Once you know the layout, you can look up any specific phrase in the [report phrases](https://www.ecgmeans.com/ecg-report-phrases/) section or check the numbers against the [normal ECG values chart](https://www.ecgmeans.com/normal-ecg-values/).
+
+## How to use this section
+
+If you have never had an ECG, start with [what is an EKG](https://www.ecgmeans.com/what-is-an-ekg/). If you are holding a printout, go straight to [how to read an ECG report](https://www.ecgmeans.com/how-to-read-ecg-report/), which walks through the header, the measurements, the computer statement and the tracing in order. If your result was normal but you still feel unwell, read [if my ECG is normal, is my heart OK?](https://www.ecgmeans.com/if-ecg-is-normal-is-my-heart-ok/) next.
+
+## The guides, grouped by question
+
+| Your question | Start with |
+|---|---|
+| What is this test and what does it involve? | [What is an EKG](https://www.ecgmeans.com/what-is-an-ekg/), [where to get an EKG](https://www.ecgmeans.com/where-to-get-an-ekg/) |
+| How do I make sense of my printout? | [How to read an ECG report](https://www.ecgmeans.com/how-to-read-ecg-report/), [how to read an EKG strip](https://www.ecgmeans.com/how-to-read-an-ekg-strip/), [ECG interpretation cheat sheet](https://www.ecgmeans.com/ecg-interpretation-cheat-sheet/) |
+| What can an ECG find, and what can it miss? | [What can an EKG detect](https://www.ecgmeans.com/what-can-an-ekg-detect/), [can an EKG detect a heart attack](https://www.ecgmeans.com/can-an-ekg-detect-a-heart-attack/), [does an EKG show blockage](https://www.ecgmeans.com/does-an-ekg-show-blockage/) |
+| My ECG was normal; am I in the clear? | [If my ECG is normal, is my heart OK?](https://www.ecgmeans.com/if-ecg-is-normal-is-my-heart-ok/) |
+| Where do the stickers go? | [12-lead](https://www.ecgmeans.com/12-lead-ecg-placement/), [5-lead](https://www.ecgmeans.com/5-lead-ecg-placement/) and [3-lead](https://www.ecgmeans.com/3-lead-ecg-placement/) placement guides |
+| Why does my tracing look wobbly? | [Wandering baseline](https://www.ecgmeans.com/wandering-baseline-ecg/) and [ECG artifact](https://www.ecgmeans.com/ecg-artifact/) |
+
+## Key concepts every patient should know
+
+**A standard ECG is a snapshot.** A resting 12-lead ECG records about ten seconds of heartbeats while you lie still. It is excellent at showing the rhythm at that moment, the heart's electrical wiring, signs of a current or previous heart attack, thickened heart muscle and some salt imbalances such as high potassium. It cannot show a rhythm problem that comes and goes unless it happens during the recording, which is why doctors may arrange a 24-hour or longer heart monitor.
+
+**An ECG does not see the arteries directly.** A narrowed coronary artery often produces a completely normal resting ECG, because the heart muscle gets enough blood at rest. Exercise testing, CT coronary angiography or an angiogram are the tests that look for blockages. An ECG also does not measure how well the heart pumps or how the valves work; that is the job of an [echocardiogram](https://www.ecgmeans.com/ekg-vs-echocardiogram/).
+
+**The computer statement is a first draft.** Machines are deliberately cautious and over-call findings such as "possible infarct" or "nonspecific ST abnormality". A clinician reading the actual tracing, and comparing it with any old ECGs, makes the final interpretation. Phrases like "[borderline ECG](https://www.ecgmeans.com/borderline-ecg/)" or "[abnormal ECG](https://www.ecgmeans.com/abnormal-ecg/)" sound alarming but often describe minor or normal-variant findings.
+
+**Twelve leads are twelve viewpoints, not twelve wires.** Ten electrodes (four on the limbs, six across the chest) are combined to view the heart from twelve angles. Misplaced electrodes or movement can create patterns that mimic disease, so a repeat ECG is a normal, low-cost next step when something looks unexpected.
+
+**Old ECGs are gold.** A finding that has been present unchanged for years is usually far less concerning than a new one. If you have previous ECGs, bring them or tell your clinician where they were done.
+
+## Questions worth asking about your ECG
+
+- Was my ECG normal, and if not, which finding matters most?
+- Has the computer reading been checked by a doctor?
+- Is this finding new compared with my previous ECGs?
+- Does this explain my symptoms, or do I need a monitor, an echo or a stress test?
+- Do any of my medicines affect the ECG?
+
+## When to seek care
+
+A normal ECG does not rule out every heart problem, and an abnormal machine reading does not always mean disease. **Get urgent help** (call your local emergency number) for chest pain or pressure, pain spreading to the arm, jaw or back, fainting, severe breathlessness, or a racing or very slow heartbeat with dizziness, even if a recent ECG was normal. Book a routine appointment if you have recurring palpitations, breathlessness on exertion or a report finding you do not understand; the [heart palpitations with a normal ECG](https://www.ecgmeans.com/heart-palpitations-normal-ecg/) guide explains what usually happens next.
 @@END@@

@@ -1,5 +1,5 @@
 @@TITLE@@
-ST Elevation on ECG: What It Means and When It's an Emergency
+ST Elevation on ECG: Meaning & When It's an Emergency
 @@DESC@@
 ST elevation can signal a heart attack (STEMI) but also has harmless causes like early repolarization and pericarditis. Learn what separates them.
 @@H1@@
@@ -65,6 +65,8 @@ Anterior Infarct, Age Undetermined: ECG Meaning | https://www.ecgmeans.com/anter
 Abnormal ECG: What It Means on Your Report | https://www.ecgmeans.com/abnormal-ecg/ | Depends on context
 ST Depression: What It Means on an ECG | https://www.ecgmeans.com/st-depression/ | Depends on context
 Pericarditis on an ECG: What It Shows | https://www.ecgmeans.com/pericarditis-ecg/ | Needs clinician review
+Tombstone ECG: What "Tombstoning" Means on an EKG | https://www.ecgmeans.com/tombstone-ecg/ | Seek prompt care
+J-Point Elevation on an ECG: What It Means | https://www.ecgmeans.com/j-point-elevation/ | Usually harmless
 @@ALSO@@
 st elevation ecg, st segment elevation, stemi ecg, st elevation causes
 @@SOURCES@@

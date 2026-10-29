@@ -1,7 +1,7 @@
 @@TITLE@@
 Short PR Interval: Causes, Meaning & Is It Dangerous?
 @@DESC@@
-A short PR interval (under 120 ms) is usually a harmless fast-conduction variant. Learn the causes, what it means on your ECG, when it points to WPW, and what happens next.
+A short PR interval (under 120 ms) is usually a harmless fast-conduction variant. Causes, what it means, when it points to WPW, and next steps.
 @@H1@@
 Short PR Interval on an ECG: Causes, Meaning and When It Matters
 @@CATEGORY@@

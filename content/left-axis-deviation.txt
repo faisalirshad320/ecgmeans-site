@@ -1,72 +1,163 @@
 @@TITLE@@
-Left Axis Deviation on ECG: Meaning & Causes
+Left Axis Deviation on ECG: Meaning, Causes & Risk
 @@DESC@@
-Left axis deviation means the heart's overall electrical direction points further left than usual. See the numbers, the causes and why it is rarely a problem alone.
+Left axis deviation on an ECG means the heart's electrical axis points left of −30°. What the numbers mean, common causes and when it needs more checking.
 @@H1@@
 Left Axis Deviation: What It Means on an ECG
 @@CATEGORY@@
 ECG Report Phrases | https://www.ecgmeans.com/ecg-report-phrases/
 @@QUICK@@
 Usually harmless
+@@UPDATED@@
+2026-10-29
+@@ANSWER@@
+Left axis deviation means the average direction of electrical flow through the ventricles points further up and to the left than usual — between −30° and −90°, where the normal range is about −30° to +90°. It is a measurement, not a disease. The commonest cause is left anterior fascicular block, and as an isolated finding in a well person it usually needs no action.
 @@LEDE@@
-Left axis deviation means the average direction of electrical flow through your ventricles points further up and to the left than usual — between −30° and −90°, where normal is −30° to +90°. It is a measurement rather than a disease, and as an isolated finding it usually needs no action.
+"Left axis deviation" (sometimes abbreviated LAD — not to be confused with the left anterior descending artery) is a common line on ECG (EKG) reports, particularly in middle-aged and older adults. It describes the direction of the heart's electrical signal, worked out from the limb leads. This page explains how the axis is measured, what pushes it leftward, which combinations make doctors look further, and what usually happens next.
 @@BODY@@
-## What "Left axis deviation" means
+## What "left axis deviation" means
 
-The ECG machine calculates the "QRS axis" from how tall the QRS is in the different limb leads, and prints it as a number in degrees. The axis drifts leftward naturally with age and with a horizontal heart position (for example in shorter, heavier people or late pregnancy). A value between 0° and −30° may be labelled borderline left axis deviation.
+Every heartbeat sends a wave of electrical activation through the ventricles. The ECG machine adds up the direction of that wave and expresses it as an angle on a circle — the **QRS axis**, printed in degrees on most reports (often labelled "QRS axis" or "Axes: P, QRS, T").
 
-A clearly leftward axis has a short list of electrical and structural explanations, the commonest being left anterior fascicular block — a minor delay in one branch of the heart's wiring.
+- **Normal axis:** about −30° to +90° (some references extend the upper limit to +100° or +105°)
+- **Left axis deviation:** −30° to −90°
+- **Right axis deviation:** +90° to +180° — see [right axis deviation](https://www.ecgmeans.com/right-axis-deviation/)
+- **Extreme (northwest) axis:** −90° to ±180°, which is unusual and more often linked to significant problems
+
+The axis drifts leftward naturally with age, and with a **horizontal heart position** — for example in shorter, heavier people, in late pregnancy or with fluid in the abdomen, all of which push the diaphragm up. A value just beyond −30° is sometimes labelled "borderline left axis deviation."
+
+A clearly leftward axis has a short list of electrical and structural explanations. The commonest is [left anterior fascicular block](https://www.ecgmeans.com/left-anterior-fascicular-block/) — a minor delay in one branch of the heart's wiring.
 
 ## What it looks like on the ECG
 
-The QRS is upright in lead I and mainly downward in leads II and aVF. The printed axis figure is more negative than −30°.
+You can estimate the axis from three limb leads:
 
-## Common causes
+| Lead I | Lead II | Lead aVF | Likely axis |
+| --- | --- | --- | --- |
+| Positive | Positive | Positive | Normal (0° to +90°) |
+| Positive | Positive or flat | Negative | Normal-leftward (0° to −30°), still considered normal |
+| Positive | Negative | Negative | **Left axis deviation (−30° to −90°)** |
+| Negative | — | Positive | Right axis deviation |
+| Negative | — | Negative | Extreme axis |
 
-- Left anterior fascicular block
-- Left ventricular hypertrophy from high blood pressure
-- Old inferior heart attack
-- Left bundle branch block
-- Normal age-related shift or horizontal heart position
-- Paced rhythm or certain congenital conditions
+"Positive" means the QRS is mostly above the baseline; "negative" means mostly below. Lead II is the tie-breaker: if lead I is upright and aVF is negative, a negative lead II confirms true left axis deviation. Our [ECG axis calculator](https://www.ecgmeans.com/ecg-axis-calculator/) works this out for you.
 
-## Should you worry?
+When the axis is between −45° and −90° with a narrow QRS and a qR pattern in aVL, the usual explanation is left anterior fascicular block.
 
-Usually harmless
+## Causes of left axis deviation
 
-Alone, left axis deviation has little significance. It is interpreted together with everything else on the tracing: with a wide QRS it suggests bundle branch block; with tall voltages, hypertension-related thickening; with inferior Q waves, a previous heart attack.
+**Common causes**
 
-**Get urgent help** if this finding comes with chest pain or pressure, severe breathlessness, fainting, or a fast heartbeat that will not settle. Those symptoms matter more than any single ECG phrase.
+- **Left anterior fascicular block (LAFB)** — the most frequent cause of a clearly leftward axis
+- **Left ventricular hypertrophy** from long-standing high blood pressure — see [left ventricular hypertrophy](https://www.ecgmeans.com/left-ventricular-hypertrophy/)
+- **Age-related shift** and a horizontal heart position
+- **Old inferior heart attack**, which removes the downward-pointing electrical forces seen by the inferior leads — see [inferior infarct, age undetermined](https://www.ecgmeans.com/inferior-infarct-age-undetermined/)
+- **[Left bundle branch block](https://www.ecgmeans.com/left-bundle-branch-block/)**, which often (though not always) shifts the axis left
 
-## What usually happens next
+**Less common causes**
 
-1. Usually nothing beyond blood-pressure checks
-2. Echocardiogram only if other findings or symptoms point to structural disease
+- **[Paced rhythm](https://www.ecgmeans.com/paced-rhythm/)** from a pacemaker lead in the lower right ventricle
+- **[Wolff-Parkinson-White](https://www.ecgmeans.com/wolff-parkinson-white/) pattern**, depending on where the extra pathway sits
+- **[High potassium](https://www.ecgmeans.com/hyperkalemia-ecg/)**
+- **Congenital heart disease** — classically an ostium primum atrial septal defect or tricuspid atresia, often noticed in childhood
+- **Some ventricular rhythms**, such as [ventricular tachycardia](https://www.ecgmeans.com/ventricular-tachycardia/) arising from certain areas
+- **Lead misplacement**, especially swapped arm leads — see [12-lead ECG placement](https://www.ecgmeans.com/12-lead-ecg-placement/)
 
-### Questions to ask your doctor
+## Is left axis deviation dangerous?
 
-- What is my axis in degrees?
-- Is there anything else on the ECG alongside it?
-- Is my blood pressure well enough controlled?
+**On its own, rarely.** Left axis deviation is a direction, not a diagnosis. Its importance comes entirely from what is causing it and what else is on the tracing. Doctors look further when it comes with these **risk features**:
+
+| Combined with | What it may suggest |
+| --- | --- |
+| A wide QRS (120 ms or more) | A bundle branch block, or an RBBB plus LAFB combination ([bifascicular block](https://www.ecgmeans.com/bifascicular-block/)) |
+| RBBB **and** a long PR interval | So-called [trifascicular block](https://www.ecgmeans.com/trifascicular-block/) — more extensive conduction disease |
+| Tall voltages and strain-type ST–T changes | Thickened heart muscle from high blood pressure or valve disease |
+| Q waves in II, III and aVF | An old inferior heart attack — see [pathological Q waves](https://www.ecgmeans.com/pathological-q-waves/) |
+| A short PR and a slurred QRS start | Wolff-Parkinson-White pattern |
+| Symptoms such as fainting or breathlessness | Possible conduction or structural heart disease needing assessment |
+| A sudden change from your previous ECG | A new process, or lead misplacement |
+
+Some large population studies have linked a leftward axis with slightly higher long-term cardiovascular risk, but this mostly reflects the high blood pressure and heart disease behind it.
+
+## Symptoms to watch for
+
+Left axis deviation itself causes no symptoms. Report these if they occur:
+
+- Fainting, blackouts or near-fainting
+- A very slow or irregular pulse
+- Breathlessness on exertion, or ankle swelling
+- Chest pain or pressure, particularly with exertion
+- Palpitations
+
+## What tests usually come next
+
+1. **Often nothing**, if the axis is only mildly leftward, the rest of the ECG is normal and you feel well.
+2. **Check the electrodes and repeat the ECG** if the change is sudden or unexpected.
+3. **Compare with earlier ECGs** to see whether the axis has shifted.
+4. **Blood pressure measurement** and a risk factor review.
+5. **Echocardiogram** if there are signs of thickened heart muscle, a murmur, symptoms, or a wide QRS. See [EKG vs echocardiogram](https://www.ecgmeans.com/ekg-vs-echocardiogram/).
+6. **Ambulatory monitoring** if there are blackouts and the ECG shows conduction disease.
+
+## Treatment and management
+
+Left axis deviation itself is not treated. Management is aimed at the cause: controlling blood pressure, managing coronary risk factors, treating valve or heart muscle disease, correcting potassium, or adjusting a pacemaker. A conduction combination such as bifascicular block with unexplained blackouts may lead to further monitoring and, sometimes, a pacemaker.
+
+## Special groups
+
+- **Older adults:** a mild leftward axis is common and often reflects age and a horizontal heart position.
+- **Pregnancy:** the growing uterus pushes the diaphragm and heart upward, so the axis often shifts left in later pregnancy and returns afterwards.
+- **People with obesity or abdominal swelling:** a raised diaphragm can tilt the axis leftward without any heart disease.
+- **Children:** babies normally have a rightward axis, so left axis deviation in a child is unusual and may prompt an echocardiogram to look for congenital heart disease.
+- **Athletes:** left axis deviation is not a typical training effect; sports cardiology guidelines treat isolated axis deviation as a "borderline" finding that matters mainly when combined with others.
+
+## Left vs right axis deviation and other look-alikes
+
+| Finding | Key difference |
+| --- | --- |
+| [Right axis deviation](https://www.ecgmeans.com/right-axis-deviation/) | Lead I negative, aVF positive; more often linked to the right heart or lungs, or normal in young, thin people |
+| [Left anterior fascicular block](https://www.ecgmeans.com/left-anterior-fascicular-block/) | A specific cause of left axis deviation, with an axis beyond −45° and qR in aVL |
+| [Left posterior fascicular block](https://www.ecgmeans.com/left-posterior-fascicular-block/) | Causes right axis deviation, the opposite direction |
+| [Borderline ECG](https://www.ecgmeans.com/borderline-ecg/) | A report label often triggered by a mildly leftward axis |
+
+## Get urgent help
+
+**Get urgent help** if this finding comes with chest pain or pressure, severe breathlessness, fainting, or a fast heartbeat that will not settle. Those symptoms matter more than any single ECG phrase. Call 911 in the US, 999 in the UK or 112 in Europe.
+
+## Questions to ask your doctor
+
+- What is my QRS axis in degrees?
+- Does it meet the criteria for left anterior fascicular block?
+- Is there anything else on the ECG alongside it, such as a wide QRS or Q waves?
+- Has my axis changed compared with earlier ECGs?
+- Is my blood pressure well enough controlled, and do I need an echocardiogram?
 @@FAQ@@
+Q: What does left axis deviation mean on an ECG?
+A: It means the overall direction of electrical flow through the ventricles points further left and upward than usual, between −30° and −90°. It is a measurement rather than a disease.
 Q: Is left axis deviation serious?
-A: Not by itself. It is one of the most common minor findings on adult ECGs.
+A: Not by itself. It is one of the most common minor findings on adult ECGs and matters mainly when combined with other findings or symptoms.
+Q: What is the most common cause of left axis deviation?
+A: Left anterior fascicular block, a minor delay in one branch of the left bundle. Long-standing high blood pressure with left ventricular hypertrophy is another frequent cause.
 Q: Can left axis deviation be normal?
-A: Yes, particularly a borderline value in older adults or people with a high diaphragm.
-Q: What is the most common cause?
-A: Left anterior fascicular block, followed by changes related to long-standing high blood pressure.
+A: Yes. A mildly leftward axis is common in older adults, in people with a horizontal heart position, and in late pregnancy.
+Q: What is borderline left axis deviation?
+A: It describes an axis just beyond −30°. It is usually of no significance if the rest of the ECG is normal.
+Q: Can left axis deviation be caused by the ECG leads?
+A: Yes. Misplaced or swapped limb electrodes can change the calculated axis, so a sudden unexpected axis change is often rechecked with a repeat ECG.
+Q: Does left axis deviation need treatment?
+A: No. Treatment, if any, is aimed at the underlying cause, such as high blood pressure or valve disease.
 @@RELATED@@
 Left Anterior Fascicular Block: What It Means | https://www.ecgmeans.com/left-anterior-fascicular-block/ | Usually harmless
-Borderline ECG: What It Means | https://www.ecgmeans.com/borderline-ecg/ | Usually harmless
-Left Bundle Branch Block: What It Means | https://www.ecgmeans.com/left-bundle-branch-block/ | NONE
-Abnormal ECG: What It Means on Your Report | https://www.ecgmeans.com/abnormal-ecg/ | Depends on context
-Possible Left Atrial Enlargement: ECG Meaning | https://www.ecgmeans.com/left-atrial-enlargement/ | Needs clinician review
 Right Axis Deviation: What It Means on an ECG | https://www.ecgmeans.com/right-axis-deviation/ | Depends on context
+ECG Axis Calculator | https://www.ecgmeans.com/ecg-axis-calculator/ | NONE
 Left Ventricular Hypertrophy (LVH): What It Means on an ECG | https://www.ecgmeans.com/left-ventricular-hypertrophy/ | Needs clinician review
+Bifascicular Block: What It Means on an ECG | https://www.ecgmeans.com/bifascicular-block/ | Needs clinician review
+Left Bundle Branch Block: What It Means | https://www.ecgmeans.com/left-bundle-branch-block/ | NONE
+Borderline ECG: What It Means | https://www.ecgmeans.com/borderline-ecg/ | Usually harmless
 @@ALSO@@
-left axis deviation ecg, borderline left axis deviation, lad ecg
+left axis deviation ecg, left axis deviation ekg, lad ecg, borderline left axis deviation, what does left axis deviation mean, is left axis deviation dangerous, left axis deviation causes, left axis deviation treatment, qrs axis, abnormal left axis deviation, left axis deviation vs right axis deviation, extreme left axis deviation, left axis shift
 @@SOURCES@@
-Electrical Right and Left Axis Deviation | https://www.ncbi.nlm.nih.gov/books/NBK470532/
-Left Axis Deviation (LAD) | https://litfl.com/left-axis-deviation-lad-ecg-library/
-ECG Axis Interpretation | https://litfl.com/ecg-axis-interpretation/
+Electrical Right and Left Axis Deviation — StatPearls | https://www.statpearls.com/articlelibrary/viewarticle/28591/
+Left Axis Deviation (LAD) — LITFL ECG Library | https://litfl.com/left-axis-deviation-lad-ecg-library/
+ECG Axis Interpretation — LITFL ECG Library | https://litfl.com/ecg-axis-interpretation/
+AHA/ACCF/HRS Recommendations for the Standardization and Interpretation of the ECG, Part III: Intraventricular Conduction Disturbances (PubMed) | https://pubmed.ncbi.nlm.nih.gov/19281930/
 @@END@@

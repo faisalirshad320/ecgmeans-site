@@ -1,70 +1,184 @@
 @@TITLE@@
-Right Bundle Branch Block (RBBB & Incomplete RBBB) Explained
+Right Bundle Branch Block (RBBB): ECG Meaning & Causes
 @@DESC@@
-Right bundle branch block (complete or incomplete) is a common ECG finding. What the rSR' pattern means and why incomplete RBBB is usually a normal variant.
+Right bundle branch block (RBBB) on an ECG means the right ventricle fires slightly late. What complete and incomplete RBBB mean, causes and when to worry.
 @@H1@@
-Right Bundle Branch Block: What It Means
+Right Bundle Branch Block (RBBB): What It Means on an ECG
 @@CATEGORY@@
 Heart Blocks & Conduction | https://www.ecgmeans.com/heart-block-conduction/
 @@QUICK@@
 Usually harmless
+@@UPDATED@@
+2026-10-29
+@@ANSWER@@
+Right bundle branch block (RBBB) means the electrical signal travels slowly or not at all down the right branch of the heart's wiring, so the right ventricle is activated a fraction of a second late. On the ECG it widens the QRS and gives an "M-shaped" rSR' pattern in lead V1. Found by chance in a well person it is usually harmless, but a new RBBB with symptoms needs prompt assessment.
 @@LEDE@@
-Right bundle branch block (RBBB) means the impulse is delayed in the right branch of the heart's wiring, so the right ventricle is activated a little late. The QRS widens and takes on an "M-shaped" rSR' pattern in lead V1. Incomplete RBBB (QRS 110–119 ms) is a common normal variant, particularly in young people; complete RBBB is usually harmless too but is worth checking once.
+Right bundle branch block (RBBB) is one of the most common phrases on an adult ECG (EKG) report. It describes a delay in the right side of the heart's electrical wiring, not a blocked artery. Incomplete RBBB (QRS 110–119 ms) is a common normal variant, especially in young people and athletes; complete RBBB is also often harmless but is worth checking once. This page explains what the pattern looks like, what causes it, when it matters, and which tests usually follow.
 @@BODY@@
-## What "Right bundle branch block" means
+## What "right bundle branch block" means
 
-The right bundle is a long, thin structure and is easily delayed. When it is, the left ventricle fires normally and the right one follows slightly later, producing a second upstroke in V1 (the R') and a wide S wave in the lateral leads. Because the left ventricle — the main pumping chamber — is activated normally, RBBB rarely affects heart function.
+After each beat starts in the sinus node, the signal passes through the AV node and then splits into the **right bundle branch** (to the right ventricle) and the **left bundle branch** (to the left ventricle). The left bundle then divides again into anterior and posterior fascicles. Normally both ventricles are switched on almost at the same moment.
 
-Incomplete RBBB is found in a few percent of healthy young adults and athletes. It reflects slight delay rather than true block.
+The right bundle is long and thin, so it is easily delayed. When it is, the left ventricle fires normally and the right ventricle is activated slightly later, by the signal spreading slowly through ordinary muscle. That late activation produces:
 
-## What it looks like on the ECG
+- A **second upstroke (R')** in lead V1, giving the familiar "M" or "rabbit ears" shape
+- A **broad, slurred S wave** in the left-sided leads (I, V5, V6)
+- A **wider QRS complex** overall
 
-A QRS of ≥120 ms (complete) or 110–119 ms (incomplete), an rSR' pattern in V1–V2, and broad, slurred S waves in leads I, V5 and V6.
+Because the left ventricle — the main pumping chamber — is activated normally, RBBB on its own does not weaken the heart or cause symptoms. It is a sign of how the signal travels, not of how well the heart pumps.
 
-## Common causes
+**Incomplete RBBB** means the same shape but a QRS that is only slightly prolonged. It usually reflects a minor delay rather than a true block, and we cover it in detail on our [incomplete right bundle branch block](https://www.ecgmeans.com/incomplete-right-bundle-branch-block/) page.
 
-- Normal variant (especially incomplete RBBB)
-- Ageing of the conduction system
-- Right heart strain — pulmonary embolism, lung disease, pulmonary hypertension
-- Atrial septal defect and other congenital conditions
-- Coronary disease or previous heart attack
-- Myocarditis, cardiomyopathy
+## What RBBB looks like on the ECG
 
-## Should you worry?
+The standard adult criteria come from the AHA/ACCF/HRS ECG recommendations:
 
-Usually harmless
+| Feature | Complete RBBB | Incomplete RBBB |
+| --- | --- | --- |
+| QRS duration (adults) | 120 ms or more | 110–119 ms |
+| Lead V1 (and often V2) | rsr', rsR' or rSR' — the second R usually taller or wider | Similar rSr' shape |
+| Leads I and V6 | S wave wider than the R wave, or longer than 40 ms | Smaller, less slurred S wave |
+| R-peak time in V1 | Longer than 50 ms | — |
+| ST–T in V1–V3 | T waves often inverted — an expected "secondary" change | Usually normal or mildly inverted |
+| Heart axis | Usually normal | Usually normal |
 
-Incomplete RBBB without symptoms needs nothing. Complete RBBB found by chance in a well person is also usually benign, though a one-off echocardiogram is reasonable. A new RBBB with breathlessness or chest pain, or RBBB combined with a fascicular block or a long PR interval, deserves prompt assessment.
+Two practical points:
 
-**Get urgent help** if this finding comes with chest pain or pressure, severe breathlessness, fainting, or a fast heartbeat that will not settle. Those symptoms matter more than any single ECG phrase.
+- **T wave inversion in V1–V3 is expected with RBBB.** It is part of the pattern, not a separate finding. New [ST elevation](https://www.ecgmeans.com/st-elevation/) or ST depression in other leads, however, is not explained by RBBB.
+- **The axis matters.** RBBB with marked [left axis deviation](https://www.ecgmeans.com/left-axis-deviation/) suggests an added [left anterior fascicular block](https://www.ecgmeans.com/left-anterior-fascicular-block/); with [right axis deviation](https://www.ecgmeans.com/right-axis-deviation/) it may suggest a left posterior fascicular block. Either combination is called [bifascicular block](https://www.ecgmeans.com/bifascicular-block/).
 
-## What usually happens next
+Children have narrower normal QRS values, so RBBB in children is defined with lower, age-dependent cut-offs.
 
-1. Often nothing for incomplete RBBB
-2. One-off echocardiogram for new complete RBBB
-3. Further tests only if symptoms or other findings
+## Causes of RBBB
 
-### Questions to ask your doctor
+**Common causes**
 
-- Is this complete or incomplete?
-- Is it new?
-- Is an echocardiogram needed?
+- **No cause found** — many people simply have it, especially older adults
+- **Age-related wear (fibrosis)** of the conduction system
+- **High blood pressure** and long-standing heart strain
+- **Coronary artery disease** or a previous heart attack
+- **Normal variant** — particularly incomplete RBBB in young adults and athletes
+
+**Less common causes**
+
+- **Right heart strain** — [pulmonary embolism](https://www.ecgmeans.com/pulmonary-embolism-ecg/), chronic lung disease or pulmonary hypertension (see [right heart strain](https://www.ecgmeans.com/right-heart-strain/))
+- **Atrial septal defect (ASD)** and other congenital heart conditions, or heart surgery to repair them
+- **Cardiomyopathy or myocarditis**
+- **After heart procedures** — for example valve replacement (including TAVI/TAVR), or a temporary RBBB from a catheter touching the right side of the heart
+- **Inherited conduction disease** and, rarely, Brugada syndrome or arrhythmogenic right ventricular cardiomyopathy (ARVC)
+
+Sometimes RBBB appears only when the heart rate speeds up (rate-related RBBB). Single early beats that conduct with an RBBB shape are called [aberrant conduction](https://www.ecgmeans.com/aberrant-conduction/); the classic example in atrial fibrillation is the [Ashman phenomenon](https://www.ecgmeans.com/ashman-phenomenon/).
+
+## Is RBBB dangerous?
+
+For most people, no. **Isolated RBBB found by chance in someone who feels well is usually benign**, and many people live with it for decades without it changing. Population studies have linked RBBB with a somewhat higher long-term risk of heart problems, but this mostly reflects the heart and lung conditions that can cause it rather than the block itself.
+
+Doctors look more closely when RBBB comes with any of these **risk features**:
+
+- **It is new** compared with an earlier ECG, especially with symptoms
+- **Chest pain or breathlessness** — a new RBBB can accompany a heart attack or a pulmonary embolism
+- **Fainting or near-fainting**, which raises the question of intermittent slow rhythms
+- **A second conduction problem** — a fascicular block (bifascicular block), a long PR interval ([first-degree AV block](https://www.ecgmeans.com/first-degree-av-block/)), or RBBB alternating with left bundle branch block
+- **Signs of structural heart disease** — a murmur, swelling, an abnormal echo or a family history of sudden death
+
+In a person with ongoing heart-attack symptoms, a new RBBB is taken very seriously. European guidelines advise doctors to consider emergency coronary angiography in that situation, because RBBB can hide the usual ECG signs of a blocked artery.
+
+## Symptoms to watch for
+
+RBBB itself causes no symptoms. If you have RBBB and notice any of the following, they point to something else that needs checking:
+
+- Fainting, blackouts or sudden dizziness
+- A very slow pulse (for example, consistently below about 40 beats per minute while awake)
+- Breathlessness on mild effort, ankle swelling or reduced exercise tolerance
+- Chest pain or pressure
+- Palpitations — see our page on [heart palpitations with a normal ECG](https://www.ecgmeans.com/heart-palpitations-normal-ecg/)
+
+## What tests usually come next
+
+What happens next depends on whether the RBBB is new, whether you have symptoms, and whether it is complete or incomplete:
+
+1. **Comparison with old ECGs.** A long-standing, unchanged RBBB is reassuring.
+2. **Clinical examination.** Listening for murmurs and checking blood pressure and oxygen levels.
+3. **Echocardiogram (heart ultrasound).** Commonly done once for new complete RBBB, to check heart size, valves and right-heart pressure, and to look for an atrial septal defect. See [EKG vs echocardiogram](https://www.ecgmeans.com/ekg-vs-echocardiogram/).
+4. **Ambulatory (Holter) monitoring** if there are blackouts or palpitations, to look for intermittent [heart block](https://www.ecgmeans.com/heart-block-conduction/).
+5. **Urgent tests** — troponin blood tests, a CT scan of the lungs or angiography — only if symptoms suggest a heart attack or pulmonary embolism.
+
+Incomplete RBBB without symptoms usually needs no tests at all.
+
+## Treatment and management
+
+**RBBB itself does not need treatment.** Management focuses on any underlying cause:
+
+- Controlling blood pressure and cardiovascular risk factors
+- Treating lung disease, pulmonary hypertension or a pulmonary embolism if present
+- Closing a significant atrial septal defect when indicated
+- A **pacemaker is not needed for isolated RBBB.** It is considered only when RBBB is part of more advanced conduction disease — for example alternating bundle branch block, documented higher-grade AV block, or [bifascicular block](https://www.ecgmeans.com/bifascicular-block/) with unexplained blackouts.
+
+Most people with RBBB have no restrictions on exercise, work or driving.
+
+## Special groups
+
+- **Athletes:** incomplete RBBB is common in trained athletes and is regarded as a normal training-related finding. Complete RBBB is a "borderline" finding under international athlete ECG criteria: on its own, in an athlete without symptoms or a relevant family history, it usually needs no further tests, but together with another borderline finding or symptoms it prompts an echocardiogram.
+- **Children and teenagers:** an rSr' pattern in V1 is often normal. An echocardiogram is considered if there is a murmur, as RBBB can be a clue to an atrial septal defect.
+- **Pregnancy:** RBBB does not affect pregnancy or delivery on its own; mention a known RBBB to the maternity team so later ECGs are interpreted correctly.
+- **Older adults:** RBBB becomes more common with age, usually due to age-related fibrosis. The main question is whether other conduction delays or blackouts are present.
+- **Before TAVI/TAVR:** pre-existing RBBB increases the chance of needing a pacemaker after transcatheter valve replacement, so the team will plan for monitoring.
+
+## RBBB vs look-alike findings
+
+| Finding | How it differs from RBBB |
+| --- | --- |
+| [Left bundle branch block](https://www.ecgmeans.com/left-bundle-branch-block/) | Broad, mainly negative QRS in V1; more often linked to structural heart disease — compare in [LBBB vs RBBB](https://www.ecgmeans.com/lbbb-vs-rbbb/) |
+| [Brugada syndrome](https://www.ecgmeans.com/brugada-syndrome/) | RBBB-like shape in V1–V2 but with coved ST elevation and no wide S wave in I and V6 |
+| [Epsilon wave](https://www.ecgmeans.com/epsilon-wave/) | A small notch just after the QRS in V1–V3, a clue to ARVC, sometimes mistaken for incomplete RBBB |
+| [Right ventricular hypertrophy](https://www.ecgmeans.com/right-ventricular-hypertrophy/) | Tall R in V1 with right axis deviation and a normal-width QRS |
+| [Posterior MI](https://www.ecgmeans.com/posterior-mi/) | Tall, broad R in V1–V2 with ST depression, without the RBBB shape in I and V6 |
+| [Fragmented QRS](https://www.ecgmeans.com/fragmented-qrs/) | Extra notches in a narrow QRS, usually a sign of scar rather than a bundle branch delay |
+
+Any wide QRS is explained further in our [wide QRS complex](https://www.ecgmeans.com/wide-qrs-complex/) and [QRS interval](https://www.ecgmeans.com/qrs-interval/) guides.
+
+## Get urgent help
+
+**Get urgent help** if this finding comes with chest pain or pressure, severe breathlessness, fainting, or a fast heartbeat that will not settle. Those symptoms matter more than any single ECG phrase. Call 911 in the US, 999 in the UK or 112 in Europe.
+
+## Questions to ask your doctor
+
+- Is my RBBB complete or incomplete, and what is my QRS duration?
+- Is it new, or was it on my earlier ECGs?
+- Is there any other conduction delay, such as a fascicular block or a long PR interval?
+- Do I need an echocardiogram, and what would it look for?
+- Would any symptoms, such as blackouts, change the plan?
+- Are there any limits on exercise, sport or driving for me?
 @@FAQ@@
-Q: Is incomplete right bundle branch block serious?
-A: No. It is a normal variant in the great majority and does not restrict activity.
-Q: Can RBBB cause symptoms?
-A: Not by itself. Symptoms come from an underlying cause, if there is one.
-Q: Does RBBB turn into heart block?
-A: Isolated RBBB rarely progresses. The risk is higher when it is combined with left-sided fascicular block (bifascicular block).
+Q: What does right bundle branch block mean on an ECG?
+A: It means the signal to the right ventricle is delayed, so that chamber contracts a fraction of a second after the left. The ECG shows a wide QRS with an rSR' (M-shaped) pattern in lead V1.
+Q: Is right bundle branch block dangerous?
+A: Usually not. Isolated RBBB in a person without symptoms is generally benign; it matters more when it is new, comes with symptoms, or occurs alongside another conduction block.
+Q: What is the difference between complete and incomplete RBBB?
+A: Both have the same shape, but complete RBBB has a QRS of 120 ms or more, while incomplete RBBB measures 110–119 ms in adults. Incomplete RBBB is very often a normal variant.
+Q: What causes RBBB?
+A: Common causes are age-related wear of the conduction system, high blood pressure and coronary disease, and in many people no cause is found. Less often it reflects lung disease, pulmonary embolism, an atrial septal defect or heart muscle disease.
+Q: Does RBBB need a pacemaker?
+A: No, isolated RBBB does not. A pacemaker is considered only when there is more advanced conduction disease, such as alternating bundle branch block or documented higher-grade heart block.
+Q: Can RBBB go away?
+A: Yes, sometimes. Rate-related RBBB appears only at faster heart rates, and RBBB caused by a pulmonary embolism, a catheter procedure or inflammation may resolve when the cause settles.
+Q: Can I exercise with right bundle branch block?
+A: Most people can exercise normally. If you have symptoms such as blackouts or breathlessness, or the RBBB is new, ask your doctor whether an echocardiogram is needed first.
+Q: Is RBBB the same as a heart attack?
+A: No. RBBB is an electrical delay, not a blocked artery, although a new RBBB with chest pain can occur during a heart attack and is treated as urgent.
 @@RELATED@@
-Left Bundle Branch Block: What It Means | https://www.ecgmeans.com/left-bundle-branch-block/ | NONE
+Incomplete Right Bundle Branch Block: What It Means | https://www.ecgmeans.com/incomplete-right-bundle-branch-block/ | Usually harmless
+LBBB vs RBBB: Differences on an ECG | https://www.ecgmeans.com/lbbb-vs-rbbb/ | NONE
+Bifascicular Block: What It Means on an ECG | https://www.ecgmeans.com/bifascicular-block/ | Needs clinician review
 Left Anterior Fascicular Block: What It Means | https://www.ecgmeans.com/left-anterior-fascicular-block/ | Usually harmless
+Brugada Syndrome: What It Means on an ECG | https://www.ecgmeans.com/brugada-syndrome/ | Needs clinician review
+Wide QRS Complex: What It Means | https://www.ecgmeans.com/wide-qrs-complex/ | Depends on context
 QRS Interval: Normal Range and What a Wide QRS Means | https://www.ecgmeans.com/qrs-interval/ | NONE
-Abnormal ECG: What It Means on Your Report | https://www.ecgmeans.com/abnormal-ecg/ | Depends on context
-Borderline ECG: What It Means | https://www.ecgmeans.com/borderline-ecg/ | Usually harmless
 @@ALSO@@
-rbbb, incomplete right bundle branch block, irbbb, rbbb ecg
+rbbb, rbbb ecg, rbbb ekg, right bundle branch block ecg, right bundle branch block ekg, complete right bundle branch block, incomplete right bundle branch block, irbbb, what does rbbb mean, is right bundle branch block dangerous, rbbb causes, rbbb treatment, rsr pattern v1, rabbit ears ecg, m shaped qrs v1, new rbbb chest pain
 @@SOURCES@@
-Right Bundle Branch Block | https://my.clevelandclinic.org/health/diseases/21692-right-bundle-branch-block
-Right Bundle Branch Block | https://www.ncbi.nlm.nih.gov/books/NBK507872/
+Right Bundle Branch Block — StatPearls (NCBI Bookshelf) | https://www.ncbi.nlm.nih.gov/books/NBK507872/
+Right Bundle Branch Block — Cleveland Clinic | https://my.clevelandclinic.org/health/diseases/21692-right-bundle-branch-block
+Right Bundle Branch Block (RBBB) — LITFL ECG Library | https://litfl.com/right-bundle-branch-block-rbbb-ecg-library/
+AHA/ACCF/HRS Recommendations for the Standardization and Interpretation of the ECG, Part III: Intraventricular Conduction Disturbances (PubMed) | https://pubmed.ncbi.nlm.nih.gov/19281930/
 @@END@@

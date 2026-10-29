@@ -1,23 +1,16 @@
-# ecgmeans.com
+# ecgmeans.com — source branch
 
-Static site for **ECG Means** — plain-English explanations of the phrases printed on ECG/EKG
-reports, reviewed by Dr. Faisal Irshad, MBBS (PMDC 54440-S). 82 pages, including 4 ECG calculators
-and a schematic ECG illustration on every finding page.
+This `source` branch holds the generator. The `main` branch holds ONLY the built static site,
+because Cloudways (Lightning/Nginx stack) serves every file in the repo publicly and ignores .htaccess.
 
-## Structure
-- Pre-built static HTML (one `index.html` per directory) at the repo root.
-- `content/` + `build.py` + `make_assets.py` are the generator (blocked from the web by `.htaccess` + `robots.txt`).
+## Build + deploy
+```
+PYTHONHASHSEED=0 python3 build.py   # pages, schema, sitemap, llms.txt -> site/
+python3 make_assets.py              # css, icons
+node make_og.js                     # 1200x630 social images (needs playwright)
+./deploy.sh                         # copies site/ into a main worktree, commits, pushes
+```
+Content: content/<slug>.txt (@@FIELD@@ format). Set @@UPDATED@@ when a page is medically re-reviewed;
+byline, footer, schema dateModified and sitemap lastmod all read that one value.
 
-## Build locally
-```
-pip install markdown pillow --break-system-packages
-./build.sh   # from the parent build folder: runs build.py + make_assets.py and preserves .git/.github
-```
-Generator files: `build.py` (pages, schema, sitemap, llms.txt), `ecg_svg.py` (ECG illustrations), `make_assets.py` (CSS, icons).
-```
-```
-
-## Deploy
-Push to `main`; the GitHub Action triggers a Cloudways git pull (server 1638726, app 6684252) and purges cache.
-Requires repo secrets `CLOUDWAYS_EMAIL` and `CLOUDWAYS_API_KEY`. The workflow waits for the pull, purges Varnish,
-verifies the live site is fresh, then pings IndexNow (Bing/Yandex) with every sitemap URL.
+Server rules (www redirect, security headers) live in Cloudways → Application → Web Rules, not .htaccess.

@@ -62,6 +62,7 @@ Junctional Rhythm: What It Means | https://www.ecgmeans.com/junctional-rhythm/ |
 Idioventricular Rhythm: What It Means | https://www.ecgmeans.com/idioventricular-rhythm/ | Seek prompt care
 Third Degree (Complete) Heart Block: What It Means | https://www.ecgmeans.com/third-degree-av-block/ | Seek prompt care
 Sinus Rhythm With Sinus Arrhythmia: What It Means | https://www.ecgmeans.com/sinus-arrhythmia/ | Usually harmless
+Sinoatrial (SA) Block on an ECG: What It Means | https://www.ecgmeans.com/sinoatrial-block/ | Depends on context
 @@ALSO@@
 sinus pause, sinus arrest, sinus pause ecg, sick sinus syndrome
 @@SOURCES@@

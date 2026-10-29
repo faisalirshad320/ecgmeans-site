@@ -1,62 +1,166 @@
 @@TITLE@@
-Bifascicular Block: What It Means on an ECG
+Bifascicular Block on ECG: Meaning, Risk & Pacemakers
 @@DESC@@
-Bifascicular block means two of the heart's three conduction branches are blocked — usually RBBB plus a fascicular block. Learn what it means on an ECG.
+Bifascicular block on an ECG means two of the heart's three wiring branches are blocked, usually RBBB plus LAFB. Its causes, risk and when a pacemaker helps.
 @@H1@@
 Bifascicular Block: What It Means on an ECG
 @@CATEGORY@@
 Heart Blocks & Conduction | https://www.ecgmeans.com/heart-block-conduction/
 @@QUICK@@
 Needs clinician review
+@@UPDATED@@
+2026-10-29
+@@ANSWER@@
+Bifascicular block means two of the three main branches that carry the electrical signal to the ventricles are blocked — most often right bundle branch block together with left anterior fascicular block. The heart then relies on one remaining branch. Many people stay stable for years without symptoms, but it reflects conduction disease, so doctors check for blackouts and sometimes monitor the rhythm or fit a pacemaker.
 @@LEDE@@
-Bifascicular block means two of the three main conduction branches that carry the electrical signal to the ventricles are blocked. The usual combination is a right bundle branch block plus one of the two left-sided fascicles. On its own it often causes no symptoms, but it reflects disease in the heart's wiring and sometimes needs monitoring.
+Bifascicular block is a phrase that understandably worries people, because it sounds like the heart is "two-thirds blocked." In reality, the signal still reaches the ventricles normally through the remaining branch, and many people with bifascicular block on an ECG (EKG) never develop problems. This page explains which patterns count as bifascicular block, what causes it, how doctors judge the risk of it progressing to complete heart block, and when a pacemaker is — and is not — recommended.
 @@BODY@@
 ## What "bifascicular block" means
 
-The signal to the ventricles travels down three branches: the right bundle, and the left bundle's two fascicles (anterior and posterior). Bifascicular block means two of these are not conducting. The common patterns are right bundle branch block (RBBB) with left anterior fascicular block, or RBBB with left posterior fascicular block.
+Below the AV node, the electrical signal travels to the ventricles through three branches (fascicles):
+
+1. The **right bundle branch**
+2. The **left anterior fascicle**
+3. The **left posterior fascicle**
+
+Bifascicular block means **two of these three are not conducting**, so every beat travels down the single remaining branch. The main patterns are:
+
+- **[Right bundle branch block](https://www.ecgmeans.com/right-bundle-branch-block/) (RBBB) + [left anterior fascicular block](https://www.ecgmeans.com/left-anterior-fascicular-block/) (LAFB)** — by far the most common
+- **RBBB + [left posterior fascicular block](https://www.ecgmeans.com/left-posterior-fascicular-block/) (LPFB)** — less common, and often linked to more extensive heart disease
+- **[Left bundle branch block](https://www.ecgmeans.com/left-bundle-branch-block/)** — some textbooks also count complete LBBB as bifascicular, because it affects both left fascicles
+
+The ventricles are still activated with every beat, so the heart pumps normally. The concern is about **reserve**: if the last working branch also fails, complete (third-degree) heart block would follow.
 
 ## What it looks like on the ECG
 
-The features of the two individual blocks combine. For example, RBBB with left anterior fascicular block shows a wide QRS with an RBBB shape plus marked left axis deviation. RBBB with left posterior fascicular block shows an RBBB shape plus right axis deviation.
+The features of the two individual blocks add together:
 
-## Why it matters
+| Pattern | QRS width | Lead V1 | Frontal axis | Other clues |
+| --- | --- | --- | --- | --- |
+| RBBB + LAFB | 120 ms or more | rSR' (M-shaped) | Left axis deviation, beyond −45° | qR in aVL, rS in II, III, aVF |
+| RBBB + LPFB | 120 ms or more | rSR' | Right axis deviation, around +90° to +180° | rS in I and aVL, qR in III and aVF; other causes of right axis excluded |
+| Complete LBBB | 120 ms or more | Broad, mostly negative QS or rS | Often normal or leftward | Broad notched R in I, aVL, V5–V6 |
 
-Only one working branch is left carrying the signal to the ventricles. In most people this is stable for years. The concern is that, occasionally, the remaining branch also fails, which would cause complete (third-degree) heart block and a very slow pulse. Whether this needs action depends on symptoms and the clinical picture.
+Doctors also check the **PR interval**. Bifascicular block with a long PR interval ([first-degree AV block](https://www.ecgmeans.com/first-degree-av-block/)) is often labelled [trifascicular block](https://www.ecgmeans.com/trifascicular-block/). That term is used loosely, because the long PR may come from the AV node rather than the last fascicle, but it signals more widespread conduction disease. The [left axis deviation](https://www.ecgmeans.com/left-axis-deviation/) and [right axis deviation](https://www.ecgmeans.com/right-axis-deviation/) pages explain how the axis is measured.
 
-**Get prompt care** if bifascicular block comes with fainting, near-fainting, very slow pulse, chest pain or severe breathlessness.
+A rarer and more urgent pattern is **alternating bundle branch block** — RBBB on one ECG and LBBB on another, or switching beat to beat. That suggests all three fascicles are diseased, and guidelines recommend a pacemaker.
 
-## What causes it
-Bifascicular block is most often the result of slow, age-related scarring (fibrosis) of the conduction system. Other causes include coronary artery disease and previous heart attacks, long-standing high blood pressure, and diseases of the heart muscle or valves. In many older people it is found incidentally and stays stable for years, which is why the focus is on symptoms and on comparison with any earlier ECGs.
+## Causes of bifascicular block
 
-## What usually happens next
+**Common causes**
 
-1. Comparison with old ECGs to see whether the block is new
-2. Assessment for symptoms such as blackouts
-3. Monitoring and sometimes further electrical testing of the conduction system
-4. A pacemaker only if there are symptoms or evidence of more advanced block
+- **Age-related fibrosis** of the conduction system (sometimes called Lev or Lenègre disease) — the commonest cause
+- **Coronary artery disease** and previous heart attacks, particularly of the front wall and septum
+- **Long-standing high blood pressure** with left ventricular hypertrophy
+- **Aortic valve disease**, including calcium spreading from the valve into the nearby conduction tissue
 
-### Questions to ask your doctor
+**Less common causes**
 
-- Is my bifascicular block new or long-standing?
-- Have I had any blackouts or near-faints?
-- Do I need monitoring or a pacemaker?
+- **After heart procedures** — aortic valve replacement, TAVI/TAVR or septal reduction procedures
+- **Cardiomyopathy** — dilated, hypertrophic or infiltrative (such as amyloidosis or sarcoidosis)
+- **Neuromuscular disease**, notably myotonic dystrophy, which can affect the conduction system
+- **Chagas disease**, a parasitic infection common in parts of Latin America, which classically causes RBBB with LAFB
+- **Congenital heart disease** or surgery to repair it
+- **Acute heart attack** — a new bifascicular block during a large anterior heart attack is a high-risk sign that needs close monitoring
+
+## Is bifascicular block dangerous?
+
+For many people it is **stable and causes no symptoms for years**. In people without symptoms, the yearly chance of progressing to complete heart block is low. The risk is higher in people who have had **unexplained fainting**, because a blackout may mean the remaining branch is intermittently failing.
+
+Doctors judge the risk using:
+
+- **Symptoms** — fainting, near-fainting, sudden falls or a very slow pulse are the most important features
+- **Whether it is new** — compared with earlier ECGs
+- **Additional conduction findings** — a long PR interval, alternating bundle branch block, or second-degree AV block on monitoring
+- **Heart muscle function** — a weak heart (low ejection fraction) raises the chance that blackouts are caused by fast, dangerous rhythms rather than slow ones, which changes the treatment
+- **Underlying conditions** — such as myotonic dystrophy, a recent valve procedure or a heart attack
+
+## Symptoms to watch for
+
+Bifascicular block itself causes no symptoms. The symptoms that matter are those of a **slow heart rate or intermittent heart block**:
+
+- Sudden fainting or blackouts, sometimes with no warning
+- Episodes of dizziness or near-fainting
+- Unusual tiredness or breathlessness on exertion
+- A pulse that is very slow (for example, consistently below about 40 beats per minute)
+- Confusion or falls in older people
+
+## What tests usually come next
+
+1. **Comparison with old ECGs** to see whether the block is new or long-standing.
+2. **A careful history** of blackouts, falls or dizziness — the single most important step.
+3. **Echocardiogram** to assess heart muscle and valves. See [EKG vs echocardiogram](https://www.ecgmeans.com/ekg-vs-echocardiogram/).
+4. **Ambulatory rhythm monitoring** — a 24–48-hour Holter, a longer patch or event monitor, or an **implantable loop recorder** that can record the rhythm for years if blackouts are infrequent.
+5. **Electrophysiology (EP) study** in some people with unexplained fainting. A catheter measures the conduction time below the AV node (the HV interval); a clearly prolonged value supports fitting a pacemaker.
+6. **Blood tests** such as potassium, and tests for an underlying cause if the block is new.
+
+## Treatment and management
+
+- **No symptoms:** a pacemaker is **not recommended** for bifascicular block without symptoms. Regular review and an ECG at check-ups are usually enough.
+- **Unexplained fainting:** guidelines from the European Society of Cardiology and the ACC/AHA/HRS support further testing (EP study or an implantable loop recorder), and a **pacemaker** if testing shows conduction disease or a slow rhythm. In some older or frail people with recurrent unexplained blackouts, doctors may recommend a pacemaker directly.
+- **Alternating bundle branch block** or documented higher-grade heart block: a **pacemaker is recommended**.
+- **Weak heart muscle:** if fainting may be due to a fast ventricular rhythm, an implantable defibrillator (ICD) may be considered instead of, or as well as, pacing.
+- **Medicines:** your doctor may review drugs that slow conduction, such as some rate-control or antiarrhythmic medicines.
+- **Surgery and anaesthesia:** asymptomatic bifascicular block does not usually need temporary pacing for an operation.
+
+## Special groups
+
+- **Older adults:** bifascicular block is most common in later life, usually from age-related fibrosis. Falls or "funny turns" in an older person with this ECG should be reported.
+- **Neuromuscular disease:** people with myotonic dystrophy and related conditions may be offered closer monitoring or earlier pacing, because their conduction disease can progress unpredictably.
+- **After TAVI/TAVR:** pre-existing RBBB raises the chance of needing a pacemaker after transcatheter valve replacement, and new bifascicular block afterwards is monitored closely.
+- **Young people:** bifascicular block is unusual in the young and usually prompts a search for congenital, inherited or inflammatory heart disease.
+
+## How it differs from look-alike findings
+
+| Finding | How it differs |
+| --- | --- |
+| Isolated [RBBB](https://www.ecgmeans.com/right-bundle-branch-block/) | Only one branch affected; axis normal |
+| Isolated [LAFB](https://www.ecgmeans.com/left-anterior-fascicular-block/) | Left axis beyond −45° with a narrow QRS |
+| [Trifascicular block](https://www.ecgmeans.com/trifascicular-block/) | Bifascicular block plus a long PR interval, or alternating bundle branch block |
+| [Third-degree AV block](https://www.ecgmeans.com/third-degree-av-block/) | P waves and QRS complexes completely independent, with a slow escape rhythm |
+| [Intraventricular conduction delay](https://www.ecgmeans.com/intraventricular-conduction-delay/) | Wide QRS without a typical bundle branch shape |
+| [Wide QRS complex](https://www.ecgmeans.com/wide-qrs-complex/) | The broader category that bifascicular block falls into |
+
+## Get urgent help
+
+**Get urgent help** if bifascicular block comes with fainting, near-fainting, a very slow pulse, chest pain or severe breathlessness. Those symptoms matter more than any single ECG phrase. Call 911 in the US, 999 in the UK or 112 in Europe.
+
+## Questions to ask your doctor
+
+- Which two branches are blocked — RBBB with LAFB, RBBB with LPFB, or LBBB?
+- Is it new, or was it on my earlier ECGs?
+- Is my PR interval prolonged as well?
+- Do my symptoms (or lack of them) mean I need a monitor or a loop recorder?
+- Would an EP study help in my case?
+- At what point would a pacemaker be recommended?
+- Do any of my medicines slow the heart's conduction?
 @@FAQ@@
+Q: What does bifascicular block mean on an ECG?
+A: It means two of the three main conduction branches to the ventricles are blocked, most often right bundle branch block plus left anterior fascicular block. The signal still reaches the ventricles through the remaining branch.
 Q: Is bifascicular block dangerous?
-A: Often it is stable and symptom-free, but because only one conduction branch remains, there is a small risk it can progress to complete heart block, so it is monitored.
+A: Often it is stable and symptom-free for years. Because only one conduction branch remains, there is a small risk of progressing to complete heart block, which is higher in people who have had unexplained fainting.
 Q: What causes bifascicular block?
-A: Usually age-related fibrosis of the conduction system, coronary artery disease, high blood pressure, or previous heart damage.
+A: Usually age-related fibrosis of the conduction system, coronary artery disease, high blood pressure or aortic valve disease. Less common causes include cardiomyopathy, myotonic dystrophy, Chagas disease and heart procedures.
 Q: Do I need a pacemaker for bifascicular block?
-A: Not usually on its own. A pacemaker is considered if there are blackouts, a very slow pulse, or evidence of more advanced block.
+A: Not if you have no symptoms. A pacemaker is considered when there are unexplained blackouts with evidence of conduction disease, alternating bundle branch block, or documented higher-grade heart block.
+Q: What is the difference between bifascicular and trifascicular block?
+A: Bifascicular block involves two of the three conduction branches. Trifascicular block usually means bifascicular block plus a long PR interval, or alternating bundle branch block, suggesting more widespread disease.
+Q: Can bifascicular block go away?
+A: It is usually permanent when caused by age-related fibrosis. When it appears during a heart attack, after a procedure, or with high potassium, it can sometimes improve.
+Q: Can I drive with bifascicular block?
+A: Most people without symptoms can drive normally. If you have had blackouts, stop driving and check your local licensing rules with your doctor.
 @@RELATED@@
 Right Bundle Branch Block (RBBB): What It Means | https://www.ecgmeans.com/right-bundle-branch-block/ | Usually harmless
 Left Anterior Fascicular Block: What It Means | https://www.ecgmeans.com/left-anterior-fascicular-block/ | Usually harmless
 Left Posterior Fascicular Block: What It Means | https://www.ecgmeans.com/left-posterior-fascicular-block/ | Needs clinician review
 Trifascicular Block: What It Means | https://www.ecgmeans.com/trifascicular-block/ | Needs clinician review
 Third-Degree AV Block: What It Means | https://www.ecgmeans.com/third-degree-av-block/ | Seek prompt care
+Sinus Rhythm With 1st Degree AV Block: What It Means | https://www.ecgmeans.com/first-degree-av-block/ | Usually harmless
 @@ALSO@@
-bifascicular block, rbbb with lafb, rbbb with lpfb, two fascicle block
+bifascicular block ecg, bifascicular block ekg, bifascicular heart block, rbbb with lafb, rbbb and left anterior fascicular block, rbbb with lpfb, two fascicle block, what does bifascicular block mean, is bifascicular block dangerous, bifascicular block causes, bifascicular block treatment, bifascicular block pacemaker, bifascicular block syncope
 @@SOURCES@@
-Bifascicular Block | https://litfl.com/bifascicular-block-ecg-library/
-Bifascicular Block | https://www.ncbi.nlm.nih.gov/books/NBK507754/
-Conduction Disorders | https://my.clevelandclinic.org/health/diseases/21830-heart-block
+Bifascicular Block — LITFL ECG Library | https://litfl.com/bifascicular-block-ecg-library/
+Trifascicular Block — LITFL ECG Library | https://litfl.com/trifascicular-block-ecg-library/
+Bundle Branch Block — Cleveland Clinic | https://my.clevelandclinic.org/health/diseases/16815-bundle-branch-block
+AHA/ACCF/HRS Recommendations for the Standardization and Interpretation of the ECG, Part III: Intraventricular Conduction Disturbances (PubMed) | https://pubmed.ncbi.nlm.nih.gov/19281930/
 @@END@@

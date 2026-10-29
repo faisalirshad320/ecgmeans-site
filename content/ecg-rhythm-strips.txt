@@ -1,7 +1,7 @@
 @@TITLE@@
 ECG Rhythm Strips: 36 EKG Rhythms With Pictures & Clues
 @@DESC@@
-Visual library of 36 ECG rhythm strips — sinus, atrial, junctional, ventricular and heart blocks — with rate, regularity, P waves, QRS and the key clue for each.
+Visual library of 36 ECG rhythm strips — sinus, atrial, junctional, ventricular and heart blocks — with rate, P waves, QRS and the key clue.
 @@H1@@
 ECG Rhythm Strips: A Visual Library of EKG Rhythms
 @@CATEGORY@@

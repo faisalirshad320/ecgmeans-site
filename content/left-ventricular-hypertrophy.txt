@@ -1,7 +1,7 @@
 @@TITLE@@
 Left Ventricular Hypertrophy (LVH) on ECG: What It Means
 @@DESC@@
-'Possible left ventricular hypertrophy' or 'voltage criteria for LVH' on your ECG means tall QRS complexes. Learn why the ECG over-calls it and what confirms it.
+'Possible left ventricular hypertrophy' (LVH) on an ECG means tall QRS complexes. Why the ECG over-calls it and which test confirms it.
 @@H1@@
 Left Ventricular Hypertrophy (LVH): What It Means on an ECG
 @@CATEGORY@@

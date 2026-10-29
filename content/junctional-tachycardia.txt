@@ -1,70 +1,176 @@
 @@TITLE@@
-Junctional Tachycardia on ECG: Meaning & Causes
+Junctional Tachycardia on ECG: Meaning, Causes & Treatment
 @@DESC@@
-Junctional tachycardia is a fast rhythm from the AV junction, above 100 bpm, with absent or inverted P waves. Learn the causes and why digoxin toxicity is classic.
+Junctional tachycardia is a fast rhythm from the AV junction, over 100 bpm, with absent or inverted P waves. Learn the ECG signs, causes, risks and treatment.
 @@H1@@
 Junctional Tachycardia: What It Means
 @@CATEGORY@@
 Heart Rhythms | https://www.ecgmeans.com/heart-rhythms/
 @@QUICK@@
 Needs clinician review
+@@UPDATED@@
+2026-10-29
+@@ANSWER@@
+Junctional tachycardia means the heart is being driven at over 100 beats per minute by the AV junction, the relay point between the upper and lower chambers, instead of the sinus node. On the ECG the QRS is narrow and the P waves are absent or inverted. In adults it usually signals an irritated junction from digoxin toxicity, heart surgery, a heart attack or illness, so it always needs medical review.
 @@LEDE@@
 Junctional tachycardia is a fast rhythm — over 100 beats per minute — that arises from the AV junction, the relay point between the upper and lower chambers, instead of the sinus node. The QRS is narrow but the P waves are missing or inverted. It is the fast end of the junctional-rhythm family and usually signals an irritated junction from a drug, surgery or illness.
 @@BODY@@
-## What "Junctional tachycardia" means
+## What "junctional tachycardia" means
 
 The AV junction normally only acts as a back-up pacemaker at 40–60 per minute. In junctional tachycardia it becomes abnormally excitable and fires above 100, overriding the sinus node. Because the impulse reaches the atria backwards, the P wave is hidden in the QRS or appears upside-down just before or after it.
 
 In children it is seen after heart surgery (junctional ectopic tachycardia, JET). In adults the classic trigger is digoxin toxicity. It overlaps with other narrow-complex tachycardias, so a cardiologist may be needed to tell them apart.
 
+You may see it written as **junctional tachycardia**, **JT**, **junctional ectopic tachycardia (JET)**, **focal junctional tachycardia** or **nonparoxysmal junctional tachycardia**. These describe the same pacemaker site; the labels differ by age group and how the rhythm starts. ECG and EKG are the same test.
+
+Junctional tachycardia is one type of [supraventricular tachycardia (SVT)](https://www.ecgmeans.com/supraventricular-tachycardia/) — a fast rhythm that starts above the ventricles — but it is far less common than the usual re-entry SVTs.
+
+### How it fits with other junctional rhythms
+
+| Name on the report | Rate (beats per minute) | Typical setting |
+| --- | --- | --- |
+| [Junctional escape rhythm](https://www.ecgmeans.com/junctional-escape-rhythm/) | 40–60 | Back-up when the sinus node is slow |
+| [Accelerated junctional rhythm](https://www.ecgmeans.com/accelerated-junctional-rhythm/) | 60–100 | Irritable junction, same causes as below |
+| **Junctional tachycardia** | Over 100 | Digoxin toxicity, after surgery, heart attack, acute illness |
+
 ## What it looks like on the ECG
 
 A regular narrow-complex rhythm over 100 per minute with no normal upright P wave before the QRS — P waves are absent, or inverted in the inferior leads and close to the QRS.
 
-## Common causes
+| ECG feature | Typical finding in junctional tachycardia |
+| --- | --- |
+| Rate | Over 100 beats per minute |
+| Regularity | Usually regular |
+| QRS width | Narrow (under 120 ms), unless there is a bundle branch block or aberrant conduction |
+| P waves | Absent, or inverted in leads II, III and aVF |
+| P wave timing | Just before the QRS with a short PR (under 120 ms), hidden in it, or just after it |
+| Sinus P waves | Sometimes seen separately at a slower rate ([AV dissociation](https://www.ecgmeans.com/av-dissociation/)) |
+| Onset and offset | Often gradual (warm-up and cool-down) rather than abrupt |
+| Response to adenosine | Usually does not stop it; this helps separate it from re-entry SVTs |
 
-- Digoxin toxicity (the classic adult cause)
+The gradual onset and the poor response to adenosine reflect the mechanism: junctional tachycardia is usually caused by a single overexcited spot firing on its own (automaticity), not by an electrical loop (re-entry) that can be "broken".
+
+## Junctional tachycardia causes
+
+**Common causes:**
+
+- Digoxin toxicity (the classic adult cause) — see [digoxin effect on the ECG](https://www.ecgmeans.com/digoxin-effect-ecg/)
 - After cardiac surgery, especially in children (JET)
 - Inferior heart attack
 - Myocarditis, rheumatic fever
 - Theophylline or beta-agonist excess
 - Low potassium
 
-## Should you worry?
+**Less common causes:**
+
+- High doses of stimulant drugs or catecholamine infusions in intensive care
+- Severe illness, low oxygen levels or major blood-chemistry disturbance
+- Catheter ablation close to the AV node
+- Congenital JET in infants, a rare condition present from early life
+- Focal junctional tachycardia in otherwise healthy young adults, rare and sometimes without a clear cause
+
+## Is junctional tachycardia dangerous?
+
+Needs clinician review
 
 Junctional tachycardia is usually a sign that something else is wrong — most often a drug effect or recent illness — rather than a primary problem. It is assessed and monitored, and treatment is aimed at the cause. A fast rate with symptoms such as chest pain, breathlessness or fainting needs prompt care.
 
+How doctors judge it:
+
+| Feature | More reassuring | Needs prompt or urgent care |
+| --- | --- | --- |
+| Rate | Just over 100 | Very fast, especially in infants |
+| Blood pressure | Normal | Low, with dizziness or confusion |
+| Medicines | Not on digoxin | On digoxin with nausea, vomiting or visual changes |
+| Chest pain | None | Present — possible heart attack |
+| Heart pumping | Normal | Weak or stiff heart |
+| Setting | Monitored after surgery | New and unexplained outside hospital |
+
+The main risks come from the rate and from losing the atria's contribution to filling. At fast rates the ventricles have less time to fill, and with the atria and ventricles out of step, blood pressure can fall. Infants after heart surgery are particularly vulnerable, which is why postoperative JET is treated actively.
+
+## Symptoms to watch for
+
+- Palpitations or a racing heartbeat
+- Pounding in the neck
+- Breathlessness or tiredness
+- Light-headedness or near-fainting
+- Chest discomfort
+- Symptoms of digoxin toxicity: nausea, vomiting, poor appetite, confusion, blurred or yellow-tinged vision
+
+## Tests that usually come next
+
+1. **12-lead ECG**, ideally compared with an earlier one, to confirm a junctional origin and look for a heart attack.
+2. **Digoxin level, potassium, magnesium and kidney function.**
+3. **Troponin** if there is chest pain.
+4. **Medicine review**, including inhalers, theophylline and stimulants.
+5. **Continuous monitoring** in hospital if the rate is fast or blood pressure is affected.
+6. **Echocardiogram** to check pumping strength and look for myocarditis or valve disease.
+7. **Electrophysiology study** occasionally, if the rhythm keeps returning without an obvious cause.
+
+## Junctional tachycardia treatment
+
+Treating the cause is the mainstay, and it usually settles the rhythm:
+
+- **Digoxin toxicity:** stop digoxin, correct potassium and magnesium, and in severe cases give a digoxin antidote (digoxin-specific antibody fragments) in hospital.
+- **After heart surgery (JET in children):** reducing stimulant drips, correcting magnesium and other electrolytes, gentle cooling, sedation, medicines such as amiodarone, and pacing the atria slightly faster than the junction to restore coordination. Postoperative JET usually settles within a few days.
+- **Heart attack or myocarditis:** treated directly; the rhythm usually resolves with recovery.
+- **Persistent focal junctional tachycardia:** beta-blockers or other antiarrhythmic medicines; catheter ablation in selected cases, with care because the focus sits close to the normal AV conduction system.
+
+Electrical cardioversion is usually ineffective for this type of rhythm because the focus simply restarts. That is one reason an accurate diagnosis matters.
+
+## Special groups
+
+- **Infants and children:** postoperative JET is the most common form in children and appears within the first day or two after congenital heart surgery. Congenital JET is rare and managed by specialist paediatric cardiologists.
+- **Older adults:** more likely to be on digoxin and to have kidney problems, so a drug cause is checked first.
+- **Pregnancy:** junctional tachycardia is uncommon. Palpitations in pregnancy are usually due to sinus tachycardia or extra beats, but a new fast rhythm should be recorded on an ECG and reviewed.
+- **Athletes:** junctional tachycardia is not a normal training effect; a fast junctional rhythm in an athlete should be assessed before returning to sport.
+
+## How it differs from look-alike findings
+
+- **[AVNRT](https://www.ecgmeans.com/avnrt/):** the most common regular narrow-complex SVT. It also hides or inverts the P wave, but it starts and stops suddenly, is caused by re-entry, and usually stops with vagal manoeuvres or adenosine.
+- **AVRT and [Wolff-Parkinson-White](https://www.ecgmeans.com/wolff-parkinson-white/):** re-entry through an extra pathway; the P wave usually appears a little after the QRS.
+- **[Atrial tachycardia](https://www.ecgmeans.com/atrial-tachycardia/):** an abnormal P wave usually sits *before* each QRS with a measurable PR interval.
+- **[Sinus tachycardia](https://www.ecgmeans.com/sinus-tachycardia/):** normal upright P waves in lead II before every QRS.
+- **Wide-complex rhythms:** if a junctional tachycardia conducts with a bundle branch block, the QRS is wide and it must be separated from ventricular tachycardia. See [SVT vs VTach](https://www.ecgmeans.com/svt-vs-vtach/).
+
 **Get urgent help** if this finding comes with chest pain or pressure, severe breathlessness, fainting, or a fast heartbeat that will not settle. Those symptoms matter more than any single ECG phrase.
-
-## What usually happens next
-
-1. Check of digoxin level and electrolytes
-2. Review of recent surgery or illness
-3. Treating the cause, which usually settles the rhythm
-4. Specific rhythm treatment only occasionally
 
 ### Questions to ask your doctor
 
 - Could digoxin or another medicine be the cause?
 - Is my potassium normal?
+- How sure are we that this is junctional tachycardia rather than another SVT?
+- Is there any sign of a heart attack or heart inflammation?
 - Will it settle once the cause is treated?
+- What should I do if my heart races again at home?
 @@FAQ@@
+Q: What does junctional tachycardia mean?
+A: It means the AV junction is driving the heart at over 100 beats per minute instead of the sinus node. The ECG shows a fast, narrow-QRS rhythm with absent or inverted P waves.
 Q: Is junctional tachycardia serious?
-A: It is rarely dangerous in itself, but causes such as digoxin toxicity need prompt treatment, so it is always assessed.
+A: At modest rates in adults it is often well tolerated, but very fast rates (especially JET in infants after surgery) can lower blood pressure, and causes such as digoxin toxicity need prompt treatment, so it is always assessed.
 Q: How is it different from an accelerated junctional rhythm?
 A: Only by rate. Accelerated junctional rhythm is 60–100; junctional tachycardia is over 100.
 Q: What is the most common cause in adults?
-A: Digoxin toxicity, followed by the period after cardiac surgery and acute illness.
+A: Digoxin toxicity is the classic adult cause; others include the period after cardiac surgery, a heart attack and acute illness.
+Q: What is JET?
+A: JET stands for junctional ectopic tachycardia. It most often occurs in infants and children in the first days after heart surgery and is treated in intensive care until it settles.
+Q: Does adenosine stop junctional tachycardia?
+A: Usually not, because the rhythm comes from an overexcited spot rather than an electrical loop. This helps doctors tell it apart from AVNRT and AVRT, which adenosine typically stops.
+Q: How is junctional tachycardia different from SVT?
+A: It is one type of SVT. Most SVTs are re-entry rhythms such as AVNRT that start and stop suddenly, whereas junctional tachycardia usually warms up gradually and is driven by its cause.
 @@RELATED@@
-Junctional Rhythm: What It Means | https://www.ecgmeans.com/junctional-rhythm/ | NONE
 Accelerated Junctional Rhythm: What It Means | https://www.ecgmeans.com/accelerated-junctional-rhythm/ | Needs clinician review
+Junctional Rhythm: What It Means | https://www.ecgmeans.com/junctional-rhythm/ | NONE
+AVNRT: What It Means | https://www.ecgmeans.com/avnrt/ | Needs clinician review
+Supraventricular Tachycardia (SVT): What It Means | https://www.ecgmeans.com/supraventricular-tachycardia/ | Needs clinician review
 Atrial Tachycardia: What It Means on an ECG | https://www.ecgmeans.com/atrial-tachycardia/ | Needs clinician review
+Digoxin Effect on the ECG | https://www.ecgmeans.com/digoxin-effect-ecg/ | Needs clinician review
 SVT vs VTach: What's the Difference? | https://www.ecgmeans.com/svt-vs-vtach/ | NONE
-Short PR Interval: What It Means | https://www.ecgmeans.com/short-pr-interval/ | Depends on context
 @@ALSO@@
-junctional tachycardia ecg, junctional ectopic tachycardia, JET, accelerated junctional rhythm
+junctional tachycardia, junctional tachycardia ecg, junctional tachycardia ekg, junctional ectopic tachycardia, JET, focal junctional tachycardia, nonparoxysmal junctional tachycardia, what is junctional tachycardia, is junctional tachycardia dangerous, junctional tachycardia causes, junctional tachycardia treatment, junctional tachycardia vs svt, accelerated junctional rhythm
 @@SOURCES@@
 Junctional Rhythm | https://my.clevelandclinic.org/health/diseases/23206-junctional-rhythm
 Accelerated Junctional Rhythm (LITFL) | https://litfl.com/accelerated-junctional-rhythm-ajr/
 Junctional Rhythm | https://www.ncbi.nlm.nih.gov/books/NBK507715/
+Digoxin Toxicity (LITFL ECG Library) | https://litfl.com/digoxin-toxicity-ecg-library/
 @@END@@

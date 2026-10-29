@@ -160,6 +160,7 @@ Trigeminy: What It Means | https://www.ecgmeans.com/trigeminy/ | Depends on cont
 Ectopic Heartbeat: What It Means | https://www.ecgmeans.com/ectopic-heartbeat/ | Usually harmless
 Multifocal PVCs: What They Mean on an ECG | https://www.ecgmeans.com/multifocal-pvcs/ | Needs clinician review
 Ventricular Couplet: What It Means | https://www.ecgmeans.com/ventricular-couplet/ | Depends on context
+Fusion Beat: What It Means on an ECG | https://www.ecgmeans.com/fusion-beat/ | Usually harmless
 @@ALSO@@
 PVC, PVCs, premature ventricular complex, premature ventricular beat, ventricular premature beat, VPB, ventricular ectopic beat, ventricular ectopics, ventricular extrasystole, ventricular premature complex, VPC, ventricular bigeminy, ventricular trigeminy, ventricular couplet, pvcs heart, heart pvc, are pvcs dangerous, what does a pvc look like on an ecg, pvc burden, pvc on ekg
 @@SOURCES@@

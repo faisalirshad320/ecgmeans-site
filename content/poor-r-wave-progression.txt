@@ -1,71 +1,161 @@
 @@TITLE@@
 Poor R Wave Progression on ECG: Meaning & Causes
 @@DESC@@
-Poor R wave progression means the R waves don't grow normally across the chest leads. It is usually lead placement or body build — here's how it is sorted out.
+Poor R wave progression (PRWP) on an ECG means R waves fail to grow across V1–V4. It is often lead position or body build, sometimes an old heart attack.
 @@H1@@
-Poor R Wave Progression: What It Means
+Poor R Wave Progression: What It Means on an ECG
 @@CATEGORY@@
 ECG Report Phrases | https://www.ecgmeans.com/ecg-report-phrases/
 @@QUICK@@
 Depends on context
+@@UPDATED@@
+2026-10-29
+@@ANSWER@@
+Poor R wave progression (PRWP) means the upward R wave does not grow taller as expected across chest leads V1 to V4 — typically the R wave in V3 is 3 mm or less. It is a description, not a diagnosis. Most often it reflects electrode position, body build or a normal variant, but it can be a sign of an old heart attack on the front of the heart, so it is judged alongside symptoms and other findings.
 @@LEDE@@
-"Poor R wave progression" means the upward R wave does not get taller as it should from chest lead V1 to V4 — typically the R wave in V3 is 3 mm or less. It can be a trace left by an old heart attack on the front of the heart, but far more often it reflects electrode position, body build or a normal variant.
+"Poor R wave progression" is a common computer-generated line on ECG (EKG) reports, sometimes followed by "consider anterior infarct." That second phrase is what worries people, but most people with this finding have not had a heart attack. This page explains how R waves normally behave across the chest leads, what makes them grow too slowly, how doctors tell a harmless pattern from a meaningful one, and which tests usually settle the question.
 @@BODY@@
-## What "Poor R wave progression" means
+## What "poor R wave progression" means
 
-The six chest leads scan across the heart from right to left. In a normal tracing the R wave starts tiny in V1, grows steadily, and overtakes the downward S wave at around V3–V4 (the "transition"). When that growth is delayed, the software prints poor R wave progression, sometimes adding "consider anterior infarct".
+The six chest leads (V1 to V6) sit in a line across the chest, from just right of the breastbone round to the left side under the armpit. They view the heart from front-right to left.
 
-It is a description, not a disease. Studies that followed up people with this finding show that only a minority have any scar on imaging.
+In a normal tracing:
+
+- In **V1** the QRS is mostly downward — a tiny r wave and a deep S wave
+- The **R wave gets taller** and the S wave shallower as you move from V1 to V6
+- The point where the R wave becomes bigger than the S wave — the **transition zone** — is usually at **V3 or V4**
+
+When the R waves stay small for too long, the computer prints "poor R wave progression." If the transition is pushed to V5 or V6, reports may also say "late transition" or "clockwise rotation."
+
+It is a description of shape, not a disease. Follow-up studies of people with this label show that only a minority turn out to have heart muscle scarring on imaging.
 
 ## What it looks like on the ECG
 
-Small R waves persisting through V1–V3 with deep S waves, and the changeover to a dominant R wave happening late, in V5 or V6.
+There is no single agreed definition, but commonly used criteria are:
 
-## Common causes
+| Feature | Normal pattern | Poor R wave progression |
+| --- | --- | --- |
+| R wave height in V3 | Usually more than 3 mm | 3 mm or less |
+| R wave growth V1 → V4 | Steady increase | Little or no increase |
+| Transition zone | V3–V4 | Delayed to V5–V6 |
+| R wave V2 vs V3 | V3 taller | V3 the same or smaller |
+| Reversed progression | Not present | R wave gets smaller from V1 to V3 or V4 ("reversed R wave progression") |
 
-- Chest electrodes placed too high or too far to the left
-- Normal variant, more common in women
-- Obesity, breast tissue, emphysema or chest deformity
-- Left ventricular hypertrophy
-- Left bundle branch block or left anterior fascicular block
-- Old anterior or anteroseptal heart attack
+**Reversed R wave progression** — where R waves actually shrink across the early chest leads — is more likely to mean something important (an old anterior infarct, or misplaced electrodes) than simple slow growth.
 
-## Should you worry?
+## Causes of poor R wave progression
 
-Depends on context
+**Common causes**
 
-As an isolated finding in a person who feels well it carries little weight. It matters more alongside Q waves, T wave inversion in the same leads, cardiac risk factors or symptoms.
+- **Chest electrodes placed too high**, too far apart or swapped — one of the commonest explanations. See [12-lead ECG placement](https://www.ecgmeans.com/12-lead-ecg-placement/)
+- **Normal variant**, more common in women
+- **Body build** — obesity, breast tissue, a broad or deep chest, or a chest wall shape such as pectus excavatum
+- **Lung disease** — emphysema/COPD, which moves the heart and dampens the signal
+- **[Left ventricular hypertrophy](https://www.ecgmeans.com/left-ventricular-hypertrophy/)**, which often produces deep S waves in V1–V3
 
-**Get urgent help** if this finding comes with chest pain or pressure, severe breathlessness, fainting, or a fast heartbeat that will not settle. Those symptoms matter more than any single ECG phrase.
+**Less common causes**
 
-## What usually happens next
+- **Old anterior or anteroseptal heart attack** — see [anterior infarct, age undetermined](https://www.ecgmeans.com/anterior-infarct-age-undetermined/) and [anteroseptal infarct](https://www.ecgmeans.com/anteroseptal-infarct/)
+- **[Left bundle branch block](https://www.ecgmeans.com/left-bundle-branch-block/)** or [left anterior fascicular block](https://www.ecgmeans.com/left-anterior-fascicular-block/)
+- **[Wolff-Parkinson-White](https://www.ecgmeans.com/wolff-parkinson-white/) pattern**, depending on pathway location
+- **[Right ventricular hypertrophy](https://www.ecgmeans.com/right-ventricular-hypertrophy/)** and pulmonary hypertension
+- **Cardiomyopathy** or infiltrative heart muscle disease, sometimes with [low voltage QRS](https://www.ecgmeans.com/low-voltage-qrs/)
+- **Dextrocardia** (heart on the right side), which gives a striking reverse pattern
 
-1. Repeat ECG with careful lead placement
-2. Comparison with earlier tracings
-3. Echocardiogram if an old infarct is a realistic possibility
+## Is poor R wave progression serious?
 
-### Questions to ask your doctor
+**As an isolated finding in a person who feels well, it carries little weight.** It is one of the weaker ECG pointers to an old heart attack, and on its own it is a poor predictor of scar.
 
-- Could the electrodes have been misplaced?
-- Are there any other signs of an old heart attack on this ECG?
-- Would an echocardiogram be useful?
+Doctors take it more seriously when it comes with **risk features** such as:
+
+- **Q waves in V1–V3** — see [pathological Q waves](https://www.ecgmeans.com/pathological-q-waves/) and [septal infarct](https://www.ecgmeans.com/septal-infarct/)
+- **[T wave inversion](https://www.ecgmeans.com/t-wave-inversion/) or ST changes** in the same leads
+- **Reversed R wave progression**, rather than just slow growth
+- **[Fragmented QRS](https://www.ecgmeans.com/fragmented-qrs/)** — extra notches in the QRS that can point to scar
+- **Symptoms** — chest pain on exertion, breathlessness or reduced exercise tolerance
+- **A history or high risk of coronary disease** — diabetes, smoking, high blood pressure, high cholesterol or a family history
+- **A change from a previous ECG** that was normal
+
+## Symptoms to watch for
+
+Poor R wave progression causes no symptoms. Report these, which could point to a heart problem behind the ECG:
+
+- Chest pain, pressure or tightness, especially on exertion
+- Breathlessness on mild effort or when lying flat
+- Ankle swelling or unusual tiredness
+- Palpitations, dizziness or fainting
+
+## What tests usually come next
+
+1. **Repeat ECG with careful lead placement.** If the pattern disappears, no further testing is usually needed.
+2. **Comparison with earlier ECGs.** A long-standing, unchanged pattern is reassuring.
+3. **Risk factor review** — blood pressure, cholesterol, diabetes and smoking.
+4. **Echocardiogram** if an old heart attack, heart muscle disease or LVH is a realistic possibility. It shows whether the front wall of the heart moves normally. See [EKG vs echocardiogram](https://www.ecgmeans.com/ekg-vs-echocardiogram/).
+5. **Stress testing or coronary imaging** (such as a CT coronary angiogram) if you have symptoms suggesting angina.
+6. **Cardiac MRI** occasionally, when the echo is unclear and scar needs to be confirmed or excluded.
+
+## Treatment and management
+
+*An illustrative example, not a real patient:* a 52-year-old woman with no symptoms has a routine ECG reported as "poor R wave progression, consider anterior infarct." A repeat ECG, with the chest electrodes placed carefully below the breast, shows normal R wave growth and a transition at V3. No further tests are needed. Had the repeat still shown the pattern alongside Q waves, an echocardiogram would have been the next step.
+
+Poor R wave progression itself does not need treatment. If a correctly recorded ECG is normal or the echocardiogram is normal, nothing more is required. If an underlying cause is found — an old heart attack, LVH from high blood pressure, or a cardiomyopathy — treatment is aimed at that condition.
+
+## Special groups
+
+- **Women:** poor R wave progression is more common in women, partly because breast tissue affects electrode placement and signal size. Electrodes should be placed under the breast, not on top of it.
+- **People with obesity or COPD:** the pattern is often due to body build or lung hyperinflation rather than heart disease.
+- **Athletes and young people:** an isolated finding is usually a variant; young people with symptoms or a family history of heart muscle disease may be offered an echocardiogram.
+- **Older adults:** the pattern is more likely to be investigated because coronary disease is more common with age.
+
+## How it differs from look-alike findings
+
+| Finding | How it differs |
+| --- | --- |
+| [Anterior infarct, age undetermined](https://www.ecgmeans.com/anterior-infarct-age-undetermined/) | A computer label usually triggered by Q waves or lost R waves; same question, often the same answer |
+| [Septal infarct](https://www.ecgmeans.com/septal-infarct/) | Q waves or QS complexes specifically in V1–V2 |
+| [Low voltage QRS](https://www.ecgmeans.com/low-voltage-qrs/) | Small complexes in all leads, not just poor growth in the chest leads |
+| [Wellens syndrome](https://www.ecgmeans.com/wellens-syndrome/) | Deep or biphasic T waves in V2–V3 with **preserved** R wave progression after chest pain — urgent |
+| [ECG artifact](https://www.ecgmeans.com/ecg-artifact/) | Recording problems that distort waves; can coexist with lead misplacement |
+
+## Get urgent help
+
+**Get urgent help** if this finding comes with chest pain or pressure, severe breathlessness, fainting, or a fast heartbeat that will not settle. Those symptoms matter more than any single ECG phrase. Call 911 in the US, 999 in the UK or 112 in Europe.
+
+## Questions to ask your doctor
+
+- Could the chest electrodes have been misplaced? Should the ECG be repeated?
+- Is the R wave progression slow, or actually reversed?
+- Are there any other signs of an old heart attack on this ECG, such as Q waves?
+- How does it compare with my earlier ECGs?
+- Would an echocardiogram be useful in my case?
+- Do my symptoms or risk factors mean I need a stress test?
 @@FAQ@@
+Q: What does poor R wave progression mean on an ECG?
+A: It means the R waves do not grow taller as expected across chest leads V1 to V4, with the R wave in V3 typically 3 mm or less. It describes the tracing's shape and is not a diagnosis by itself.
 Q: Is poor R wave progression normal?
-A: It can be. A sizeable minority of healthy adults show it, particularly women and people with a broad or deep chest.
-Q: Does it mean a heart attack?
-A: Only sometimes. It is one of the weaker ECG pointers to an old anterior infarct and needs imaging to confirm.
-Q: Can it be fixed?
+A: It can be. A sizeable minority of healthy adults show it, particularly women and people with a broad or deep chest, obesity or lung disease.
+Q: Does poor R wave progression mean I had a heart attack?
+A: Only sometimes. It is one of the weaker ECG pointers to an old anterior infarct; an echocardiogram is the usual next test because it shows whether that wall moves normally, and a cardiac MRI can confirm scar if doubt remains.
+Q: What causes poor R wave progression?
+A: The commonest causes are electrode placement, body build and normal variation. Other causes include left ventricular hypertrophy, left bundle branch block, lung disease and an old anterior heart attack.
+Q: What is reversed R wave progression?
+A: It is when R waves get smaller, rather than larger, across the early chest leads. It is more likely than simple slow growth to reflect an old infarct or misplaced electrodes.
+Q: Can poor R wave progression be fixed?
 A: There is nothing to fix unless an underlying cause is found. If it is due to lead position, a correctly recorded ECG will not show it.
+Q: Do I need an echocardiogram for poor R wave progression?
+A: Not always. It is usually advised if you have symptoms, coronary risk factors, Q waves or other abnormalities, or if a repeat ECG still shows the pattern and doctors want to check the front wall.
 @@RELATED@@
 Anterior Infarct, Age Undetermined: ECG Meaning | https://www.ecgmeans.com/anterior-infarct-age-undetermined/ | Needs clinician review
 Septal Infarct on an ECG: What It Means | https://www.ecgmeans.com/septal-infarct/ | Depends on context
+Anteroseptal Infarct, Age Undetermined: ECG Meaning | https://www.ecgmeans.com/anteroseptal-infarct/ | Needs clinician review
+Pathological Q Waves: What They Mean on an ECG | https://www.ecgmeans.com/pathological-q-waves/ | Needs clinician review
 Left Anterior Fascicular Block: What It Means | https://www.ecgmeans.com/left-anterior-fascicular-block/ | Usually harmless
 Low Voltage QRS: What It Means | https://www.ecgmeans.com/low-voltage-qrs/ | NONE
-Abnormal ECG: What It Means on Your Report | https://www.ecgmeans.com/abnormal-ecg/ | Depends on context
-Anteroseptal Infarct, Age Undetermined: ECG Meaning | https://www.ecgmeans.com/anteroseptal-infarct/ | Needs clinician review
+12-Lead ECG Placement Guide | https://www.ecgmeans.com/12-lead-ecg-placement/ | NONE
 @@ALSO@@
-r wave progression, poor r wave progression meaning, late r wave transition
+poor r wave progression ecg, poor r wave progression ekg, prwp, prwp ecg, r wave progression, late r wave transition, reversed r wave progression, delayed r wave progression, clockwise rotation ecg, what does poor r wave progression mean, is poor r wave progression dangerous, poor r wave progression causes, poor r wave progression consider anterior infarct, poor r wave progression in women
 @@SOURCES@@
-Poor R Wave Progression (PRWP) | https://litfl.com/poor-r-wave-progression-prwp-ecg-library/
-Electrocardiogram | https://www.ncbi.nlm.nih.gov/books/NBK549803/
+Poor R Wave Progression (PRWP) — LITFL ECG Library | https://litfl.com/poor-r-wave-progression-prwp-ecg-library/
+Poor R Wave Progression — Healio Learn the Heart | https://www.healio.com/cardiology/learn-the-heart/ecg-review/ecg-topic-reviews-and-criteria/poor-r-wave-progression
+Electrocardiogram (EKG) — Cleveland Clinic | https://my.clevelandclinic.org/health/diagnostics/16953-electrocardiogram-ekg
 @@END@@

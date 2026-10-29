@@ -1,5 +1,5 @@
 @@TITLE@@
-6 Second ECG Method: How to Calculate Heart Rate + Calculator
+6 Second ECG Method: Heart Rate From an ECG + Calculator
 @@DESC@@
 Use the 6 second ECG method, the 300 rule or the 1500 rule to calculate heart rate on an ECG. Free calculator, worked examples and normal heart rates by age.
 @@H1@@

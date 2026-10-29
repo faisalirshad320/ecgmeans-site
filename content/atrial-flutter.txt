@@ -1,5 +1,5 @@
 @@TITLE@@
-Atrial Flutter ECG: Sawtooth Waves, 2:1 Block & What It Means
+Atrial Flutter ECG: Sawtooth Waves, 2:1 Block & Meaning
 @@DESC@@
 Atrial flutter ECG explained: sawtooth flutter waves, 2:1 conduction at about 150 bpm, other block ratios, how it differs from AFib on an EKG, next steps.
 @@H1@@

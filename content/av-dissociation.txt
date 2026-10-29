@@ -61,6 +61,7 @@ Junctional Rhythm: What It Means on an ECG | https://www.ecgmeans.com/junctional
 Ventricular Tachycardia: What It Means | https://www.ecgmeans.com/ventricular-tachycardia/ | Seek prompt care
 Accelerated Idioventricular Rhythm: What It Means | https://www.ecgmeans.com/accelerated-idioventricular-rhythm/ | Depends on context
 First-Degree AV Block: What It Means | https://www.ecgmeans.com/first-degree-av-block/ | Usually harmless
+Fusion Beat: What It Means on an ECG | https://www.ecgmeans.com/fusion-beat/ | Usually harmless
 @@ALSO@@
 av dissociation, atrioventricular dissociation, av dissociation ecg
 @@SOURCES@@

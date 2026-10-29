@@ -1,9 +1,11 @@
 @@TITLE@@
-Intervals & Waves Explained | ECG Means
+ECG Intervals & Waves: Normal Ranges Explained | ECG Means
 @@DESC@@
-PR, QRS and QT/QTc normal ranges, what short and long values mean, and the T wave, ST segment and U wave changes that ECG reports mention.
+ECG intervals and waves explained: normal PR, QRS and QT/QTc ranges, what short or long values mean, plus T wave, ST segment, Q wave and U wave changes.
 @@H1@@
 ECG Intervals and Waves: Normal Ranges
+@@UPDATED@@
+2026-10-29
 @@LEDE@@
 PR, QRS and QT/QTc normal ranges, what short and long values mean, and the T wave changes reports mention.
 @@BODY@@
@@ -11,5 +13,43 @@ PR, QRS and QT/QTc normal ranges, what short and long values mean, and the T wav
 
 An ECG trace repeats the same pattern with every heartbeat: a small P wave from the upper chambers, a tall QRS complex from the lower chambers, and a T wave as they recover. The gaps between them, the PR, QRS and QT intervals, are measured in milliseconds and printed at the top of your report.
 
-Each interval has a normal range, and values a little outside it are common in healthy people. The pages in this section give the normal ranges, explain what a short or long value suggests, and cover the wave shapes reports mention, such as T wave inversion, peaked T waves, ST elevation and U waves. For quick checks, use the [normal ECG values chart](/normal-ecg-values/) and the [QTc calculator](/qtc-calculator/).
+Each interval has a normal range, and values a little outside it are common in healthy people. The pages in this section give the normal ranges, explain what a short or long value suggests, and cover the wave shapes reports mention, such as T wave inversion, peaked T waves, ST elevation and U waves. For quick checks, use the [normal ECG values chart](https://www.ecgmeans.com/normal-ecg-values/) and the [QTc calculator](https://www.ecgmeans.com/qtc-calculator/).
+
+## How to use this section
+
+Find the part of the heartbeat your report mentions, then follow the link. If your report flags a number (for example "prolonged QT" or "short PR"), start with the interval page. If it describes a shape (for example "T wave inversion" or "ST depression"), start with the wave page. Many shape findings are described as "nonspecific", meaning they are not tied to one cause; the [nonspecific ST abnormality](https://www.ecgmeans.com/nonspecific-st-abnormality/) and [nonspecific T wave abnormality](https://www.ecgmeans.com/nonspecific-t-wave-abnormality/) pages explain those labels.
+
+## The usual adult ranges
+
+| Part of the ECG | What it represents | Usual adult range | Pages |
+|---|---|---|---|
+| P wave | Upper chambers (atria) contracting | Small and upright in most leads, under about 120 ms wide | [P wave](https://www.ecgmeans.com/p-wave/), [inverted P wave](https://www.ecgmeans.com/inverted-p-wave/) |
+| PR interval | Time from atria to ventricles, through the AV node | 120–200 ms | [PR interval](https://www.ecgmeans.com/pr-interval/), [short PR](https://www.ecgmeans.com/short-pr-interval/), [delta wave](https://www.ecgmeans.com/delta-wave/) |
+| QRS complex | Lower chambers (ventricles) activating | Under 120 ms (typically 80–110 ms) | [QRS interval](https://www.ecgmeans.com/qrs-interval/), [wide QRS](https://www.ecgmeans.com/wide-qrs-complex/) |
+| ST segment | Pause before the ventricles recover | Close to the baseline | [ST elevation](https://www.ecgmeans.com/st-elevation/), [ST depression](https://www.ecgmeans.com/st-depression/), [J point elevation](https://www.ecgmeans.com/j-point-elevation/) |
+| T wave | Ventricles recovering (repolarising) | Usually upright where the QRS is upright | [T wave inversion](https://www.ecgmeans.com/t-wave-inversion/), [peaked T waves](https://www.ecgmeans.com/peaked-t-waves/) |
+| QT / QTc | Total time to activate and recover | QTc roughly under 450 ms in men and 460 ms in women | [QT interval](https://www.ecgmeans.com/qt-interval/), [QT prolongation](https://www.ecgmeans.com/qt-prolongation/) |
+| U wave | Small wave after the T wave | Often absent or tiny | [U wave](https://www.ecgmeans.com/u-wave/) |
+
+Exact cut-offs vary slightly between guidelines and labs, and children have different normal values.
+
+## Grouped by the question you are asking
+
+**"My number is too long or too short."** A long PR suggests slow conduction through the AV node ([first-degree AV block](https://www.ecgmeans.com/first-degree-av-block/) when over 200 ms). A short PR with a slurred upstroke (a delta wave) raises the question of Wolff-Parkinson-White pattern. A wide QRS means the ventricles are activated slowly, often by a bundle branch block. A long QTc matters because, when markedly prolonged, it raises the risk of a dangerous rhythm called torsades de pointes.
+
+**"My T waves or ST segments look different."** T wave and ST changes have many causes, from normal variants, posture and hyperventilation to salt imbalances, medicines, thickened heart muscle and reduced blood flow. Specific patterns such as [hyperacute T waves](https://www.ecgmeans.com/hyperacute-t-waves/), [de Winter T waves](https://www.ecgmeans.com/de-winter-t-waves/) or [biphasic T waves](https://www.ecgmeans.com/biphasic-t-wave/) are taken seriously when they appear with chest pain.
+
+**"My report names an unusual wave."** Some named waves point towards particular conditions: an [epsilon wave](https://www.ecgmeans.com/epsilon-wave/) is associated with arrhythmogenic right ventricular cardiomyopathy, an [Osborn wave](https://www.ecgmeans.com/osborn-wave/) classically appears with low body temperature, and [fragmented QRS](https://www.ecgmeans.com/fragmented-qrs/) can reflect scarring in the heart muscle. [Pathological Q waves](https://www.ecgmeans.com/pathological-q-waves/) often mark an old heart attack.
+
+## Key concepts
+
+**Intervals depend on heart rate.** The QT in particular lengthens at slow rates and shortens at fast ones, so it is corrected (QTc). Machines usually use Bazett's formula, which can overstate the QTc when the heart is fast.
+
+**Electrolytes and medicines change the waves.** High potassium can peak the T waves and widen the QRS; low potassium flattens T waves and makes U waves more visible. Many common medicines, including some antibiotics, antidepressants and anti-sickness drugs, can lengthen the QT.
+
+**Look at the whole tracing.** A single slightly odd wave in one lead is far less meaningful than a consistent change across a group of leads that look at the same area of the heart.
+
+## When to seek care
+
+**Get urgent help** (call your local emergency number) if you have chest pain or pressure, fainting, severe breathlessness or palpitations with dizziness, particularly if your report mentions ST elevation, new ST depression, hyperacute T waves or a very long QT. Contact your doctor promptly if your QTc is reported at or above about 500 ms, if you have been told your potassium is abnormal, or if a QT-related finding appeared after starting a new medicine. Most other borderline interval and wave findings can be reviewed at a routine appointment.
 @@END@@

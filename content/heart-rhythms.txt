@@ -1,9 +1,11 @@
 @@TITLE@@
-Heart Rhythms Explained | ECG Means
+Heart Rhythms on the ECG: What Each Label Means | ECG Means
 @@DESC@@
-Sinus rhythm and its variants, junctional and ventricular rhythms, and the extra-beat patterns bigeminy and trigeminy.
+Heart rhythms on the ECG explained: sinus rhythm, AFib, flutter, SVT, junctional and ventricular rhythms, PVCs, bigeminy and trigeminy, and when each matters.
 @@H1@@
 Heart Rhythms on the ECG
+@@UPDATED@@
+2026-10-29
 @@LEDE@@
 Sinus rhythm and its variants, junctional and ventricular rhythms, and the extra-beat patterns bigeminy and trigeminy — what each rhythm label on your report means and when it matters.
 @@BODY@@
@@ -14,4 +16,36 @@ The first line of most ECG printouts names the rhythm. "Sinus rhythm" means each
 When the beat starts somewhere else, the name says where. Atrial rhythms begin in the upper chambers, junctional rhythms begin near the AV node, and idioventricular rhythms start in the lower chambers. Atrial fibrillation and atrial flutter are disorganised or circuit-driven atrial rhythms with their own risks, mainly stroke.
 
 Most rhythm labels on a routine ECG from a person without symptoms are harmless variants. The pages below explain each label, how it looks on the tracing, and when it needs follow-up.
+
+## How to use this section
+
+Read the first words of your ECG report's interpretation line and find the matching group below. A rhythm name usually has three parts: **where the beat starts** (sinus, atrial, junctional, ventricular), **how fast it is** (brady-, tachy-, accelerated) and **any extra beats or patterns** (with PACs, with PVCs, bigeminy). Once you know the group, open the specific page. To see what each rhythm looks like, browse the [ECG rhythm strips](https://www.ecgmeans.com/ecg-rhythm-strips/) gallery.
+
+## Rhythms grouped by where they start
+
+| Group | Common report labels | Usually |
+|---|---|---|
+| Sinus node (normal starting point) | [Sinus rhythm](https://www.ecgmeans.com/sinus-rhythm/), [sinus bradycardia](https://www.ecgmeans.com/sinus-bradycardia/), [sinus tachycardia](https://www.ecgmeans.com/sinus-tachycardia/), [sinus arrhythmia](https://www.ecgmeans.com/sinus-arrhythmia/) | Normal or a normal response to fitness, sleep, exercise, fever or anxiety |
+| Sinus node problems | [Sinus pause or arrest](https://www.ecgmeans.com/sinus-pause-arrest/), [sick sinus syndrome](https://www.ecgmeans.com/sick-sinus-syndrome/) | Matters if there are symptoms such as dizziness or fainting |
+| Atria (upper chambers) | [Atrial fibrillation](https://www.ecgmeans.com/atrial-fibrillation/), [atrial flutter](https://www.ecgmeans.com/atrial-flutter/), [atrial tachycardia](https://www.ecgmeans.com/atrial-tachycardia/), [ectopic atrial rhythm](https://www.ecgmeans.com/ectopic-atrial-rhythm/), [multifocal atrial tachycardia](https://www.ecgmeans.com/multifocal-atrial-tachycardia/) | AFib and flutter need review for stroke risk and rate control |
+| Fast rhythms from above the ventricles | [Supraventricular tachycardia](https://www.ecgmeans.com/supraventricular-tachycardia/), [AVNRT](https://www.ecgmeans.com/avnrt/) | Rarely dangerous, but often treatable and worth a cardiology opinion |
+| AV junction | [Junctional rhythm](https://www.ecgmeans.com/junctional-rhythm/), [junctional bradycardia](https://www.ecgmeans.com/junctional-bradycardia/), [junctional escape rhythm](https://www.ecgmeans.com/junctional-escape-rhythm/), [accelerated junctional rhythm](https://www.ecgmeans.com/accelerated-junctional-rhythm/) | Can be a harmless backup or a sign the sinus node or medicines need checking |
+| Ventricles (lower chambers) | [Ventricular tachycardia](https://www.ecgmeans.com/ventricular-tachycardia/), [accelerated idioventricular rhythm](https://www.ecgmeans.com/accelerated-idioventricular-rhythm/), [idioventricular rhythm](https://www.ecgmeans.com/idioventricular-rhythm/), [ventricular fibrillation](https://www.ecgmeans.com/ventricular-fibrillation/) | Range from benign (AIVR after a reopened artery) to emergencies (VT, VF) |
+| Pacemaker-driven | [Paced rhythm](https://www.ecgmeans.com/paced-rhythm/) | Expected if you have a pacemaker |
+
+## Extra beats and repeating patterns
+
+Single early beats are the most common rhythm finding of all. [PVCs](https://www.ecgmeans.com/premature-ventricular-contractions/) start in the ventricles and look wide; PACs start in the atria and look narrow (see [sinus rhythm with PACs](https://www.ecgmeans.com/sinus-rhythm-with-pac/)). When an extra beat follows every normal beat the pattern is called [bigeminy](https://www.ecgmeans.com/bigeminy/); every third beat is [trigeminy](https://www.ecgmeans.com/trigeminy/). Two PVCs in a row form a [couplet](https://www.ecgmeans.com/ventricular-couplet/). Occasional extra beats in a structurally normal heart are usually harmless; very frequent ones, runs of them, or extra beats with fainting or breathlessness prompt further tests such as a heart monitor and an echocardiogram.
+
+## Key concepts
+
+**Narrow or wide tells you a lot.** Rhythms from above the ventricles usually produce narrow QRS complexes; rhythms from the ventricles produce wide ones. A [fusion beat](https://www.ecgmeans.com/fusion-beat/), where a normal beat and a ventricular beat meet, or [AV dissociation](https://www.ecgmeans.com/av-dissociation/), where atria and ventricles beat independently, are clues doctors use to recognise ventricular rhythms.
+
+**Rate matters as much as origin.** The same rhythm can be fine at one rate and a problem at another. Atrial fibrillation with a controlled rate is very different from [AFib with rapid ventricular response](https://www.ecgmeans.com/afib-with-rvr/).
+
+**A ten-second ECG may miss intermittent rhythms.** If symptoms come and go, a 24-hour to two-week monitor or an event recorder is often more useful than repeating the resting ECG.
+
+## When to seek care
+
+**Get urgent help** (call your local emergency number) if a fast or slow heartbeat comes with chest pain, fainting or near-fainting, severe breathlessness or confusion, or if a heart rhythm stays very fast at rest and does not settle. Someone who collapses and is not breathing normally needs CPR and a defibrillator immediately. See your doctor soon if you have been told you have atrial fibrillation or flutter, if palpitations are frequent or getting worse, or if your heart rate is persistently slow and you feel tired or light-headed.
 @@END@@

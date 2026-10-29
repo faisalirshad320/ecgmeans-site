@@ -1,7 +1,7 @@
 @@TITLE@@
 Septal Infarct, Age Undetermined: ECG Meaning Explained
 @@DESC@@
-'Septal infarct, age undetermined' is one of the most common false alarms on ECG reports. Learn what the machine saw, why it is often wrong, and how it is checked.
+'Septal infarct, age undetermined' is one of the commonest ECG false alarms. What the machine saw, why it is often wrong, and how it is checked.
 @@H1@@
 Septal Infarct on an ECG: What It Means
 @@CATEGORY@@
@@ -65,6 +65,7 @@ T Wave Inversion: What It Means on an ECG | https://www.ecgmeans.com/t-wave-inve
 Inferior Infarct, Age Undetermined: ECG Meaning | https://www.ecgmeans.com/inferior-infarct-age-undetermined/ | Needs clinician review
 Anteroseptal Infarct, Age Undetermined: ECG Meaning | https://www.ecgmeans.com/anteroseptal-infarct/ | Needs clinician review
 Lateral Infarct: What It Means on an ECG | https://www.ecgmeans.com/lateral-infarct/ | Needs clinician review
+Fragmented QRS: What It Means on an ECG | https://www.ecgmeans.com/fragmented-qrs/ | Needs clinician review
 @@ALSO@@
 septal infarct age undetermined, possible septal infarct, cannot rule out septal infarct
 @@SOURCES@@

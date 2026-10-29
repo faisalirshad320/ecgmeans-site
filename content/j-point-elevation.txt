@@ -67,6 +67,7 @@ Early Repolarization: What It Means | https://www.ecgmeans.com/early-repolarizat
 ST Elevation: What It Means | https://www.ecgmeans.com/st-elevation/ | Seek prompt care
 Osborn Wave (J Wave): What It Means | https://www.ecgmeans.com/osborn-wave/ | Needs clinician review
 Pericarditis on ECG: What It Means | https://www.ecgmeans.com/pericarditis-ecg/ | Needs clinician review
+Brugada Pattern on an ECG: What It Means | https://www.ecgmeans.com/brugada-syndrome/ | Needs clinician review
 @@ALSO@@
 J point elevation, early repolarisation, early repolarization, benign early repolarisation, early repolarisation pattern, early repolarization pattern, J-point elevation consistent with early repolarisation, ST elevation likely early repolarisation, J-point notching, J-point slurring
 @@SOURCES@@

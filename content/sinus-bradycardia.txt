@@ -1,74 +1,173 @@
 @@TITLE@@
 Sinus Bradycardia on ECG: Meaning, Causes & When to Worry
 @@DESC@@
-Sinus bradycardia is a normal rhythm running slower than 60 bpm. Learn why it is common in fit people and during sleep, and which symptoms mean it needs attention.
+Sinus bradycardia on an ECG or EKG is a normal rhythm under 60 bpm. Why it is common in fit people and sleep, its causes, and which symptoms need attention.
 @@H1@@
-Sinus Bradycardia: What It Means
+Sinus Bradycardia: What It Means on Your ECG
 @@CATEGORY@@
 Heart Rhythms | https://www.ecgmeans.com/heart-rhythms/
 @@QUICK@@
 Usually harmless
+@@UPDATED@@
+2026-10-29
+@@ANSWER@@
+Sinus bradycardia means your heart rhythm is normal — each beat starts in the sinus node and follows the usual route — but the rate is below 60 beats per minute. It is very common and usually harmless in fit people, during sleep and at rest. It matters only when it causes symptoms such as dizziness, fainting or unusual tiredness, or when it comes from a medicine or an underlying condition that needs attention.
 @@LEDE@@
-Sinus bradycardia is a normal heart rhythm at a rate below 60 beats per minute. The beat starts in the right place and travels the normal route; it is simply slow. It is normal during sleep and in physically fit people, and is only a problem if the rate is too slow to meet your body's needs.
+Sinus bradycardia is a normal heart rhythm at a rate below 60 beats per minute. The beat starts in the right place and travels the normal route; it is simply slow. It is normal during sleep and in physically fit people, and is only a problem if the rate is too slow to meet your body's needs. This page explains what the phrase means on an ECG (EKG) report, the common and less common causes, how doctors decide whether a slow pulse matters, and what happens next.
 @@BODY@@
-## What "Sinus bradycardia" means
+## What "sinus bradycardia" means
 
-The 60 bpm cut-off is a convention, and many cardiologists regard resting rates in the 50s as normal. The sinus node is slowed by the vagus nerve, which is more active at rest, in sleep and in trained athletes, whose hearts pump more blood per beat. Rates in the 40s are routine in endurance athletes.
+"Sinus" means the heartbeat starts where it should, in the sinus node, the heart's natural pacemaker. "Bradycardia" means slow. Put together, the rhythm is normal and only the rate is low.
 
-"Marked sinus bradycardia" is sometimes printed when the rate is under about 45–50.
+The 60 bpm cut-off is a convention, and many cardiologists regard resting rates in the 50s as normal. The 2018 American bradycardia guideline (ACC/AHA/HRS) actually uses **under 50 bpm** as its threshold for sinus bradycardia, while most ECG machines still print the phrase below 60. So a report reading "sinus bradycardia, rate 55" in a healthy adult is, in practice, a normal ECG.
 
-## What it looks like on the ECG
+The sinus node is slowed by the vagus nerve, which is more active at rest, in sleep and in trained athletes, whose hearts pump more blood per beat. Rates in the 40s are routine in endurance athletes, and can fall lower during sleep.
+
+"Marked sinus bradycardia" is sometimes printed when the rate is under about 45–50. It is still common in athletes and during sleep, but in a non-athlete with symptoms it is more likely to prompt a closer look.
+
+## What sinus bradycardia looks like on the ECG
 
 A completely normal-looking tracing — P wave, QRS, T wave — with wider gaps between beats.
 
-## Common causes
+| Feature | Sinus bradycardia | Note |
+| --- | --- | --- |
+| Heart rate | Under 60 bpm (under 50 bpm in some guidelines) | On standard paper, more than 5 large squares between beats |
+| P waves | Normal shape, one before every QRS | Upright in leads I and II |
+| PR interval | Normal (120–200 ms) and constant | A longer PR suggests added [first-degree AV block](https://www.ecgmeans.com/first-degree-av-block/) |
+| QRS complex | Narrow (under 120 ms) | Normal conduction below the AV node |
+| Rhythm | Regular, or mildly varying with breathing | Often combined with [sinus arrhythmia](https://www.ecgmeans.com/sinus-arrhythmia/) |
 
-- Good physical fitness
-- Sleep and deep relaxation
-- Beta-blockers, some calcium-channel blockers, digoxin, amiodarone
-- Underactive thyroid
-- Sleep apnoea
-- Ageing of the sinus node (sick sinus syndrome)
-- Inferior heart attack, raised pressure in the skull, hypothermia (acute, in ill patients)
+You can check the rate yourself with our [ECG heart rate calculator](https://www.ecgmeans.com/ecg-heart-rate-calculator/).
 
-## Should you worry?
+## Causes of sinus bradycardia
 
-Usually harmless
+### Common and usually harmless
 
-What matters is symptoms, not the number. Dizziness, fainting or near-fainting, unusual tiredness, breathlessness on exertion or confusion together with a slow pulse should be assessed. A slow rate with none of these, in an active person, is almost always fine.
+- Good physical fitness and endurance training
+- Sleep, rest and deep relaxation
+- Vagal reflexes — straining, vomiting, pain or a faint (vasovagal episode)
 
-**Get urgent help** if this finding comes with chest pain or pressure, severe breathlessness, fainting, or a fast heartbeat that will not settle. Those symptoms matter more than any single ECG phrase.
+### Medicines
 
-## What usually happens next
+- Beta-blockers (including eye drops such as timolol)
+- Heart-rate-slowing calcium-channel blockers (diltiazem, verapamil)
+- Digoxin, amiodarone and other anti-arrhythmics
+- Ivabradine, clonidine, and some others — your pharmacist can check your list
 
-1. Review of medicines that slow the heart
-2. Thyroid and electrolyte blood tests if unexplained
-3. Holter or event monitor if symptoms suggest pauses
-4. A pacemaker is only considered for symptomatic bradycardia with no reversible cause
+### Medical conditions
 
-### Questions to ask your doctor
+- Underactive thyroid (hypothyroidism)
+- Sleep apnoea, with slowing during breathing pauses
+- High potassium ([hyperkalemia](https://www.ecgmeans.com/hyperkalemia-ecg/))
+- Ageing and scarring of the sinus node ([sick sinus syndrome](https://www.ecgmeans.com/sick-sinus-syndrome/))
+- Very low body weight, including eating disorders
+
+### Acute causes in unwell patients
+
+- Inferior heart attack, because the artery to the inferior wall often supplies the sinus and AV nodes
+- Raised pressure in the skull after head injury or bleeding
+- Hypothermia — which may also produce [Osborn waves](https://www.ecgmeans.com/osborn-wave/)
+- Severe infections and some poisonings
+
+## Is sinus bradycardia dangerous?
+
+What matters is symptoms, not the number. A slow rate with no symptoms, in an active person, is almost always fine. Doctors become more interested when:
+
+- **Symptoms** are present: dizziness, fainting or near-fainting, unusual tiredness, breathlessness on exertion or confusion together with a slow pulse
+- The heart rate **does not rise normally with exercise** (chronotropic incompetence)
+- There are **long pauses** on monitoring, or the bradycardia alternates with fast rhythms such as atrial fibrillation (a pattern of sick sinus syndrome)
+- It is **new** in an older person, or appears with other conduction problems on the ECG
+- A **reversible cause** is found — a medicine, low thyroid or high potassium
+
+## Symptoms to watch for
+
+- Light-headedness or dizziness, especially on standing or exertion
+- Fainting or near-fainting
+- Fatigue or reduced ability to exercise
+- Breathlessness
+- Confusion or memory trouble (more often in older adults)
+
+If you have none of these, a slow resting rate is usually a sign of a healthy, efficient heart.
+
+## What tests come next?
+
+1. **Review of medicines** that slow the heart — often the single most useful step.
+2. **Blood tests** — thyroid function and electrolytes (especially potassium) if the cause is unclear.
+3. **Holter, patch or event monitor** if symptoms suggest pauses or intermittent slow rhythms.
+4. **Exercise test** to check that the heart rate rises appropriately.
+5. **Echocardiogram** if there are signs of structural heart disease.
+6. **Sleep study** if snoring and daytime sleepiness suggest sleep apnoea.
+
+## Treatment
+
+- **No symptoms:** no treatment.
+- **Reversible cause:** adjust or stop the culprit medicine, treat the thyroid, correct potassium, treat sleep apnoea.
+- **Emergency setting:** symptomatic, very slow rates with low blood pressure are treated in hospital, for example with atropine or temporary pacing.
+- **Permanent pacemaker:** only considered for symptomatic bradycardia linked to sinus node disease, with no reversible cause (or when a heart-slowing medicine that is needed cannot be stopped).
+
+## Special groups
+
+- **Athletes:** resting rates in the 40s, sometimes lower, are an expected training effect. Sports cardiology guidance treats this as normal when there are no symptoms and the rate rises with exercise.
+- **Children:** normal heart rates are higher in children, so "bradycardia" thresholds differ by age. A rate that is normal for an adult may be slow for an infant; the report is interpreted against age-specific ranges.
+- **Pregnancy:** resting heart rate normally rises in pregnancy, so new bradycardia is less common and may be checked for medicine effects or thyroid problems.
+- **Older adults:** sinus node disease becomes more common with age, and older people are more likely to take heart-slowing medicines. Dizziness or falls with a slow pulse deserve assessment.
+
+## How it differs from look-alike findings
+
+| Finding | Key ECG difference | Usual significance |
+| --- | --- | --- |
+| Sinus bradycardia | Normal P before every QRS, slow regular rate | Usually harmless |
+| [Junctional bradycardia](https://www.ecgmeans.com/junctional-bradycardia/) | No normal P waves, or inverted P waves near the QRS | Depends on context |
+| [Sinoatrial block](https://www.ecgmeans.com/sinoatrial-block/) | Dropped beats with pauses that are multiples of the normal gap | Depends on symptoms |
+| [Sinus pause or arrest](https://www.ecgmeans.com/sinus-pause-arrest/) | Sudden long gap with no P wave | Depends on length and symptoms |
+| [Atrial bigeminy](https://www.ecgmeans.com/atrial-bigeminy/) with blocked PACs | Early P waves, often hidden in the T wave, that do not conduct, so the pulse is slower | Usually harmless but can mimic bradycardia |
+| [2:1 AV block](https://www.ecgmeans.com/2-1-av-block/) | Two P waves for every QRS | Needs clinician review |
+| [Third-degree AV block](https://www.ecgmeans.com/third-degree-av-block/) | P waves and QRS complexes unrelated | Seek prompt care |
+
+The distinction matters: true sinus bradycardia is a slow but normal rhythm, while heart block means the signal is being stopped on its way down.
+
+## Get urgent help
+
+**Get urgent help** if this finding comes with chest pain or pressure, severe breathlessness, fainting, or a fast heartbeat that will not settle. Those symptoms matter more than any single ECG phrase. A very slow pulse with collapse, confusion or chest pain is an emergency — call 911 (999 in the UK, 112 in Europe).
+
+## Questions to ask your doctor
 
 - Could a medicine I take be slowing my heart?
+- Is my rate low enough to matter, given my fitness and age?
 - Does my heart rate rise normally when I exercise?
-- Do I need monitoring?
+- Should my thyroid or potassium be checked?
+- Do I need a Holter or event monitor?
+- Are there any signs of heart block or sinus node disease on my ECG?
 @@FAQ@@
+Q: What does sinus bradycardia mean on an ECG?
+A: It means the heart rhythm is normal, starting in the sinus node, but the rate is under 60 beats per minute. On its own and without symptoms, it is usually harmless.
 Q: What heart rate is too low?
-A: There is no single figure. A rate that produces dizziness, fainting or exercise intolerance is too low for that person.
+A: There is no single figure. A rate that produces dizziness, fainting or exercise intolerance is too low for that person, while fit people can have resting rates in the 40s with no problems.
+Q: Is sinus bradycardia dangerous?
+A: Usually not. It needs attention when it causes symptoms, when the rate fails to rise with exercise, or when it is caused by a medicine or condition such as an underactive thyroid.
 Q: Is sinus bradycardia dangerous during sleep?
-A: No. Rates of 40–50 during sleep are normal.
+A: No. Rates of 40–50 during sleep are normal, and they can dip lower in fit people. Long pauses during sleep, especially with loud snoring, may point to sleep apnoea.
+Q: What causes sinus bradycardia?
+A: The commonest causes are fitness, sleep and heart-slowing medicines such as beta-blockers. Less common causes include an underactive thyroid, high potassium, sleep apnoea and age-related sinus node disease.
 Q: Does sinus bradycardia need treatment?
-A: Only when it causes symptoms, and then the first step is looking for a reversible cause.
+A: Only when it causes symptoms, and then the first step is looking for a reversible cause such as a medicine. A pacemaker is considered only for symptomatic sinus node disease with no reversible cause, or when an essential heart-slowing medicine cannot be stopped.
+Q: Is sinus bradycardia normal in athletes?
+A: Yes. Endurance training strengthens the heart and increases vagal tone, so resting rates in the 40s are an expected training effect if there are no symptoms.
+Q: What is marked sinus bradycardia?
+A: It usually means a rate below about 45–50 beats per minute. It is still common in athletes and during sleep, but in a non-athlete with symptoms it is more likely to be investigated.
 @@RELATED@@
-Sinus Rhythm: What It Means on Your ECG | https://www.ecgmeans.com/sinus-rhythm/ | Usually harmless
+Normal Sinus Rhythm: What Sinus Rhythm Means on Your ECG | https://www.ecgmeans.com/sinus-rhythm/ | Usually harmless
 Sinus Rhythm With Sinus Arrhythmia: What It Means | https://www.ecgmeans.com/sinus-arrhythmia/ | Usually harmless
-Junctional Rhythm: What It Means | https://www.ecgmeans.com/junctional-rhythm/ | NONE
+Junctional Bradycardia: What It Means on an ECG | https://www.ecgmeans.com/junctional-bradycardia/ | Depends on context
 Sinus Rhythm With 1st Degree AV Block: What It Means | https://www.ecgmeans.com/first-degree-av-block/ | Usually harmless
-Borderline ECG: What It Means | https://www.ecgmeans.com/borderline-ecg/ | Usually harmless
 Sinus Pause and Sinus Arrest: What They Mean | https://www.ecgmeans.com/sinus-pause-arrest/ | Depends on context
+Sick Sinus Syndrome on an ECG: What It Means | https://www.ecgmeans.com/sick-sinus-syndrome/ | Needs clinician review
+Sinoatrial (SA) Block on an ECG: What It Means | https://www.ecgmeans.com/sinoatrial-block/ | Depends on context
 @@ALSO@@
-sinus bradycardia ecg, what is sinus bradycardia, marked sinus bradycardia
+sinus bradycardia, sinus bradycardia ecg, sinus bradycardia ekg, what is sinus bradycardia, what does sinus bradycardia mean, marked sinus bradycardia, is sinus bradycardia dangerous, sinus bradycardia causes, sinus bradycardia treatment, sinus bradycardia in athletes, slow heart rate ecg, low heart rate ekg, sinus brady
 @@SOURCES@@
-Sinus Bradycardia | https://my.clevelandclinic.org/health/diseases/22473-sinus-bradycardia
-Bradycardia: Slow Heart Rate | https://www.heart.org/en/health-topics/arrhythmia/about-arrhythmia/bradycardia--slow-heart-rate
-Sinus Bradycardia | https://www.ncbi.nlm.nih.gov/books/NBK493201/
+Sinus Bradycardia — Cleveland Clinic | https://my.clevelandclinic.org/health/diseases/22473-sinus-bradycardia
+Bradycardia: Slow Heart Rate — American Heart Association | https://www.heart.org/en/health-topics/arrhythmia/about-arrhythmia/bradycardia--slow-heart-rate
+Sinus Bradycardia — StatPearls (NCBI Bookshelf) | https://www.ncbi.nlm.nih.gov/books/NBK493201/
+Sinus Bradycardia — LITFL ECG Library | https://litfl.com/sinus-bradycardia-ecg-library/
 @@END@@

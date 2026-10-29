@@ -1,7 +1,7 @@
 @@TITLE@@
 First Degree AV Block on ECG: Meaning & Is It Serious?
 @@DESC@@
-First degree AV block means the signal from the atria to the ventricles is slightly delayed (PR over 200 ms). Learn why it is usually benign and when it matters.
+First degree AV block means the atria-to-ventricles signal is slightly delayed (PR over 200 ms). Why it is usually benign and when it matters.
 @@H1@@
 Sinus Rhythm With 1st Degree AV Block: What It Means
 @@CATEGORY@@
@@ -66,6 +66,7 @@ Sinus Bradycardia: What It Means | https://www.ecgmeans.com/sinus-bradycardia/ |
 Sinus Rhythm: What It Means on Your ECG | https://www.ecgmeans.com/sinus-rhythm/ | Usually harmless
 Third Degree (Complete) Heart Block: What It Means | https://www.ecgmeans.com/third-degree-av-block/ | Seek prompt care
 2:1 AV Block: What It Means on an ECG | https://www.ecgmeans.com/2-1-av-block/ | Seek prompt care
+Trifascicular Block: What It Means on an ECG | https://www.ecgmeans.com/trifascicular-block/ | Needs clinician review
 @@ALSO@@
 sinus rhythm with 1st degree av block, sinus rhythm with first degree av block, prolonged pr interval, 1st degree heart block
 @@SOURCES@@

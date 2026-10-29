@@ -70,6 +70,7 @@ Sinus Pause / Arrest: What It Means | https://www.ecgmeans.com/sinus-pause-arres
 Sinus Bradycardia: What It Means | https://www.ecgmeans.com/sinus-bradycardia/ | Usually harmless
 Atrial Fibrillation: What It Means | https://www.ecgmeans.com/atrial-fibrillation/ | Needs clinician review
 Third-Degree (Complete) Heart Block | https://www.ecgmeans.com/third-degree-av-block/ | Seek prompt care
+Sinoatrial (SA) Block on an ECG: What It Means | https://www.ecgmeans.com/sinoatrial-block/ | Depends on context
 @@ALSO@@
 Sinus node dysfunction, SSS, Sick sinus, Tachy-brady syndrome, Tachycardia-bradycardia syndrome, Sinus arrest, Sinus pause, Sinoatrial exit block, SA exit block, Inappropriate sinus bradycardia
 @@SOURCES@@

@@ -56,6 +56,7 @@ Pulmonary Embolism on an ECG: What It Shows | https://www.ecgmeans.com/pulmonary
 Right Ventricular Hypertrophy: What It Means | https://www.ecgmeans.com/right-ventricular-hypertrophy/ | Needs clinician review
 Right Atrial Enlargement: What It Means | https://www.ecgmeans.com/right-atrial-enlargement/ | Needs clinician review
 Right Axis Deviation: What It Means | https://www.ecgmeans.com/right-axis-deviation/ | Depends on context
+Epsilon Wave: What It Means on an ECG | https://www.ecgmeans.com/epsilon-wave/ | Needs clinician review
 @@ALSO@@
 right heart strain, right ventricular strain, rv strain pattern, right ventricular strain pattern
 @@SOURCES@@

@@ -1,9 +1,11 @@
 @@TITLE@@
-ECG Tools & Calculators | ECG Means
+ECG Calculators: QTc, Heart Rate & Axis | ECG Means
 @@DESC@@
-Free ECG calculators for patients and students: QTc calculator, heart rate from an ECG, QRS axis calculator and a chart of normal adult ECG values.
+Free ECG calculators: QTc calculator, heart rate from an ECG strip, QRS axis calculator and a normal ECG values chart, with plain-English guides to each.
 @@H1@@
 ECG Tools and Calculators
+@@UPDATED@@
+2026-10-29
 @@LEDE@@
 Check the numbers on an ECG report yourself: correct the QT for heart rate, work out the heart rate from the tracing, estimate the QRS axis, and compare every value against the normal adult range.
 @@BODY@@
@@ -12,4 +14,43 @@ Check the numbers on an ECG report yourself: correct the QT for heart rate, work
 Each calculator uses the standard formulas found in ECG textbooks and runs entirely in your browser, so nothing you type is sent anywhere. They assume standard ECG paper (25 mm/s and 10 mm/mV), which is what almost every machine prints.
 
 The tools are for understanding and learning, not for diagnosis. An automated machine reading, a hand measurement and a calculator can each give slightly different numbers. A value near the edge of a normal range is common in healthy people, so it is always judged together with symptoms, medicines and the rest of the tracing by the clinician who ordered the test.
+
+## How to use this section
+
+Most people arrive here holding an ECG or EKG printout with a row of numbers across the top: heart rate, PR, QRS, QT, QTc and three "axis" values (P, QRS and T). The quickest route is:
+
+1. **Start with the [normal ECG values chart](https://www.ecgmeans.com/normal-ecg-values/).** Compare each printed number with the adult reference range. Most reports are fully explained at this step.
+2. **If a number is flagged, open the matching calculator** to see how it was worked out and how much it changes with heart rate or measurement method.
+3. **Then read the explainer page** for the finding itself, such as [QT prolongation](https://www.ecgmeans.com/qt-prolongation/) or [left axis deviation](https://www.ecgmeans.com/left-axis-deviation/), to understand what it means for you.
+
+## Which tool answers which question
+
+| Your question | Tool to use | What it does |
+|---|---|---|
+| "Is my QTc too long?" | [QTc calculator](https://www.ecgmeans.com/qtc-calculator/) | Corrects the measured QT for heart rate using standard formulas (Bazett, Fridericia and others) |
+| "What is my heart rate from this strip?" | [ECG heart rate calculator](https://www.ecgmeans.com/ecg-heart-rate-calculator/) | Uses the large-box, small-box or 6-second methods on standard paper |
+| "What does 'left axis' or 'right axis' mean?" | [ECG axis calculator](https://www.ecgmeans.com/ecg-axis-calculator/) | Estimates the QRS axis from leads I and aVF |
+| "Are my numbers normal?" | [Normal ECG values chart](https://www.ecgmeans.com/normal-ecg-values/) | Adult reference ranges for rate, intervals and axis in one table |
+| "Can I practise recognising rhythms?" | [EKG practice strips](https://www.ecgmeans.com/ekg-practice-strips/) | Sample rhythm strips with answers, for students and curious patients |
+
+## Key concepts behind the numbers
+
+**ECG paper is a ruler for time.** At 25 mm/s each small 1 mm box is 40 milliseconds (0.04 s) and each large 5 mm box is 200 ms (0.20 s). Every interval on your report is a count of these boxes. That is why the rule of thumb "300 divided by the number of large boxes between beats" gives the heart rate for a regular rhythm.
+
+**The QT interval changes with heart rate.** The QT naturally shortens when the heart beats faster and lengthens when it slows, so it is "corrected" to a standard rate to give the QTc. Bazett's formula (QT divided by the square root of the RR interval) is what most machines print, but it over-corrects at fast rates and under-corrects at slow ones, which is why the QTc calculator shows other formulas side by side. If your QTc was flagged at a fast heart rate, read the [QT interval](https://www.ecgmeans.com/qt-interval/) guide before worrying.
+
+**The axis is the average direction of the heartbeat's electrical wave.** A normal adult QRS axis lies roughly between −30° and +90°. A small shift outside this range is common in healthy people and can change with body build, pregnancy and age. Larger shifts can point to conditions such as [left anterior fascicular block](https://www.ecgmeans.com/left-anterior-fascicular-block/) or [right axis deviation](https://www.ecgmeans.com/right-axis-deviation/) from right heart strain, which the explainer pages cover.
+
+**Machine numbers are measurements, not diagnoses.** The computer measures every lead automatically. Noise, a [wandering baseline](https://www.ecgmeans.com/wandering-baseline-ecg/) or an irregular rhythm such as [atrial fibrillation](https://www.ecgmeans.com/atrial-fibrillation/) can throw off its numbers. Clinicians often re-measure by hand when a value matters for a decision, for example before starting a medicine that can lengthen the QT.
+
+## Common reasons a number looks "abnormal"
+
+- **Heart rate just under 60 or just over 100.** Often normal: a fit person at rest may run in the 50s, and anxiety, caffeine or rushing to the appointment can push the rate over 100. See [sinus bradycardia](https://www.ecgmeans.com/sinus-bradycardia/) and [sinus tachycardia](https://www.ecgmeans.com/sinus-tachycardia/).
+- **PR or QRS a few milliseconds outside the range.** Borderline values are frequently within measurement error. The [PR interval](https://www.ecgmeans.com/pr-interval/) and [QRS interval](https://www.ecgmeans.com/qrs-interval/) pages explain when a long or short value matters.
+- **QTc slightly long.** Some common medicines, low potassium or magnesium, and fast heart rates (through over-correction) can all raise the printed QTc.
+- **Axis flagged as borderline.** Usually a variant of normal unless other findings are present.
+
+## When to seek care
+
+The calculators cannot tell you whether you are safe right now. **Get urgent help** (call your local emergency number) if you have chest pain or pressure, fainting, severe breathlessness, or a racing or very slow heartbeat with dizziness, whatever any calculator shows. Contact your doctor promptly if your QTc is reported at or above about 500 ms, if you have fainted and been told your QT is long, or if you were asked to have an ECG check after starting a new medicine. For everything else, bring your report to your next appointment and use these results as a starting point for the conversation, not a final answer.
 @@END@@

@@ -1,9 +1,11 @@
 @@TITLE@@
-Comparisons Explained | ECG Means
+ECG Comparisons: PVC vs PAC, SVT vs VT & More | ECG Means
 @@DESC@@
-Side-by-side answers to the ECG questions patients ask most: PVC vs PAC, SVT vs VT, and EKG vs echocardiogram, explained in plain English.
+ECG comparisons in plain English: PVC vs PAC, SVT vs VT, AFib vs flutter, LBBB vs RBBB, STEMI vs NSTEMI and EKG vs echo, with which one needs more attention.
 @@H1@@
 ECG Comparisons: This vs That
+@@UPDATED@@
+2026-10-29
 @@LEDE@@
 Side-by-side answers to the questions patients ask most: PVC vs PAC, SVT vs VT, EKG vs echocardiogram.
 @@BODY@@
@@ -12,4 +14,44 @@ Side-by-side answers to the questions patients ask most: PVC vs PAC, SVT vs VT, 
 Some ECG terms sound alike but mean very different things. A PAC and a PVC are both extra beats, but they start in different chambers. SVT and VT are both fast rhythms, but VT is far more serious. An EKG and an echocardiogram are both heart tests, but one records electricity and the other is an ultrasound picture of the heart's structure.
 
 Each comparison page explains the difference in plain English, how the two look on the tracing, and which one usually needs more attention. If a report mentions one term and a doctor mentions the other, these pages help you follow the conversation.
+
+## How to use this section
+
+Pick the pair that matches the words on your report or the words your doctor used. Each page follows the same layout: a one-line answer, a side-by-side table of ECG features, causes, how serious each one usually is, and what tends to happen next. If your report names only one of the two terms, read that term's own explainer page afterwards for the full detail.
+
+## The comparisons, grouped by question
+
+| What you are trying to work out | Comparison | The short version |
+|---|---|---|
+| Which extra beat do I have? | [PVC vs PAC](https://www.ecgmeans.com/pvc-vs-pac/) | Both are early beats. PACs start in the upper chambers, PVCs in the lower chambers; both are common and usually harmless in a healthy heart |
+| Is this fast rhythm dangerous? | [SVT vs VT](https://www.ecgmeans.com/svt-vs-vtach/) | SVT starts above the ventricles and is rarely life-threatening; VT starts in the ventricles and needs urgent assessment |
+| Which atrial rhythm is it? | [AFib vs atrial flutter](https://www.ecgmeans.com/afib-vs-aflutter/) | Both raise stroke risk. AFib is chaotic and irregular; flutter is an organised circuit with a "sawtooth" pattern |
+| Two "fibrillations": same thing? | [AFib vs VFib](https://www.ecgmeans.com/afib-vs-vfib/) | No. AFib is common and often lived with for years; VFib is a cardiac arrest rhythm |
+| Which bundle branch is blocked? | [LBBB vs RBBB](https://www.ecgmeans.com/lbbb-vs-rbbb/) | Right bundle branch block is often found in healthy people; new left bundle branch block usually prompts a heart scan |
+| What type of heart attack? | [STEMI vs NSTEMI](https://www.ecgmeans.com/stemi-vs-nstemi/) | Both are heart attacks. STEMI shows ST elevation and usually means an emergency procedure to open the artery |
+| Which heart test is which? | [EKG vs echocardiogram](https://www.ecgmeans.com/ekg-vs-echocardiogram/) | An ECG records electrical rhythm; an echo is an ultrasound of the heart's structure and pumping |
+| ECG or EKG: different tests? | [ECG vs EKG](https://www.ecgmeans.com/ecg-vs-ekg/) | The same test; EKG comes from the German spelling and is common in the US |
+| EEG vs EKG? | [EEG vs EKG](https://www.ecgmeans.com/eeg-vs-ekg/) | An EEG records the brain's electrical activity; an EKG records the heart's |
+
+## Key ideas that make every comparison easier
+
+**Where a beat starts decides what it looks like.** Beats that start above the ventricles, in the atria or near the AV node, normally travel down the fast wiring system and produce a narrow QRS complex. Beats that start in the ventricles spread slowly through muscle and produce a wide QRS. That single idea explains most of [PVC vs PAC](https://www.ecgmeans.com/pvc-vs-pac/) and SVT vs VT. There are exceptions: an atrial beat can look wide when it meets a tired bundle branch, which is called [aberrant conduction](https://www.ecgmeans.com/aberrant-conduction/) or [Ashman phenomenon](https://www.ecgmeans.com/ashman-phenomenon/). This is why doctors treat a wide, fast rhythm as VT until proven otherwise.
+
+**Regular or irregular matters.** Atrial fibrillation is "irregularly irregular", with no repeating pattern. Atrial flutter and most SVTs are regular. A regular rhythm that alternates normal beats with extra beats is a pattern such as [atrial bigeminy](https://www.ecgmeans.com/atrial-bigeminy/) or ventricular bigeminy.
+
+**The same word can carry very different risk.** "Fibrillation" in the atria and in the ventricles are worlds apart. "Block" in a bundle branch is usually a stable wiring delay, while complete heart block between the atria and ventricles can need a pacemaker. When two terms share a word, check which chamber or structure it belongs to.
+
+**Context outranks the label.** A right bundle branch block in a fit 30-year-old with no symptoms is a different situation from a new left bundle branch block with chest pain. Each comparison page lists the features that change how doctors read the same finding.
+
+## Comparisons people often ask about elsewhere on the site
+
+Some look-alike pairs are covered inside condition pages rather than as separate comparisons:
+
+- **AVNRT vs other SVTs:** see [AVNRT](https://www.ecgmeans.com/avnrt/) and [Wolff-Parkinson-White](https://www.ecgmeans.com/wolff-parkinson-white/).
+- **Early repolarisation vs heart attack ST elevation:** see [early repolarization](https://www.ecgmeans.com/early-repolarization/) and [ST elevation](https://www.ecgmeans.com/st-elevation/).
+- **Complete heart block vs AV dissociation:** see [AV dissociation](https://www.ecgmeans.com/av-dissociation/) and [third-degree AV block](https://www.ecgmeans.com/third-degree-av-block/).
+
+## When to seek care
+
+A comparison page can tell you which of two terms sounds more serious, but not how you are right now. **Get urgent help** (call your local emergency number) if you have chest pain or pressure, fainting, severe breathlessness, or a fast heartbeat with dizziness or feeling faint, especially if anyone has mentioned VT, VFib, STEMI or complete heart block. If your report mentions a new bundle branch block, atrial fibrillation or flutter, or frequent extra beats with symptoms, arrange a non-urgent review with your doctor so the right follow-up tests can be planned.
 @@END@@

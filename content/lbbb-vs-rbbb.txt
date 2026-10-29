@@ -69,5 +69,5 @@ RBBB, LBBB, right bundle branch block, left bundle branch block, complete right 
 @@SOURCES@@
 Bundle Branch Block | https://my.clevelandclinic.org/health/diseases/17818-bundle-branch-block
 Left Bundle Branch Block | https://litfl.com/left-bundle-branch-block-lbbb-ecg-library/
-Bundle Branch Block | https://www.ncbi.nlm.nih.gov/books/NBK507872/
+Right Bundle Branch Block — StatPearls (NCBI Bookshelf) | https://www.ncbi.nlm.nih.gov/books/NBK507872/
 @@END@@

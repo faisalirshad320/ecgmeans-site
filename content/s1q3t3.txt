@@ -1,7 +1,7 @@
 @@TITLE@@
-S1Q3T3 on ECG: What the Pattern Means (and Pulmonary Embolism)
+S1Q3T3 on ECG: Pattern Meaning & Pulmonary Embolism
 @@DESC@@
-S1Q3T3 is an ECG pattern linked with pulmonary embolism, but it is neither sensitive nor specific. Learn what it is, why it happens, and how PE is really diagnosed.
+S1Q3T3 is an ECG pattern linked with pulmonary embolism, but it is neither sensitive nor specific. What it is, why it happens, how PE is diagnosed.
 @@H1@@
 S1Q3T3: What the Pattern Means on an ECG
 @@CATEGORY@@

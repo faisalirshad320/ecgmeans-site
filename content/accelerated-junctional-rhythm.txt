@@ -1,27 +1,62 @@
 @@TITLE@@
-Accelerated Junctional Rhythm: ECG Meaning & Causes
+Accelerated Junctional Rhythm: ECG Meaning, Causes & Care
 @@DESC@@
-Accelerated junctional rhythm is a junctional rhythm at 60–100 bpm. See how it differs from sinus rhythm, the classic causes, and how it is managed.
+Accelerated junctional rhythm is a narrow-QRS rhythm from the AV junction at 60–100 bpm. See ECG criteria, causes like digoxin, risks and how it is treated.
 @@H1@@
 Accelerated Junctional Rhythm: What It Means
 @@CATEGORY@@
 Heart Rhythms | https://www.ecgmeans.com/heart-rhythms/
 @@QUICK@@
 Needs clinician review
+@@UPDATED@@
+2026-10-29
+@@ANSWER@@
+Accelerated junctional rhythm (AJR) means the heartbeat is being set by the AV junction, the relay station between the upper and lower chambers, at 60–100 beats per minute instead of by the sinus node. The QRS is narrow, but P waves are missing or upside down. It is rarely dangerous in itself; it matters because it often points to a cause such as digoxin toxicity, recent heart surgery or a heart attack.
 @@LEDE@@
 Accelerated junctional rhythm is a rhythm arising from the AV junction at 60–100 beats per minute — faster than the junction's natural 40–60, so it outpaces the sinus node. The QRS is narrow and normal-looking but the P waves are missing or upside-down. It usually signals irritation of the junction by a drug, recent surgery or reduced blood supply.
 @@BODY@@
-## What "Accelerated junctional rhythm" means
+## What "accelerated junctional rhythm" means
 
-In an ordinary junctional rhythm the junction takes over because the sinus node is too slow. In the accelerated form the junction itself is firing faster than it should (enhanced automaticity) and captures the heart even though the sinus node is working. Above 100 per minute the same process is called junctional tachycardia.
+Your heartbeat normally starts in the sinus node at the top of the right atrium. The AV junction — the AV node and the bundle of His just below it — is a back-up pacemaker. If the sinus node fails, the junction steps in at about 40–60 beats per minute.
+
+In an ordinary [junctional rhythm](https://www.ecgmeans.com/junctional-rhythm/) the junction takes over because the sinus node is too slow. In the accelerated form the junction itself is firing faster than it should (enhanced automaticity) and captures the heart even though the sinus node is working. Above 100 per minute the same process is called [junctional tachycardia](https://www.ecgmeans.com/junctional-tachycardia/).
+
+Your report may say **"accelerated junctional rhythm"**, **"AJR"** or **"accelerated junctional rhythm with AV dissociation"**. ECG and EKG are the same test; both spellings appear on reports.
 
 Because the rate is in the normal range, most people feel nothing. It is usually discovered on a monitor or routine ECG.
+
+## The junctional rhythm family by rate
+
+The same pacemaker site produces different names depending on how fast it fires:
+
+| Name on the report | Rate (beats per minute) | What it usually means |
+| --- | --- | --- |
+| [Junctional bradycardia](https://www.ecgmeans.com/junctional-bradycardia/) | Under 40 | A slow back-up rhythm; the sinus node and junction are both sluggish |
+| [Junctional escape rhythm](https://www.ecgmeans.com/junctional-escape-rhythm/) | 40–60 | A protective back-up when the sinus node is too slow |
+| **Accelerated junctional rhythm** | 60–100 | An irritable junction overtaking a working sinus node |
+| Junctional tachycardia | Over 100 | A very irritable junction; same causes, faster rate |
 
 ## What it looks like on the ECG
 
 A regular rhythm at 60–100 with narrow QRS complexes and no upright P wave before them in lead II. Sometimes unrelated P waves can be seen marching through at a different rate.
 
-## Common causes
+| ECG feature | Typical finding in accelerated junctional rhythm |
+| --- | --- |
+| Rate | 60–100 beats per minute |
+| Regularity | Regular |
+| QRS width | Narrow (under 120 ms), unless there is a pre-existing bundle branch block |
+| P waves | Absent (hidden in the QRS), or inverted in leads II, III and aVF |
+| P wave position | Just before the QRS with a short PR (under 120 ms), or just after the QRS |
+| Relation to sinus P waves | Sometimes independent sinus P waves at a similar rate ([AV dissociation](https://www.ecgmeans.com/av-dissociation/)) |
+| Onset | Often gradual "warm-up" rather than sudden |
+
+The upside-down P wave happens because the impulse travels *backwards* up into the atria from the junction, the opposite direction to normal. You may see this described as a retrograde or [inverted P wave](https://www.ecgmeans.com/inverted-p-wave/).
+
+When the sinus node and the junction fire at almost the same rate, the two can drift in and out of control, so sinus P waves appear to slide towards and into the QRS. This is called isorhythmic AV dissociation and is common with AJR. It is a description of timing, not a sign of complete heart block.
+
+## Accelerated junctional rhythm causes
+
+**Common causes:**
 
 - Digoxin toxicity (the classic cause)
 - After heart valve or congenital heart surgery
@@ -30,44 +65,116 @@ A regular rhythm at 60–100 with narrow QRS complexes and no upright P wave bef
 - Beta-agonist or theophylline excess
 - Low potassium
 
-## Should you worry?
+**Less common causes:**
+
+- Catecholamine infusions in intensive care (such as isoprenaline, dopamine or adrenaline)
+- Catheter ablation for [AVNRT](https://www.ecgmeans.com/avnrt/), where a short junctional rhythm during the procedure is expected and usually settles
+- Low oxygen levels, severe lung disease or acute illness
+- Occasionally in otherwise healthy people, especially at rest, without a clear cause
+
+For more on the drug-related changes, see [digoxin effect on the ECG](https://www.ecgmeans.com/digoxin-effect-ecg/). Digoxin toxicity is especially likely with kidney problems, low potassium, or new medicines that raise digoxin levels.
+
+## Is accelerated junctional rhythm dangerous?
 
 Needs clinician review
 
 The rhythm is generally well tolerated and often temporary. Its significance lies in the cause, so it should prompt a check of medicines, blood tests and, where relevant, assessment for heart inflammation or ischaemia.
 
+Doctors weigh it up using these features:
+
+| Feature | More reassuring | Needs prompt attention |
+| --- | --- | --- |
+| Setting | Day or two after heart surgery, closely monitored | New, unexplained, outside hospital |
+| Medicines | Not on digoxin | Taking digoxin, especially with nausea or visual changes |
+| Blood pressure | Normal | Low, with dizziness or confusion |
+| Chest pain | None | Present — possible heart attack |
+| Potassium and kidney function | Normal | Low potassium or worsening kidney function |
+| Heart pumping | Normal | Weak or stiff heart that relies on the atria's "kick" |
+
+One practical point: because the atria and ventricles are no longer working in step, the small boost the atria normally give to filling (the "atrial kick") is lost. Most people don't notice, but someone with heart failure or a stiff, thickened heart may feel tired or light-headed, and blood pressure can drop.
+
+## Symptoms to watch for
+
+Often none. When symptoms occur, they include:
+
+- A sense of pounding or fluttering in the neck (the atria contracting against closed valves)
+- Mild tiredness or reduced exercise tolerance
+- Light-headedness, especially on standing
+- Symptoms of the cause — for digoxin toxicity: nausea, vomiting, loss of appetite, confusion or blurred and yellow-tinged vision
+
+## Tests that usually come next
+
+1. **Digoxin level and electrolytes** (potassium, magnesium) and kidney function.
+2. **12-lead ECG** to confirm the rhythm and look for signs of a heart attack, especially in the inferior leads.
+3. **Troponin blood test** if there is chest pain or a possible heart attack.
+4. **Review of recent surgery, illness and all medicines**, including inhalers and over-the-counter products.
+5. **Continuous monitoring or a Holter** to see whether the rhythm comes and goes.
+6. **Echocardiogram** if myocarditis, heart failure or a valve problem is suspected.
+
+## Accelerated junctional rhythm treatment
+
+Treatment is aimed at the cause, and that usually restores normal sinus rhythm:
+
+- **Digoxin toxicity:** digoxin is stopped and potassium corrected. Severe toxicity is treated in hospital, sometimes with a digoxin antidote (digoxin-specific antibody fragments).
+- **After heart surgery:** usually observed; it tends to settle as inflammation subsides. Temporary pacing wires can be used to pace the atria slightly faster if blood pressure suffers.
+- **Heart attack:** treated as the heart attack; the rhythm usually resolves with it.
+- **Drug excess:** the responsible medicine is reduced or stopped.
+
+Specific rhythm treatment is seldom needed. Medicines that slow the junction, such as beta-blockers, are occasionally used if the rhythm persists and causes symptoms, but not in digoxin toxicity without specialist advice.
+
+## Special groups
+
+- **Children:** after congenital heart surgery, a fast junctional rhythm (junctional ectopic tachycardia) is a recognised complication and is managed in paediatric intensive care. Slower accelerated junctional rhythms in children are usually monitored.
+- **Older adults:** more likely to be taking digoxin and to have kidney problems that raise digoxin levels, so a drug cause is checked first.
+- **Athletes:** well-trained people with a slow sinus rate may show brief junctional rhythms at rest, usually escape rhythms rather than accelerated ones. A true accelerated junctional rhythm in an athlete still warrants review.
+- **Pregnancy:** junctional rhythms are uncommon; any new rhythm finding in pregnancy is reviewed with attention to electrolytes, thyroid and medicines.
+
+## How it differs from look-alike findings
+
+- **[Junctional escape rhythm](https://www.ecgmeans.com/junctional-escape-rhythm/):** same appearance, but slower (40–60) and protective, filling in for a slow sinus node.
+- **[Accelerated idioventricular rhythm](https://www.ecgmeans.com/accelerated-idioventricular-rhythm/):** a similar rate range but from the ventricles, so the QRS is *wide*. It is often seen after reopening a blocked artery.
+- **Ectopic atrial rhythm:** a low-atrial focus can also produce inverted P waves in the inferior leads, but usually with a normal PR interval.
+- **[Lown-Ganong-Levine pattern](https://www.ecgmeans.com/lown-ganong-levine-syndrome/) and other short PR intervals:** these have a short PR with a normal upright P wave, whereas a junctional rhythm has an inverted or absent P wave.
+- **[AVNRT](https://www.ecgmeans.com/avnrt/):** a re-entry circuit around the AV node causing a sudden-onset, sudden-offset fast rhythm, usually 140–250, rather than a gradual "warm-up" at a normal rate.
+
 **Get urgent help** if this finding comes with chest pain or pressure, severe breathlessness, fainting, or a fast heartbeat that will not settle. Those symptoms matter more than any single ECG phrase.
-
-## What usually happens next
-
-1. Digoxin level and electrolytes
-2. Review of recent surgery or illness
-3. Treating the cause usually restores sinus rhythm
-4. Specific rhythm treatment is seldom needed
 
 ### Questions to ask your doctor
 
 - Is a medicine causing this?
+- Should my digoxin level be checked, and do any of my other medicines interact with it?
 - Is my potassium normal?
-- Will it settle by itself?
+- Is there any sign of a heart attack or heart inflammation?
+- Will it settle by itself, and how will we know?
+- Do I need a repeat ECG or Holter monitor?
 @@FAQ@@
+Q: What does accelerated junctional rhythm mean on an ECG?
+A: It means the AV junction, not the sinus node, is setting the heartbeat at 60–100 beats per minute. The QRS is narrow and the P waves are absent or inverted.
 Q: How is it different from a junctional escape rhythm?
 A: Only by rate and mechanism: escape is 40–60 and protective; accelerated is 60–100 and due to an irritable junction.
 Q: Is accelerated junctional rhythm serious?
 A: It is rarely dangerous in itself, but causes such as digoxin toxicity need prompt treatment.
 Q: Does it cause symptoms?
 A: Often none. Some people notice pounding in the neck or mild tiredness because the atria and ventricles are not contracting in sequence.
+Q: What is the most common cause of accelerated junctional rhythm?
+A: Digoxin toxicity is the classic cause. Others include recent heart surgery, an inferior heart attack, myocarditis and low potassium.
+Q: Does accelerated junctional rhythm need a pacemaker?
+A: Almost never. It usually settles once the cause is treated, and a permanent pacemaker is not part of standard treatment for it.
+Q: Can accelerated junctional rhythm go away on its own?
+A: Yes. It is often temporary, particularly after heart surgery or once an offending medicine is stopped or electrolytes are corrected.
 @@RELATED@@
 Junctional Rhythm: What It Means | https://www.ecgmeans.com/junctional-rhythm/ | NONE
-Idioventricular Rhythm: What It Means | https://www.ecgmeans.com/idioventricular-rhythm/ | Seek prompt care
-Sinus Rhythm: What It Means on Your ECG | https://www.ecgmeans.com/sinus-rhythm/ | Usually harmless
-Short PR Interval: What It Means | https://www.ecgmeans.com/short-pr-interval/ | Depends on context
-SVT vs VTach: What's the Difference? | https://www.ecgmeans.com/svt-vs-vtach/ | NONE
 Junctional Tachycardia: What It Means | https://www.ecgmeans.com/junctional-tachycardia/ | Needs clinician review
+Junctional Escape Rhythm: What It Means | https://www.ecgmeans.com/junctional-escape-rhythm/ | Depends on context
+Accelerated Idioventricular Rhythm: What It Means | https://www.ecgmeans.com/accelerated-idioventricular-rhythm/ | Depends on context
+Digoxin Effect on the ECG | https://www.ecgmeans.com/digoxin-effect-ecg/ | Needs clinician review
+AV Dissociation: What It Means | https://www.ecgmeans.com/av-dissociation/ | Needs clinician review
+Sinus Rhythm: What It Means on Your ECG | https://www.ecgmeans.com/sinus-rhythm/ | Usually harmless
 @@ALSO@@
-accelerated junctional rhythm ecg, junctional tachycardia
+accelerated junctional rhythm, accelerated junctional rhythm ecg, accelerated junctional rhythm ekg, AJR ecg, accelerated junctional rhythm causes, accelerated junctional rhythm treatment, is accelerated junctional rhythm dangerous, what does accelerated junctional rhythm mean, accelerated junctional rhythm digoxin, accelerated junctional rhythm rate, junctional tachycardia
 @@SOURCES@@
 Junctional Rhythm | https://my.clevelandclinic.org/health/diseases/23206-junctional-rhythm
 Junctional Rhythm | https://www.ncbi.nlm.nih.gov/books/NBK507715/
 Accelerated Junctional Rhythm (AJR) | https://litfl.com/accelerated-junctional-rhythm-ajr/
+Digoxin Toxicity (LITFL ECG Library) | https://litfl.com/digoxin-toxicity-ecg-library/
 @@END@@

@@ -59,6 +59,7 @@ PR Interval: Normal Range and What Short or Long Means | https://www.ecgmeans.co
 SVT vs VTach: What's the Difference? | https://www.ecgmeans.com/svt-vs-vtach/ | NONE
 QRS Interval: Normal Range and What a Wide QRS Means | https://www.ecgmeans.com/qrs-interval/ | NONE
 Atrial Fibrillation: What It Means on an ECG | https://www.ecgmeans.com/atrial-fibrillation/ | Needs clinician review
+Lown-Ganong-Levine (LGL) Syndrome | https://www.ecgmeans.com/lown-ganong-levine-syndrome/ | Needs clinician review
 @@ALSO@@
 delta wave ecg, wpw delta wave, pre-excitation, wolff parkinson white ecg
 @@SOURCES@@

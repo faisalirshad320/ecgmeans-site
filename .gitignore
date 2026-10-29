@@ -1,6 +1,5 @@
-node_modules/
-.DS_Store
-*.log
-__pycache__/
 site/
-og_pages.json
+node_modules/
+__pycache__/
+*.log
+.DS_Store
